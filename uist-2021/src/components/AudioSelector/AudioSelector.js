@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './AudioSelector.css'
 
 class AudioSelector extends Component {
 
@@ -11,7 +12,7 @@ class AudioSelector extends Component {
                     name="AudioSelect"
                     onChange={e => this.props.onChange(e.target.value)}
                 >
-                    <option value="">Select an Audio</option>
+                    <option value="" disabled>Select an Audio</option>
                     {this.props.audios.map((audio) => (
                         <option key={audio.id}>
                         {audio.value}

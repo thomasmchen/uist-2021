@@ -41,6 +41,11 @@
     transition: all 0.2s ease-out;
 }
 
+a, a:visited, a:hover, a:active {
+    text-decoration:none;
+    color: white;
+}
+
 .fa-bars {
     color: #fff;
 }

@@ -1,44 +1,56 @@
-import React, { Component } from 'react';
-import AudioSelector from "./AudioSelector"
-import AudioTextData from "./AudioTextData"
-import AudioIndexData from "../../data/index.json"
+import React, { useState, useEffect } from 'react'
+import { Switch, Route } from "react-router-dom"
+import AboutView from '../AboutView/AboutView'
+import SpansView from "../SpansView/SpansView"
+import SummaryView from "../SummaryView/SummaryView"
+import QAView from "../QAView/QAView"
+import SpeakerView from "../SpeakerView/SpeakerView"
 import './DataContainer.css'
 
-class DataContainer extends Component {
 
-    state = {
-        audios: AudioIndexData,
-        selectedAudio: "",
-        selectedAudioData: {}
-    }
+function DataContainer(props) {
+    const [audioData, setAudioData] = useState(null)
 
-    handleChange = audio => {
-        this.setState({ selectedAudio: audio });
-        fetch(`./data/${audio}.json`
-        ,{
+    useEffect(() => {
+        if (!props.audioName) return;
+    
+        // load audio data
+        fetch(`../data/${props.audioName}.json`, {
           headers : { 
             'Content-Type': 'application/json',
             'Accept': 'application/json'
            }
         }).then(response => {
-            console.log(response);
             return response.json();
           }).then(data => {
-            this.setState({ selectedAudioData: data })
-            console.log(this.state.selectedAudioData);
+            setAudioData(data)
+            console.log(data);
           }).catch(err => {
             console.log("Error Reading data " + err);
           });
-    }
+    })
 
-    render () {
-        return (
-            <div>
-                <AudioSelector audios={this.state.audios} selectedAudio={this.state.selectedAudio} onChange={this.handleChange} />
-                <AudioTextData className="AudioTextData" audioName={this.state.selectedAudio} audioData={this.state.selectedAudioData}/>
-            </div>
-        )
-    }
+    return (
+        <div className="DataContainer">
+            <Switch>
+                <Route path="/summary">
+                    <SummaryView />
+                </Route>
+                <Route path="/spans">
+                    <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
+                </Route>
+                <Route path="/qa">
+                    <QAView />
+                </Route>
+                <Route path="/speaker">
+                    <SpeakerView />
+                </Route>
+                <Route path="/about">
+                    <AboutView />
+                </Route>
+            </Switch>
+        </div>
+    )
 }
 
 export default DataContainer
