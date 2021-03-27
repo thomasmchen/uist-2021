@@ -1,15 +1,12 @@
-import logo from './logo.svg';
+import Navbar from "./components/Navbar/Navbar"
+import DataContainer from "./components/DataContainer/DataContainer"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          UIST 2021.
-        </p>
-      </header>
+      <Navbar/>
+      <DataContainer/>
     </div>
   );
 }

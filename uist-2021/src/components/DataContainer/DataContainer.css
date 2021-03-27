@@ -1,0 +1,21 @@
+.AudioSelectionContainer {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    padding-right: 1em;
+}
+
+.CurrentAudioLabel {
+    font-size: 1rem;
+    margin-left: 1em;
+}
+
+.AudioTextData {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 2em;
+    margin-left: 2em;
+}

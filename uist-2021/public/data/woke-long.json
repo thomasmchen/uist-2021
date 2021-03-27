@@ -1,0 +1,162 @@
+{
+    "raw": {
+      "segments": [
+        {
+          "id": 0,
+          "speaker": "0",
+          "start": "00:00",
+          "end": "00:23",
+          "text": "We can just Dive Right and I think you know, we're right now in the last quarter of 2020 and you know, I think that a lot of people would agree that we're in the midst of what's probably one of the largest rectangle."
+        },
+        {
+          "id": 1,
+          "speaker": "0",
+          "start": "00:24",
+          "end": "00:42",
+          "text": "Openings around racial Equity that we've had in this country in decades and it's something that you've been such a vocal advocate for and you're both Through Your Role at Starbucks and throughout your career of diversity and inclusion in the workplace. And so I'm curious just to hear from you to start the conversation and sort of what this moment means for D EI efforts not just in Corporate America, but in business in"
+        },
+        {
+          "id": 2,
+          "speaker": "1",
+          "start": "00:43",
+          "end": "01:20",
+          "text": "I think the position on diversity and inclusion in the workplace, you know, let me start with you know the conversation about where are we actually in diversity and inclusion in the corporate setting and I will tell you that this is actually putting a spotlight on the weaknesses and maybe the lack of forethought and intensity that we should always have maintained on this subject all along one of the things that I think it's in highlighting for most of us. Us is"
+        },
+        {
+          "id": 3,
+          "speaker": "1",
+          "start": "01:21",
+          "end": "02:00",
+          "text": "3. opportunity is inclusion because you know, I have heard this stories so many times about there's you know, no Black Talent out there."
+        },
+        {
+          "id": 4,
+          "speaker": "1",
+          "start": "02:01",
+          "end": "02:09",
+          "text": "I will tell you that is underdeveloped because I think we have spent more time trying to reach numbers."
+        },
+        {
+          "id": 5,
+          "speaker": "1",
+          "start": "02:10",
+          "end": "02:17",
+          "text": "Then we have changing our environment where people feel safe where they feel they can come to work and be their whole self. That everything they've got be their natural self and be respected for it and applauded for it and for people to recognize and appreciate their differences and understand that their differences and if they're included in the conversations that they're just a better resource for the company."
+        },
+        {
+          "id": 6,
+          "speaker": "1",
+          "start": "02:18",
+          "end": "02:21",
+          "text": "So I think there's so much opportunity in the inclusion space because we focus too much on"
+        }
+      ]
+    },
+    "low": {
+      "segments": [
+        {
+          "id": 0,
+          "text": "I think that a lot of people would agree that it was in the last quarter of 2020 and we were able to dive right."
+        },
+        {
+          "id": 1,
+          "text": "We have had openings around racial equity in this country for decades and you have been a vocal advocate for it and I am curious to hear from you."
+        },
+        {
+          "id": 2,
+          "text": "I think the position on diversity and inclusion in the workplace, you know, let me start with you know the conversation about where are we actually in diversity and inclusion in the corporate setting and I will tell you that this is actually putting a spotlight on the weaknesses and maybe the lack of forethought and intensity that we should always have maintained on this subject all along one of the things that I think it's in highlighting for most of us. Us is"
+        },
+        {
+          "id": 3,
+          "text": "I have heard many stories about the lack of black talent out there."
+        },
+        {
+          "id": 4,
+          "text": "We have spent more time trying to reach numbers."
+        },
+        {
+          "id": 5,
+          "text": "We need to change our environment so that people feel safe where they can come to work and be their natural self, and for people to recognize and appreciate their differences."
+        },
+        {
+          "id": 6,
+          "text": "We focus too much on the inclusion space."
+        }
+      ]
+    },
+    "mid": {
+      "segments": [
+        {
+          "id": [
+            0,
+            1
+          ],
+          "text": "It was in the last quarter of 2020 and we had openings around racial equity in this country for decades and I am curious to hear from you."
+        },
+        {
+          "id": [
+            2
+          ],
+          "text": "The position on diversity and inclusion in the workplace may be putting a spotlight on weaknesses."
+        },
+        {
+          "id": [
+            3
+          ],
+          "text": "I have heard many stories about the lack of black talent out there."
+        },
+        {
+          "id": [
+            4,
+            6
+          ],
+          "text": "We focus too much on inclusion and have spent more time trying to reach numbers."
+        },
+        {
+          "id": 5,
+          "text": "Our environment needs to be changed so that people feel safe at work."
+        },
+        {
+          "id": 5,
+          "text": "We need to change our environment so that people feel safe where they can come to work and be their natural self, and for people to recognize and appreciate their differences."
+        }
+      ]
+    },
+    "high": {
+      "segments": [
+        {
+          "id": [
+            0,
+            1
+          ],
+          "text": "In the last quarter of 2020 there were openings around racial equity in this country."
+        },
+        {
+          "id": [
+            5
+          ],
+          "text": "The environment needs to be changed so that people feel safe at work."
+        }
+      ]
+    },
+    "queries": {
+      "query": [
+        {
+          "searchString": "black racial hiring equity",
+          "lowSegments": [
+            1,
+            2,
+            3
+          ],
+          "midSegments": [
+            0,
+            3
+          ],
+          "highSegments": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  }
