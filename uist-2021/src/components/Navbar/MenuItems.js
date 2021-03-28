@@ -1,32 +1,32 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: '/',
+        url: '/uist-2021',
         cName: 'nav-links'
     },
     {
         title: 'Summary',
-        url: '/data/summary',
+        url: '/uist-2021/data/summary',
         cName: 'nav-links'
     },
     {
         title:  'Spans',
-        url: '/data/spans',
+        url: '/uist-2021/data/spans',
         cName: 'nav-links'
     },
     {
         title:  'Q&A',
-        url: '/data/qa',
+        url: '/uist-2021/data/qa',
         cName: 'nav-links'
     },
     {
         title:  'Speakers',
-        url: '/data/speaker',
+        url: '/uist-2021/data/speaker',
         cName: 'nav-links'
     },
     {
         title:  'About Us',
-        url: '/static/about',
+        url: '/uist-2021/static/about',
         cName: 'nav-links-mobile'
     },
 ]

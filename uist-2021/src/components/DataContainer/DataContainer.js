@@ -38,22 +38,22 @@ function DataContainer(props) {
     return (
         <div className="DataContainer">
             <Switch>
-                <Route path="/data/summary">
+                <Route path="/uist-2021/data/summary">
                     <SummaryView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
-                <Route path="/data/spans">
+                <Route path="/uist-2021/data/spans">
                     <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
-                <Route path="/data/qa">
+                <Route path="/uist-2021/data/qa">
                     <QAView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
-                <Route path="/data/speaker">
+                <Route path="/uist-2021/data/speaker">
                     <SpeakerView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
-                <Route path="/static/about">
+                <Route path="/uist-2021/static/about">
                     <AboutView />
                 </Route>
-                <Route path="/">
+                <Route path="/uist-2021">
                     <p>Home</p>
                 </Route>
             </Switch>
