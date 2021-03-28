@@ -19,9 +19,9 @@ class SpansView extends Component {
         console.log(data);
 		this.setState({
 			selectedId: clickedId,
-			high: data["high"].filter(e => e.id === selectedId),
-			mid: data["mid"].filter(e => e.id === selectedId),
-			low: data["low"].filter(e => e.id === selectedId),
+			high: data["high"].filter(e => e.id === this.state.selectedId),
+			mid: data["mid"].filter(e => e.id === this.state.selectedId),
+			low: data["low"].filter(e => e.id === this.state.selectedId),
 		})
 	};
 
@@ -36,7 +36,7 @@ class SpansView extends Component {
                         </div>
                         {this.props.audioData.raw.segments === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.props.audioData.raw.segments.map( (segment) => {
                             return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id} onSegmentClicked={updateOtherSegments}></Segment>
+                                <Segment key={segment.id} text={segment.text} id={segment.id} onSegmentClicked={this.updateOtherSegments}></Segment>
                             )
                         })}
                     </div>
@@ -44,7 +44,7 @@ class SpansView extends Component {
                         <div className="ColumnTitleContainer">
                             <h2 className="ColumnTitle">Low Pass</h2>
                         </div>
-                        {low === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : low.map( (segment) => {
+                        {this.state.low === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.low.map( (segment) => {
                             return(
                                 <Segment key={segment.id} text={segment.text} id={segment.id}></Segment>
                             )
@@ -54,7 +54,7 @@ class SpansView extends Component {
                         <div className="ColumnTitleContainer">
                             <h2 className="ColumnTitle">Medium Pass</h2>
                         </div>
-                        {med === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : med.map( (segment) => {
+                        {this.state.med === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.med.map( (segment) => {
                             return(
                                 <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
                             )
@@ -64,7 +64,7 @@ class SpansView extends Component {
                         <div className="ColumnTitleContainer">
                             <h2 className="ColumnTitle">High Pass</h2>
                         </div>
-                        {high === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : high.map( (segment) => {
+                        {this.state.high === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.high.map( (segment) => {
                             return(
                                 <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
                             )
