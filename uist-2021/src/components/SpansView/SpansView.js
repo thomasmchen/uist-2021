@@ -3,15 +3,12 @@ import Segment from './Segment'
 import "./SpansView.css"
 
 class SpansView extends Component {
-    constructor(props){
-        super(props);
-        this.state = {
-            raw: [],
-            low: [],
-            mid: [],
-            high: [],
-            selectedId: null
-        }
+    state = {
+        raw: [],
+        low: [],
+        mid: [],
+        high: [],
+        selectedId: null
     }
 
     updateOtherSegments = (clickedId) => {
@@ -34,9 +31,9 @@ class SpansView extends Component {
                         <div className="ColumnTitleContainer">
                             <h2 className="ColumnTitle">Raw Transcript</h2>
                         </div>
-                        {this.props.audioData.raw.segments === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.props.audioData.raw.segments.map( (segment) => {
+                        {this.props.audioData === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : (this.props.audioData.raw.segments).map( (segment) => {
                             return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id} onSegmentClicked={this.updateOtherSegments}></Segment>
+                                <Segment key={segment.id} text={segment.text} id={segment.id} onClick={this.updateOtherSegments}></Segment>
                             )
                         })}
                     </div>

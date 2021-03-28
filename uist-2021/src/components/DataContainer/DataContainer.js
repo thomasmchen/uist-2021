@@ -24,6 +24,7 @@ function DataContainer(props) {
                 .then((response) => response.json())
                 .then((data) => {
                     setAudioData(data);
+                    console.log(audioData)
                 })
                 .catch((error) => {
                     console.log(error);
@@ -37,19 +38,22 @@ function DataContainer(props) {
         <div className="DataContainer">
             <Switch>
                 <Route path="/data/summary">
-                    <SummaryView />
+                    <SummaryView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/data/spans">
                     <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/data/qa">
-                    <QAView />
+                    <QAView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/data/speaker">
-                    <SpeakerView />
+                    <SpeakerView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/static/about">
                     <AboutView />
+                </Route>
+                <Route path="/">
+                    <p>Home</p>
                 </Route>
             </Switch>
         </div>
