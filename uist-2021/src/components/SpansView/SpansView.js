@@ -1,75 +1,72 @@
-import React, {Component} from 'react'
+import React, { useState, useEffect } from 'react'
 import Segment from './Segment'
 import "./SpansView.css"
 
-class SpansView extends Component {
-    state = {
-        raw: [],
-        low: [],
-        mid: [],
-        high: [],
-        selectedId: null
+function SpansView(props) {
+    const [selectedId, setSelectedId] = useState(null)
+
+    // reset selectedId on audioData change
+    let { audioData } = props;
+    useEffect(() => setSelectedId(null), [audioData])
+
+    const fuzzyArrayContains = (array, value) => {
+        for(let i = 0; i < array.length; i++) {
+            // eslint-disable-next-line
+            if (array[i] == value) return true
+        }
+        return false
     }
 
-    updateOtherSegments = (clickedId) => {
-		const data = this.props.audioData;
-        console.log(data);
-		this.setState({
-			selectedId: clickedId,
-			high: data["high"].filter(e => e.id === this.state.selectedId),
-			mid: data["mid"].filter(e => e.id === this.state.selectedId),
-			low: data["low"].filter(e => e.id === this.state.selectedId),
-		})
-	};
-
-    render() {
+    if (!props.audioData) {
         return (
             <div>
                 <h1>Spans View</h1>
-                <div className="SegmentColumnContainer">
-                    <div className="SegmentColumn">
-                        <div className="ColumnTitleContainer">
-                            <h2 className="ColumnTitle">Raw Transcript</h2>
-                        </div>
-                        {this.props.audioData === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : (this.props.audioData.raw.segments).map( (segment) => {
-                            return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id} onClick={this.updateOtherSegments}></Segment>
-                            )
-                        })}
-                    </div>
-                    <div className="SegmentColumn">
-                        <div className="ColumnTitleContainer">
-                            <h2 className="ColumnTitle">Low Pass</h2>
-                        </div>
-                        {this.state.low === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.low.map( (segment) => {
-                            return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id}></Segment>
-                            )
-                        })}
-                    </div>
-                    <div className="SegmentColumn">
-                        <div className="ColumnTitleContainer">
-                            <h2 className="ColumnTitle">Medium Pass</h2>
-                        </div>
-                        {this.state.med === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.med.map( (segment) => {
-                            return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
-                            )
-                        })}
-                    </div>
-                    <div className="SegmentColumn">
-                        <div className="ColumnTitleContainer">
-                            <h2 className="ColumnTitle">High Pass</h2>
-                        </div>
-                        {this.state.high === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.state.high.map( (segment) => {
-                            return(
-                                <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
-                            )
-                        })}
-                    </div>              
-                </div>
+                <p>No audio sample selected</p>
             </div>
         )
     }
+
+    return (
+        <div>
+            <h1>Spans View</h1>
+            <div className="SegmentColumnContainer">
+                <div className="SegmentColumn">
+                    <div className="ColumnTitleContainer">
+                        <h2 className="ColumnTitle">Raw Transcript</h2>
+                    </div>
+                    {props.audioData?.["raw"]["segments"].map((segment, idx) =>
+                        <div key={idx} onClick={() => setSelectedId(segment.id)} className={segment.id === selectedId ? "selected" : ""}>
+                            <Segment text={segment.text} id={segment.id}></Segment>
+                        </div>
+                    )}
+                </div>
+                <div className="SegmentColumn notclickable">
+                    <div className="ColumnTitleContainer">
+                        <h2 className="ColumnTitle">Low Pass</h2>
+                    </div>
+                    {props.audioData?.["low"]["segments"]
+                        .filter(e => fuzzyArrayContains(e.id, selectedId))
+                        .map((segment, idx) => <div key={idx} className="selected"><Segment text={segment.text} id={segment.id.join(", ")}></Segment></div>)}
+                </div>
+                <div className="SegmentColumn notclickable">
+                    <div className="ColumnTitleContainer">
+                        <h2 className="ColumnTitle">Medium Pass</h2>
+                    </div>
+                    {props.audioData?.["med"]["segments"]
+                        .filter(e => fuzzyArrayContains(e.id, selectedId))
+                        .map((segment, idx) => <div key={idx} className="selected"><Segment text={segment.text} id={segment.id.join(", ")}></Segment></div>)}
+                </div>
+                <div className="SegmentColumn notclickable">
+                    <div className="ColumnTitleContainer">
+                        <h2 className="ColumnTitle">High Pass</h2>
+                    </div>
+                    {props.audioData?.["high"]["segments"]
+                        .filter(e => fuzzyArrayContains(e.id, selectedId))
+                        .map((segment, idx) => <div key={idx} className="selected"><Segment text={segment.text} id={segment.id.join(", ")}></Segment></div>)}
+                </div>
+            </div>
+        </div>
+    )
 }
+
 export default SpansView

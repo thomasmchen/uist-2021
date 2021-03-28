@@ -11,11 +11,13 @@ import AboutView from '../AboutView/AboutView'
 function DataContainer(props) {
     const [audioData, setAudioData] = useState(null)
 
+    // fetch data on audioName change
+    let { audioName } = props;
     useEffect(() => {
-        if (!props.audioName) return;
+        if (!audioName) return;
 
         const fetchData = () => {
-            fetch(`../data/${props.audioName}.json`, {
+            fetch(`../data/${audioName}.json`, {
                 headers : { 
                     'Content-Type': 'application/json',
                     'Accept': 'application/json'
@@ -24,7 +26,6 @@ function DataContainer(props) {
                 .then((response) => response.json())
                 .then((data) => {
                     setAudioData(data);
-                    console.log(audioData)
                 })
                 .catch((error) => {
                     console.log(error);
@@ -32,7 +33,7 @@ function DataContainer(props) {
         };
         
         fetchData();
-      }, [props.audioName]);
+    }, [audioName]);
 
     return (
         <div className="DataContainer">

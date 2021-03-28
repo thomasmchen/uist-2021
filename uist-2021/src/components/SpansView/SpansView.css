@@ -5,6 +5,7 @@
 }
 
 .Segment:hover{
+    cursor: pointer;
     background-color: rgba(0, 0, 0, 0.05);
     transition: all 0.5s ease;
 }
@@ -25,7 +26,6 @@
     grid-template-columns: 0.1fr 1.5fr;
     grid-gap: 0px;
     border:1px solid rgba(139, 139, 139, 0.75);
-    cursor: pointer;
     margin-bottom: 1em;
     margin-top: 1em;
 }
@@ -33,6 +33,7 @@
 .SegmentIdContainer {
     background-color: rgba(139, 139, 139, 0.75);
     color: white;
+    padding: 1em;
 }
 
 .SegmentTextContainer {
@@ -66,4 +67,13 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.selected {
+    background-color: rgb(190, 224, 183);
+}
+
+.notclickable .Segment:hover{
+    background-color: transparent;
+    cursor: default;
 }
