@@ -1,13 +1,25 @@
 .AudioSelectionContainer {
-    height: 60px;
+    height: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 1.2rem;
     padding-right: 1em;
+    background: rgba(139, 139, 139, 0.75);
+    color: #fff;
 }
 
 .CurrentAudioLabel {
     font-size: 1rem;
     margin-left: 1em;
+}
+
+.SelectAudioLabel {
+    font-size: 1rem;
+    margin-right: 1em;
+}
+
+strong {
+    color:rgb(150, 246, 131);
+    margin-left: 5px;;
 }

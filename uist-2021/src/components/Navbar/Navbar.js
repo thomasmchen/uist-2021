@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { MenuItems } from "./MenuItems";
 import { Button } from "../Button"
 import './Navbar.css'
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 class Navbar extends Component {
     state = { clicked: false }
@@ -21,13 +21,15 @@ class Navbar extends Component {
                 <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
                     {MenuItems.map( (item, index) => {
                         return(
-                            <li key={index} className="nav-links">
-                                <Link to={item.url}>{item.title}</Link>
+                            <li key={index} className={item.cName}>
+                                <NavLink to={item.url}>{item.title}</NavLink>
                             </li>
                         )
                     })}
                 </ul>
-                <Button>About Us</Button>
+                <Button>
+                    <NavLink to="/static/about">About Us</NavLink>
+                </Button>
             </nav>
         )
     }

@@ -1,43 +1,78 @@
-import React, { Component } from 'react';
-import AudioTextData from "./AudioTextData"
+import React, {Component} from 'react'
+import Segment from './Segment'
+import "./SpansView.css"
 
 class SpansView extends Component {
-    render () {
-        return (
-            <div>
-                <h1>Spans View</h1>
-                <AudioTextData className="AudioTextData" audioName={this.props.audioName} audioData={this.props.audioData}/>
-            </div>
-        )
+    constructor(props){
+        super(props);
+        this.state = {
+            raw: [],
+            low: [],
+            mid: [],
+            high: [],
+            selectedId: null
+        }
     }
 
-    /*
-    state = {
-		raw: [], <-- either load this in from props or load from the JSON 
-		highlightedRawId: null,
-		high: [], <-- data for rendering high 
-		mid: [], <-- data for rendering mid 
-		low: [], <-- data for rendering low 
-	}
-
-	const updateOtherSegments = (selectedId) => {
-		const data = ... load data for selectedId
+    updateOtherSegments = (clickedId) => {
+		const data = this.props.audioData;
+        console.log(data);
 		this.setState({
-			highlightedRawId: selectedId,
+			selectedId: clickedId,
 			high: data["high"].filter(e => e.id === selectedId),
 			mid: data["mid"].filter(e => e.id === selectedId),
 			low: data["low"].filter(e => e.id === selectedId),
 		})
-	}
+	};
 
-	render(
-		<Columns>
-			<Raw segments={this.state.raw} onSelectSegment={updateOtherSegments} />
-			<High segments={this.state.high} />
-			<Mid segments={this.state.mid} />
-			<Low segments={this.state.low} />
-		</Columns>
-	)
-    */
+    render() {
+        return (
+            <div>
+                <h1>Spans View</h1>
+                <div className="SegmentColumnContainer">
+                    <div className="SegmentColumn">
+                        <div className="ColumnTitleContainer">
+                            <h2 className="ColumnTitle">Raw Transcript</h2>
+                        </div>
+                        {this.props.audioData.raw.segments === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : this.props.audioData.raw.segments.map( (segment) => {
+                            return(
+                                <Segment key={segment.id} text={segment.text} id={segment.id} onSegmentClicked={updateOtherSegments}></Segment>
+                            )
+                        })}
+                    </div>
+                    <div className="SegmentColumn">
+                        <div className="ColumnTitleContainer">
+                            <h2 className="ColumnTitle">Low Pass</h2>
+                        </div>
+                        {low === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : low.map( (segment) => {
+                            return(
+                                <Segment key={segment.id} text={segment.text} id={segment.id}></Segment>
+                            )
+                        })}
+                    </div>
+                    <div className="SegmentColumn">
+                        <div className="ColumnTitleContainer">
+                            <h2 className="ColumnTitle">Medium Pass</h2>
+                        </div>
+                        {med === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : med.map( (segment) => {
+                            return(
+                                <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
+                            )
+                        })}
+                    </div>
+                    <div className="SegmentColumn">
+                        <div className="ColumnTitleContainer">
+                            <h2 className="ColumnTitle">High Pass</h2>
+                        </div>
+                        {high === null ? <div className="EmptyColumn"><p className="EmptyColumnText">No Data</p></div> : high.map( (segment) => {
+                            return(
+                                <Segment key={segment.id} text={segment.text} id={segment.id.Join(", ")}></Segment>
+                            )
+                        })}
+                    </div>              
+                </div>
+            </div>
+        )
+    }
 }
 export default SpansView
