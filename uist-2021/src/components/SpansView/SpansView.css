@@ -1,0 +1,79 @@
+.ColumnTitleContainer {
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.Segment:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.05);
+    transition: all 0.5s ease;
+}
+
+.SegmentColumn {
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+.SegmentColumnContainer {
+    display: grid;  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 0px;
+}
+
+.SegmentDataContainer {
+    display: grid;
+    grid-template-columns: 0.1fr 1.5fr;
+    grid-gap: 0px;
+    border:1px solid rgba(139, 139, 139, 0.75);
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.SegmentIdContainer {
+    background-color: rgba(139, 139, 139, 0.75);
+    color: white;
+    padding: 1em;
+}
+
+.SegmentTextContainer {
+    padding: 1em;
+}
+
+.SegmentIdText {
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.SegmentTextText {
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.EmptyColumn {
+    height: 85%;
+    color: black;
+}
+
+.EmptyColumnText {
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.selected {
+    background-color: rgb(190, 224, 183);
+}
+
+.notclickable .Segment:hover{
+    background-color: transparent;
+    cursor: default;
+}
