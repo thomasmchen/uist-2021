@@ -169,21 +169,24 @@ function SpansView(props) {
     }
 
     return (
-        <div>
-            <h1 className="Title">Explore View</h1>
-            <div>
-                <TemporalView
-                    raw={props.audioData["raw"]["segments"]}
-                    high={props.audioData["high"]["segments"]}
-                    med={props.audioData["med"]["segments"]}
-                    low={props.audioData["low"]["segments"]}
-                    selectedIds={selectedIds} setSelected={setSelectedIds} />
-            </div>
-            <div className="SegmentColumnContainer">
+        <div className="Parent">
+            <div className="HighSegmentViewColumn">
                 <HighCol segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} />
-                <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
-                <GenericCol title="Low" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} />
-                <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} />
+            </div>
+            <div className="DataViewColumn">
+                <div>
+                    <TemporalView
+                        raw={props.audioData["raw"]["segments"]}
+                        high={props.audioData["high"]["segments"]}
+                        med={props.audioData["med"]["segments"]}
+                        low={props.audioData["low"]["segments"]}
+                        selectedIds={selectedIds} setSelected={setSelectedIds} />
+                </div>
+                <div className="SegmentColumnContainer">
+                    <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
+                    <GenericCol title="Low" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} />
+                    <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} />
+                </div>
             </div>
         </div>
     )

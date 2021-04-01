@@ -28,7 +28,7 @@
 
 .SegmentColumnContainer {
     display: grid;  
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 0px;
 }
 
@@ -101,6 +101,42 @@
 .SegmentColumnContainer .High .selected { background-color: rgba(var(--high-bg-color), 0.2); }
 .SegmentColumnContainer .Medium .selected { background-color: rgba(var(--med-bg-color), 0.2); }
 .SegmentColumnContainer .Low .selected { background-color: rgba(var(--low-bg-color), 0.2); }
+
+.Parent {
+    display: grid;
+    grid-template-columns: 0.25fr 0.75fr;
+    grid-gap: 0px;
+    overflow: hidden;
+    text-shadow:0 0 1px transparent;
+    line-height: 1.4em;
+}
+
+.HighSegmentViewColumn {
+    height:auto;
+    min-height: 88vh;
+    max-height:88vh;
+    overflow-y: scroll;
+    padding: 0em 1em 0em 1em;
+}
+
+.HighSegmentViewColumn .item {
+    margin-bottom: 1rem;
+}
+
+.HighSegmentViewColumn .selected {
+    background-color: rgba(var(--high-bg-color), 0.2);
+}
+
+.DataViewColumn{
+    padding: 0em 1em 0em 1em;
+}
+
+.DataViewColumn .SegmentColumnContainer{
+    height:auto;
+    min-height: 80vh;
+    max-height: 80vh;
+    overflow-y: scroll;
+}
 
 .SegmentColumnContainer .data {
     display: flex;
