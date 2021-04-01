@@ -6,5 +6,9 @@
     {
         "id": 1,
         "value":"woke-short"
+    },
+    {
+        "id": 2,
+        "value":"woke-full"
     }
 ]

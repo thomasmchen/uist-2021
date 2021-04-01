@@ -5,12 +5,7 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Summary',
-        url: '/uist-2021/data/summary',
-        cName: 'nav-links'
-    },
-    {
-        title:  'Spans',
+        title:  'Explore',
         url: '/uist-2021/data/spans',
         cName: 'nav-links'
     },

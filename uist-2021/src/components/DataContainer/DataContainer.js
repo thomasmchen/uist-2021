@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Switch, Route } from "react-router-dom"
 import SpansView from "../SpansView/SpansView"
-import SummaryView from "../SummaryView/SummaryView"
 import QAView from "../QAView/QAView"
 import SpeakerView from "../SpeakerView/SpeakerView"
 import './DataContainer.css'
@@ -38,9 +37,6 @@ function DataContainer(props) {
     return (
         <div className="DataContainer">
             <Switch>
-                <Route path="/uist-2021/data/summary">
-                    <SummaryView className="SpansView" audioName={props.audioName} audioData={audioData}/>
-                </Route>
                 <Route path="/uist-2021/data/spans">
                     <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
