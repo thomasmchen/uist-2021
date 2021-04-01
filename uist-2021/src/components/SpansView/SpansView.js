@@ -144,7 +144,7 @@ function GenericCol(props) {
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
                             <div key={idx} className={classnames({'selected': true, "item": true})}>
-                                <Segment text={segment.text} id={segment.id.join(", ")}></Segment>
+                                <Segment text={segment.text} id={segment.id.join(", ")} speaker={segment.speaker ? segment.speaker : null}></Segment>
                             </div>
                         ) }
             </div>
@@ -184,7 +184,6 @@ function SpansView(props) {
                 <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
                 <GenericCol title="Low" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} />
                 <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} />
-
             </div>
         </div>
     )

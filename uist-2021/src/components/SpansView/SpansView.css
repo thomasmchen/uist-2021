@@ -40,7 +40,7 @@
 }
 
 .SegmentIdContainer {
-    background-color: rgba(139, 139, 139, 0.75);
+    background-color: rgba(139, 139, 139, 0.5);
     color: white;
     padding: 1em;
 }
@@ -65,6 +65,23 @@
     transform: translate(-50%, -50%);
 }
 
+.SegmentSpeakerContainer{
+    background-color: rgba(139, 139, 139, 0.75);
+    float: right;
+    color: white;
+    grid-column: 1/-1;
+}
+
+.SegmentSpeakerText {
+    position: relative;
+    float: right;
+    font-size: 0.75em;
+    background-color: rgba(166, 98, 230, 0.7);
+    display: inline-block;
+    text-align: right;
+    padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
 .EmptyColumn {
     height: 85%;
     color: black;
@@ -85,7 +102,6 @@
 .SegmentColumnContainer .Medium .selected { background-color: rgba(var(--med-bg-color), 0.2); }
 .SegmentColumnContainer .Low .selected { background-color: rgba(var(--low-bg-color), 0.2); }
 
-
 .SegmentColumnContainer .data {
     display: flex;
     flex-flow: column;
@@ -93,10 +109,6 @@
 
 .SegmentColumnContainer .item {
     margin-bottom: 1rem;
-}
-
-.SegmentColumnContainer .item.selected {
-    order: -1;
 }
 
 .notclickable .Segment:hover{
