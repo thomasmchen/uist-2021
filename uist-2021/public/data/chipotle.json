@@ -2992,7 +2992,7 @@
 			"id": [33],
 			"speaker": "0"
 		}, {
-			"text": "I scrambled them with a fork and then my mom had a cast iron skillet that was very smooth and almost non-stick and I used to push the curds into the enter in a square.",
+			"text": "I scrambled them in a bowl with a fork and my mom had a cast iron skillet that was very smooth and almost non-stick.",
 			"id": [34, 35, 36, 37, 38, 39],
 			"speaker": "1"
 		}, {
@@ -3034,10 +3034,6 @@
 		}, {
 			"text": "It's hard to say what he is like because it was a lot of work and he was an amazing visionary and quite a perfectionist.",
 			"id": [71],
-			"speaker": "1"
-		}, {
-			"text": "I am fortunate to have been able to work.",
-			"id": [73, 74],
 			"speaker": "1"
 		}, {
 			"text": "Did you ever see a burrito in San Francisco?",
@@ -3112,7 +3108,7 @@
 			"id": [125, 126, 127, 128],
 			"speaker": "1"
 		}, {
-			"text": "First of all, I said that the service format would be an open kitchen and that it would include grilling meats and cooking whole beans and mashing avocados, grating the cheese and dicing the tomatoes.",
+			"text": "I told you that the service format was going to be an open kitchen and that it would include grilling meats and cooking whole beans and mashing avocados, grating the cheese and dicing the tomatoes and.",
 			"id": [132, 133, 134],
 			"speaker": "1"
 		}, {
@@ -3188,32 +3184,24 @@
 			"id": [191],
 			"speaker": "0"
 		}, {
-			"text": "I remember customers asking what the place was.",
-			"id": [194],
+			"text": "You had to walk up to the counter and actually build your burrito if you wanted to go to name chipotle.",
+			"id": [193, 194, 195],
 			"speaker": "1"
 		}, {
-			"text": "She bottles all kinds of things..,.",
-			"id": [195],
-			"speaker": "1"
-		}, {
-			"text": "You had to walk up to the counter and build your burrito, which was confusing to a lot of people.",
-			"id": [197, 198, 199],
-			"speaker": "1"
-		}, {
-			"text": "In the early days it was a novel experience to have an open kitchen so close to the customer and the grill was just a few feet away.",
-			"id": [200, 201, 202],
+			"text": "This was confusing to a lot of people, I said we have all these things here, and in the burrito I can put rice and beans and meats and sauces.",
+			"id": [196, 197, 198],
 			"speaker": "1"
 		}, {
 			"text": "The cooking in the end of the service.",
-			"id": [204],
+			"id": [202],
 			"speaker": "1"
 		}, {
 			"text": "People like to be in the kitchen at dinner parties.",
-			"id": [206],
+			"id": [204],
 			"speaker": "1"
 		}, {
 			"text": "People were invited in to watch the action.",
-			"id": [207],
+			"id": [205],
 			"speaker": "1"
 		}, {
 			"text": "At the beginning, you had a chef and cashier.",
@@ -3319,6 +3307,10 @@
 			"text": "It's all done in Denver, because people say like wait.",
 			"id": [290],
 			"speaker": "0"
+		}, {
+			"text": "I think so and now it's one per 50 000.",
+			"id": [295],
+			"speaker": "1"
 		}, {
 			"text": "Do you think this is the thing that we should be pursuing, or do you not think so?",
 			"id": [297, 298, 299],
@@ -3448,10 +3440,6 @@
 			"id": [393, 394, 395, 396, 397],
 			"speaker": "0"
 		}, {
-			"text": "Did you enjoy it or were you overwhelmed?",
-			"id": [400, 401],
-			"speaker": "0"
-		}, {
 			"text": "My original plan was to start a small restaurant and use the funds from it to open a full restaurant, but I never stepped away from that idea.",
 			"id": [402, 403, 404, 405],
 			"speaker": "1"
@@ -3560,16 +3548,12 @@
 			"id": [468],
 			"speaker": "1"
 		}, {
-			"text": "Do you think about the amount of money?",
-			"id": [470],
-			"speaker": "0"
-		}, {
-			"text": "I think I would be incredibly proud of that.",
-			"id": [473, 474],
+			"text": "I think I would be incredibly proud of that amount of money.",
+			"id": [470, 471, 472],
 			"speaker": "0"
 		}, {
 			"text": "You grow this thing in a large area.",
-			"id": [475],
+			"id": [473],
 			"speaker": "0"
 		}, {
 			"text": "When I started my first restaurant, I used to tell people that I wanted to change the way Americans think about fast food, but that changed when I told them that it has to be a.",
@@ -3591,12 +3575,12 @@
 	},
 	"med": {
 		"segments": [{
-			"text": "We were going to have a brand new episode next week and we wanted to revisit the story of Steveells.",
-			"id": [6, 7, 8, 9],
-			"speaker": "0"
-		}, {
 			"text": "A sponsor of a business offers fast reliable internet.",
 			"id": [0, 1, 2, 3],
+			"speaker": "0"
+		}, {
+			"text": "We were going to have a brand new episode next week and we wanted to revisit the story of Steveells.",
+			"id": [6, 7, 8, 9],
 			"speaker": "0"
 		}, {
 			"text": "It was intense and 52 people got sick with e coli in a single month.",
@@ -3611,7 +3595,7 @@
 			"id": [26],
 			"speaker": "0"
 		}, {
-			"text": "My mom had a cast iron skillet that was very smooth and almost non-stick and I used to push the curds into it.",
+			"text": "My mom had a cast iron skillet that was very easy to cook in and I was a control freak.",
 			"id": [34, 35, 36, 37, 38, 39, 40],
 			"speaker": "1"
 		}, {
@@ -3639,24 +3623,28 @@
 			"id": [83, 84, 85, 86],
 			"speaker": "1"
 		}, {
-			"text": "I said I could make some money by opening up my scale.",
-			"id": [99, 100, 101, 102],
-			"speaker": "1"
-		}, {
 			"text": "When you peel the foil back, it's not the same as eating a burrito on a plate with green chili, and I thought they were five dollars.",
 			"id": [90, 91, 92, 93, 94, 95],
+			"speaker": "1"
+		}, {
+			"text": "I said I could make some money by opening up my scale.",
+			"id": [99, 100, 101, 102],
 			"speaker": "1"
 		}, {
 			"text": "You thought a taqueria could make enough money to open a restaurant.",
 			"id": [104],
 			"speaker": "0"
 		}, {
+			"text": "I thought opening a burrito shop in a small town would be a good idea.",
+			"id": [105, 106],
+			"speaker": "1"
+		}, {
 			"text": "Go to a place where no one had seen this style before.",
 			"id": [114],
 			"speaker": "1"
 		}, {
-			"text": "I thought opening a burrito shop in a small town would be a good idea.",
-			"id": [105, 106],
+			"text": "We would come in at noon to learn what we were going to cook.",
+			"id": [119],
 			"speaker": "1"
 		}, {
 			"text": "The style of the restaurant made a difference.",
@@ -3667,15 +3655,11 @@
 			"id": [122],
 			"speaker": "1"
 		}, {
-			"text": "We would come in at noon to learn what we were going to cook.",
-			"id": [119],
-			"speaker": "1"
-		}, {
 			"text": "I was going to open it in boulder but I couldn't find a place that I could afford and my friend was working in Denver.",
 			"id": [125, 126, 127, 128],
 			"speaker": "1"
 		}, {
-			"text": "He gave me a week to find a few potential real estate sites after I said that the service format would be an open kitchen.",
+			"text": "He gave me a week to find a few potential real estate sites after I told him that the service format would include grilling meats and cooking whole.",
 			"id": [132, 133, 134, 135, 136, 137, 138],
 			"speaker": "1"
 		}, {
@@ -3707,8 +3691,12 @@
 			"id": [181, 182, 183, 184, 185, 186],
 			"speaker": "1"
 		}, {
-			"text": "It was a novel experience to have an open kitchen so close to the customer and the grill just a few feet away the cooking in the end of the service people like to do, it was.",
-			"id": [197, 198, 199, 200, 201, 202, 204, 206],
+			"text": "People like to cook in the kitchen at dinner parties.",
+			"id": [202, 204],
+			"speaker": "1"
+		}, {
+			"text": "You had to walk up to the counter and build your burrito, which was confusing to a lot of people.",
+			"id": [193, 194, 195, 196, 197, 198],
 			"speaker": "1"
 		}, {
 			"text": "I asked my friends if they wanted to help.",
@@ -3731,12 +3719,8 @@
 			"id": [249, 251],
 			"speaker": "0"
 		}, {
-			"text": "The store got a great first review when people started buying food.",
-			"id": [255],
-			"speaker": "0"
-		}, {
 			"text": "If you listen to the show you can earn a masters degree without paying the application fee if you want to be productive, it's the start of a chain of events that will forever change.",
-			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245],
+			"id": [234, 235, 236, 255],
 			"speaker": "0"
 		}, {
 			"text": "I paid back part of my loan in the first few months.",
@@ -3815,12 +3799,12 @@
 			"id": [377, 378, 379, 382],
 			"speaker": "1"
 		}, {
-			"text": "The economic model was so good that we wanted to leave it.",
-			"id": [389],
-			"speaker": "1"
-		}, {
 			"text": "McDonald's would have been able to operate at a part of chipotle.",
 			"id": [386, 387, 388],
+			"speaker": "1"
+		}, {
+			"text": "The economic model was so good that we wanted to leave it.",
+			"id": [389],
 			"speaker": "1"
 		}, {
 			"text": "McDonald's had a duty to their franchisees to offer chipotle as a growth vehicle.",
@@ -3843,12 +3827,12 @@
 			"id": [426],
 			"speaker": "1"
 		}, {
-			"text": "protocols were developed to stop the pathogen from entering the system.",
-			"id": [432],
-			"speaker": "1"
-		}, {
 			"text": "52 people got sick with e coli in a single month and I don't know if it's a freak or not.",
 			"id": [428, 429, 430],
+			"speaker": "1"
+		}, {
+			"text": "protocols were developed to stop the pathogen from entering the system.",
+			"id": [432],
 			"speaker": "1"
 		}, {
 			"text": "If you cut dozens, we will cut millions and millions, and we have made sure that there are a number of interventions along the way, because lemons and limes and bell peppers are long.",
@@ -3865,6 +3849,10 @@
 		}, {
 			"text": "When you think about it, it's pretty crazy.",
 			"id": [461, 462, 463, 464, 465],
+			"speaker": "0"
+		}, {
+			"text": "I would be very proud of the amount of money you grow.",
+			"id": [470, 471, 472, 473],
 			"speaker": "0"
 		}, {
 			"text": "When I told people I wanted to change the way Americans think about fast food, that changed.",
@@ -3887,9 +3875,6 @@
 			"text": "Steveells came up with the idea that we like to have too many choices.",
 			"id": [18, 19, 20, 21, 22, 24, 27]
 		}, {
-			"text": "I used to push the curds into the cast iron skillet my mom had.",
-			"id": [34, 35, 36, 37, 38, 39, 40]
-		}, {
 			"text": "I like to cook and duplicate the recipes from the master chef series on PBS.",
 			"id": [46, 47, 48, 49, 50]
 		}, {
@@ -3911,7 +3896,7 @@
 			"text": "I was going to open it in boulder, but I couldn't afford it.",
 			"id": [125, 126, 127, 128]
 		}, {
-			"text": "I was given a week to find a few potential real estate sites after I said that the service format would be an open kitchen.",
+			"text": "I was given a week to find a few real estate sites after I told him that the service format would include grilling meats and cooking whole.",
 			"id": [132, 133, 134, 135, 136, 137, 138]
 		}, {
 			"text": "The oak wood floor underneath the architect of record helped me get the permit.",
@@ -3929,14 +3914,14 @@
 			"text": "I wanted to add a smoky character to the beans because jeremiah was a fan of southwest cuisine.",
 			"id": [181, 182, 183, 184, 185, 186]
 		}, {
-			"text": "The experience of having an open kitchen so close to the customer and the grill just a few feet away was novel.",
-			"id": [197, 198, 199, 200, 201, 202, 204, 206]
+			"text": "People like to cook in the kitchen at dinner parties and it's confusing to a lot of people.",
+			"id": [202, 204, 193, 194, 195, 196, 197, 198]
 		}, {
 			"text": "We ran out of food the first day because of the line and then we got a bigger order the next day but we couldn't keep up.",
 			"id": [233]
 		}, {
 			"text": "You can earn a masters degree without paying the application fee if you listen to the show.",
-			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245]
+			"id": [234, 235, 236, 255]
 		}, {
 			"text": "I was living in the basement of a friends house and sleeping on a couch that I paid my dad back for when I worked all day long.",
 			"id": [265, 266, 267, 268, 269]
