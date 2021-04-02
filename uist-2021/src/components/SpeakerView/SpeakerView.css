@@ -1,4 +1,4 @@
-.Parent {
+.SpeakerParentContainer {
     display: flex;
     flex-wrap: wrap;
 }
@@ -6,38 +6,59 @@
 .SpeakerTitleContainer{
     flex-grow: 1;
     padding: 1em;
+    margin-bottom: 1em;
 }
 
 .FirstSpeakerTitle {
     float: left;
+    margin-left: 25%;
 }
 
 .SecondSpeakerTitle {
     float: right;
+    margin-right: 25%;
 }
 
-.DataContainer {
+.SpeakerDataContainer {
     flex-grow: 1;
+    min-height: 82vh;
+    max-height: 82vh;
+    overflow-y: scroll;
 }
 
 .LeftSpeakerContainer {
     float: left;
     text-align: left;
-    width: 50%;
-    background-color: tomato;
+    width: 20%;
+    margin-bottom: 1em;
+    margin-left: 25%;
 }
 
 .RightSpeakerContainer {
     float: right;
     text-align: right;
-    width: 50%;
-    background-color: blue;
+    width: 20%;
+    margin-bottom: 1em;
+    margin-right: 25%;
 }
 
 .Speech {
     color: white;
     text-shadow:0 0 1px transparent;
     line-height: 1.4em;
-    margin-bottom: 1em;
-    background-color: green;
+    padding: 0.5em;
+}
+
+.LeftText {
+    background-color: rgb(39, 153, 163);
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0.7em;
+}
+
+.RightText {
+    background-color: rgb(131, 131, 131);    
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0.7em;
 }
