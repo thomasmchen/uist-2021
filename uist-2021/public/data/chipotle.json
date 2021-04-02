@@ -110,202 +110,202 @@
 			"end": "43.1"
 		}, {
 			"id": [18],
-			"speaker": "0",
-			"text": "you know, the earliest recollection I have of in being in the kitchen and cooking was in the third grade and we lived in Germany and I Cooking scrambled eggs, how'd you make them?",
-			"start": "192.1",
-			"end": "205.0"
-		}, {
-			"id": [19],
-			"speaker": "0",
-			"text": "Did you scramble them",
-			"start": "205.0",
-			"end": "205.7"
-		}, {
-			"id": [20],
 			"speaker": "1",
 			"text": "From NPR it's how I built this a show about innovators entrepreneurs idealists and the stories behind the movements they built.",
 			"start": "83.6",
 			"end": "92.0"
 		}, {
-			"id": [21],
+			"id": [19],
 			"speaker": "1",
 			"text": "I'm guy Roz and on today's show how Steve Ells turned his love for San Francisco's mission style burritos in to Chipotle a restaurant that launched America's fast casual",
 			"start": "95.4",
 			"end": "105.7"
 		}, {
+			"id": [20],
+			"speaker": "0",
+			"text": "you know, the earliest recollection I have of in being in the kitchen and cooking was in the third grade and we lived in Germany and I Cooking scrambled eggs, how'd you make them?",
+			"start": "192.1",
+			"end": "205.0"
+		}, {
+			"id": [21],
+			"speaker": "0",
+			"text": "Did you scramble them",
+			"start": "205.0",
+			"end": "205.7"
+		}, {
 			"id": [22],
-			"speaker": "0",
-			"text": "scramble them before?",
-			"start": "209.1",
-			"end": "210.1"
-		}, {
-			"id": [23],
-			"speaker": "0",
-			"text": "No.",
-			"start": "210.3",
-			"end": "210.6"
-		}, {
-			"id": [24],
-			"speaker": "0",
-			"text": "No, I scrambled them for with a fork.",
-			"start": "210.6",
-			"end": "215.4"
-		}, {
-			"id": [25],
-			"speaker": "0",
-			"text": "Okay in a bowl.",
-			"start": "215.5",
-			"end": "216.2"
-		}, {
-			"id": [26],
-			"speaker": "0",
-			"text": "Okay, and then my mom had a very well seasoned cast iron skillet nice.",
-			"start": "216.3",
-			"end": "222.0"
-		}, {
-			"id": [27],
-			"speaker": "0",
-			"text": "I mean it was very very smooth and almost nonstick and I used to push the curds into the enter in a square shape a perfect square maybe three by three or three and a half by three and a half something like that.",
-			"start": "222.2",
-			"end": "237.7"
-		}, {
-			"id": [28],
-			"speaker": "0",
-			"text": "And then and then it when it was just set enough I would flip it over and I mean it was very controlling my can hit it says a lot about me because I'm a I'm a little bit of a control freak and of course I had no idea then but it was just it's an interesting.",
-			"start": "238.1",
-			"end": "252.1"
-		}, {
-			"id": [29],
-			"speaker": "0",
-			"text": "It's an",
-			"start": "252.1",
-			"end": "252.4"
-		}, {
-			"id": [30],
 			"speaker": "1",
 			"text": "So there's a famous Ted Talk by a guy named Barry Schwartz.",
 			"start": "114.8",
 			"end": "117.7"
 		}, {
-			"id": [31],
+			"id": [23],
 			"speaker": "1",
 			"text": "It's called the Paradox of choice and in it very explains.",
 			"start": "117.7",
 			"end": "121.5"
 		}, {
-			"id": [32],
+			"id": [24],
 			"speaker": "1",
 			"text": "It virtually all current research on human behavior supports this idea that we humans.",
 			"start": "121.5",
 			"end": "127.2"
 		}, {
-			"id": [33],
+			"id": [25],
 			"speaker": "1",
 			"text": "We don't really like to have too many choices anything beyond 426 actually makes us anxious and unhappy which could help explain the success of Chipotle because if you've ever been in one You can probably tell me the menu by heart burrito bowl salad tacos for options.",
 			"start": "127.7",
 			"end": "147.5"
 		}, {
-			"id": [34],
+			"id": [26],
 			"speaker": "1",
 			"text": "That is it.",
 			"start": "147.5",
 			"end": "148.3"
 		}, {
-			"id": [35],
+			"id": [27],
 			"speaker": "1",
 			"text": "There isn't a whole lot to agonize over and it's one of the reasons why Chipotle just exploded in the 2000s on the eve of the Millennium.",
 			"start": "148.7",
 			"end": "156.5"
 		}, {
-			"id": [36],
+			"id": [28],
 			"speaker": "1",
 			"text": "The company had just a bit more than 20 stores.",
 			"start": "156.6",
 			"end": "159.3"
 		}, {
-			"id": [37],
+			"id": [29],
 			"speaker": "1",
 			"text": "And today Chipotle has nearly 2300 locations across the US And in for other countries and its value is around 14 billion dollars now Chipotle as you will hear was never meant to become what it became.",
 			"start": "159.3",
 			"end": "174.2"
 		}, {
-			"id": [38],
+			"id": [30],
 			"speaker": "1",
 			"text": "It was supposed to be a one-off burrito joint in Denver a burrito joint that would generate enough cash to finance a high-end restaurant.",
 			"start": "174.2",
 			"end": "182.2"
 		}, {
-			"id": [39],
+			"id": [31],
 			"speaker": "1",
 			"text": "That was Steve Ells is plan.",
 			"start": "182.5",
 			"end": "184.1"
 		}, {
-			"id": [40],
+			"id": [32],
 			"speaker": "1",
 			"text": "He's actually a classically trained chef and he wanted to make michelin-starred food not foil-wrapped",
 			"start": "184.3",
 			"end": "190.9"
 		}, {
+			"id": [33],
+			"speaker": "0",
+			"text": "scramble them before?",
+			"start": "209.1",
+			"end": "210.1"
+		}, {
+			"id": [34],
+			"speaker": "0",
+			"text": "No.",
+			"start": "210.3",
+			"end": "210.6"
+		}, {
+			"id": [35],
+			"speaker": "0",
+			"text": "No, I scrambled them for with a fork.",
+			"start": "210.6",
+			"end": "215.4"
+		}, {
+			"id": [36],
+			"speaker": "0",
+			"text": "Okay in a bowl.",
+			"start": "215.5",
+			"end": "216.2"
+		}, {
+			"id": [37],
+			"speaker": "0",
+			"text": "Okay, and then my mom had a very well seasoned cast iron skillet nice.",
+			"start": "216.3",
+			"end": "222.0"
+		}, {
+			"id": [38],
+			"speaker": "0",
+			"text": "I mean it was very very smooth and almost nonstick and I used to push the curds into the enter in a square shape a perfect square maybe three by three or three and a half by three and a half something like that.",
+			"start": "222.2",
+			"end": "237.7"
+		}, {
+			"id": [39],
+			"speaker": "0",
+			"text": "And then and then it when it was just set enough I would flip it over and I mean it was very controlling my can hit it says a lot about me because I'm a I'm a little bit of a control freak and of course I had no idea then but it was just it's an interesting.",
+			"start": "238.1",
+			"end": "252.1"
+		}, {
+			"id": [40],
+			"speaker": "0",
+			"text": "It's an",
+			"start": "252.1",
+			"end": "252.4"
+		}, {
 			"id": [41],
-			"speaker": "0",
-			"text": "Yeah.",
-			"start": "270.0",
-			"end": "270.3"
-		}, {
-			"id": [42],
-			"speaker": "0",
-			"text": "Well, you know, my mom was a very adventurous cook and a really good one and she had a garden and she got all the cooking magazines and had a lot of cookbooks and and I used to I used to spend time in the kitchen and and follow along and at some point I started watching cooking shows a Julia Child and Graham on the Galloping Gourmet.",
-			"start": "270.3",
-			"end": "290.9"
-		}, {
-			"id": [43],
-			"speaker": "0",
-			"text": "Me and the PBS series The Master Chef series.",
-			"start": "291.1",
-			"end": "294.8"
-		}, {
-			"id": [44],
-			"speaker": "0",
-			"text": "I really love those and would duplicate the recipes and and like to cook for you know my family and then when I was older in high school, I started having people",
-			"start": "295.1",
-			"end": "305.1"
-		}, {
-			"id": [45],
 			"speaker": "1",
 			"text": "did you crack the eggs into the pan and scramble them or did",
 			"start": "206.1",
 			"end": "209.0"
 		}, {
-			"id": [46],
+			"id": [42],
 			"speaker": "0",
-			"text": "you go to college in Boulder, right?",
-			"start": "307.7",
-			"end": "310.9"
+			"text": "Yeah.",
+			"start": "270.0",
+			"end": "270.3"
 		}, {
-			"id": [47],
+			"id": [43],
+			"speaker": "0",
+			"text": "Well, you know, my mom was a very adventurous cook and a really good one and she had a garden and she got all the cooking magazines and had a lot of cookbooks and and I used to I used to spend time in the kitchen and and follow along and at some point I started watching cooking shows a Julia Child and Graham on the Galloping Gourmet.",
+			"start": "270.3",
+			"end": "290.9"
+		}, {
+			"id": [44],
+			"speaker": "0",
+			"text": "Me and the PBS series The Master Chef series.",
+			"start": "291.1",
+			"end": "294.8"
+		}, {
+			"id": [45],
+			"speaker": "0",
+			"text": "I really love those and would duplicate the recipes and and like to cook for you know my family and then when I was older in high school, I started having people",
+			"start": "295.1",
+			"end": "305.1"
+		}, {
+			"id": [46],
 			"speaker": "1",
 			"text": "memory like at what point did you start to because I've read like stories about you and college where you'd your dinner parties and people would like What is this butter that you butter?",
 			"start": "252.7",
 			"end": "262.7"
 		}, {
-			"id": [48],
+			"id": [47],
 			"speaker": "1",
 			"text": "You know, you be reviewed make like duck confit and stuff.",
 			"start": "262.7",
 			"end": "265.2"
 		}, {
-			"id": [49],
+			"id": [48],
 			"speaker": "1",
 			"text": "Like how did you even know about this?",
 			"start": "265.2",
 			"end": "267.5"
 		}, {
-			"id": [50],
+			"id": [49],
 			"speaker": "1",
 			"text": "How did you get into Foods at such a young",
 			"start": "267.5",
 			"end": "269.5"
+		}, {
+			"id": [50],
+			"speaker": "0",
+			"text": "you go to college in Boulder, right?",
+			"start": "307.7",
+			"end": "310.9"
 		}, {
 			"id": [51],
 			"speaker": "0",
@@ -1634,76 +1634,76 @@
 			"end": "1531.9"
 		}, {
 			"id": [272],
-			"speaker": "1",
-			"text": "you can't be making that much money and I said",
-			"start": "1532.6",
-			"end": "1534.1"
-		}, {
-			"id": [273],
 			"speaker": "0",
 			"text": "yeah, I really I think it's doing very well and you know, he know he knew that I hadn't taken any business classes and had never demonstrated an ability to you know, balance my checkbook or Be Frugal about organizing my finances.",
 			"start": "1534.4",
 			"end": "1548.2"
 		}, {
-			"id": [274],
+			"id": [273],
 			"speaker": "0",
 			"text": "So he said well you really ought to get a bookkeeper.",
 			"start": "1548.7",
 			"end": "1551.2"
 		}, {
-			"id": [275],
+			"id": [274],
 			"speaker": "0",
 			"text": "I see well, I do have one because well Let's let me sit down with him with a next time.",
 			"start": "1551.2",
 			"end": "1556.3"
 		}, {
-			"id": [276],
+			"id": [275],
 			"speaker": "0",
 			"text": "I'm in town.",
 			"start": "1556.3",
 			"end": "1556.8"
 		}, {
-			"id": [277],
+			"id": [276],
 			"speaker": "0",
 			"text": "I'm like, all right, and so we remember we sat down with the with the bookkeeper and and he was blown away.",
 			"start": "1556.8",
 			"end": "1562.2"
 		}, {
-			"id": [278],
+			"id": [277],
 			"speaker": "0",
 			"text": "It's like this thing is really efficient making a lot of money and it continued to get busier and busier and busier and then everybody started asking me when I was going to open up the next fault",
 			"start": "1562.2",
 			"end": "1572.3"
 		}, {
-			"id": [279],
+			"id": [278],
 			"speaker": "1",
-			"text": "Will you still in your mind planning and on opening a fine",
-			"start": "1575.2",
-			"end": "1579.6"
+			"text": "you can't be making that much money and I said",
+			"start": "1532.6",
+			"end": "1534.1"
 		}, {
-			"id": [280],
+			"id": [279],
 			"speaker": "0",
 			"text": "restaurant?",
 			"start": "1579.9",
 			"end": "1580.5"
 		}, {
-			"id": [281],
+			"id": [280],
 			"speaker": "0",
 			"text": "Oh, that was what I was thinking about for",
 			"start": "1580.6",
 			"end": "1582.5"
 		}, {
-			"id": [282],
+			"id": [281],
 			"speaker": "1",
-			"text": "and I had",
-			"start": "1583.0",
-			"end": "1583.8"
+			"text": "Will you still in your mind planning and on opening a fine",
+			"start": "1575.2",
+			"end": "1579.6"
 		}, {
-			"id": [283],
+			"id": [282],
 			"speaker": "0",
 			"text": "intention of opening another default",
 			"start": "1584.1",
 			"end": "1585.5"
+		}, {
+			"id": [283],
+			"speaker": "1",
+			"text": "and I had",
+			"start": "1583.0",
+			"end": "1583.8"
 		}, {
 			"id": [284],
 			"speaker": "0",
@@ -1736,568 +1736,568 @@
 			"end": "1615.7"
 		}, {
 			"id": [289],
-			"speaker": "1",
-			"text": "more.",
-			"start": "1615.9",
-			"end": "1616.2"
-		}, {
-			"id": [290],
-			"speaker": "1",
-			"text": "Wow it all in Denver all in done through it because because people probably saying like wait",
-			"start": "1616.4",
-			"end": "1622.3"
-		}, {
-			"id": [291],
 			"speaker": "0",
 			"text": "Endeavor there.",
 			"start": "1623.0",
 			"end": "1624.7"
 		}, {
-			"id": [292],
+			"id": [290],
 			"speaker": "0",
 			"text": "Actually, that was one of my dad's questions.",
 			"start": "1626.0",
 			"end": "1627.4"
 		}, {
-			"id": [293],
+			"id": [291],
 			"speaker": "0",
 			"text": "He's like Steve.",
 			"start": "1627.4",
 			"end": "1628.1"
 		}, {
-			"id": [294],
+			"id": [292],
 			"speaker": "0",
 			"text": "Do you think Denver can have two of these?",
 			"start": "1628.1",
 			"end": "1629.9"
 		}, {
-			"id": [295],
+			"id": [293],
 			"speaker": "1",
-			"text": "like the I think so",
-			"start": "1630.5",
-			"end": "1631.9"
+			"text": "more.",
+			"start": "1615.9",
+			"end": "1616.2"
 		}, {
-			"id": [296],
+			"id": [294],
+			"speaker": "1",
+			"text": "Wow it all in Denver all in done through it because because people probably saying like wait",
+			"start": "1616.4",
+			"end": "1622.3"
+		}, {
+			"id": [295],
 			"speaker": "0",
 			"text": "and now it's a one per 50,000 or something",
 			"start": "1633.0",
 			"end": "1634.9"
 		}, {
+			"id": [296],
+			"speaker": "1",
+			"text": "like the I think so",
+			"start": "1630.5",
+			"end": "1631.9"
+		}, {
 			"id": [297],
-			"speaker": "1",
-			"text": "Denver.",
-			"start": "1635.0",
-			"end": "1635.4"
-		}, {
-			"id": [298],
-			"speaker": "1",
-			"text": "At what point is I mean does somebody say or do you say or do you think maybe maybe this is it?",
-			"start": "1636.7",
-			"end": "1644.0"
-		}, {
-			"id": [299],
-			"speaker": "1",
-			"text": "Maybe this is the thing that's going to that we should be pursuing maybe we maybe this is bigger than just",
-			"start": "1644.0",
-			"end": "1649.8"
-		}, {
-			"id": [300],
 			"speaker": "0",
 			"text": "Well, so that happened after I had a dozen restaurants or so, maybe less maybe eight restaurants.",
 			"start": "1651.1",
 			"end": "1657.5"
 		}, {
-			"id": [301],
+			"id": [298],
 			"speaker": "0",
 			"text": "Honestly, I forget but I thought I would go to Kansas City.",
 			"start": "1658.0",
 			"end": "1662.2"
 		}, {
-			"id": [302],
+			"id": [299],
 			"speaker": "0",
 			"text": "It seems like a neat Food Town people are really into barbecue.",
 			"start": "1662.8",
 			"end": "1666.3"
 		}, {
-			"id": [303],
+			"id": [300],
 			"speaker": "0",
 			"text": "A really strong barbecue culture there.",
 			"start": "1666.5",
 			"end": "1669.2"
 		}, {
-			"id": [304],
+			"id": [301],
 			"speaker": "0",
 			"text": "I like that and I thought there could be a burrito culture to yeah, and so, you know, it didn't open up super strong but it did",
 			"start": "1669.5",
 			"end": "1678.0"
 		}, {
+			"id": [302],
+			"speaker": "1",
+			"text": "Denver.",
+			"start": "1635.0",
+			"end": "1635.4"
+		}, {
+			"id": [303],
+			"speaker": "1",
+			"text": "At what point is I mean does somebody say or do you say or do you think maybe maybe this is it?",
+			"start": "1636.7",
+			"end": "1644.0"
+		}, {
+			"id": [304],
+			"speaker": "1",
+			"text": "Maybe this is the thing that's going to that we should be pursuing maybe we maybe this is bigger than just",
+			"start": "1644.0",
+			"end": "1649.8"
+		}, {
 			"id": [305],
-			"speaker": "1",
-			"text": "well.",
-			"start": "1678.3",
-			"end": "1678.8"
-		}, {
-			"id": [306],
-			"speaker": "1",
-			"text": "And did you was that the idea that did were you just going to keep expanding like one story after another?",
-			"start": "1679.0",
-			"end": "1683.8"
-		}, {
-			"id": [307],
 			"speaker": "0",
 			"text": "the idea of expansion wasn't about building an empire.",
 			"start": "1685.0",
 			"end": "1689.1"
 		}, {
-			"id": [308],
+			"id": [306],
 			"speaker": "0",
 			"text": "It wasn't a number I was going after I never thought.",
 			"start": "1689.6",
 			"end": "1691.9"
 		}, {
-			"id": [309],
+			"id": [307],
 			"speaker": "0",
 			"text": "Oh my gosh, if I could only have you know, 10 restaurants or 20 or 50?",
 			"start": "1691.9",
 			"end": "1696.3"
 		}, {
-			"id": [310],
+			"id": [308],
 			"speaker": "0",
 			"text": "G or a hundred or a thousand it was never it was never like that.",
 			"start": "1696.4",
 			"end": "1699.3"
 		}, {
-			"id": [311],
+			"id": [309],
 			"speaker": "0",
 			"text": "But I",
 			"start": "1699.3",
 			"end": "1699.4"
 		}, {
+			"id": [310],
+			"speaker": "1",
+			"text": "well.",
+			"start": "1678.3",
+			"end": "1678.8"
+		}, {
+			"id": [311],
+			"speaker": "1",
+			"text": "And did you was that the idea that did were you just going to keep expanding like one story after another?",
+			"start": "1679.0",
+			"end": "1683.8"
+		}, {
 			"id": [312],
-			"speaker": "1",
-			"text": "you were still expanding.",
-			"start": "1699.6",
-			"end": "1701.0"
-		}, {
-			"id": [313],
-			"speaker": "1",
-			"text": "So, how are you how are you funding",
-			"start": "1701.0",
-			"end": "1703.3"
-		}, {
-			"id": [314],
 			"speaker": "0",
 			"text": "expansion as you know, my dad funded the first restaurant, right?",
 			"start": "1703.4",
 			"end": "1708.4"
 		}, {
-			"id": [315],
+			"id": [313],
 			"speaker": "0",
 			"text": "And then I started signing up Lisa's for restaurant four five six seven and then I went to my dad and said, you know, I'm signing up Lisa's.",
 			"start": "1708.5",
 			"end": "1717.5"
 		}, {
-			"id": [316],
+			"id": [314],
 			"speaker": "0",
 			"text": "I think I'm going to need a cash infusion.",
 			"start": "1717.5",
 			"end": "1720.3"
 		}, {
-			"id": [317],
+			"id": [315],
 			"speaker": "0",
 			"text": "Would you like to invest and luckily?",
 			"start": "1720.9",
 			"end": "1722.7"
 		}, {
-			"id": [318],
+			"id": [316],
 			"speaker": "0",
 			"text": "He said?",
 			"start": "1722.7",
 			"end": "1723.2"
 		}, {
-			"id": [319],
+			"id": [317],
 			"speaker": "0",
 			"text": "Yes, we open those restaurants and they were successful.",
 			"start": "1723.2",
 			"end": "1726.2"
 		}, {
-			"id": [320],
+			"id": [318],
 			"speaker": "0",
 			"text": "And I said, well, I'm going to continue to open up some more.",
 			"start": "1726.5",
 			"end": "1729.5"
 		}, {
-			"id": [321],
+			"id": [319],
 			"speaker": "0",
 			"text": "Would you like to invest again?",
 			"start": "1729.9",
 			"end": "1731.2"
 		}, {
-			"id": [322],
+			"id": [320],
 			"speaker": "0",
 			"text": "And he said, you know, why don't you go raise the money yourself and I said, well, how do you do that?",
 			"start": "1731.2",
 			"end": "1736.8"
 		}, {
-			"id": [323],
+			"id": [321],
 			"speaker": "0",
 			"text": "He said, well, you need to write a business plan and you have to you know, go pitch it to people who are qualified",
 			"start": "1736.9",
 			"end": "1743.3"
 		}, {
+			"id": [322],
+			"speaker": "1",
+			"text": "you were still expanding.",
+			"start": "1699.6",
+			"end": "1701.0"
+		}, {
+			"id": [323],
+			"speaker": "1",
+			"text": "So, how are you how are you funding",
+			"start": "1701.0",
+			"end": "1703.3"
+		}, {
 			"id": [324],
-			"speaker": "1",
-			"text": "invest wait just to be clear you would already had a bunch of stores at this point.",
-			"start": "1743.4",
-			"end": "1746.8"
-		}, {
-			"id": [325],
-			"speaker": "1",
-			"text": "You did not have a business plan.",
-			"start": "1746.8",
-			"end": "1748.2"
-		}, {
-			"id": [326],
-			"speaker": "1",
-			"text": "No no door.",
-			"start": "1749.2",
-			"end": "1750.4"
-		}, {
-			"id": [327],
 			"speaker": "0",
 			"text": "was no just making you just making burritos.",
 			"start": "1750.5",
 			"end": "1752.9"
 		}, {
-			"id": [328],
+			"id": [325],
 			"speaker": "0",
 			"text": "I was I was just making this up as I went along.",
 			"start": "1752.9",
 			"end": "1756.1"
 		}, {
-			"id": [329],
+			"id": [326],
 			"speaker": "0",
 			"text": "And I remember I hired a college buddy who went off to get his MBA.",
 			"start": "1756.4",
 			"end": "1764.9"
 		}, {
-			"id": [330],
+			"id": [327],
 			"speaker": "0",
 			"text": "Mmm.",
 			"start": "1765.1",
 			"end": "1765.4"
 		}, {
-			"id": [331],
+			"id": [328],
 			"speaker": "0",
 			"text": "So I hired him and said well we have to put this business plan together.",
 			"start": "1766.0",
 			"end": "1769.1"
 		}, {
-			"id": [332],
+			"id": [329],
 			"speaker": "0",
 			"text": "And so as we put the business plan together, what emerged was this economic model the investment sales the resulting",
 			"start": "1769.1",
 			"end": "1777.8"
 		}, {
+			"id": [330],
+			"speaker": "1",
+			"text": "invest wait just to be clear you would already had a bunch of stores at this point.",
+			"start": "1743.4",
+			"end": "1746.8"
+		}, {
+			"id": [331],
+			"speaker": "1",
+			"text": "You did not have a business plan.",
+			"start": "1746.8",
+			"end": "1748.2"
+		}, {
+			"id": [332],
+			"speaker": "1",
+			"text": "No no door.",
+			"start": "1749.2",
+			"end": "1750.4"
+		}, {
 			"id": [333],
-			"speaker": "1",
-			"text": "did you understand any of that stuff by the way?",
-			"start": "1778.8",
-			"end": "1780.9"
-		}, {
-			"id": [334],
-			"speaker": "1",
-			"text": "Well,",
-			"start": "1781.4",
-			"end": "1781.6"
-		}, {
-			"id": [335],
 			"speaker": "0",
 			"text": "didn't as we were contemplating.",
 			"start": "1781.9",
 			"end": "1783.9"
 		}, {
-			"id": [336],
+			"id": [334],
 			"speaker": "0",
 			"text": "Yeah the business plan but after having two Catch it.",
 			"start": "1783.9",
 			"end": "1786.9"
 		}, {
-			"id": [337],
+			"id": [335],
 			"speaker": "0",
 			"text": "You know, it was my MBA really that was that was my quick and dirty business school.",
 			"start": "1787.2",
 			"end": "1792.7"
 		}, {
-			"id": [338],
+			"id": [336],
 			"speaker": "0",
 			"text": "Hmm.",
 			"start": "1792.7",
 			"end": "1793.0"
 		}, {
-			"id": [339],
+			"id": [337],
 			"speaker": "0",
 			"text": "And so during the time where I was pitching it, I met one of our early investors who turned out to be a board member and and he was really instrumental in helping me understand how special the economic model was at",
 			"start": "1793.5",
 			"end": "1807.3"
 		}, {
+			"id": [338],
+			"speaker": "1",
+			"text": "did you understand any of that stuff by the way?",
+			"start": "1778.8",
+			"end": "1780.9"
+		}, {
+			"id": [339],
+			"speaker": "1",
+			"text": "Well,",
+			"start": "1781.4",
+			"end": "1781.6"
+		}, {
 			"id": [340],
-			"speaker": "1",
-			"text": "What was it about the economic model?",
-			"start": "1808.3",
-			"end": "1810.1"
-		}, {
-			"id": [341],
-			"speaker": "1",
-			"text": "That was",
-			"start": "1810.1",
-			"end": "1810.4"
-		}, {
-			"id": [342],
 			"speaker": "0",
 			"text": "special.",
 			"start": "1810.6",
 			"end": "1811.1"
 		}, {
-			"id": [343],
+			"id": [341],
 			"speaker": "0",
 			"text": "What was very very efficient.",
 			"start": "1811.4",
 			"end": "1812.9"
 		}, {
-			"id": [344],
+			"id": [342],
 			"speaker": "0",
 			"text": "First of all the investment cost was was very low And you know typical fast-food at the time had to have room for a drive-through.",
 			"start": "1812.9",
 			"end": "1821.6"
 		}, {
-			"id": [345],
+			"id": [343],
 			"speaker": "0",
 			"text": "They were usually freestanding and so all of that required a sizable investment with Chipotle we were going into strip malls often in the inexpensive Center units not the more desirable end caps.",
 			"start": "1821.6",
 			"end": "1836.6"
 		}, {
-			"id": [346],
+			"id": [344],
 			"speaker": "0",
 			"text": "This was early on so the investment was very very modest and our production system or that our service format really was Assembly line and as volumes increased as we serve more customers you would get you know a higher and higher margin higher contribution margin and so the resulting Returns on investment were extraordinary and again, nothing like this in the restaurant industry at the",
 			"start": "1836.7",
 			"end": "1865.8"
 		}, {
-			"id": [347],
+			"id": [345],
 			"speaker": "1",
-			"text": "Did you go to like private Equity companies or venture",
-			"start": "1865.8",
-			"end": "1869.5"
+			"text": "What was it about the economic model?",
+			"start": "1808.3",
+			"end": "1810.1"
 		}, {
-			"id": [348],
+			"id": [346],
+			"speaker": "1",
+			"text": "That was",
+			"start": "1810.1",
+			"end": "1810.4"
+		}, {
+			"id": [347],
 			"speaker": "0",
 			"text": "I did so I started to go to institutions and then one of my My initial investors Al Baldacci suggested that I send a plan to McDonald's and and he had met someone in McDonald's that was thinking about new restaurant ideas.",
 			"start": "1869.7",
 			"end": "1888.2"
 		}, {
-			"id": [349],
+			"id": [348],
 			"speaker": "0",
 			"text": "Right?",
 			"start": "1888.5",
 			"end": "1888.8"
 		}, {
-			"id": [350],
+			"id": [349],
 			"speaker": "0",
 			"text": "And so I thought well that's a really bad idea how you know Chipotle McDonald's are so completely different just we'll just just send them a plan see what happens and so I did and within a few weeks.",
 			"start": "1888.8",
 			"end": "1901.5"
 		}, {
-			"id": [351],
+			"id": [350],
 			"speaker": "0",
 			"text": "I got a call and a visit and a couple of weeks later.",
 			"start": "1901.9",
 			"end": "1905.3"
 		}, {
-			"id": [352],
+			"id": [351],
 			"speaker": "0",
 			"text": "I got another call and Can we bring some more people and that kept going on for about a year it culminated in a visit from the CEO and their",
 			"start": "1905.3",
 			"end": "1916.8"
 		}, {
-			"id": [353],
+			"id": [352],
 			"speaker": "1",
-			"text": "What do they eventually they made an offer to to invest in Chipotle or did they want to buy it",
-			"start": "1918.9",
-			"end": "1924.0"
+			"text": "Did you go to like private Equity companies or venture",
+			"start": "1865.8",
+			"end": "1869.5"
 		}, {
-			"id": [354],
+			"id": [353],
 			"speaker": "0",
 			"text": "Well initially, I think they wanted to buy it outright and I wasn't I wasn't willing to sell and so they made a very very small investment enough to open a few restaurants and and and then they You know the annually they would they would put in more money over a seven-year period I think they put in 360 million dollars or so, but the majority of that was in the",
 			"start": "1924.4",
 			"end": "1944.2"
 		}, {
-			"id": [355],
+			"id": [354],
 			"speaker": "1",
-			"text": "couple of years, but that McDonald's investment which may have been tiny for them because a multibillion-dollar company that cash infusion for you guys was tens of millions of dollars that was",
-			"start": "1944.5",
-			"end": "1954.7"
+			"text": "What do they eventually they made an offer to to invest in Chipotle or did they want to buy it",
+			"start": "1918.9",
+			"end": "1924.0"
 		}, {
-			"id": [356],
+			"id": [355],
 			"speaker": "0",
 			"text": "completely there was no there was no mean I was very lucky in that.",
 			"start": "1955.9",
 			"end": "1960.3"
 		}, {
-			"id": [357],
+			"id": [356],
 			"speaker": "0",
 			"text": "I don't think there's anyone else who would have been able to invest that way and bet on the come.",
 			"start": "1960.3",
 			"end": "1966.2"
 		}, {
-			"id": [358],
+			"id": [357],
 			"speaker": "0",
 			"text": "And what I mean by that is we open some markets California is a great example where sales were really soft and and the restaurants weren't making money, but McDonald's was very patient and and they believe that the sales would come in in some of the markets that were softer and indeed",
 			"start": "1966.5",
 			"end": "1985.5"
 		}, {
-			"id": [359],
+			"id": [358],
 			"speaker": "1",
-			"text": "did so they basically put in some money and that means McDonald's had a chunk of the owner chunk of the company that point",
-			"start": "1985.6",
-			"end": "1991.9"
+			"text": "couple of years, but that McDonald's investment which may have been tiny for them because a multibillion-dollar company that cash infusion for you guys was tens of millions of dollars that was",
+			"start": "1944.5",
+			"end": "1954.7"
 		}, {
-			"id": [360],
+			"id": [359],
 			"speaker": "0",
 			"text": "they own the majority of the company toward the end.",
 			"start": "1992.3",
 			"end": "1996.2"
 		}, {
-			"id": [361],
+			"id": [360],
 			"speaker": "0",
 			"text": "End of the seven year period but as we develop the relationship over the years, we realize that you know our way of doing things was more appropriate than what their system had to offer.",
 			"start": "1996.3",
 			"end": "2010.9"
 		}, {
+			"id": [361],
+			"speaker": "1",
+			"text": "did so they basically put in some money and that means McDonald's had a chunk of the owner chunk of the company that point",
+			"start": "1985.6",
+			"end": "1991.9"
+		}, {
 			"id": [362],
-			"speaker": "1",
-			"text": "because you guys did things like Source your meat from a specific Branch Farm like you found this Ranch that had the free-range pigs and you went with them.",
-			"start": "2011.2",
-			"end": "2021.4"
-		}, {
-			"id": [363],
-			"speaker": "1",
-			"text": "Right right.",
-			"start": "2021.4",
-			"end": "2022.5"
-		}, {
-			"id": [364],
 			"speaker": "0",
 			"text": "was reading a quarterly magazine.",
 			"start": "2023.3",
 			"end": "2026.2"
 		}, {
-			"id": [365],
+			"id": [363],
 			"speaker": "0",
 			"text": "In called The Art of eating and this particular issue that I was reading was about 9 Min Ranch and the pork farms in Thornton Iowa.",
 			"start": "2026.4",
 			"end": "2036.1"
 		}, {
-			"id": [366],
+			"id": [364],
 			"speaker": "0",
 			"text": "And at the time I was reading this I was thinking about changing the recipe for our Carnitas and so as I was reading this article, I was learning about you know, the way they they raise their pigs, which I guess is was much different than the typical way that pigs a race in the United.",
 			"start": "2036.8",
 			"end": "2056.0"
 		}, {
-			"id": [367],
+			"id": [365],
 			"speaker": "0",
 			"text": "It's the vast majority of pork is raised in confinement.",
 			"start": "2056.3",
 			"end": "2060.4"
 		}, {
-			"id": [368],
+			"id": [366],
 			"speaker": "0",
 			"text": "So if you contrast that with with what I saw at nine and ranch, I mean, it's just it's such a stark contrast.",
 			"start": "2060.4",
 			"end": "2068.8"
 		}, {
-			"id": [369],
+			"id": [367],
 			"speaker": "0",
 			"text": "So after sampling their pork I decided that I wanted to switch all of my Supply 229 and Ranch took about a year to get there.",
 			"start": "2068.8",
 			"end": "2076.4"
 		}, {
-			"id": [370],
+			"id": [368],
 			"speaker": "0",
 			"text": "But eventually we",
 			"start": "2076.4",
 			"end": "2077.2"
 		}, {
+			"id": [369],
+			"speaker": "1",
+			"text": "because you guys did things like Source your meat from a specific Branch Farm like you found this Ranch that had the free-range pigs and you went with them.",
+			"start": "2011.2",
+			"end": "2021.4"
+		}, {
+			"id": [370],
+			"speaker": "1",
+			"text": "Right right.",
+			"start": "2021.4",
+			"end": "2022.5"
+		}, {
 			"id": [371],
-			"speaker": "1",
-			"text": "and it was McDonald's ever saying to you.",
-			"start": "2078.0",
-			"end": "2079.9"
-		}, {
-			"id": [372],
-			"speaker": "1",
-			"text": "Hey, look, you know, it doesn't make sense that you're buying, you know these expensive product.",
-			"start": "2079.9",
-			"end": "2085.9"
-		}, {
-			"id": [373],
-			"speaker": "1",
-			"text": "I mean Look at our supply Channel coefficient is you know, you can save a lot of money.",
-			"start": "2085.9",
-			"end": "2090.1"
-		}, {
-			"id": [374],
-			"speaker": "1",
-			"text": "Could you can increase your profit margins or what?",
-			"start": "2090.1",
-			"end": "2092.9"
-		}, {
-			"id": [375],
-			"speaker": "1",
-			"text": "Does it just keep out of that?",
-			"start": "2092.9",
-			"end": "2094.0"
-		}, {
-			"id": [376],
-			"speaker": "1",
-			"text": "You know, they would",
-			"start": "2095.0",
-			"end": "2096.2"
-		}, {
-			"id": [377],
 			"speaker": "0",
 			"text": "questions not dissimilar from the questions you asked but they would see the results.",
 			"start": "2096.4",
 			"end": "2101.6"
 		}, {
-			"id": [378],
+			"id": [372],
 			"speaker": "0",
 			"text": "So I you know, I remember when I put in Diamond Ranch pork on a menu.",
 			"start": "2101.9",
 			"end": "2105.8"
 		}, {
-			"id": [379],
+			"id": [373],
 			"speaker": "0",
 			"text": "I had to increase the price of the Carnitas burrito and I think it increased by about $1 or something and so in the world of fast food, that was just not not understood.",
 			"start": "2106.6",
 			"end": "2117.7"
 		}, {
-			"id": [380],
+			"id": [374],
 			"speaker": "0",
 			"text": "I mean remember this is the time when fast food had the the 59 $79.99 price point.",
 			"start": "2117.8",
 			"end": "2124.8"
 		}, {
-			"id": [381],
+			"id": [375],
 			"speaker": "0",
 			"text": "I think that was a Taco Bell in the and the dollar value menu and things like this here here.",
 			"start": "2124.8",
 			"end": "2129.5"
 		}, {
-			"id": [382],
+			"id": [376],
 			"speaker": "0",
 			"text": "I am raising the price of the Carnitas burrito by a dollar and after we did that we started selling more Carnitas",
 			"start": "2129.5",
 			"end": "2136.4"
+		}, {
+			"id": [377],
+			"speaker": "1",
+			"text": "and it was McDonald's ever saying to you.",
+			"start": "2078.0",
+			"end": "2079.9"
+		}, {
+			"id": [378],
+			"speaker": "1",
+			"text": "Hey, look, you know, it doesn't make sense that you're buying, you know these expensive product.",
+			"start": "2079.9",
+			"end": "2085.9"
+		}, {
+			"id": [379],
+			"speaker": "1",
+			"text": "I mean Look at our supply Channel coefficient is you know, you can save a lot of money.",
+			"start": "2085.9",
+			"end": "2090.1"
+		}, {
+			"id": [380],
+			"speaker": "1",
+			"text": "Could you can increase your profit margins or what?",
+			"start": "2090.1",
+			"end": "2092.9"
+		}, {
+			"id": [381],
+			"speaker": "1",
+			"text": "Does it just keep out of that?",
+			"start": "2092.9",
+			"end": "2094.0"
+		}, {
+			"id": [382],
+			"speaker": "1",
+			"text": "You know, they would",
+			"start": "2095.0",
+			"end": "2096.2"
 		}, {
 			"id": [383],
 			"speaker": "1",
@@ -2312,112 +2312,112 @@
 			"end": "2144.9"
 		}, {
 			"id": [385],
-			"speaker": "1",
-			"text": "You weren't gonna last in a partnership forever.",
-			"start": "2146.7",
-			"end": "2149.1"
-		}, {
-			"id": [386],
 			"speaker": "0",
 			"text": "Right.",
 			"start": "2149.8",
 			"end": "2150.2"
 		}, {
-			"id": [387],
+			"id": [386],
 			"speaker": "0",
 			"text": "Well, so McDonald's has a very strong franchise.",
 			"start": "2150.6",
 			"end": "2154.0"
 		}, {
-			"id": [388],
+			"id": [387],
 			"speaker": "0",
 			"text": "Yes demand their franchisees obviously wanted one at a part of Chipotle and you know, certainly they would have been capable of operating Chipotle.",
 			"start": "2154.1",
 			"end": "2164.8"
 		}, {
-			"id": [389],
+			"id": [388],
 			"speaker": "0",
 			"text": "There are a lot of good operators in the McDonald's system, but the economic model was so good that we wanted to",
 			"start": "2165.3",
 			"end": "2172.9"
 		}, {
-			"id": [390],
+			"id": [389],
 			"speaker": "1",
-			"text": "it and you did not want to franchise the business we",
-			"start": "2173.1",
-			"end": "2175.3"
+			"text": "You weren't gonna last in a partnership forever.",
+			"start": "2146.7",
+			"end": "2149.1"
 		}, {
-			"id": [391],
+			"id": [390],
 			"speaker": "0",
 			"text": "No, and that was that was perhaps the biggest point of contention right and McDonald's, you know, sort of had a duty to their franchisees to offer Chipotle as a growth vehicle.",
 			"start": "2177.1",
 			"end": "2189.8"
 		}, {
-			"id": [392],
+			"id": [391],
 			"speaker": "0",
 			"text": "It just did it wasn't going to be a fit and we felt like we were ready to go our own",
 			"start": "2190.3",
 			"end": "2195.2"
 		}, {
+			"id": [392],
+			"speaker": "1",
+			"text": "it and you did not want to franchise the business we",
+			"start": "2173.1",
+			"end": "2175.3"
+		}, {
 			"id": [393],
-			"speaker": "1",
-			"text": "The expansion of Chipotle was unbelievable.",
-			"start": "2200.8",
-			"end": "2204.6"
-		}, {
-			"id": [394],
-			"speaker": "1",
-			"text": "I mean after that McDonald's investment.",
-			"start": "2204.6",
-			"end": "2206.7"
-		}, {
-			"id": [395],
-			"speaker": "1",
-			"text": "It was like it was like a rocket, you know, I mean and everybody and their and their brother and sisters wanted to create the next Chipotle.",
-			"start": "2206.7",
-			"end": "2215.3"
-		}, {
-			"id": [396],
-			"speaker": "1",
-			"text": "How does that affect your personal life?",
-			"start": "2215.8",
-			"end": "2217.6"
-		}, {
-			"id": [397],
-			"speaker": "1",
-			"text": "I mean you just like on top of the world looks so excited about this or were you stressed out about this because you went from 13.",
-			"start": "2217.6",
-			"end": "2225.8"
-		}, {
-			"id": [398],
-			"speaker": "1",
-			"text": "Stores to 500 stores very quickly and then",
-			"start": "2226.1",
-			"end": "2228.9"
-		}, {
-			"id": [399],
 			"speaker": "0",
 			"text": "500 stores to you",
 			"start": "2229.9",
 			"end": "2231.1"
 		}, {
+			"id": [394],
+			"speaker": "1",
+			"text": "The expansion of Chipotle was unbelievable.",
+			"start": "2200.8",
+			"end": "2204.6"
+		}, {
+			"id": [395],
+			"speaker": "1",
+			"text": "I mean after that McDonald's investment.",
+			"start": "2204.6",
+			"end": "2206.7"
+		}, {
+			"id": [396],
+			"speaker": "1",
+			"text": "It was like it was like a rocket, you know, I mean and everybody and their and their brother and sisters wanted to create the next Chipotle.",
+			"start": "2206.7",
+			"end": "2215.3"
+		}, {
+			"id": [397],
+			"speaker": "1",
+			"text": "How does that affect your personal life?",
+			"start": "2215.8",
+			"end": "2217.6"
+		}, {
+			"id": [398],
+			"speaker": "1",
+			"text": "I mean you just like on top of the world looks so excited about this or were you stressed out about this because you went from 13.",
+			"start": "2217.6",
+			"end": "2225.8"
+		}, {
+			"id": [399],
+			"speaker": "1",
+			"text": "Stores to 500 stores very quickly and then",
+			"start": "2226.1",
+			"end": "2228.9"
+		}, {
 			"id": [400],
+			"speaker": "0",
+			"text": "So if you think about my original plan for Chipotle?",
+			"start": "2239.2",
+			"end": "2242.4"
+		}, {
+			"id": [401],
 			"speaker": "1",
 			"text": "thousands now, but but did you enjoy that?",
 			"start": "2231.9",
 			"end": "2235.1"
 		}, {
-			"id": [401],
+			"id": [402],
 			"speaker": "1",
 			"text": "Was it exciting or were you overwhelmed",
 			"start": "2235.1",
 			"end": "2237.6"
-		}, {
-			"id": [402],
-			"speaker": "0",
-			"text": "So if you think about my original plan for Chipotle?",
-			"start": "2239.2",
-			"end": "2242.4"
 		}, {
 			"id": [403],
 			"speaker": "0",
@@ -2486,94 +2486,94 @@
 			"end": "2302.1"
 		}, {
 			"id": [414],
-			"speaker": "1",
-			"text": "imagine there was and that I did to me that seems like a very healthy thing because they would be I would not I would not feel confident if you didn't have self-doubt.",
-			"start": "2302.2",
-			"end": "2309.5"
-		}, {
-			"id": [415],
-			"speaker": "1",
-			"text": "I mean, that's the thing like you you're a chef and and you are all of a sudden at the helm of this.",
-			"start": "2309.6",
-			"end": "2315.7"
-		}, {
-			"id": [416],
-			"speaker": "1",
-			"text": "Massive growing Empire with tons of employees is scaling quickly.",
-			"start": "2316.1",
-			"end": "2320.7"
-		}, {
-			"id": [417],
-			"speaker": "1",
-			"text": "How did you even know how to deal with personnel and management and all",
-			"start": "2321.3",
-			"end": "2324.7"
-		}, {
-			"id": [418],
 			"speaker": "0",
 			"text": "stuff?",
 			"start": "2324.9",
 			"end": "2325.6"
 		}, {
-			"id": [419],
+			"id": [415],
 			"speaker": "0",
 			"text": "Well, you learn along the way and there have been so many Transformations along the way and so over the last 24 years.",
 			"start": "2325.7",
 			"end": "2334.8"
 		}, {
-			"id": [420],
+			"id": [416],
 			"speaker": "0",
 			"text": "It's about, you know, Reinventing yourself, you know learning new things, but I got good at finding really good people.",
 			"start": "2334.9",
 			"end": "2345.7"
 		}, {
-			"id": [421],
+			"id": [417],
 			"speaker": "0",
 			"text": "I think I think that's probably what I'm best",
 			"start": "2346.1",
 			"end": "2348.3"
 		}, {
+			"id": [418],
+			"speaker": "1",
+			"text": "imagine there was and that I did to me that seems like a very healthy thing because they would be I would not I would not feel confident if you didn't have self-doubt.",
+			"start": "2302.2",
+			"end": "2309.5"
+		}, {
+			"id": [419],
+			"speaker": "1",
+			"text": "I mean, that's the thing like you you're a chef and and you are all of a sudden at the helm of this.",
+			"start": "2309.6",
+			"end": "2315.7"
+		}, {
+			"id": [420],
+			"speaker": "1",
+			"text": "Massive growing Empire with tons of employees is scaling quickly.",
+			"start": "2316.1",
+			"end": "2320.7"
+		}, {
+			"id": [421],
+			"speaker": "1",
+			"text": "How did you even know how to deal with personnel and management and all",
+			"start": "2321.3",
+			"end": "2324.7"
+		}, {
 			"id": [422],
-			"speaker": "1",
-			"text": "So you go public your share price just skyrockets, and this is I guess in in 2006 and then you have a pretty big crisis in 2015.",
-			"start": "2350.5",
-			"end": "2363.9"
-		}, {
-			"id": [423],
-			"speaker": "1",
-			"text": "What was that like for you to deal with?",
-			"start": "2365.3",
-			"end": "2367.3"
-		}, {
-			"id": [424],
-			"speaker": "1",
-			"text": "This is a we can talk about the details, but first of all, what what was that?",
-			"start": "2367.3",
-			"end": "2371.8"
-		}, {
-			"id": [425],
 			"speaker": "0",
 			"text": "sure well that you know that anyone would get sick from the food that you serve them is really a Thing.",
 			"start": "2373.0",
 			"end": "2380.5"
 		}, {
-			"id": [426],
+			"id": [423],
 			"speaker": "0",
 			"text": "Yeah, and so immediately, you know, you know, we try to figure out what could be causing this and was it was a very difficult thing to figure out and there were a lot of experts who we brought on immediately and and you know, the CDC and lots of",
 			"start": "2380.5",
 			"end": "2397.3"
 		}, {
-			"id": [427],
+			"id": [424],
 			"speaker": "1",
-			"text": "this started in I guess the Pacific Northwest some people who got sick from from after eating",
-			"start": "2398.2",
-			"end": "2403.4"
+			"text": "So you go public your share price just skyrockets, and this is I guess in in 2006 and then you have a pretty big crisis in 2015.",
+			"start": "2350.5",
+			"end": "2363.9"
 		}, {
-			"id": [428],
+			"id": [425],
+			"speaker": "1",
+			"text": "What was that like for you to deal with?",
+			"start": "2365.3",
+			"end": "2367.3"
+		}, {
+			"id": [426],
+			"speaker": "1",
+			"text": "This is a we can talk about the details, but first of all, what what was that?",
+			"start": "2367.3",
+			"end": "2371.8"
+		}, {
+			"id": [427],
 			"speaker": "0",
 			"text": "and so, you know over over one month period from basically mid October to mid-november 52 people got sick with E coli, but",
 			"start": "2403.5",
 			"end": "2415.9"
+		}, {
+			"id": [428],
+			"speaker": "1",
+			"text": "this started in I guess the Pacific Northwest some people who got sick from from after eating",
+			"start": "2398.2",
+			"end": "2403.4"
 		}, {
 			"id": [429],
 			"speaker": "0",
@@ -2606,340 +2606,340 @@
 			"end": "2452.8"
 		}, {
 			"id": [434],
-			"speaker": "1",
-			"text": "impossible to do a hundred percent of time,",
-			"start": "2453.3",
-			"end": "2455.5"
-		}, {
-			"id": [435],
 			"speaker": "0",
 			"text": "You know, you can never say a hundred percent.",
 			"start": "2456.1",
 			"end": "2459.9"
 		}, {
-			"id": [436],
+			"id": [435],
 			"speaker": "0",
 			"text": "Yeah, but you can you can get very close to 0 so, you know the I'll give you an example I think about an avocado there potentially pathogens on an avocado, but you wash the avocado right?",
 			"start": "2459.9",
 			"end": "2474.0"
 		}, {
-			"id": [437],
+			"id": [436],
 			"speaker": "0",
 			"text": "The avocado is washed after its harvested.",
 			"start": "2474.0",
 			"end": "2476.6"
 		}, {
-			"id": [438],
+			"id": [437],
 			"speaker": "0",
 			"text": "Hmm But but what if that avocado could be infected somehow falls on the ground and hits hits a little rock or something and that in just that little spot where the pathogen is pushed under the skin.",
 			"start": "2476.6",
 			"end": "2490.2"
 		}, {
-			"id": [439],
+			"id": [438],
 			"speaker": "0",
 			"text": "Yeah, and now you wash it but you don't wash that little spot and what if as you put your knife into the avocado it hits a cutted on hits that exact spot.",
 			"start": "2490.4",
 			"end": "2499.8"
 		}, {
+			"id": [439],
+			"speaker": "1",
+			"text": "impossible to do a hundred percent of time,",
+			"start": "2453.3",
+			"end": "2455.5"
+		}, {
 			"id": [440],
-			"speaker": "1",
-			"text": "what are the chances of that one and one in a million?",
-			"start": "2500.1",
-			"end": "2502.9"
-		}, {
-			"id": [441],
-			"speaker": "1",
-			"text": "Yeah one in ten million.",
-			"start": "2502.9",
-			"end": "2504.4"
-		}, {
-			"id": [442],
-			"speaker": "1",
-			"text": "I'm seeing about all the oven how many ways I cut at home and I",
-			"start": "2504.4",
-			"end": "2506.8"
-		}, {
-			"id": [443],
 			"speaker": "0",
 			"text": "Them.",
 			"start": "2507.4",
 			"end": "2507.7"
 		}, {
-			"id": [444],
+			"id": [441],
 			"speaker": "0",
 			"text": "Well, that's right.",
 			"start": "2507.9",
 			"end": "2508.7"
 		}, {
-			"id": [445],
+			"id": [442],
 			"speaker": "0",
 			"text": "But if you you cut dozens we cut millions and millions and I'm not saying that the avocado was responsible for for this particular incident, but we've looked at every single item we bring in and we've ensured that there are a number of interventions along the way and so what we do with this Avocado now is after we wash it we plunge it into boiling water for 5 seconds.",
 			"start": "2508.7",
 			"end": "2535.4"
 		}, {
-			"id": [446],
+			"id": [443],
 			"speaker": "0",
 			"text": "This is called blanching.",
 			"start": "2535.4",
 			"end": "2536.4"
 		}, {
-			"id": [447],
+			"id": [444],
 			"speaker": "0",
 			"text": "Yeah and And it's not long enough to cook the avocado, but just long enough to bring the temperature of the skin and the area under the skin just high enough so that it would kill any pathogen that might be there and we do this with lemons and limes and bell peppers and jalapeno peppers.",
 			"start": "2536.4",
 			"end": "2556.2"
 		}, {
-			"id": [448],
+			"id": [445],
 			"speaker": "0",
 			"text": "It's a process that is very very thorough and and the chance that a pathogen can survive through that is certainly",
 			"start": "2556.5",
 			"end": "2564.5"
 		}, {
+			"id": [446],
+			"speaker": "1",
+			"text": "what are the chances of that one and one in a million?",
+			"start": "2500.1",
+			"end": "2502.9"
+		}, {
+			"id": [447],
+			"speaker": "1",
+			"text": "Yeah one in ten million.",
+			"start": "2502.9",
+			"end": "2504.4"
+		}, {
+			"id": [448],
+			"speaker": "1",
+			"text": "I'm seeing about all the oven how many ways I cut at home and I",
+			"start": "2504.4",
+			"end": "2506.8"
+		}, {
 			"id": [449],
-			"speaker": "1",
-			"text": "zero.",
-			"start": "2564.7",
-			"end": "2565.2"
-		}, {
-			"id": [450],
-			"speaker": "1",
-			"text": "Steve you have this incredible run from the literally from the first story you open that was profitable and then you hit this crisis point in 2015, and I can't imagine you ever dealt with anything even remotely close to that.",
-			"start": "2567.0",
-			"end": "2582.8"
-		}, {
-			"id": [451],
-			"speaker": "1",
-			"text": "So were you mentally prepared for",
-			"start": "2582.9",
-			"end": "2585.4"
-		}, {
-			"id": [452],
 			"speaker": "0",
 			"text": "Well, you know, I'm here now, so I got through it.",
 			"start": "2587.0",
 			"end": "2590.9"
 		}, {
-			"id": [453],
+			"id": [450],
 			"speaker": "0",
 			"text": "Yeah, but we weren't we weren't prepared.",
 			"start": "2590.9",
 			"end": "2595.1"
 		}, {
-			"id": [454],
+			"id": [451],
 			"speaker": "0",
 			"text": "As an organization for it, obviously.",
 			"start": "2595.8",
 			"end": "2599.5"
 		}, {
-			"id": [455],
+			"id": [452],
 			"speaker": "0",
 			"text": "Yeah, and and and since that incident Works were two years away from it.",
 			"start": "2599.5",
 			"end": "2604.2"
 		}, {
-			"id": [456],
+			"id": [453],
 			"speaker": "0",
 			"text": "Now.",
 			"start": "2604.2",
 			"end": "2604.5"
 		}, {
-			"id": [457],
+			"id": [454],
 			"speaker": "0",
 			"text": "We are we are a different company.",
 			"start": "2605.1",
 			"end": "2606.8"
 		}, {
-			"id": [458],
+			"id": [455],
 			"speaker": "0",
 			"text": "We have top-notch board of directors that are independent and very critical in a good way in a challenging way and we are prepared now for a lot of success ahead of",
 			"start": "2607.8",
 			"end": "2624.2"
 		}, {
-			"id": [459],
+			"id": [456],
 			"speaker": "1",
-			"text": "I mean when you think about the the valuation of the company this number, I mean, I guess it's taken a little bit of a beating because the crisis you face, but at its highest it was it was what like like near twenty billion",
-			"start": "2626.2",
-			"end": "2639.2"
+			"text": "zero.",
+			"start": "2564.7",
+			"end": "2565.2"
 		}, {
-			"id": [460],
+			"id": [457],
+			"speaker": "1",
+			"text": "Steve you have this incredible run from the literally from the first story you open that was profitable and then you hit this crisis point in 2015, and I can't imagine you ever dealt with anything even remotely close to that.",
+			"start": "2567.0",
+			"end": "2582.8"
+		}, {
+			"id": [458],
+			"speaker": "1",
+			"text": "So were you mentally prepared for",
+			"start": "2582.9",
+			"end": "2585.4"
+		}, {
+			"id": [459],
 			"speaker": "0",
 			"text": "21 21 billion, I think was the",
 			"start": "2640.3",
 			"end": "2642.2"
 		}, {
+			"id": [460],
+			"speaker": "1",
+			"text": "I mean when you think about the the valuation of the company this number, I mean, I guess it's taken a little bit of a beating because the crisis you face, but at its highest it was it was what like like near twenty billion",
+			"start": "2626.2",
+			"end": "2639.2"
+		}, {
 			"id": [461],
-			"speaker": "1",
-			"text": "21 billion dollar.",
-			"start": "2642.6",
-			"end": "2643.8"
-		}, {
-			"id": [462],
-			"speaker": "1",
-			"text": "I mean for a burrito restaurant started in Denver in 1993.",
-			"start": "2643.8",
-			"end": "2649.5"
-		}, {
-			"id": [463],
-			"speaker": "1",
-			"text": "That's pretty insane.",
-			"start": "2650.3",
-			"end": "2651.7"
-		}, {
-			"id": [464],
-			"speaker": "1",
-			"text": "You know, I mean when you think about that I heard you sit back and I'd say yeah.",
-			"start": "2652.0",
-			"end": "2657.5"
-		}, {
-			"id": [465],
-			"speaker": "1",
-			"text": "Wow, look at how awesome is that or do you don't even think about",
-			"start": "2657.7",
-			"end": "2660.6"
-		}, {
-			"id": [466],
 			"speaker": "0",
 			"text": "It doesn't really work that way.",
 			"start": "2661.7",
 			"end": "2663.1"
 		}, {
-			"id": [467],
+			"id": [462],
 			"speaker": "0",
 			"text": "It's not big stair-step sort of increases.",
 			"start": "2663.7",
 			"end": "2667.6"
 		}, {
-			"id": [468],
+			"id": [463],
 			"speaker": "0",
 			"text": "Its relatively linear, you know, and sort of, you know, just it getting bigger taking on more responsibility the evaluation all this sort of thing.",
 			"start": "2668.2",
 			"end": "2677.0"
 		}, {
-			"id": [469],
+			"id": [464],
 			"speaker": "0",
 			"text": "It's just it's been a relatively",
 			"start": "2677.0",
 			"end": "2679.0"
 		}, {
-			"id": [470],
+			"id": [465],
 			"speaker": "1",
-			"text": "and do you think and so is it the that amount of money",
-			"start": "2680.0",
-			"end": "2683.2"
+			"text": "21 billion dollar.",
+			"start": "2642.6",
+			"end": "2643.8"
 		}, {
-			"id": [471],
+			"id": [466],
+			"speaker": "1",
+			"text": "I mean for a burrito restaurant started in Denver in 1993.",
+			"start": "2643.8",
+			"end": "2649.5"
+		}, {
+			"id": [467],
+			"speaker": "1",
+			"text": "That's pretty insane.",
+			"start": "2650.3",
+			"end": "2651.7"
+		}, {
+			"id": [468],
+			"speaker": "1",
+			"text": "You know, I mean when you think about that I heard you sit back and I'd say yeah.",
+			"start": "2652.0",
+			"end": "2657.5"
+		}, {
+			"id": [469],
+			"speaker": "1",
+			"text": "Wow, look at how awesome is that or do you don't even think about",
+			"start": "2657.7",
+			"end": "2660.6"
+		}, {
+			"id": [470],
 			"speaker": "0",
 			"text": "abstract?",
 			"start": "2683.4",
 			"end": "2684.6"
 		}, {
-			"id": [472],
+			"id": [471],
 			"speaker": "0",
 			"text": "I don't",
 			"start": "2686.7",
 			"end": "2687.0"
 		}, {
+			"id": [472],
+			"speaker": "1",
+			"text": "and do you think and so is it the that amount of money",
+			"start": "2680.0",
+			"end": "2683.2"
+		}, {
 			"id": [473],
-			"speaker": "1",
-			"text": "I mean d is is it mean anything?",
-			"start": "2687.5",
-			"end": "2689.2"
-		}, {
-			"id": [474],
-			"speaker": "1",
-			"text": "I mean that because I would think I would be incredibly proud of that.",
-			"start": "2689.2",
-			"end": "2692.7"
-		}, {
-			"id": [475],
-			"speaker": "1",
-			"text": "You know that that you grow this thing to such a huge place in that period of",
-			"start": "2692.7",
-			"end": "2698.4"
-		}, {
-			"id": [476],
 			"speaker": "0",
 			"text": "So again, I've always so when I before I started the first restaurant I used to tell people that I wanted to show that just because food is sort of fast doesn't mean it has to be a typical fast-food experience.",
 			"start": "2699.7",
 			"end": "2712.4"
 		}, {
-			"id": [477],
+			"id": [474],
 			"speaker": "0",
 			"text": "And that evolved to saying that I want to change the way Americans think about and eat fast food and I remember when I started saying that we weren't very big that that sounded like big audacious goal.",
 			"start": "2713.3",
 			"end": "2728.6"
 		}, {
-			"id": [478],
+			"id": [475],
 			"speaker": "0",
 			"text": "But but the basic idea behind our purpose is that you know food that's raised right should be people's Everyday Food and as I see others who have Open restaurants that are based on the Chipotle model.",
 			"start": "2728.6",
 			"end": "2748.1"
 		}, {
-			"id": [479],
+			"id": [476],
 			"speaker": "0",
 			"text": "I'm I'm very excited about that too.",
 			"start": "2749.0",
 			"end": "2751.4"
 		}, {
-			"id": [480],
+			"id": [477],
 			"speaker": "0",
 			"text": "That's that's what that's what drives",
 			"start": "2751.4",
 			"end": "2753.2"
 		}, {
-			"id": [481],
+			"id": [478],
 			"speaker": "1",
-			"text": "How much of your success you think is because of luck and how much because of your hard work",
-			"start": "2754.0",
-			"end": "2759.3"
+			"text": "I mean d is is it mean anything?",
+			"start": "2687.5",
+			"end": "2689.2"
 		}, {
-			"id": [482],
+			"id": [479],
+			"speaker": "1",
+			"text": "I mean that because I would think I would be incredibly proud of that.",
+			"start": "2689.2",
+			"end": "2692.7"
+		}, {
+			"id": [480],
+			"speaker": "1",
+			"text": "You know that that you grow this thing to such a huge place in that period of",
+			"start": "2692.7",
+			"end": "2698.4"
+		}, {
+			"id": [481],
 			"speaker": "0",
 			"text": "skill.",
 			"start": "2759.4",
 			"end": "2759.8"
 		}, {
-			"id": [483],
+			"id": [482],
 			"speaker": "0",
 			"text": "So, you know my success in the early days was I think I caused a lot of that success but I then you have to layer on being in the right place at the right time.",
 			"start": "2761.0",
 			"end": "2777.6"
 		}, {
-			"id": [484],
+			"id": [483],
 			"speaker": "0",
 			"text": "I was lucky to have a father who could who could invest $85,000 in my first restaurant because I couldn't have raised that money myself that McDonald's allowed me to basically run the company and tap into their resources, you know, it's a combination but also a lot of it is of you know, if I go back This this concept that I learned in cooking school.",
 			"start": "2778.4",
 			"end": "2801.7"
 		}, {
-			"id": [485],
+			"id": [484],
 			"speaker": "0",
 			"text": "It's this French term called knees and place everything.",
 			"start": "2801.8",
 			"end": "2805.2"
 		}, {
-			"id": [486],
+			"id": [485],
 			"speaker": "0",
 			"text": "That's right place.",
 			"start": "2805.2",
 			"end": "2805.9"
 		}, {
-			"id": [487],
+			"id": [486],
 			"speaker": "0",
 			"text": "Yeah everything in its place and it's in it's basically you could think about it, you know before service you have your Muse and pawson and that means that once service starts everything you need for a successful service.",
 			"start": "2805.9",
 			"end": "2816.5"
 		}, {
-			"id": [488],
+			"id": [487],
 			"speaker": "0",
 			"text": "That night is laid out just so yeah, and and so I think about I Think About You Know My overall Museum place that I've set myself up for success.",
 			"start": "2816.5",
 			"end": "2828.9"
 		}, {
-			"id": [489],
+			"id": [488],
 			"speaker": "0",
 			"text": "Yes, and that seems to make sense for",
 			"start": "2829.0",
 			"end": "2830.7"
+		}, {
+			"id": [489],
+			"speaker": "1",
+			"text": "How much of your success you think is because of luck and how much because of your hard work",
+			"start": "2754.0",
+			"end": "2759.3"
 		}]
 	},
 	"low": {
@@ -3045,7 +3045,7 @@
 			"speaker": "0"
 		}, {
 			"text": "A combination of food borrowed from stars and a service format is what the idea for chipotle is.",
-			"id": [75],
+			"id": [76],
 			"speaker": "0"
 		}, {
 			"text": "Did you ever see a burrito in San Francisco?",
@@ -3205,11 +3205,11 @@
 			"speaker": "1"
 		}, {
 			"text": "I remember customers asking what the place was.",
-			"id": [191],
+			"id": [192],
 			"speaker": "0"
 		}, {
 			"text": "She bottles all kinds of things..,.",
-			"id": [191],
+			"id": [193],
 			"speaker": "0"
 		}, {
 			"text": "Did you ever think that they were right?",
@@ -3357,7 +3357,7 @@
 			"speaker": "0"
 		}, {
 			"text": "It's all done in Denver, because people say like wait.",
-			"id": [289],
+			"id": [290],
 			"speaker": "1"
 		}, {
 			"text": "Do you believe that Denver can have two of these?",
@@ -3549,11 +3549,11 @@
 			"speaker": "1"
 		}, {
 			"text": "What was it like to deal with that?",
-			"id": [422],
+			"id": [423],
 			"speaker": "1"
 		}, {
 			"text": "We can discuss the details, but first of all, what was that?",
-			"id": [422],
+			"id": [424],
 			"speaker": "1"
 		}, {
 			"text": "Everyone would get sick from the food you serve them.",
@@ -3625,11 +3625,11 @@
 			"speaker": "1"
 		}, {
 			"text": "It's not a big stair step increase.",
-			"id": [466],
+			"id": [467],
 			"speaker": "0"
 		}, {
 			"text": "It's relatively linear and getting bigger taking on more responsibility.",
-			"id": [466],
+			"id": [468],
 			"speaker": "0"
 		}, {
 			"text": "Do you think about the amount of money?",
@@ -3667,12 +3667,12 @@
 			"id": [0, 1, 2, 3],
 			"speaker": "0"
 		}, {
-			"text": "A sponsor of a business offers fast reliable internet.",
-			"id": [5, 6, 7, 8],
-			"speaker": "1"
-		}, {
 			"text": "We were going to have a brand new episode next week and we wanted to revisit the story of Steveells.",
 			"id": [11, 12, 13, 14],
+			"speaker": "1"
+		}, {
+			"text": "A sponsor of a business offers fast reliable internet.",
+			"id": [5, 6, 7, 8],
 			"speaker": "1"
 		}, {
 			"text": "Steveells turned his love for burritos in San Francisco into a fast casual restaurant.",
@@ -3691,16 +3691,16 @@
 			"id": [41, 42],
 			"speaker": "0"
 		}, {
-			"text": "It made no sense that my father would study art history with me.",
-			"id": [51, 52, 53],
+			"text": "You can go for a few months and work in a restaurant.",
+			"id": [58, 59],
 			"speaker": "0"
 		}, {
 			"text": "I only went because I didn't know what I wanted to do.",
 			"id": [57],
 			"speaker": "0"
 		}, {
-			"text": "You can go for a few months and work in a restaurant.",
-			"id": [58],
+			"text": "It made no sense that my father would study art history with me.",
+			"id": [51, 52, 53],
 			"speaker": "0"
 		}, {
 			"text": "I ate there a few times when I was in college.",
@@ -3712,36 +3712,32 @@
 			"speaker": "0"
 		}, {
 			"text": "A combination of food borrowed from stars and a service format is what the idea for chipotle is.",
-			"id": [75],
+			"id": [76],
 			"speaker": "0"
 		}, {
 			"text": "I used to go to these places when I was a kid and get a carnitas burrito with all the things on the inside.",
 			"id": [81, 82, 83, 84],
 			"speaker": "0"
 		}, {
-			"text": "When you peel the foil back, it's not the same as eating a burrito on a plate with green chili, and I thought they were five dollars.",
-			"id": [88, 89, 90, 91, 92, 93],
-			"speaker": "0"
-		}, {
 			"text": "I said I could make some money by opening up my scale.",
 			"id": [97, 98, 99, 100],
 			"speaker": "0"
 		}, {
-			"text": "I thought opening a burrito shop in a small town would be a good idea.",
-			"id": [103, 104],
+			"text": "When you peel the foil back, it's not the same as eating a burrito on a plate with green chili, and I thought they were five dollars.",
+			"id": [88, 89, 90, 91, 92, 93],
 			"speaker": "0"
 		}, {
 			"text": "Go to a place where no one had seen this style before.",
 			"id": [112],
 			"speaker": "0"
 		}, {
+			"text": "I thought opening a burrito shop in a small town would be a good idea.",
+			"id": [103, 104],
+			"speaker": "0"
+		}, {
 			"text": "You thought a taqueria could make enough money to open a restaurant.",
 			"id": [114],
 			"speaker": "1"
-		}, {
-			"text": "We would come in at noon to learn what we were going to cook.",
-			"id": [116],
-			"speaker": "0"
 		}, {
 			"text": "The style of the restaurant made a difference.",
 			"id": [117],
@@ -3751,12 +3747,20 @@
 			"id": [119],
 			"speaker": "0"
 		}, {
+			"text": "We would come in at noon to learn what we were going to cook.",
+			"id": [116],
+			"speaker": "0"
+		}, {
 			"text": "I was going to open it in boulder but I couldn't find a place that I could afford and my friend was working in Denver.",
 			"id": [124, 125, 126, 127],
 			"speaker": "0"
 		}, {
 			"text": "He gave me a week to find a few potential real estate sites after I said that the service format would be an open kitchen.",
 			"id": [129, 130, 131, 132, 133, 134, 135],
+			"speaker": "0"
+		}, {
+			"text": "I convinced my father to lend me the money.",
+			"id": [143, 144],
 			"speaker": "0"
 		}, {
 			"text": "The oak wood floor underneath the architect of record helped me get the permit.",
@@ -3787,52 +3791,36 @@
 			"id": [181, 182, 183, 184],
 			"speaker": "1"
 		}, {
-			"text": "It was a novel experience to have an open kitchen so close to the customer that it was difficult to understand.",
-			"id": [196, 197, 198, 199, 200, 201],
+			"text": "It was a novel experience to have an open kitchen so close to the customer and the grill just a few feet away the cooking in the end of the service people like to do, it was.",
+			"id": [196, 197, 198, 199, 200, 201, 203, 205],
 			"speaker": "0"
 		}, {
 			"text": "I asked my friends if they wanted to help.",
 			"id": [208, 209],
 			"speaker": "0"
 		}, {
-			"text": "The menu was developed the day before I opened and it was interesting because I trained the cooks how to make all the different ingredients.",
-			"id": [211, 212, 213, 214, 215],
-			"speaker": "0"
-		}, {
-			"text": "I didn't think to write them down because they were about technique and tasting.",
-			"id": [217],
-			"speaker": "0"
-		}, {
-			"text": "I wanted people to taste the food and understand the techniques of cooking, not just think about adding a cup of that and be done with it.",
-			"id": [218],
-			"speaker": "0"
-		}, {
-			"text": "I don't think they did that right when they opened a fast food restaurant.",
-			"id": [219, 220],
+			"text": "The menu was developed the day before I opened and it was interesting because I trained the cooks how to make all the different ingredients and I wanted people to taste the food and understand the techniques of.",
+			"id": [211, 212, 213, 214, 215, 217, 218, 219, 220],
 			"speaker": "0"
 		}, {
 			"text": "We ran out of food the first day because of the line and then we got a bigger order the next day but we couldn't keep up.",
 			"id": [231],
 			"speaker": "0"
 		}, {
-			"text": "The burrito and colorado was a hit.",
-			"id": [232],
+			"text": "You said a burrito and colorado was on a plate.",
+			"id": [232, 233],
+			"speaker": "1"
+		}, {
+			"text": "You need to think about both big and small changes if you want to start fresh.",
+			"id": [250, 251, 252],
 			"speaker": "1"
 		}, {
 			"text": "If you listen to the show you can earn a masters degree without paying the application fee if you want to be productive, it's the start of a chain of events that will forever change.",
-			"id": [237, 238, 239, 240, 241, 242, 243, 244],
-			"speaker": "1"
-		}, {
-			"text": "workday gives quick insights to help your finance team plan.",
-			"id": [245, 246, 247, 248],
-			"speaker": "1"
-		}, {
-			"text": "You have to make changes in your life.",
-			"id": [251],
+			"id": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248],
 			"speaker": "1"
 		}, {
 			"text": "The store got a great first review when people started buying food.",
-			"id": [256],
+			"id": [258],
 			"speaker": "1"
 		}, {
 			"text": "I paid back part of my loan in the first few months.",
@@ -3875,12 +3863,8 @@
 			"id": [335, 336, 337, 338, 339],
 			"speaker": "0"
 		}, {
-			"text": "Fast food had room for a drive through and the investment cost was low.",
-			"id": [344],
-			"speaker": "0"
-		}, {
-			"text": "Due to the large investment, we used to go into strip malls in the inexpensive center units.",
-			"id": [345, 346],
+			"text": "Fast food had room for a drive through and the investment cost was low so all of that required a sizable investment with chipotle.",
+			"id": [344, 345, 346],
 			"speaker": "0"
 		}, {
 			"text": "One of my investors suggested that I send a plan to Mcdonalds.",
@@ -3915,21 +3899,17 @@
 			"id": [371, 372, 373],
 			"speaker": "1"
 		}, {
-			"text": "I had to raise the price by one because they would see the results.",
-			"id": [377, 378, 379],
-			"speaker": "0"
-		}, {
-			"text": "McDonald's would have been able to operate at a part of chipotle.",
-			"id": [386, 387, 388],
+			"text": "When I added diamond ranch pork to the menu, I had to raise the price of the carnitas burrito by a dollar.",
+			"id": [377, 378, 379, 382],
 			"speaker": "0"
 		}, {
 			"text": "The economic model was so good that we wanted to leave it.",
 			"id": [389],
 			"speaker": "0"
 		}, {
-			"text": "It wasn't a good fit for us to franchise the business.",
-			"id": [390],
-			"speaker": "1"
+			"text": "McDonald's would have been able to operate at a part of chipotle.",
+			"id": [386, 387, 388],
+			"speaker": "0"
 		}, {
 			"text": "McDonald's had a duty to their franchisees to offer chipotle as a growth vehicle.",
 			"id": [391],
@@ -3951,12 +3931,12 @@
 			"id": [426],
 			"speaker": "0"
 		}, {
-			"text": "52 people got sick with e coli in a single month and I don't know if it's a freak or not.",
-			"id": [428, 429, 430],
-			"speaker": "0"
-		}, {
 			"text": "protocols were developed to stop the pathogen from entering the system.",
 			"id": [432],
+			"speaker": "0"
+		}, {
+			"text": "52 people got sick with e coli in a single month and I don't know if it's a freak or not.",
+			"id": [428, 429, 430],
 			"speaker": "0"
 		}, {
 			"text": "If you cut dozens, we will cut millions and millions, and we have made sure that there are a number of interventions along the way, because lemons and limes and bell peppers are long.",
@@ -3974,6 +3954,10 @@
 			"text": "When you think about it, it's pretty crazy.",
 			"id": [461, 462, 463, 464, 465],
 			"speaker": "1"
+		}, {
+			"text": "Getting bigger taking on more responsibility is not a stair step increase.",
+			"id": [467, 468],
+			"speaker": "0"
 		}, {
 			"text": "When I told people I wanted to change the way Americans think about fast food, that changed.",
 			"id": [476, 477],
@@ -4001,14 +3985,14 @@
 			"text": "The company exploded in the 2000s because it had more than 20 stores.",
 			"id": [30, 31, 32, 33, 34, 35, 36, 37]
 		}, {
+			"text": "It made no sense that my father would study art history with me.",
+			"id": [51, 52, 53]
+		}, {
 			"text": "You can go for a few months and work in a restaurant.",
-			"id": [58]
+			"id": [58, 59]
 		}, {
 			"text": "I only went because I didn't know what I wanted to do.",
 			"id": [57]
-		}, {
-			"text": "It made no sense that my father would study art history with me.",
-			"id": [51, 52, 53]
 		}, {
 			"text": "I ate there a few times when I was in college.",
 			"id": [64]
@@ -4016,29 +4000,32 @@
 			"text": "It's hard to say what he is like because he was an amazing visionary.",
 			"id": [69]
 		}, {
-			"text": "I used to go to these places when I was a kid and get a carnitas burrito with all the things on the inside.",
-			"id": [75, 81, 82, 83, 84]
+			"text": "A combination of food borrowed from stars and a service format is what the idea for chipotle is.",
+			"id": [76]
 		}, {
-			"text": "I said I could make some money by opening up my scale.",
-			"id": [97, 98, 99, 100]
+			"text": "I used to go to these places when I was a kid and get a carnitas burrito with all the things on the inside.",
+			"id": [81, 82, 83, 84]
 		}, {
 			"text": "I thought it was five dollars for a burrito with green chili.",
 			"id": [88, 89, 90, 91, 92, 93]
 		}, {
-			"text": "Go to a place where no one had seen this style before.",
-			"id": [112]
+			"text": "I said I could make some money by opening up my scale.",
+			"id": [97, 98, 99, 100]
 		}, {
 			"text": "I thought opening a burrito shop in a small town would be a good idea.",
 			"id": [103, 104]
 		}, {
+			"text": "Go to a place where no one had seen this style before.",
+			"id": [112]
+		}, {
 			"text": "You thought a taqueria could make enough money to open a restaurant.",
 			"id": [114]
 		}, {
-			"text": "I don't think I had to labor over the recipes.",
-			"id": [119]
-		}, {
 			"text": "We would come in at noon to learn what we were going to cook.",
 			"id": [116]
+		}, {
+			"text": "I don't think I had to labor over the recipes.",
+			"id": [119]
 		}, {
 			"text": "I was going to open it in boulder, but I couldn't afford it.",
 			"id": [124, 125, 126, 127]
@@ -4049,29 +4036,38 @@
 			"text": "The oak wood floor underneath the architect of record helped me get the permit.",
 			"id": [152, 153]
 		}, {
-			"text": "The design aesthetic came from the necessity to be frugal and that was easy to install.",
-			"id": [154, 155, 156, 157, 158, 159, 160, 161]
+			"text": "It was a lot of money to make the place look better.",
+			"id": [154]
 		}, {
-			"text": "I knew full scale restaurants were dicey and that this was going to be a cash cow that could fund and support them so I wanted to make it very simple.",
-			"id": [164, 165, 166, 167, 168, 169, 170, 171]
+			"text": "The design aesthetic came from the fact that the table bases were easy to install.",
+			"id": [155, 156, 157, 158, 159, 160, 161]
 		}, {
 			"text": "You have a design aesthetic that is natural because you know what you do.",
 			"id": [163]
 		}, {
+			"text": "I knew full scale restaurants were dicey and that this was going to be a cash cow that could fund and support them so I wanted to make it very simple.",
+			"id": [164, 165, 166, 167, 168, 169, 170, 171]
+		}, {
 			"text": "I wanted to add a smoky character to the beans because jeremiah was a fan of southwest cuisine.",
 			"id": [174, 175, 176, 177, 178, 179]
 		}, {
-			"text": "It was difficult to understand how close the kitchen was to the customer.",
-			"id": [196, 197, 198, 199, 200, 201]
+			"text": "The experience of having an open kitchen so close to the customer and the grill just a few feet away was novel.",
+			"id": [196, 197, 198, 199, 200, 201, 203, 205]
 		}, {
 			"text": "We ran out of food the first day because of the line and then we got a bigger order the next day but we couldn't keep up.",
 			"id": [231]
 		}, {
-			"text": "If you listen to the show, you can earn a masters degree without paying the application fee if you want to be productive.",
-			"id": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248]
+			"text": "You said a burrito and colorado was on a plate.",
+			"id": [232, 233]
 		}, {
 			"text": "The store got a great first review when people started buying food.",
-			"id": [256]
+			"id": [258]
+		}, {
+			"text": "You can earn a masters degree without paying the application fee if you listen to the show.",
+			"id": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248]
+		}, {
+			"text": "If you want to start fresh, you need to think about both big and small changes.",
+			"id": [250, 251, 252]
 		}, {
 			"text": "I paid back part of my loan in the first few months.",
 			"id": [260, 261, 262]
@@ -4097,14 +4093,20 @@
 			"text": "One of our early investors was a board member because he attended a business school.",
 			"id": [335, 336, 337, 338, 339]
 		}, {
-			"text": "The investment cost was low due to the large investment we used to make in strip malls.",
+			"text": "Fast food had room for a drive through and the investment cost was low so all of that required a large investment.",
 			"id": [344, 345, 346]
 		}, {
 			"text": "One of my investors suggested that I send a plan to Mcdonalds.",
 			"id": [348, 349, 350]
 		}, {
-			"text": "Since the company was worth tens of millions of dollars, no one else would have been able to invest in that way.",
-			"id": [354, 355, 356, 357, 358]
+			"text": "They made a small investment to open a few restaurants and then they would put in more money over time because they wanted to buy it.",
+			"id": [354]
+		}, {
+			"text": "It might have been a small investment since the company was worth tens of millions of dollars.",
+			"id": [355]
+		}, {
+			"text": "No one else would have been able to invest that way.",
+			"id": [356, 357, 358]
 		}, {
 			"text": "Sources your meat from a specific farm and you went with them.",
 			"id": [362]
@@ -4112,17 +4114,17 @@
 			"text": "I saw that most of the pork is raised in confinement so I thought about changing the recipe.",
 			"id": [364, 365, 366, 367, 368, 369]
 		}, {
-			"text": "I had to raise the price by one because they would see the results.",
-			"id": [377, 378, 379]
-		}, {
-			"text": "The economic model was so good that we wanted to leave it.",
-			"id": [389]
+			"text": "The price of the carnitas burrito was raised by a dollar.",
+			"id": [377, 378, 379, 382]
 		}, {
 			"text": "McDonald's would have been able to operate at a part of chipotle.",
 			"id": [386, 387, 388]
 		}, {
-			"text": "It wasn't a good fit for us to franchise the business and Mcdonalds had a duty to their franchisees to offer chipotle as a growth vehicle.",
-			"id": [390, 391]
+			"text": "The economic model was so good that we wanted to leave it.",
+			"id": [389]
+		}, {
+			"text": "McDonald's had a duty to their franchisees to offer chipotle as a growth vehicle.",
+			"id": [391]
 		}, {
 			"text": "The original plan was to use the funds from the small restaurant to open a full restaurant.",
 			"id": [402, 403, 404, 405, 406, 407]
@@ -4130,23 +4132,26 @@
 			"text": "I would not feel confident if I had doubts like a chef.",
 			"id": [414, 415]
 		}, {
-			"text": "We brought in experts to help us figure out what was causing this.",
-			"id": [426]
-		}, {
 			"text": "There is a crisis when your share price goes public.",
 			"id": [422]
 		}, {
-			"text": "protocols were developed to stop the pathogen from entering the system.",
-			"id": [432]
+			"text": "We brought in experts to help us figure out what was causing this.",
+			"id": [426]
 		}, {
 			"text": "52 people got sick with e coli in a single month and I don't know if it's a freak or not.",
 			"id": [428, 429, 430]
+		}, {
+			"text": "protocols were developed to stop the pathogen from entering the system.",
+			"id": [432]
 		}, {
 			"text": "We made sure that there were interventions along the way because lemons and limes and bell peppers are long.",
 			"id": [443, 444, 445, 446, 447]
 		}, {
 			"text": "Since that incident works were two years away from happening we are a different company and we have top notch board of directors that are independent and critical in a challenging way.",
 			"id": [453, 454, 455, 456, 457, 458]
+		}, {
+			"text": "Getting bigger taking on more responsibility is not a stair step increase.",
+			"id": [467, 468]
 		}, {
 			"text": "I wanted to change the way Americans think about fast food.",
 			"id": [476, 477]
