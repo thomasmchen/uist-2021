@@ -1,0 +1,43 @@
+.Parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.SpeakerTitleContainer{
+    flex-grow: 1;
+    padding: 1em;
+}
+
+.FirstSpeakerTitle {
+    float: left;
+}
+
+.SecondSpeakerTitle {
+    float: right;
+}
+
+.DataContainer {
+    flex-grow: 1;
+}
+
+.LeftSpeakerContainer {
+    float: left;
+    text-align: left;
+    width: 50%;
+    background-color: tomato;
+}
+
+.RightSpeakerContainer {
+    float: right;
+    text-align: right;
+    width: 50%;
+    background-color: blue;
+}
+
+.Speech {
+    color: white;
+    text-shadow:0 0 1px transparent;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    background-color: green;
+}
