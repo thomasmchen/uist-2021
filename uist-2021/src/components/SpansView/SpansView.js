@@ -115,9 +115,6 @@ function HighCol(props) {
     // takes in setSelected prop
     return (
         <div className="SegmentColumn High">
-            <div className="ColumnTitleContainer">
-                <h2 className="ColumnTitle">High Pass</h2>
-            </div>
             <div className="data">
                 { props.segments
                     .map((segment, idx) =>
