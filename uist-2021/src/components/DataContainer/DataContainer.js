@@ -37,7 +37,7 @@ function DataContainer(props) {
     return (
         <div className="DataContainer">
             <Switch>
-                <Route path="/uist-2021/">
+                <Route path="/uist-2021/data/explore">
                     <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/uist-2021/data/qa">
@@ -48,6 +48,9 @@ function DataContainer(props) {
                 </Route>
                 <Route path="/uist-2021/static/about">
                     <AboutView />
+                </Route>
+                <Route>
+                    <p>Welcome! Navigate to the Explore Page to Begin.</p>
                 </Route>
             </Switch>
         </div>
