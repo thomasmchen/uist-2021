@@ -37,7 +37,7 @@ function DataContainer(props) {
     return (
         <div className="DataContainer">
             <Switch>
-                <Route path="/uist-2021/data/spans">
+                <Route path="/uist-2021">
                     <SpansView className="SpansView" audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/uist-2021/data/qa">
