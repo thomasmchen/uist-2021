@@ -6,7 +6,7 @@ function SpeakerView(props) {
     if (!props.audioData) {
         return (
             <div>
-                <h1>Explore View</h1>
+                <h1>Speaker View</h1>
                 <p>No audio sample selected</p>
             </div>
         )
