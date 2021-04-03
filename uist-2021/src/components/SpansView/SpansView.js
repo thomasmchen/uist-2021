@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import Segment from './Segment'
 import "./SpansView.css"
 import classnames from 'classnames';
@@ -75,7 +75,7 @@ function TemporalView(props) {
                     {rawItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
                             style={{flex: `${(element.duration * 100).toFixed(2)} 1 auto`}}
-                            onClick={() => props.setSelected(element.ids)}></div>)}
+                            onClick={() => {props.setSelected(element.ids); props.setHighSelected(idx)}}></div>)}
                 </div>
             </div>
             <div className="row">
@@ -84,7 +84,7 @@ function TemporalView(props) {
                     {lowItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
                             style={{flex: `${(element.duration * 100).toFixed(2)} 1 auto`}}
-                            onClick={() => props.setSelected(element.ids)}></div>)}
+                            onClick={() => {props.setSelected(element.ids); props.setHighSelected(idx)}}></div>)}
                 </div>
             </div>
             <div className="row">
@@ -93,7 +93,7 @@ function TemporalView(props) {
                     {medItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
                             style={{flex: `${(element.duration * 100).toFixed(2)} 1 auto`}}
-                            onClick={() => props.setSelected(element.ids)}></div>)}
+                            onClick={() => {props.setSelected(element.ids); props.setHighSelected(idx)}}></div>)}
                 </div>
             </div>
             <div className="row">
@@ -102,7 +102,7 @@ function TemporalView(props) {
                     {highItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
                             style={{flex: `${(element.duration * 100).toFixed(2)} 1 auto`}}
-                            onClick={() => props.setSelected(element.ids)}></div>)}
+                            onClick={() => {props.setSelected(element.ids); props.setHighSelected(idx)}}></div>)}
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@ function HighCol(props) {
             <div className="data">
                 { props.segments
                     .map((segment, idx) =>
-                        <div key={idx} onClick={() => props.setSelected(segment.id)} className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}>
+                        <div key={idx} onClick={() => {props.setSelected(segment.id)}} className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})} ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
                             <Segment text={segment.text} id={segment.id.join(", ")}></Segment>
                         </div>
                     ) }
@@ -151,10 +151,28 @@ function GenericCol(props) {
 
 function SpansView(props) {
     const [selectedIds, setSelectedIds] = useState([])
+    const [highSelectedIdx, setHighSelectedIdx] = useState(null)
+    const selectedRef = useRef(null);
 
     // reset selectedId on audioData change
     let { audioData } = props;
     useEffect(() => setSelectedIds(null), [audioData])
+
+    // scroll to high segment if out of view when a qualifying segment is chosen
+    useEffect(() => {
+        if (highSelectedIdx === null){
+            return;
+        }
+
+        if (selectedRef.current){
+            selectedRef.current.scrollIntoView({
+                behavior: "smooth",
+                block: "center"
+              });
+        }
+
+    }, [selectedRef, highSelectedIdx]);
+
 
     if (!props.audioData) {
         return (
@@ -168,7 +186,7 @@ function SpansView(props) {
     return (
         <div className="Parent">
             <div className="HighSegmentViewColumn">
-                <HighCol segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} />
+                <HighCol segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} selectedRef={selectedRef}/>
             </div>
             <div className="DataViewColumn">
                 <div>
@@ -177,7 +195,7 @@ function SpansView(props) {
                         high={props.audioData["high"]["segments"]}
                         med={props.audioData["med"]["segments"]}
                         low={props.audioData["low"]["segments"]}
-                        selectedIds={selectedIds} setSelected={setSelectedIds} />
+                        selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} />
                 </div>
                 <div className="SegmentColumnContainer">
                     <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
