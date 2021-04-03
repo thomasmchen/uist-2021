@@ -1,13 +1,24 @@
 import React from 'react';
+import AudioPlayer from 'react-h5-audio-player';
 
 function Segment(props) {
     var Highlight = require('react-highlighter');
+    let adjustedStartTime = props.start - 2;
+    let adjustedEndTime = props.end - 1;
 
     return (
         <div className="Segment">
             <div className = "SegmentDataContainer">
                 {props.speaker != null &&
                         <div className="SegmentSpeakerContainer">
+                            {
+                                props.start && props.end && 
+                                (   
+                                    <div className="SegmentAudioContainer">
+                                        <audio className="AudioPlayer" src={"http://dev.thomaschen.org/uist2021/" + props.audioName + ".mp3#t=" + adjustedStartTime + "," + adjustedEndTime} controls/>
+                                    </div>
+                                )
+                            }
                             <p className="SegmentSpeakerText">Speaker {props.speaker}</p>
                         </div>
                 }

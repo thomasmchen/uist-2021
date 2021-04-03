@@ -24,7 +24,7 @@
 }
 
 .TitleViewTextContainer {
-    margin-left: 0.25em;
+    margin-left: 1em;
     display: flex;
     align-items: center;
 }
@@ -46,6 +46,7 @@
 .AudioContainer {
     display: flex;
     align-items: center;
+    margin-left: 3rem;
 }
 
 .Title {
@@ -83,7 +84,7 @@
 }
 
 .SegmentIdContainer {
-    background-color: rgba(139, 139, 139, 0.5);
+    background-color: rgba(153, 153, 153, 0.6);
     color: white;
     padding: 1em;
 }
@@ -109,7 +110,7 @@
 }
 
 .SegmentSpeakerContainer{
-    background-color: rgba(139, 139, 139, 0.75);
+    background-color: rgb(168, 168, 168);
     float: right;
     color: white;
     grid-column: 1/-1;
@@ -119,10 +120,48 @@
     position: relative;
     float: right;
     font-size: 0.75em;
-    background-color: rgba(166, 98, 230, 0.7);
+    background-color: rgb(166, 98, 230, 0.7);
     display: inline-block;
     text-align: right;
     padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
+.SegmentAudioContainer {
+    position: relative;
+    float: left;
+}
+
+.AudioPlayer{
+    margin-top: 3px;
+    height: 1.5rem;
+}
+
+audio {
+    outline: none;
+    display: block;
+    background-color: transparent !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+audio::-webkit-media-controls-panel,
+audio::-webkit-media-controls-mute-button,
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-timeline-container,
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display,
+audio::-webkit-media-controls-timeline,
+audio::-webkit-media-controls-volume-slider-container,
+audio::-webkit-media-controls-volume-slider,
+audio::-webkit-media-controls-seek-back-button,
+audio::-webkit-media-controls-seek-forward-button,
+audio::-webkit-media-controls-fullscreen-button,
+audio::-webkit-media-controls-rewind-button,
+audio::-webkit-media-controls-return-to-realtime-button,
+audio::-webkit-media-controls-toggle-closed-captions-button {
+    background-color: rgb(168, 168, 168);
+    border-radius: 0px;
+    border: 0px;
+    outline: 0px;
 }
 
 .EmptyColumn {

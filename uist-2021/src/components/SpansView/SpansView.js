@@ -165,11 +165,22 @@ function GenericCol(props) {
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
                             <div key={idx} className={classnames({'selected': true, "item": true})}>
+                                { (segment.start && segment.end) ?
+                                <Segment 
+                                text={segment.text} id={segment.id.join(", ")}
+                                speaker={segment.speaker ? segment.speaker : null}
+                                phrase={segment.phrase ? segment.phrase : null}
+                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                                audioName={props.audioName}
+                                start={segment.start}
+                                end={segment.end}/>
+                                :
                                 <Segment 
                                     text={segment.text} id={segment.id.join(", ")}
                                     speaker={segment.speaker ? segment.speaker : null}
                                     phrase={segment.phrase ? segment.phrase : null}
                                     isSelected={ifArrayIntersect(segment.id, props.selectedIds)}/>
+                                }
                             </div>
                         ) }
             </div>
@@ -229,7 +240,7 @@ function SpansView(props) {
                 <div className="SegmentColumnContainer">
                     <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
                     <GenericCol title="Low" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} />
-                    <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} />
+                    <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} />
                 </div>
             </div>
         </div>
