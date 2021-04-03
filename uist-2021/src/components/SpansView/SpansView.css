@@ -5,6 +5,44 @@
     --low-bg-color: 174, 255, 74;
 }
 
+.TitleViewContainer {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    margin-bottom: 1.5em;
+}
+
+.TitleViewImageContainer {
+    max-height: 130px;
+    max-width: 130px;
+}
+
+.TitleViewImage {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.TitleViewTextContainer {
+    margin-left: 0.25em;
+    display: flex;
+    align-items: center;
+}
+
+.TitleViewSubtitle {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+
+.TitleViewTitle{
+    font-size: 2rem;
+    padding: 0.4em 0em 0.4em 0em;
+}
+
+.TitleViewDate{
+    font-size: 0.75rem;
+}
+
 .Title {
     margin-bottom: 1.5em;
 }
@@ -128,13 +166,13 @@
 }
 
 .DataViewColumn{
-    padding: 0em 1em 0em 1em;
+    padding: 0em 1em 0em 1.5em;
 }
 
 .DataViewColumn .SegmentColumnContainer{
     height:auto;
-    min-height: 80vh;
-    max-height: 80vh;
+    min-height: 68vh;
+    max-height: 68vh;
     overflow-y: scroll;
 }
 

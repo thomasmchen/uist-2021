@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import Segment from './Segment'
 import "./SpansView.css"
-import classnames from 'classnames';
+import classnames from 'classnames'
 
 const ifArrayIntersect = (array1, array2) => {
     const set2 = new Set(array2);
@@ -9,6 +9,23 @@ const ifArrayIntersect = (array1, array2) => {
         if (set2.has(array1[i])) return true;
     }
     return false
+}
+
+function TitleView(props) {
+    return (
+        <div className="TitleViewContainer">
+            <div className="TitleViewImageContainer">
+                <img className="TitleViewImage" src={props.image}></img>
+            </div>
+            <div className="TitleViewTextContainer">
+                <div className="TitleViewTextWrapper">
+                    <div className="TitleViewSubtitle">{props.subtitle ? props.subtitle : "Subtitle Not Found"}</div>
+                    <div className="TitleViewTitle">{props.title ? props.title : "Title Not Found"}</div>
+                    <div className="TitleViewDate">{props.date ? props.date : "Date Not Found"}</div>
+                </div>
+            </div>
+        </div>
+    )
 }
 
 function TemporalView(props) {
@@ -190,6 +207,7 @@ function SpansView(props) {
             </div>
             <div className="DataViewColumn">
                 <div>
+                    <TitleView title={props.audioData.title} subtitle={props.audioData.subtitle} date={props.audioData.date} audioName={props.audioName} image={props.audioData.image}></TitleView>
                     <TemporalView
                         raw={props.audioData["raw"]["segments"]}
                         high={props.audioData["high"]["segments"]}
