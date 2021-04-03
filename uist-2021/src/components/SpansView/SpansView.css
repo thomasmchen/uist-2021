@@ -7,7 +7,7 @@
 
 .TitleViewContainer {
     display: grid;
-    grid-template-columns: 0.1fr 1fr;
+    grid-template-columns: 0.1fr 1fr 0.3fr;
     margin-bottom: 1.5em;
 }
 
@@ -41,6 +41,11 @@
 
 .TitleViewDate{
     font-size: 0.75rem;
+}
+
+.AudioContainer {
+    display: flex;
+    align-items: center;
 }
 
 .Title {

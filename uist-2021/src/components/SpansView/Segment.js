@@ -1,6 +1,8 @@
 import React from 'react';
 
 function Segment(props) {
+    var Highlight = require('react-highlighter');
+
     return (
         <div className="Segment">
             <div className = "SegmentDataContainer">
@@ -13,7 +15,12 @@ function Segment(props) {
                     <p className="SegmentIdText">{props.id}</p>
                 </div>
                 <div className={"SegmentTextContainer"}>
-                    <p className="SegmentTextText">{props.text}</p>
+                    {
+                        (props.phrase != null && props.isSelected) ?
+                        <Highlight className="SegmentTextText" search={props.phrase}>{props.text}</Highlight>
+                        :
+                        <p className="SegmentTextText">{props.text}</p>
+                    }
                 </div>
             </div>
         </div>

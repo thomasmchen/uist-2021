@@ -135,8 +135,15 @@ function HighCol(props) {
             <div className="data">
                 { props.segments
                     .map((segment, idx) =>
-                        <div key={idx} onClick={() => {props.setSelected(segment.id)}} className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})} ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
-                            <Segment text={segment.text} id={segment.id.join(", ")}></Segment>
+                        <div key={idx} 
+                            onClick={() => {props.setSelected(segment.id)}} 
+                            className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
+                            ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
+                            <Segment 
+                                text={segment.text} 
+                                id={segment.id.join(", ")}
+                                phrase={segment.phrase ? segment.phrase : null}
+                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}/>
                         </div>
                     ) }
             </div>
@@ -158,7 +165,11 @@ function GenericCol(props) {
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
                             <div key={idx} className={classnames({'selected': true, "item": true})}>
-                                <Segment text={segment.text} id={segment.id.join(", ")} speaker={segment.speaker ? segment.speaker : null}></Segment>
+                                <Segment 
+                                    text={segment.text} id={segment.id.join(", ")}
+                                    speaker={segment.speaker ? segment.speaker : null}
+                                    phrase={segment.phrase ? segment.phrase : null}
+                                    isSelected={ifArrayIntersect(segment.id, props.selectedIds)}/>
                             </div>
                         ) }
             </div>
