@@ -255,7 +255,7 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
 }
 
 .SegmentColumnContainer .item {
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 }
 
 .notclickable .Segment:hover{
