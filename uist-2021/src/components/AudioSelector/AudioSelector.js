@@ -13,6 +13,7 @@ class AudioSelector extends Component {
                         name="AudioSelect"
                         onChange={e => this.props.onChange(e.target.value)}
                     >
+                        <option defaultValue disabled>Please Select An Audio</option>
                         {this.props.audios.map((audio) => (
                             <option key={audio.id}>
                             {audio.value}

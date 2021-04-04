@@ -87,7 +87,7 @@ function TemporalView(props) {
     return (
         <div className="temporal">
             <div className="row">
-                <p className="label">Raw</p>
+                <p className="label">Orig</p>
                 <div className="data raw">
                     {rawItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
@@ -96,7 +96,7 @@ function TemporalView(props) {
                 </div>
             </div>
             <div className="row">
-                <p className="label">Low</p>
+                <p className="label">Long</p>
                 <div className="data low">
                     {lowItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
@@ -114,7 +114,7 @@ function TemporalView(props) {
                 </div>
             </div>
             <div className="row">
-                <p className="label">High</p>
+                <p className="label">Short</p>
                 <div className="data high">
                     {highItems.map((element, idx) =>
                         <div key={idx} className={classnames({"selected": ifArrayIntersect(element.ids, props.selectedIds), "item": true})}
@@ -132,6 +132,9 @@ function HighCol(props) {
     // takes in setSelected prop
     return (
         <div className="SegmentColumn High">
+            <div className="ColumnTitleContainer">
+                <h2 className="ColumnTitle">{props.title} Summary</h2>
+            </div>
             <div className="data">
                 { props.segments
                     .map((segment, idx) =>
@@ -142,8 +145,10 @@ function HighCol(props) {
                             <Segment 
                                 text={segment.text} 
                                 id={segment.id.join(", ")}
+                                sequence={segment.sequence}
                                 phrase={segment.phrase ? segment.phrase : null}
-                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}/>
+                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                                speaker={segment.duration}/>
                         </div>
                     ) }
             </div>
@@ -158,7 +163,7 @@ function GenericCol(props) {
     return (
         <div className={`SegmentColumn notclickable ${props.title}`}>
             <div className="ColumnTitleContainer">
-                <h2 className="ColumnTitle">{props.title} Pass</h2>
+                <h2 className="ColumnTitle">{props.title} Summary</h2>
             </div>
             <div className="data">
                 { props.segments
@@ -173,13 +178,15 @@ function GenericCol(props) {
                                 isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                 audioName={props.audioName}
                                 start={segment.start}
-                                end={segment.end}/>
+                                end={segment.end}
+                                label="Speaker"/>
                                 :
                                 <Segment 
                                     text={segment.text} id={segment.id.join(", ")}
                                     speaker={segment.speaker ? segment.speaker : null}
                                     phrase={segment.phrase ? segment.phrase : null}
-                                    isSelected={ifArrayIntersect(segment.id, props.selectedIds)}/>
+                                    isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                                    label="Speaker"/>
                                 }
                             </div>
                         ) }
@@ -225,7 +232,7 @@ function SpansView(props) {
     return (
         <div className="Parent">
             <div className="HighSegmentViewColumn">
-                <HighCol segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} selectedRef={selectedRef}/>
+                <HighCol title="Short" segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} selectedRef={selectedRef}/>
             </div>
             <div className="DataViewColumn">
                 <div>
@@ -238,9 +245,9 @@ function SpansView(props) {
                         selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} />
                 </div>
                 <div className="SegmentColumnContainer">
-                    <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} />
-                    <GenericCol title="Low" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} />
-                    <GenericCol title="Raw" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} />
+                    <GenericCol title="Medium" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>
+                    <GenericCol title="Long" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} label="speaker"/>
+                    <GenericCol title="Original" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
                 </div>
             </div>
         </div>

@@ -59,6 +59,11 @@
     text-align: center;
 }
 
+.ColumnTitle {
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
+
 .Segment:hover{
     cursor: pointer;
     background-color: rgba(0, 0, 0, 0.05);
@@ -79,6 +84,13 @@
 .SegmentDataContainer {
     display: grid;
     grid-template-columns: 0.1fr 1.5fr;
+    grid-gap: 0px;
+    border:1px solid rgba(139, 139, 139, 0.75);
+}
+
+.SegmentDataContainerWithoutId {
+    display: grid;
+    grid-template-columns: 1.5fr;
     grid-gap: 0px;
     border:1px solid rgba(139, 139, 139, 0.75);
 }
@@ -104,9 +116,6 @@
 .SegmentTextText {
     position: relative;
     float: left;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .SegmentSpeakerContainer{
@@ -116,7 +125,7 @@
     grid-column: 1/-1;
 }
 
-.SegmentSpeakerText {
+.SegmentSpeakerText1 {
     position: relative;
     float: right;
     font-size: 0.75em;
@@ -124,6 +133,26 @@
     display: inline-block;
     text-align: right;
     padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
+.SegmentSpeakerText2 {
+    position: relative;
+    float: right;
+    font-size: 0.75em;
+    background-color: rgba(81, 114, 224, 0.7);
+    display: inline-block;
+    text-align: right;
+    padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
+.SegmentSpeakerTime {
+    position: relative;
+    float: right;
+    font-size: 0.75em;
+    background-color: rgba(105, 105, 105, 0.7);
+    display: inline-block;
+    text-align: right;
+    padding: 0.4em 0.6em 0.4em 0.6em; 
 }
 
 .SegmentAudioContainer {
@@ -180,9 +209,9 @@ audio::-webkit-media-controls-toggle-closed-captions-button {
 .SegmentColumnContainer .selected {
     background-color: rgba(var(--raw-bg-color), 0.2);
 }
-.SegmentColumnContainer .High .selected { background-color: rgba(var(--high-bg-color), 0.2); }
+.SegmentColumnContainer .Short .selected { background-color: rgba(var(--high-bg-color), 0.2); }
 .SegmentColumnContainer .Medium .selected { background-color: rgba(var(--med-bg-color), 0.2); }
-.SegmentColumnContainer .Low .selected { background-color: rgba(var(--low-bg-color), 0.2); }
+.SegmentColumnContainer .Long .selected { background-color: rgba(var(--low-bg-color), 0.2); }
 
 .Parent {
     display: grid;

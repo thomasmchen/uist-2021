@@ -1,16 +1,16 @@
 import React from 'react';
-import AudioPlayer from 'react-h5-audio-player';
+import classnames from 'classnames'
 
 function Segment(props) {
     var Highlight = require('react-highlighter');
     let adjustedStartTime = props.start - 2;
-    let adjustedEndTime = props.end - 1;
+    let adjustedEndTime = props.end;
 
     return (
         <div className="Segment">
-            <div className = "SegmentDataContainer">
+            <div className = {(props.sequence != null) ? "SegmentDataContainer" : "SegmentDataContainerWithoutId"}>
                 {props.speaker != null &&
-                        <div className="SegmentSpeakerContainer">
+                        <div className={"SegmentSpeakerContainer"}>
                             {
                                 props.start && props.end && 
                                 (   
@@ -19,12 +19,15 @@ function Segment(props) {
                                     </div>
                                 )
                             }
-                            <p className="SegmentSpeakerText">Speaker {props.speaker}</p>
+                            <p className={classnames({"SegmentSpeakerTime": !props.label}, {"SegmentSpeakerText1": props.speaker === "0"}, {"SegmentSpeakerText2": props.speaker === "1"})}>{props.label} {props.speaker}</p>
                         </div>
                 }
-                <div className="SegmentIdContainer">
-                    <p className="SegmentIdText">{props.id}</p>
-                </div>
+                {
+                    props.sequence != null ? (
+                    <div className={"SegmentIdContainer"}>
+                        <p className="SegmentIdText">{props.sequence}</p>
+                    </div>) : <div></div>
+                }
                 <div className={"SegmentTextContainer"}>
                     {
                         (props.phrase != null && props.isSelected) ?
