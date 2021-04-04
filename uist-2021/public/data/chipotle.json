@@ -10,28 +10,28 @@
 			"text": "This message comes from NPR sponsor Spectrum Business.",
 			"start": "0.3",
 			"end": "3.3",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"id": [1],
 			"speaker": "0",
 			"text": "Small businesses don't have time for nonsense.",
 			"start": "3.4",
 			"end": "5.6",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"id": [2],
 			"speaker": "0",
 			"text": "That's why Spectrum Business is No Nonsense just business.",
 			"start": "5.6",
 			"end": "8.8",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"id": [3],
 			"speaker": "0",
 			"text": "They offer fast reliable internet at a great value call eight five five eight.",
 			"start": "8.9",
 			"end": "13.1",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"id": [4],
 			"speaker": "0",
@@ -171,7 +171,7 @@
 			"text": "We don't really like to have too many choices anything beyond 426 actually makes us anxious and unhappy which could help explain the success of Chipotle because if you've ever been in one You can probably tell me the menu by heart burrito bowl salad tacos for options.",
 			"start": "127.7",
 			"end": "147.5",
-			"phrase": ""
+			"phrase": "t was supposed to"
 		}, {
 			"id": [24],
 			"speaker": "0",
@@ -206,7 +206,7 @@
 			"text": "It was supposed to be a one-off burrito joint in Denver a burrito joint that would generate enough cash to finance a high-end restaurant.",
 			"start": "174.2",
 			"end": "182.2",
-			"phrase": ""
+			"phrase": "t was supposed to"
 		}, {
 			"id": [29],
 			"speaker": "0",
@@ -843,14 +843,14 @@
 			"text": "Well Stars was really good training, you know, we would we would come in at noon and you know, we would learn at that time what we were going to cook that evening.",
 			"start": "624.5",
 			"end": "633.8",
-			"phrase": "the style of the restaurant and what"
+			"phrase": "what we were going to cook"
 		}, {
 			"id": [120],
 			"speaker": "1",
 			"text": "And you know, there wasn't a set menu per se and there weren't recipes per se you had to figure it out based on the style of the restaurant and what you know, Jeremiah and mark the executive chef wanted.",
 			"start": "634.8",
 			"end": "648.6",
-			"phrase": "the style of the restaurant and what"
+			"phrase": "the style of the restaurant"
 		}, {
 			"id": [121],
 			"speaker": "1",
@@ -1032,14 +1032,14 @@
 			"text": "Basically nothing and so I convinced my father to lend me the money.",
 			"start": "757.4",
 			"end": "761.8",
-			"phrase": ""
+			"phrase": "i convinced my father to lend me the money."
 		}, {
 			"id": [147],
 			"speaker": "1",
 			"text": "It was actually, you know part investment part loan.",
 			"start": "761.8",
 			"end": "765.5",
-			"phrase": ""
+			"phrase": "i convinced my father to lend me the money."
 		}, {
 			"id": [148],
 			"speaker": "0",
@@ -1361,56 +1361,56 @@
 			"text": "name Chipotle was not an easy place.",
 			"start": "1031.7",
 			"end": "1036.8",
-			"phrase": "to a lot of people"
+			"phrase": "i remember customers"
 		}, {
 			"id": [194],
 			"speaker": "1",
 			"text": "I remember customers coming in and have to say well, what is that place?",
 			"start": "1037.2",
 			"end": "1040.9",
-			"phrase": "to a lot of people"
+			"phrase": "i remember customers"
 		}, {
 			"id": [195],
 			"speaker": "1",
 			"text": "She poodle just bottle Chipotle all kinds of all kinds of.",
 			"start": "1040.9",
 			"end": "1045.0",
-			"phrase": "to a lot of people"
+			"phrase": "i remember customers"
 		}, {
 			"id": [196],
 			"speaker": "0",
 			"text": "kind of heard it.",
 			"start": "1046.6",
 			"end": "1047.5",
-			"phrase": "to a lot of people"
+			"phrase": "i remember customers"
 		}, {
 			"id": [197],
 			"speaker": "1",
 			"text": "and then you had to walk up to the counter and actually build your burrito.",
 			"start": "1048.6",
 			"end": "1053.7",
-			"phrase": "to a lot of people"
+			"phrase": "i can put rice and beans"
 		}, {
 			"id": [198],
 			"speaker": "1",
 			"text": "And this was this was confusing to a lot of people they said, well, what do you Have and I said, well, we have all these things here.",
 			"start": "1054.0",
 			"end": "1060.0",
-			"phrase": "to a lot of people"
+			"phrase": "this was confusing to a lot of people"
 		}, {
 			"id": [199],
 			"speaker": "1",
 			"text": "There's burritos and in the burrito, I can put rice and beans and meats and sauces.",
 			"start": "1060.0",
 			"end": "1066.7",
-			"phrase": "to a lot of people"
+			"phrase": "i can put rice and beans"
 		}, {
 			"id": [200],
 			"speaker": "1",
 			"text": "And I mean you look you think about it now and it just seems so obvious how you you would use Chipotle but in the early days it was a very novel experience was also a novel experience to have an open kitchen.",
 			"start": "1066.7",
 			"end": "1079.6",
-			"phrase": "to a lot of people"
+			"phrase": "this was confusing to a lot of people"
 		}, {
 			"id": [201],
 			"speaker": "1",
@@ -1424,21 +1424,21 @@
 			"text": "I mean the grill was just a few feet away from customers.",
 			"start": "1081.1",
 			"end": "1084.3",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"id": [203],
 			"speaker": "1",
 			"text": "And so they were really they were really involved in.",
 			"start": "1084.3",
 			"end": "1087.1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"id": [204],
 			"speaker": "1",
 			"text": "The production that was you know, the cooking in the end the service.",
 			"start": "1087.8",
 			"end": "1092.4",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"id": [205],
 			"speaker": "1",
@@ -1452,14 +1452,14 @@
 			"text": "I mean, you know, every time you have a dinner party people are in the kitchen people want to be in the kitchen.",
 			"start": "1094.8",
 			"end": "1100.1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"id": [207],
 			"speaker": "1",
 			"text": "And so so Chipotle was designed to invite people in to bring them close to where the action is and.",
 			"start": "1100.1",
 			"end": "1105.9",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"id": [208],
 			"speaker": "0",
@@ -1473,14 +1473,14 @@
 			"text": "that I opened I opened with really only a handful of people.",
 			"start": "1111.7",
 			"end": "1116.1",
-			"phrase": ""
+			"phrase": "my friends if they wanted to help"
 		}, {
 			"id": [210],
 			"speaker": "1",
 			"text": "And I asked some of my friends if they wanted to help work the line and and yeah, it was really sort of cobbled.",
 			"start": "1117.7",
 			"end": "1126.8",
-			"phrase": ""
+			"phrase": "my friends if they wanted to help"
 		}, {
 			"id": [211],
 			"speaker": "0",
@@ -1795,7 +1795,7 @@
 			"text": "So it's October 1993 Chipotle has a single store in Denver that's been open a few months and it got a great first review from a local paper and people started showing up to buy burritos.",
 			"start": "1468.7",
 			"end": "1481.5",
-			"phrase": ""
+			"phrase": "got a great first review"
 		}, {
 			"id": [256],
 			"speaker": "0",
@@ -1865,35 +1865,35 @@
 			"text": "You know at that point.",
 			"start": "1510.8",
 			"end": "1512.2",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"id": [266],
 			"speaker": "1",
 			"text": "I was living in the basement of a friend's house a couch in the basement.",
 			"start": "1512.7",
 			"end": "1517.1",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"id": [267],
 			"speaker": "1",
 			"text": "I slept on the couch.",
 			"start": "1517.1",
 			"end": "1518.2",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"id": [268],
 			"speaker": "1",
 			"text": "I was working from first thing in the morning until you know late at night.",
 			"start": "1518.6",
 			"end": "1523.0",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"id": [269],
 			"speaker": "1",
 			"text": "And doing that well every.",
 			"start": "1523.4",
 			"end": "1525.1",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"id": [270],
 			"speaker": "1",
@@ -2530,14 +2530,14 @@
 			"text": "they own the majority of the company toward the end.",
 			"start": "1992.3",
 			"end": "1996.2",
-			"phrase": ""
+			"phrase": "our way of doing things was more appropriate"
 		}, {
 			"id": [361],
 			"speaker": "1",
 			"text": "End of the seven year period but as we develop the relationship over the years, we realize that you know our way of doing things was more appropriate than what their system had to offer.",
 			"start": "1996.3",
 			"end": "2010.9",
-			"phrase": ""
+			"phrase": "our way of doing things was more appropriate"
 		}, {
 			"id": [362],
 			"speaker": "0",
@@ -2607,21 +2607,21 @@
 			"text": "and it was McDonald's ever saying to you.",
 			"start": "2078.0",
 			"end": "2079.9",
-			"phrase": ""
+			"phrase": "our supply channel coefficient"
 		}, {
 			"id": [372],
 			"speaker": "0",
 			"text": "Hey, look, you know, it doesn't make sense that you're buying, you know these expensive product.",
 			"start": "2079.9",
 			"end": "2085.9",
-			"phrase": ""
+			"phrase": "our supply channel coefficient"
 		}, {
 			"id": [373],
 			"speaker": "0",
 			"text": "I mean Look at our supply Channel coefficient is you know, you can save a lot of money.",
 			"start": "2085.9",
 			"end": "2090.1",
-			"phrase": ""
+			"phrase": "our supply channel coefficient"
 		}, {
 			"id": [374],
 			"speaker": "0",
@@ -2880,7 +2880,7 @@
 			"text": "So it was you know psych I never went to business school.",
 			"start": "2291.2",
 			"end": "2294.7",
-			"phrase": "use the funds from"
+			"phrase": ""
 		}, {
 			"id": [411],
 			"speaker": "1",
@@ -3146,7 +3146,7 @@
 			"text": "It's a process that is very very thorough and and the chance that a pathogen can survive through that is certainly.",
 			"start": "2556.5",
 			"end": "2564.5",
-			"phrase": "lemons and limes and bell peppers"
+			"phrase": ""
 		}, {
 			"id": [449],
 			"speaker": "0",
@@ -3216,7 +3216,7 @@
 			"text": "We have top-notch board of directors that are independent and very critical in a good way in a challenging way and we are prepared now for a lot of success ahead of.",
 			"start": "2607.8",
 			"end": "2624.2",
-			"phrase": ""
+			"phrase": "board of directors"
 		}, {
 			"id": [459],
 			"speaker": "0",
@@ -3237,35 +3237,35 @@
 			"text": "21 billion dollar.",
 			"start": "2642.6",
 			"end": "2643.8",
-			"phrase": ""
+			"phrase": "when you think about"
 		}, {
 			"id": [462],
 			"speaker": "0",
 			"text": "I mean for a burrito restaurant started in Denver in 1993.",
 			"start": "2643.8",
 			"end": "2649.5",
-			"phrase": ""
+			"phrase": "when you think about"
 		}, {
 			"id": [463],
 			"speaker": "0",
 			"text": "That's pretty insane.",
 			"start": "2650.3",
 			"end": "2651.7",
-			"phrase": ""
+			"phrase": "when you think about"
 		}, {
 			"id": [464],
 			"speaker": "0",
 			"text": "You know, I mean when you think about that I heard you sit back and I'd say yeah.",
 			"start": "2652.0",
 			"end": "2657.5",
-			"phrase": ""
+			"phrase": "when you think about"
 		}, {
 			"id": [465],
 			"speaker": "0",
 			"text": "Wow, look at how awesome is that or do you don't even think about.",
 			"start": "2657.7",
 			"end": "2660.6",
-			"phrase": ""
+			"phrase": "when you think about"
 		}, {
 			"id": [466],
 			"speaker": "1",
@@ -3279,14 +3279,14 @@
 			"text": "It's not big stair-step sort of increases.",
 			"start": "2663.7",
 			"end": "2667.6",
-			"phrase": ""
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"id": [468],
 			"speaker": "1",
 			"text": "Its relatively linear, you know, and sort of, you know, just it getting bigger taking on more responsibility the evaluation all this sort of thing.",
 			"start": "2668.2",
 			"end": "2677.0",
-			"phrase": ""
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"id": [469],
 			"speaker": "1",
@@ -3441,7 +3441,7 @@
 			"text": "The message comes from a sponsor of spectrum business, they offer fast reliable internet at a great value.",
 			"id": [0, 1, 2, 3],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"text": "We're going to have a brand new episode next week, so we wanted to revisit the story of Steveells of chipotle in the introduction.",
 			"id": [6, 7, 8, 9],
@@ -3466,10 +3466,15 @@
 			"text": "If you've ever been in a restaurant, you can probably tell me the menu by heart burrito.",
 			"id": [23],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "t was supposed to"
 		}, {
 			"text": "A lot of things contributed to the explosion of chipotle.",
 			"id": [25],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The company had more than a few stores.",
+			"id": [26],
 			"speaker": "0",
 			"phrase": ""
 		}, {
@@ -3481,7 +3486,7 @@
 			"text": "The burrito joint was supposed to finance a high end restaurant.",
 			"id": [28],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "t was supposed to"
 		}, {
 			"text": "He wanted to makemichelin starred food.",
 			"id": [30],
@@ -3522,6 +3527,11 @@
 			"id": [48, 49, 50, 51],
 			"speaker": "1",
 			"phrase": "duplicate the recipes"
+		}, {
+			"text": "What do you do with your art history degree?",
+			"id": [55],
+			"speaker": "0",
+			"phrase": ""
 		}, {
 			"text": "My roommate suggested to me that I go to cooking school just weeks before graduation, and I thought I would continue with graduate school.",
 			"id": [56, 57],
@@ -3616,12 +3626,12 @@
 			"text": "We would come in at noon to learn what we were going to cook.",
 			"id": [119],
 			"speaker": "1",
-			"phrase": "the style of the restaurant and what"
+			"phrase": "what we were going to cook"
 		}, {
 			"text": "You had to figure it out based on the style of the restaurant and what the executive chef wanted.",
 			"id": [120],
 			"speaker": "1",
-			"phrase": "the style of the restaurant and what"
+			"phrase": "the style of the restaurant"
 		}, {
 			"text": "I don't think I had to labor over the recipes, it would be 888-282-0465 888-282-0465.",
 			"id": [122],
@@ -3656,7 +3666,12 @@
 			"text": "I convinced my father to lend me the money.",
 			"id": [146],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "i convinced my father to lend me the money."
+		}, {
+			"text": "It was a part investment and part loan.",
+			"id": [147],
+			"speaker": "1",
+			"phrase": "i convinced my father to lend me the money."
 		}, {
 			"text": "I don't remember how much I told him.",
 			"id": [151],
@@ -3693,6 +3708,16 @@
 			"speaker": "1",
 			"phrase": "the design aesthetic came"
 		}, {
+			"text": "So you open the first door in 1993?",
+			"id": [164],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Right, and it was very similar to that.",
+			"id": [165],
+			"speaker": "0",
+			"phrase": ""
+		}, {
 			"text": "I knew that full scale restaurants were dicey and that this was going to be a cash cow that could fund and help support them.",
 			"id": [166, 167, 168, 169, 170],
 			"speaker": "1",
@@ -3705,6 +3730,11 @@
 		}, {
 			"text": "I knew it was a pepper but I was curious as to what it looked like and I wanted it to be like potal.",
 			"id": [174, 175, 176, 177],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I could not have been the first one.",
+			"id": [179],
 			"speaker": "0",
 			"phrase": ""
 		}, {
@@ -3736,47 +3766,47 @@
 			"text": "I remember customers coming in and having to say what place she poodle just bottle chipotle was.",
 			"id": [193, 194, 195, 196],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "i remember customers"
 		}, {
 			"text": "You had to build your burrito at the counter.",
 			"id": [197],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "i can put rice and beans"
 		}, {
 			"text": "This was confusing to a lot of people and I said we have everything here.",
 			"id": [198],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "this was confusing to a lot of people"
 		}, {
 			"text": "I can put rice and beans in a burrito.",
 			"id": [199],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "i can put rice and beans"
 		}, {
 			"text": "It was a novel experience to have an open kitchen and now it is obvious how you would use it.",
 			"id": [200],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "this was confusing to a lot of people"
 		}, {
 			"text": "The grill was close to customers and so they were involved.",
 			"id": [202, 203],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"text": "The cooking in the end of the service.",
 			"id": [204],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"text": "People like to be in the kitchen at dinner parties.",
 			"id": [206],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"text": "People were invited in to watch the action.",
 			"id": [207],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
 			"text": "At the beginning, you had a chef and cashier.",
 			"id": [208],
@@ -3786,7 +3816,7 @@
 			"text": "I opened with a small group of people and asked my friends if they wanted to help.",
 			"id": [209, 210],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "my friends if they wanted to help"
 		}, {
 			"text": "Did you have recipes or just make stuff for yourself?",
 			"id": [211],
@@ -3848,6 +3878,16 @@
 			"speaker": "0",
 			"phrase": ""
 		}, {
+			"text": "Life kit is rethinking their new years resolutions.",
+			"id": [247],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I was thinking about both big and small changes.",
+			"id": [248],
+			"speaker": "0",
+			"phrase": ""
+		}, {
 			"text": "If you want to start fresh and change your life.",
 			"id": [249],
 			"speaker": "0",
@@ -3863,10 +3903,15 @@
 			"speaker": "0",
 			"phrase": ""
 		}, {
+			"text": "Hey, welcome back to how I built this.",
+			"id": [253],
+			"speaker": "0",
+			"phrase": ""
+		}, {
 			"text": "People started showing up to buy food at a store in Denver that got a great first review.",
 			"id": [255],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "got a great first review"
 		}, {
 			"text": "Half of the 850 square feet was occupied by people.",
 			"id": [257, 258, 259],
@@ -3881,12 +3926,17 @@
 			"text": "I was living in the basement of a friend's house and sleeping on a couch until I got home from work.",
 			"id": [265, 266, 267, 268, 269],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"text": "I was told to wait after I paid my dad back.",
 			"id": [270],
 			"speaker": "1",
 			"phrase": "er i paid my dad back"
+		}, {
+			"text": "I said you can't be making that much money.",
+			"id": [272],
+			"speaker": "0",
+			"phrase": ""
 		}, {
 			"text": "He knew that I hadn't taken any business classes and had never demonstrated an ability to balance my checkbook, so he said you should get one.",
 			"id": [273, 274],
@@ -3911,6 +3961,16 @@
 			"text": "It's all done in Denver, because people say like wait.",
 			"id": [290],
 			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Do you believe that Denver can have two of these?",
+			"id": [294],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "It's a one per 50 000.",
+			"id": [296],
+			"speaker": "1",
 			"phrase": ""
 		}, {
 			"text": "Do you think this is the thing that we should be pursuing, or do you not think so?",
@@ -3958,6 +4018,11 @@
 			"speaker": "1",
 			"phrase": "i hired a college"
 		}, {
+			"text": "By the way, did you know anything about that?",
+			"id": [333],
+			"speaker": "0",
+			"phrase": ""
+		}, {
 			"text": "I met one of our early investors who turned out to be a board member during the time when I was pitching the business plan, because I attended a quick and dirty business school.",
 			"id": [335, 336, 337, 338, 339],
 			"speaker": "1",
@@ -3972,6 +4037,11 @@
 			"id": [345, 346],
 			"speaker": "1",
 			"phrase": "so all of that required a"
+		}, {
+			"text": "Did you like private equity or venture companies?",
+			"id": [347],
+			"speaker": "0",
+			"phrase": ""
 		}, {
 			"text": "One of my initial investors suggested that I send a plan to Mcdonalds and I thought that was a really bad idea.",
 			"id": [348, 349, 350],
@@ -4006,7 +4076,7 @@
 			"text": "Our way of doing things was more appropriate than what their system had to offer.",
 			"id": [360, 361],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "our way of doing things was more appropriate"
 		}, {
 			"text": "Sources your meat from a specific farm and you went with them.",
 			"id": [362],
@@ -4025,6 +4095,11 @@
 		}, {
 			"text": "I mean look at our supply channel coefficients and you can save a lot of money.",
 			"id": [371, 372, 373],
+			"speaker": "0",
+			"phrase": "our supply channel coefficient"
+		}, {
+			"text": "Is it possible to increase your profit margins?",
+			"id": [374],
 			"speaker": "0",
 			"phrase": ""
 		}, {
@@ -4081,7 +4156,7 @@
 			"text": "I didn't go to business school.",
 			"id": [410],
 			"speaker": "1",
-			"phrase": "use the funds from"
+			"phrase": ""
 		}, {
 			"text": "How am I going to learn to do this?",
 			"id": [412],
@@ -4112,6 +4187,11 @@
 			"id": [422],
 			"speaker": "0",
 			"phrase": "your share price"
+		}, {
+			"text": "What was it like to deal with that?",
+			"id": [423],
+			"speaker": "0",
+			"phrase": ""
 		}, {
 			"text": "We can discuss the details, but first of all, what was that?",
 			"id": [424],
@@ -4171,7 +4251,7 @@
 			"text": "There is a chance that a pathogen can survive.",
 			"id": [448],
 			"speaker": "1",
-			"phrase": "lemons and limes and bell peppers"
+			"phrase": ""
 		}, {
 			"text": "You have an incredible run from the first story you open and then you hit a crisis point in 2015, were you prepared for that?",
 			"id": [449, 450, 451],
@@ -4191,7 +4271,7 @@
 			"text": "We are prepared for a lot of success because we have a very critical board of directors.",
 			"id": [458],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "board of directors"
 		}, {
 			"text": "The company's value has taken a hit because of the crisis, but at its highest it was close to twenty billion.",
 			"id": [459],
@@ -4201,12 +4281,17 @@
 			"text": "When you think about it, it's pretty insane, I heard you say, \"WOW, look at how awesome is that?\".",
 			"id": [461, 462, 463, 464, 465],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "when you think about"
+		}, {
+			"text": "It's not a big stair step increase.",
+			"id": [467],
+			"speaker": "1",
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"text": "It's relatively linear and getting bigger taking on more responsibility.",
 			"id": [468],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"text": "I would think that you grow this thing to such a huge place in that period of time that it would mean something to you.",
 			"id": [470, 471, 472, 473, 474, 475],
@@ -4239,7 +4324,7 @@
 			"text": "A sponsor of a business offers fast reliable internet.",
 			"id": [0, 1, 2, 3],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "fast reliable internet"
 		}, {
 			"text": "We were going to have a brand new episode next week and we wanted to revisit the story of Steveells.",
 			"id": [6, 7, 8, 9],
@@ -4251,20 +4336,25 @@
 			"speaker": "1",
 			"phrase": "d 52 people got sick with e coli"
 		}, {
-			"text": "A lot of things contributed to the explosion of the burrito joint.",
-			"id": [23, 25, 28, 30],
+			"text": "A lot of things contributed to the explosion.",
+			"id": [25, 26],
 			"speaker": "0",
 			"phrase": ""
 		}, {
-			"text": "It was never meant to be worth 14 billion dollars.",
-			"id": [27],
+			"text": "The burrito joint was supposed to finance a high end restaurant.",
+			"id": [23, 28],
 			"speaker": "0",
-			"phrase": "was never meant to be"
+			"phrase": "t was supposed to"
 		}, {
 			"text": "Today's show is about entrepreneurs idealists and the stories behind the movements they built.",
 			"id": [18, 19],
 			"speaker": "0",
 			"phrase": "entrepreneurs idealists and the stories behind the movements they built."
+		}, {
+			"text": "It was never meant to be worth 14 billion dollars.",
+			"id": [27],
+			"speaker": "0",
+			"phrase": "was never meant to be"
 		}, {
 			"text": "My mom had a cast iron skillet that was very easy to cook in and I was a control freak.",
 			"id": [34, 35, 36, 37, 38, 39, 40],
@@ -4326,10 +4416,15 @@
 			"speaker": "1",
 			"phrase": "go to a place where no one had seen this style"
 		}, {
-			"text": "You had to figure it out based on the style of the restaurant and what the executive chef wanted.",
-			"id": [119, 120],
+			"text": "We would come in at noon to learn what we were going to cook.",
+			"id": [119],
 			"speaker": "1",
-			"phrase": "the style of the restaurant and what"
+			"phrase": "what we were going to cook"
+		}, {
+			"text": "The style of the restaurant made a difference.",
+			"id": [120],
+			"speaker": "1",
+			"phrase": "the style of the restaurant"
 		}, {
 			"text": "I don't think I had to labor over the recipes.",
 			"id": [122],
@@ -4345,6 +4440,11 @@
 			"id": [132, 133, 134, 135, 136, 137, 138],
 			"speaker": "1",
 			"phrase": "e grilling meats and cooking whole"
+		}, {
+			"text": "I convinced my father to lend me the money.",
+			"id": [146, 147],
+			"speaker": "1",
+			"phrase": "i convinced my father to lend me the money."
 		}, {
 			"text": "It was a lot of money to make the place look better.",
 			"id": [152],
@@ -4381,20 +4481,35 @@
 			"speaker": "1",
 			"phrase": "fan of southwest cuisine"
 		}, {
-			"text": "People like to be in the kitchen at dinner parties and I remember customers coming in and having to say what place they had to build their burrito at the counter.",
-			"id": [193, 194, 195, 196, 197, 199, 204, 206],
+			"text": "People like to cook in the kitchen at dinner parties.",
+			"id": [204, 206],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": ""
 		}, {
-			"text": "The experience of having an open kitchen was new to a lot of people and they were confused as to how to use it.",
-			"id": [198, 200, 202, 203, 207],
+			"text": "This was confusing to a lot of people and I said we have everything here and it is obvious how you would use it.",
+			"id": [198, 200],
 			"speaker": "1",
-			"phrase": "to a lot of people"
+			"phrase": "this was confusing to a lot of people"
+		}, {
+			"text": "I remember customers asking where she poodle was.",
+			"id": [193, 194, 195, 196],
+			"speaker": "1",
+			"phrase": "i remember customers"
+		}, {
+			"text": "People were invited to watch the grill being built.",
+			"id": [202, 203, 207],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I can put rice and beans in a burrito.",
+			"id": [197, 199],
+			"speaker": "1",
+			"phrase": "i can put rice and beans"
 		}, {
 			"text": "I asked my friends if they wanted to help.",
 			"id": [209, 210],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "my friends if they wanted to help"
 		}, {
 			"text": "The menu was developed the day before I opened and it was interesting because I trained the cooks how to make all the different ingredients and I wanted people to taste the food and understand the techniques of.",
 			"id": [212, 213, 214, 215, 216, 218, 219, 220, 221],
@@ -4411,15 +4526,20 @@
 			"speaker": "1",
 			"phrase": "we got a bigger order the next day"
 		}, {
-			"text": "If you listen to the show you can earn a masters degree without paying the application fee if you want to be productive, it's the start of a chain of events that will forever change.",
-			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 255],
+			"text": "You need to think about both big and small changes if you want to start fresh.",
+			"id": [247, 248, 249],
 			"speaker": "0",
 			"phrase": ""
 		}, {
-			"text": "You should make your home nicer if you want to.",
-			"id": [249, 251],
+			"text": "If you listen to the show you can earn a masters degree without paying the application fee if you want to be productive, it's the start of a chain of events that will forever change.",
+			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245],
 			"speaker": "0",
 			"phrase": ""
+		}, {
+			"text": "The store got a great first review when people started buying food.",
+			"id": [255],
+			"speaker": "0",
+			"phrase": "got a great first review"
 		}, {
 			"text": "I paid back part of my loan in the first few months.",
 			"id": [261, 262, 263],
@@ -4429,7 +4549,7 @@
 			"text": "I lived in the basement until I got home.",
 			"id": [265, 266, 267, 268, 269],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "in the basement"
 		}, {
 			"text": "I was told to wait after I paid my dad back.",
 			"id": [270],
@@ -4499,7 +4619,7 @@
 			"text": "Our way of doing things was more appropriate.",
 			"id": [360, 361],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "our way of doing things was more appropriate"
 		}, {
 			"text": "Sources your meat from a specific farm and you went with them.",
 			"id": [362],
@@ -4514,7 +4634,7 @@
 			"text": "Our supply channel coefficients can help you save money.",
 			"id": [371, 372, 373],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "our supply channel coefficient"
 		}, {
 			"text": "When I added diamond ranch pork to the menu, I had to raise the price of the carnitas burrito by a dollar.",
 			"id": [377, 378, 379, 382],
@@ -4532,7 +4652,7 @@
 			"phrase": "had a duty to their franchisees to offer chipotle as a growth vehicle."
 		}, {
 			"text": "My original plan was to start a small restaurant and use the funds from it to open a full restaurant but I never stepped away from that idea.",
-			"id": [402, 403, 404, 405, 406, 407, 410],
+			"id": [402, 403, 404, 405, 406, 407],
 			"speaker": "1",
 			"phrase": "use the funds from"
 		}, {
@@ -4562,7 +4682,7 @@
 			"phrase": ""
 		}, {
 			"text": "If you cut dozens, we will cut millions and millions, and we have made sure that there are a number of interventions along the way, because lemons and limes and bell peppers are long.",
-			"id": [443, 444, 445, 446, 447, 448],
+			"id": [443, 444, 445, 446, 447],
 			"speaker": "1",
 			"phrase": "lemons and limes and bell peppers"
 		}, {
@@ -4574,7 +4694,7 @@
 			"text": "The board of directors is critical to our success.",
 			"id": [458],
 			"speaker": "1",
-			"phrase": ""
+			"phrase": "board of directors"
 		}, {
 			"text": "The companys value is still close to twenty billion.",
 			"id": [459],
@@ -4584,7 +4704,12 @@
 			"text": "When you think about it, it's pretty crazy.",
 			"id": [461, 462, 463, 464, 465],
 			"speaker": "0",
-			"phrase": ""
+			"phrase": "when you think about"
+		}, {
+			"text": "Getting bigger taking on more responsibility is not a stair step increase.",
+			"id": [467, 468],
+			"speaker": "1",
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"text": "If you grew this thing in that time, it would mean something.",
 			"id": [470, 471, 472, 473, 474, 475],
@@ -4604,364 +4729,478 @@
 	},
 	"high": {
 		"segments": [{
+			"text": "A sponsor of a business offers fast reliable internet.",
+			"id": [0, 1, 2, 3],
+			"duration": "< 1 minute",
+			"sequence": 0,
+			"phrase": "fast reliable internet"
+		}, {
 			"text": "We were going to have a brand new episode next week and we wanted to revisit the story of Steveells.",
 			"id": [6, 7, 8, 9],
 			"duration": "< 1 minute",
-			"sequence": 0,
+			"sequence": 1,
 			"phrase": "we wanted to revisit the story of steve"
 		}, {
 			"text": "It was intense and 52 people got sick with e coli in a single month.",
 			"id": [13, 14, 15, 16],
 			"duration": "< 1 minute",
-			"sequence": 1,
+			"sequence": 2,
 			"phrase": "d 52 people got sick with e coli"
 		}, {
-			"text": "A lot of things contributed to the explosion of the burrito joint.",
-			"id": [23, 25, 28, 30],
-			"duration": "1-2 minutes",
-			"sequence": 2,
-			"phrase": ""
-		}, {
-			"text": "It was never meant to be worth 14 billion dollars.",
-			"id": [27],
+			"text": "A lot of things contributed to the explosion.",
+			"id": [25, 26],
 			"duration": "< 1 minute",
 			"sequence": 3,
-			"phrase": "was never meant to be"
+			"phrase": ""
+		}, {
+			"text": "The burrito joint was supposed to finance a high end restaurant.",
+			"id": [23, 28],
+			"duration": "< 1 minute",
+			"sequence": 4,
+			"phrase": "t was supposed to"
 		}, {
 			"text": "Today's show is about entrepreneurs idealists and the stories behind the movements they built.",
 			"id": [18, 19],
 			"duration": "< 1 minute",
-			"sequence": 4,
+			"sequence": 5,
 			"phrase": "entrepreneurs idealists and the stories behind the movements they built."
+		}, {
+			"text": "It was never meant to be worth 14 billion dollars.",
+			"id": [27],
+			"duration": "< 1 minute",
+			"sequence": 6,
+			"phrase": "was never meant to be"
 		}, {
 			"text": "My mom used to cook in a cast iron skillet.",
 			"id": [34, 35, 36, 37, 38, 39, 40],
 			"duration": "< 1 minute",
-			"sequence": 5,
+			"sequence": 7,
 			"phrase": "cast iron skillet"
 		}, {
 			"text": "I like to duplicate the recipes from the master chef series on PBS.",
 			"id": [46, 47, 48, 49, 50, 51],
 			"duration": "< 1 minute",
-			"sequence": 6,
+			"sequence": 8,
 			"phrase": "duplicate the recipes"
 		}, {
 			"text": "She said she would let me know if I wanted to go.",
 			"id": [56, 57, 58, 59, 60],
 			"duration": "< 1 minute",
-			"sequence": 7,
+			"sequence": 9,
 			"phrase": "i wanted to"
 		}, {
 			"text": "I ate there a few times when I was in college.",
 			"id": [66],
 			"duration": "< 1 minute",
-			"sequence": 8,
+			"sequence": 10,
 			"phrase": "a few times when i was in college"
 		}, {
 			"text": "It's hard to say what he is like because he was an amazing visionary.",
 			"id": [71],
 			"duration": "< 1 minute",
-			"sequence": 9,
+			"sequence": 11,
 			"phrase": "s an amazing visionary"
 		}, {
 			"text": "A combination of food borrowed from stars and a service format is what the idea for chipotle is.",
 			"id": [77],
 			"duration": "< 1 minute",
-			"sequence": 10,
+			"sequence": 12,
 			"phrase": "a combination of food borrowed from stars and"
 		}, {
 			"text": "I used to go to these places when I was a kid and get a carnitas burrito with all the things on the inside.",
 			"id": [83, 84, 85, 86],
 			"duration": "< 1 minute",
-			"sequence": 11,
+			"sequence": 13,
 			"phrase": "i used to go to these places"
 		}, {
 			"text": "I thought it was five dollars for a burrito with green chili.",
 			"id": [90, 91, 92, 93, 94, 95],
 			"duration": "< 1 minute",
-			"sequence": 12,
+			"sequence": 14,
 			"phrase": "with green chili"
 		}, {
 			"text": "I said I could make some money by opening up my scale.",
 			"id": [99, 100, 101, 102],
 			"duration": "< 1 minute",
-			"sequence": 13,
+			"sequence": 15,
 			"phrase": "make some money"
 		}, {
 			"text": "You thought a taqueria could make enough money to open a restaurant.",
 			"id": [104],
 			"duration": "< 1 minute",
-			"sequence": 14,
+			"sequence": 16,
 			"phrase": "a taqueria could"
 		}, {
 			"text": "I thought opening a burrito shop in a small town would be a good idea.",
 			"id": [105, 106],
 			"duration": "< 1 minute",
-			"sequence": 15,
+			"sequence": 17,
 			"phrase": ""
 		}, {
 			"text": "Go to a place where no one had seen this style before.",
 			"id": [114],
 			"duration": "< 1 minute",
-			"sequence": 16,
+			"sequence": 18,
 			"phrase": "go to a place where no one had seen this style"
 		}, {
-			"text": "The style of the restaurant and what the executive chef wanted made a difference.",
-			"id": [119, 120],
+			"text": "We would come in at noon to learn what we were going to cook.",
+			"id": [119],
 			"duration": "< 1 minute",
-			"sequence": 17,
-			"phrase": "the style of the restaurant and what"
+			"sequence": 19,
+			"phrase": "what we were going to cook"
+		}, {
+			"text": "The style of the restaurant made a difference.",
+			"id": [120],
+			"duration": "< 1 minute",
+			"sequence": 20,
+			"phrase": "the style of the restaurant"
 		}, {
 			"text": "I don't think I had to labor over the recipes.",
 			"id": [122],
 			"duration": "< 1 minute",
-			"sequence": 18,
+			"sequence": 21,
 			"phrase": "labor over the recipes"
 		}, {
 			"text": "I was going to open it in boulder, but I couldn't afford it.",
 			"id": [125, 126, 127, 128],
 			"duration": "< 1 minute",
-			"sequence": 19,
+			"sequence": 22,
 			"phrase": ""
 		}, {
 			"text": "I was given a week to find a few real estate sites after I told him that the service format would include grilling meats and cooking whole.",
 			"id": [132, 133, 134, 135, 136, 137, 138],
 			"duration": "< 1 minute",
-			"sequence": 20,
+			"sequence": 23,
 			"phrase": "e grilling meats and cooking whole"
+		}, {
+			"text": "I convinced my father to lend me the money.",
+			"id": [146, 147],
+			"duration": "< 1 minute",
+			"sequence": 24,
+			"phrase": "i convinced my father to lend me the money."
 		}, {
 			"text": "It was a lot of money to make the place look better.",
 			"id": [152],
 			"duration": "< 1 minute",
-			"sequence": 21,
+			"sequence": 25,
 			"phrase": "t of money"
 		}, {
 			"text": "The oak wood floor underneath the architect of record helped me get the permit.",
 			"id": [153, 154],
 			"duration": "< 1 minute",
-			"sequence": 22,
+			"sequence": 26,
 			"phrase": "the oak wood floor underneath"
 		}, {
 			"text": "You have a design aesthetic that is natural because you know what you do.",
 			"id": [155],
 			"duration": "< 1 minute",
-			"sequence": 23,
+			"sequence": 27,
 			"phrase": ""
 		}, {
 			"text": "The design aesthetic came from the fact that the table bases were easy to install.",
 			"id": [156, 157, 158, 159, 160, 161, 162],
 			"duration": "1-2 minutes",
-			"sequence": 24,
+			"sequence": 28,
 			"phrase": "the design aesthetic came"
 		}, {
 			"text": "I knew full scale restaurants were dicey and that this was going to be a cash cow that could fund and support them so I wanted to make it very simple.",
 			"id": [166, 167, 168, 169, 170, 171, 172, 173],
 			"duration": "< 1 minute",
-			"sequence": 25,
+			"sequence": 29,
 			"phrase": "this was going to be a cash cow that could fund and"
+		}, {
+			"text": "I was curious as to what it looked like.",
+			"id": [174, 175, 176, 177],
+			"duration": "< 1 minute",
+			"sequence": 30,
+			"phrase": ""
 		}, {
 			"text": "I wanted to add a smoky character to the beans because jeremiah was a fan of southwest cuisine.",
 			"id": [181, 182, 183, 184, 185, 186],
 			"duration": "< 1 minute",
-			"sequence": 26,
+			"sequence": 31,
 			"phrase": "fan of southwest cuisine"
 		}, {
-			"text": "The experience of having an open kitchen was new to a lot of people and they were confused as to how to use it.",
-			"id": [193, 194, 195, 196, 197, 199, 204, 206, 198, 200, 202, 203, 207],
-			"duration": "1-2 minutes",
-			"sequence": 27,
-			"phrase": "to a lot of people"
+			"text": "People were invited to watch the grill being built.",
+			"id": [204, 206, 202, 203, 207],
+			"duration": "< 1 minute",
+			"sequence": 32,
+			"phrase": ""
+		}, {
+			"text": "I can put rice and beans in a burrito.",
+			"id": [197, 199],
+			"duration": "< 1 minute",
+			"sequence": 33,
+			"phrase": "i can put rice and beans"
+		}, {
+			"text": "This was confusing to a lot of people and I said we have everything here and it is obvious how you would use it.",
+			"id": [198, 200],
+			"duration": "< 1 minute",
+			"sequence": 34,
+			"phrase": "this was confusing to a lot of people"
+		}, {
+			"text": "I remember customers asking where she poodle was.",
+			"id": [193, 194, 195, 196],
+			"duration": "< 1 minute",
+			"sequence": 35,
+			"phrase": "i remember customers"
+		}, {
+			"text": "I asked my friends if they wanted to help.",
+			"id": [209, 210],
+			"duration": "< 1 minute",
+			"sequence": 36,
+			"phrase": "my friends if they wanted to help"
 		}, {
 			"text": "You said a burrito and colorado was on a plate.",
 			"id": [222, 223],
 			"duration": "< 1 minute",
-			"sequence": 28,
+			"sequence": 37,
 			"phrase": "you said a burrito and colorado was"
 		}, {
 			"text": "We ran out of food the first day because of the line and then we got a bigger order the next day but we couldn't keep up.",
 			"id": [233],
 			"duration": "< 1 minute",
-			"sequence": 29,
+			"sequence": 38,
 			"phrase": "we got a bigger order the next day"
 		}, {
-			"text": "You can earn a masters degree without paying the application fee if you listen to the show.",
-			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 255, 249, 251],
-			"duration": "2-5 minutes",
-			"sequence": 30,
+			"text": "If you want to start fresh, you need to think about both big and small changes.",
+			"id": [247, 248, 249],
+			"duration": "< 1 minute",
+			"sequence": 39,
 			"phrase": ""
+		}, {
+			"text": "You can earn a masters degree without paying the application fee if you listen to the show.",
+			"id": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245],
+			"duration": "1-2 minutes",
+			"sequence": 40,
+			"phrase": ""
+		}, {
+			"text": "The store got a great first review when people started buying food.",
+			"id": [255],
+			"duration": "< 1 minute",
+			"sequence": 41,
+			"phrase": "got a great first review"
 		}, {
 			"text": "I paid back part of my loan in the first few months.",
 			"id": [261, 262, 263],
 			"duration": "< 1 minute",
-			"sequence": 31,
+			"sequence": 42,
 			"phrase": "in the first few months."
+		}, {
+			"text": "I lived in the basement until I got home.",
+			"id": [265, 266, 267, 268, 269],
+			"duration": "< 1 minute",
+			"sequence": 43,
+			"phrase": "in the basement"
 		}, {
 			"text": "I was told to wait after I paid my dad back.",
 			"id": [270],
 			"duration": "< 1 minute",
-			"sequence": 32,
+			"sequence": 44,
 			"phrase": "er i paid my dad back"
 		}, {
 			"text": "He told me to get one because he knew I hadn't taken any business classes.",
 			"id": [273, 274, 275, 276, 277, 278],
 			"duration": "< 1 minute",
-			"sequence": 33,
+			"sequence": 45,
 			"phrase": "i hadn't taken any business classes"
 		}, {
 			"text": "My dad said he was going to open a restaurant that wouldn't pay.",
 			"id": [280, 281, 282, 283, 284, 285, 286],
 			"duration": "< 1 minute",
-			"sequence": 34,
+			"sequence": 46,
 			"phrase": ""
 		}, {
 			"text": "It seemed like a neat town with a strong barbecue culture.",
 			"id": [300, 301, 302, 303, 304],
 			"duration": "< 1 minute",
-			"sequence": 35,
+			"sequence": 47,
 			"phrase": "strong barbecue culture"
+		}, {
+			"text": "Expansion was about having enough places to serve food.",
+			"id": [307, 308, 309, 310, 311],
+			"duration": "< 1 minute",
+			"sequence": 48,
+			"phrase": ""
 		}, {
 			"text": "I asked my dad if he wanted to open another restaurant.",
 			"id": [314, 315, 316, 317, 318, 319, 320, 321, 322],
 			"duration": "< 1 minute",
-			"sequence": 36,
+			"sequence": 49,
 			"phrase": ""
 		}, {
 			"text": "I hired a college friend to work on my business plan.",
 			"id": [327, 328, 329, 330, 331],
 			"duration": "< 1 minute",
-			"sequence": 37,
+			"sequence": 50,
 			"phrase": "i hired a college"
 		}, {
 			"text": "One of our early investors was a board member because he attended a business school.",
 			"id": [335, 336, 337, 338, 339],
 			"duration": "< 1 minute",
-			"sequence": 38,
+			"sequence": 51,
 			"phrase": "one of our early investors w"
 		}, {
 			"text": "Fast food had room for a drive through and the investment cost was low so all of that required a large investment.",
 			"id": [344, 345, 346],
 			"duration": "< 1 minute",
-			"sequence": 39,
+			"sequence": 52,
 			"phrase": "so all of that required a"
 		}, {
 			"text": "One of my investors suggested that I send a plan to Mcdonalds.",
 			"id": [348, 349, 350],
 			"duration": "< 1 minute",
-			"sequence": 40,
+			"sequence": 53,
 			"phrase": "suggested that i send a plan to mcdonald"
 		}, {
 			"text": "They made a small investment to open a few restaurants and then they would put in more money over time because they wanted to buy it.",
 			"id": [354],
 			"duration": "< 1 minute",
-			"sequence": 41,
+			"sequence": 54,
 			"phrase": "they would put in more money over"
 		}, {
 			"text": "It might have been a small investment since the company was worth tens of millions of dollars.",
 			"id": [355],
 			"duration": "< 1 minute",
-			"sequence": 42,
+			"sequence": 55,
 			"phrase": "tens of millions of dollars"
 		}, {
 			"text": "No one else would have been able to invest that way.",
 			"id": [356, 357, 358],
 			"duration": "< 1 minute",
-			"sequence": 43,
+			"sequence": 56,
 			"phrase": "would have been able to invest that way"
+		}, {
+			"text": "Our way of doing things was more appropriate.",
+			"id": [360, 361],
+			"duration": "< 1 minute",
+			"sequence": 57,
+			"phrase": "our way of doing things was more appropriate"
 		}, {
 			"text": "Sources your meat from a specific farm and you went with them.",
 			"id": [362],
 			"duration": "< 1 minute",
-			"sequence": 44,
+			"sequence": 58,
 			"phrase": "your meat from a specific"
 		}, {
 			"text": "I saw that most of the pork is raised in confinement so I thought about changing the recipe.",
 			"id": [364, 365, 366, 367, 368, 369],
 			"duration": "< 1 minute",
-			"sequence": 45,
+			"sequence": 59,
 			"phrase": "pork is raised in confinement"
+		}, {
+			"text": "Our supply channel coefficients can help you save money.",
+			"id": [371, 372, 373],
+			"duration": "< 1 minute",
+			"sequence": 60,
+			"phrase": "our supply channel coefficient"
 		}, {
 			"text": "The price of the carnitas burrito was raised by a dollar.",
 			"id": [377, 378, 379, 382],
 			"duration": "< 1 minute",
-			"sequence": 46,
+			"sequence": 61,
 			"phrase": "the price of the carnitas burrito"
 		}, {
 			"text": "The economic model was so good that we wanted to open a part of chipotle.",
 			"id": [386, 387, 388, 389],
 			"duration": "< 1 minute",
-			"sequence": 47,
+			"sequence": 62,
 			"phrase": "the economic model was so good that we wanted to"
 		}, {
 			"text": "McDonald's had a duty to their franchisees to offer chipotle as a growth vehicle.",
 			"id": [391],
 			"duration": "< 1 minute",
-			"sequence": 48,
+			"sequence": 63,
 			"phrase": "had a duty to their franchisees to offer chipotle as a growth vehicle."
 		}, {
 			"text": "The original plan was to use the funds from the small restaurant to open a full restaurant.",
-			"id": [402, 403, 404, 405, 406, 407, 410],
+			"id": [402, 403, 404, 405, 406, 407],
 			"duration": "< 1 minute",
-			"sequence": 49,
+			"sequence": 64,
 			"phrase": "use the funds from"
 		}, {
 			"text": "I would not feel confident if I had doubts like a chef.",
 			"id": [414, 415],
 			"duration": "< 1 minute",
-			"sequence": 50,
+			"sequence": 65,
 			"phrase": "i would not feel confident if"
 		}, {
 			"text": "There is a crisis when your share price goes public.",
 			"id": [422],
 			"duration": "< 1 minute",
-			"sequence": 51,
+			"sequence": 66,
 			"phrase": "your share price"
 		}, {
 			"text": "We brought in experts to help us figure out what was causing this.",
 			"id": [426],
 			"duration": "< 1 minute",
-			"sequence": 52,
+			"sequence": 67,
 			"phrase": "figure out what"
 		}, {
 			"text": "52 people got sick with e coli in a single month and I don't know if it's a freak or not.",
 			"id": [428, 429, 430, 431],
 			"duration": "< 1 minute",
-			"sequence": 53,
+			"sequence": 68,
 			"phrase": "got sick with e coli"
 		}, {
 			"text": "protocols were developed to stop the pathogen from entering the system.",
 			"id": [433],
 			"duration": "< 1 minute",
-			"sequence": 54,
+			"sequence": 69,
 			"phrase": ""
 		}, {
 			"text": "We made sure that there were interventions along the way because lemons and limes and bell peppers are long.",
-			"id": [443, 444, 445, 446, 447, 448],
+			"id": [443, 444, 445, 446, 447],
 			"duration": "< 1 minute",
-			"sequence": 55,
+			"sequence": 70,
 			"phrase": "lemons and limes and bell peppers"
 		}, {
 			"text": "Since that incident works were two years away, we weren't prepared for it.",
 			"id": [453, 454, 455],
 			"duration": "< 1 minute",
-			"sequence": 56,
+			"sequence": 71,
 			"phrase": "since that incident works were two years away"
+		}, {
+			"text": "The board of directors is critical to our success.",
+			"id": [458],
+			"duration": "< 1 minute",
+			"sequence": 72,
+			"phrase": "board of directors"
+		}, {
+			"text": "The companys value is still close to twenty billion.",
+			"id": [459],
+			"duration": "< 1 minute",
+			"sequence": 73,
+			"phrase": ""
+		}, {
+			"text": "When you think about it, it's pretty crazy.",
+			"id": [461, 462, 463, 464, 465],
+			"duration": "< 1 minute",
+			"sequence": 74,
+			"phrase": "when you think about"
+		}, {
+			"text": "Getting bigger taking on more responsibility is not a stair step increase.",
+			"id": [467, 468],
+			"duration": "< 1 minute",
+			"sequence": 75,
+			"phrase": "getting bigger taking on more responsibility"
 		}, {
 			"text": "If you grew this thing in that time, it would mean something.",
 			"id": [470, 471, 472, 473, 474, 475],
 			"duration": "< 1 minute",
-			"sequence": 57,
+			"sequence": 76,
 			"phrase": "w this thing"
 		}, {
 			"text": "I wanted to change the way Americans think about fast food.",
 			"id": [476, 477],
 			"duration": "< 1 minute",
-			"sequence": 58,
+			"sequence": 77,
 			"phrase": "to change the way americans think about"
 		}, {
 			"text": "A lot of my success was due to my father investing in my first restaurant.",
 			"id": [482, 483, 484, 485, 486, 487],
 			"duration": "< 1 minute",
-			"sequence": 59,
+			"sequence": 78,
 			"phrase": "in my first restaurant"
 		}]
 	}

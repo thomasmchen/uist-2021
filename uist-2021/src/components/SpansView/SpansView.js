@@ -163,7 +163,7 @@ function GenericCol(props) {
     return (
         <div className={`SegmentColumn notclickable ${props.title}`}>
             <div className="ColumnTitleContainer">
-                <h2 className="ColumnTitle">{props.title} Summary</h2>
+                <h2 className="ColumnTitle">{props.title} {props.title !== "Original" ? "Summary" : "Transcript"}</h2>
             </div>
             <div className="data">
                 { props.segments
