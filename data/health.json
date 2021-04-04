@@ -1,7 +1,7 @@
 {
-    "title": "How I Built Resilience: Dr. Iman Abuzeid of Incredible Health",
-    "subtitle": "HOW I BUILT THIS WITH GUY RAZ",
-    "date": "November 25, 202012:01 AM ET",
+	"title": "How I Built Resilience: Dr. Iman Abuzeid of Incredible Health",
+	"subtitle": "HOW I BUILT THIS WITH GUY RAZ",
+	"date": "November 25, 202012:01 AM ET",
 	"image": "https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f-s200-c85.webp",
 	"raw": {
 		"segments": [{
@@ -339,7 +339,7 @@
 			"text": "So one is really I guess promoting the profession as a fantastic profession.",
 			"start": "260.9",
 			"end": "265.3",
-			"phrase": "high paying profession"
+			"phrase": "after you complete your"
 		}, {
 			"id": [48],
 			"speaker": "1",
@@ -360,7 +360,7 @@
 			"text": "But this is a relatively high paying profession after you complete your.",
 			"start": "272.3",
 			"end": "276.9",
-			"phrase": "high paying profession"
+			"phrase": "after you complete your"
 		}, {
 			"id": [51],
 			"speaker": "0",
@@ -2178,7 +2178,7 @@
 			"text": "The profession is promoted as a fantastic profession.",
 			"id": [47],
 			"speaker": "1",
-			"phrase": "high paying profession"
+			"phrase": "after you complete your"
 		}, {
 			"text": "Sometimes nurses feelunderappreciated because they work so much.",
 			"id": [49],
@@ -2188,7 +2188,7 @@
 			"text": "After you complete your studies, this is a high paying profession.",
 			"id": [50],
 			"speaker": "1",
-			"phrase": "high paying profession"
+			"phrase": "after you complete your"
 		}, {
 			"text": "I think becoming a nurse should be paid for.",
 			"id": [51],
@@ -2701,7 +2701,7 @@
 			"text": "A high paying profession is promoted after you complete your studies.",
 			"id": [47, 50],
 			"speaker": "1",
-			"phrase": "high paying profession"
+			"phrase": "after you complete your"
 		}, {
 			"text": "Every nurse in the country gets free continuing education, but they have to pay out of pocket for it because they need it to renew their licenses.",
 			"id": [52, 53, 54, 57],
@@ -2923,186 +2923,278 @@
 		"segments": [{
 			"text": "One to one tutoring is an alternative to online classes that offer live online personalized lessons and more than 300 subjects according to the sponsor of the show.",
 			"id": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+			"duration": "1-2 minutes",
+			"sequence": 0,
 			"phrase": "live online personalized lessons and more than 300 subjects"
 		}, {
 			"text": "The nurses are not applying for jobs just putting up a profile.",
 			"id": [19, 20, 21, 22],
+			"duration": "< 1 minute",
+			"sequence": 1,
 			"phrase": "the nurses are not applying for jobs"
 		}, {
 			"text": "The shortage of nurses is getting worse because of outdated technology.",
 			"id": [30, 32, 35],
+			"duration": "< 1 minute",
+			"sequence": 2,
 			"phrase": ""
 		}, {
 			"text": "Over 250 hospitals and health systems used custom matching and screening to hire.",
 			"id": [37],
+			"duration": "< 1 minute",
+			"sequence": 3,
 			"phrase": "over 250 hospitals and health systems"
 		}, {
 			"text": "Since the early 90s the way they hire has not changed.",
 			"id": [33],
+			"duration": "< 1 minute",
+			"sequence": 4,
 			"phrase": "s the way they hire"
 		}, {
 			"text": "The shortage crisis is acute and my stepsister is a nurse.",
 			"id": [38, 39, 40, 41],
+			"duration": "< 1 minute",
+			"sequence": 5,
 			"phrase": "my stepsister is a nurse"
 		}, {
 			"text": "Sometimes there is a shortage of nurses and we have to increase the amount of training we give them.",
 			"id": [43, 44, 45, 49],
+			"duration": "< 1 minute",
+			"sequence": 6,
 			"phrase": "the amount of training"
 		}, {
 			"text": "A high paying profession is promoted after you complete your studies.",
 			"id": [47, 50],
-			"phrase": "high paying profession"
+			"duration": "< 1 minute",
+			"sequence": 7,
+			"phrase": "after you complete your"
 		}, {
 			"text": "Every nurse in the country gets free continuing education, but they have to pay for it.",
 			"id": [52, 53, 54, 57],
+			"duration": "< 1 minute",
+			"sequence": 8,
 			"phrase": "free continuing education"
 		}, {
 			"text": "I have to wait three months for my next job because my sisters are nurses.",
 			"id": [66],
+			"duration": "< 1 minute",
+			"sequence": 9,
 			"phrase": "sisters are nurses"
 		}, {
 			"text": "We thought there had to be an easier way to solve it.",
 			"id": [69],
+			"duration": "< 1 minute",
+			"sequence": 10,
 			"phrase": "to be an easier way to solve"
 		}, {
 			"text": "You decided to simplify the hiring process after finding a problem.",
 			"id": [75],
+			"duration": "< 1 minute",
+			"sequence": 11,
 			"phrase": "you decided to"
 		}, {
 			"text": "There is a place for a nurse to manage their career.",
 			"id": [76, 77, 78, 79, 80, 81],
+			"duration": "< 1 minute",
+			"sequence": 12,
 			"phrase": ""
 		}, {
 			"text": "The hospitals pick different tiers based on volume so it is a subscription.",
 			"id": [85],
+			"duration": "< 1 minute",
+			"sequence": 13,
 			"phrase": ""
 		}, {
 			"text": "Retention is important for these employers because nursing is known for high turnover.",
 			"id": [88, 89, 90, 91, 92, 93],
+			"duration": "< 1 minute",
+			"sequence": 14,
 			"phrase": "is known for high turnover"
 		}, {
 			"text": "The epidemiologists and public health experts around the world gave the most information.",
 			"id": [97, 98, 99],
+			"duration": "< 1 minute",
+			"sequence": 15,
 			"phrase": "s and public health experts around the world"
 		}, {
 			"text": "There was a spike in demand for specific types of nurses.",
 			"id": [106, 107],
+			"duration": "< 1 minute",
+			"sequence": 16,
 			"phrase": "there was a spike in demand for specific types of nurses"
 		}, {
 			"text": "There are few things that we did a few months ago but one of them is called the Pandemic hiring sweet which is a range of features and tools that help hospitals.",
 			"id": [110, 111, 112, 113, 115],
+			"duration": "< 1 minute",
+			"sequence": 17,
 			"phrase": "there are few things that we did a few months ago"
 		}, {
 			"text": "If you were a nurse using your platform, you would do an in person interview at least one time if you traveled to the hospital, but that is no longer a feature.",
 			"id": [116, 117, 118],
+			"duration": "< 1 minute",
+			"sequence": 18,
 			"phrase": "if you were a nurse using your platform, you would"
 		}, {
 			"text": "The hiring period for a nurse is usually just 12 days.",
 			"id": [122],
+			"duration": "< 1 minute",
+			"sequence": 19,
 			"phrase": "e hiring period"
 		}, {
 			"text": "The first set of interviews are done through our software and our site and we have automated interview scheduling built in that requires 0 integration with the hospital.",
 			"id": [126],
+			"duration": "< 1 minute",
+			"sequence": 20,
 			"phrase": "through our software and our site and we have automated interview scheduling built"
 		}, {
 			"text": "We have to accelerate it because it was in our plan at the beginning of the year.",
 			"id": [128, 129, 130],
+			"duration": "< 1 minute",
+			"sequence": 21,
 			"phrase": "have to accelerate it because"
 		}, {
 			"text": "We prioritize what customers need the most because half of our team is software engineers.",
 			"id": [133, 134, 135, 136, 137, 138],
+			"duration": "< 1 minute",
+			"sequence": 22,
 			"phrase": "our team is software engineers"
 		}, {
 			"text": "One of the advantages of being a start up is that you can operate and execute quickly so we generally move as quickly as possible and the improvements to our platform even before that.",
 			"id": [145],
+			"duration": "< 1 minute",
+			"sequence": 23,
 			"phrase": "so we generally move as quickly as"
 		}, {
 			"text": "I want to know if you have a distributed workforce or a pre-pandemic one.",
 			"id": [146, 147, 148],
+			"duration": "< 1 minute",
+			"sequence": 24,
 			"phrase": "a distributed workforce or"
 		}, {
 			"text": "In other parts of the country, we serve clients from our office.",
 			"id": [149, 150],
+			"duration": "< 1 minute",
+			"sequence": 25,
 			"phrase": "n other parts of the"
 		}, {
 			"text": "People will work from home or come in a few days a week.",
 			"id": [153],
+			"duration": "< 1 minute",
+			"sequence": 26,
 			"phrase": "work from home or come in a"
 		}, {
 			"text": "50 of our team were experiencing some kind of symptoms of anxiety or depression, so there were a few things that we had to address first.",
 			"id": [159, 160, 161, 162, 163, 164, 165, 172],
+			"duration": "1-2 minutes",
+			"sequence": 27,
 			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
 		}, {
 			"text": "They had to scale back their hours because of the strain.",
 			"id": [166, 167, 168, 169, 170, 171],
+			"duration": "< 1 minute",
+			"sequence": 28,
 			"phrase": ""
 		}, {
 			"text": "The biggest change she has seen in the healthcare industry is when they look at how much you have saved and help you build a plan that will allow you to grow your savings and make money.",
 			"id": [173, 174, 175, 176, 177, 178, 179, 181, 184],
+			"duration": "1-2 minutes",
+			"sequence": 29,
 			"phrase": "seen in the healthcare industry"
 		}, {
 			"text": "The rapid decision making is the biggest change this year.",
 			"id": [185, 187, 188],
+			"duration": "< 1 minute",
+			"sequence": 30,
 			"phrase": "the biggest change"
 		}, {
 			"text": "There is a lot of red tape in the healthcare industry.",
 			"id": [186],
+			"duration": "< 1 minute",
+			"sequence": 31,
 			"phrase": "the healthcare industry"
 		}, {
 			"text": "I had a consultation with my doctor this year for things like a skin issue and I got a covid test just at a safety a couple months ago, she was just a remote call.",
 			"id": [189],
+			"duration": "< 1 minute",
+			"sequence": 32,
 			"phrase": "like a skin issue and i got a covid test just at a safety a couple months ago,"
 		}, {
 			"text": "The health care industry needs to focus on customer service in order to get reimbursed for it and if patients are using telemedicine you will get paid for that as well.",
 			"id": [191, 192, 193, 194],
+			"duration": "< 1 minute",
+			"sequence": 33,
 			"phrase": "focus on customer service"
 		}, {
 			"text": "The nurses and other staff make your hospital experience better.",
 			"id": [195, 196, 197, 198, 203],
+			"duration": "< 1 minute",
+			"sequence": 34,
 			"phrase": ""
 		}, {
 			"text": "The software platform will highlight this in order for it to get better.",
 			"id": [215],
+			"duration": "< 1 minute",
+			"sequence": 35,
 			"phrase": "in order for it to get better"
 		}, {
 			"text": "It's good to have a nurse just out of school.",
 			"id": [220, 221, 222],
+			"duration": "< 1 minute",
+			"sequence": 36,
 			"phrase": "a nurse just out of"
 		}, {
 			"text": "You need to be a nurse if you are 30 or younger.",
 			"id": [227, 228],
+			"duration": "< 1 minute",
+			"sequence": 37,
 			"phrase": ""
 		}, {
 			"text": "It's important to get phrases like cultural fit and my because there are different interview practices for nurses and technology workers.",
 			"id": [233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244],
+			"duration": "1-2 minutes",
+			"sequence": 38,
 			"phrase": "to get phrases like cultural fit and"
 		}, {
 			"text": "You can prevent systemic bias by hiring nurses who speak Spanish and are bilingual.",
 			"id": [256],
+			"duration": "< 1 minute",
+			"sequence": 39,
 			"phrase": "who speak spanish"
 		}, {
 			"text": "One of the best ways to address bias is to use demographic data.",
 			"id": [258, 259, 260, 261, 262, 263],
+			"duration": "1-2 minutes",
+			"sequence": 40,
 			"phrase": ""
 		}, {
 			"text": "We can make sure everyone has the same chance to interview.",
 			"id": [265],
+			"duration": "< 1 minute",
+			"sequence": 41,
 			"phrase": ""
 		}, {
 			"text": "It was almost like a human connection inside the software platform.",
 			"id": [272],
+			"duration": "< 1 minute",
+			"sequence": 42,
 			"phrase": "almost like a human connection"
 		}, {
 			"text": "We need to double down on what it will take to help hospitals and nurses find each other faster.",
 			"id": [275, 276, 277, 278],
+			"duration": "< 1 minute",
+			"sequence": 43,
 			"phrase": "take to help hospitals and nurses find each other faster"
 		}, {
 			"text": "I want you to be anentrepreneur because I believe you are the child of immigrants.",
 			"id": [279, 280, 281, 282],
+			"duration": "< 1 minute",
+			"sequence": 44,
 			"phrase": "i believe you are the child of immigrants."
 		}, {
 			"text": "I believe that starting a company is the epitome of what you can do with your business career and that comes with an intense amount of resilience.",
 			"id": [290, 291, 292],
+			"duration": "< 1 minute",
+			"sequence": 45,
 			"phrase": "is the epitome of what you can do with your business career"
 		}]
 	}

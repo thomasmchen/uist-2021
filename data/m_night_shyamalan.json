@@ -4733,266 +4733,398 @@
 		"segments": [{
 			"text": "I used to play with the camera when I was a kid.",
 			"id": [5, 6, 7, 8],
+			"duration": "< 1 minute",
+			"sequence": 0,
 			"phrase": "i used to play"
 		}, {
 			"text": "I wanted to be a doctor after reading about lost ark.",
 			"id": [12, 13, 14, 15],
+			"duration": "1-2 minutes",
+			"sequence": 1,
 			"phrase": "to be a doctor"
 		}, {
 			"text": "The cameras were expensive and it was difficult to get them developed.",
 			"id": [17, 18, 19, 20],
+			"duration": "< 1 minute",
+			"sequence": 2,
 			"phrase": "to get them developed."
 		}, {
 			"text": "Some of your fans know that you show clips of them.",
 			"id": [23],
+			"duration": "< 1 minute",
+			"sequence": 3,
 			"phrase": "r fans know that you"
 		}, {
 			"text": "I was mimicking rather than creating when I saw raiders.",
 			"id": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+			"duration": "< 1 minute",
+			"sequence": 4,
 			"phrase": "i was mimicking rather than creating"
 		}, {
 			"text": "We ask people who have mastered what they do how often they interview them.",
 			"id": [34, 35],
+			"duration": "< 1 minute",
+			"sequence": 5,
 			"phrase": "ve mastered what they do"
 		}, {
 			"text": "If you want to create environments where you can make changes safely, you have to do it iteratively.",
 			"id": [38, 39, 40, 41, 42, 43, 44, 45, 48],
+			"duration": "< 1 minute",
+			"sequence": 6,
 			"phrase": "create environments where you can"
 		}, {
 			"text": "You had to raise money to make it because you were so new.",
 			"id": [74],
+			"duration": "< 1 minute",
+			"sequence": 7,
 			"phrase": "e money to"
 		}, {
 			"text": "We sold it for the same reason as I try to do original films.",
 			"id": [79, 80, 81],
+			"duration": "< 1 minute",
+			"sequence": 8,
 			"phrase": "i try to do original films"
 		}, {
 			"text": "The voice inside told me I might not be able to balance everything.",
 			"id": [88, 89, 90, 92, 93, 94, 95, 96],
+			"duration": "< 1 minute",
+			"sequence": 9,
 			"phrase": "to balance everything"
 		}, {
 			"text": "You want to meet the high expectations of your success.",
 			"id": [99],
+			"duration": "< 1 minute",
+			"sequence": 10,
 			"phrase": "you want to meet th"
 		}, {
 			"text": "If I can figure that out today, I will be happy.",
 			"id": [106, 111],
+			"duration": "< 1 minute",
+			"sequence": 11,
 			"phrase": "if i can figure that out today, i"
 		}, {
 			"text": "I have healthy anxiety about what could go wrong, which makes me not anxious.",
 			"id": [101, 102, 103, 104, 105],
+			"duration": "< 1 minute",
+			"sequence": 12,
 			"phrase": "healthy anxiety about what could go wrong"
 		}, {
 			"text": "I have to figure out what happens after he falls down.",
 			"id": [110],
+			"duration": "< 1 minute",
+			"sequence": 13,
 			"phrase": "figure out what happens after he falls down."
 		}, {
 			"text": "Your films have made three billion dollars so people will watch this.",
 			"id": [113, 114, 115, 116],
+			"duration": "< 1 minute",
+			"sequence": 14,
 			"phrase": "three billion dollars"
 		}, {
 			"text": "This is the last movie that they will allow me to make and I am ready to burn the house down for this value system.",
 			"id": [117, 118, 119, 120, 121, 122, 123, 126, 137, 138, 139],
+			"duration": "1-2 minutes",
+			"sequence": 15,
 			"phrase": "m ready to burn the house down for this value system"
 		}, {
 			"text": "My parents think I'm famous and I can't just put it up.",
 			"id": [127, 128, 129, 130, 131],
+			"duration": "< 1 minute",
+			"sequence": 16,
 			"phrase": ""
 		}, {
 			"text": "I was like writing that is fast as I could like on the train rides and all the mentality was you are an indian kid from Philadelphia.",
 			"id": [125],
+			"duration": "< 1 minute",
+			"sequence": 17,
 			"phrase": "writing that is fast as i could like on the train rides and all the mentality was"
 		}, {
 			"text": "He will not give me an island or part of the country.",
 			"id": [135],
+			"duration": "< 1 minute",
+			"sequence": 18,
 			"phrase": "part of the country"
 		}, {
 			"text": "I know that story and I am a child of immigrants.",
 			"id": [143],
+			"duration": "< 1 minute",
+			"sequence": 19,
 			"phrase": "child of immigrants"
 		}, {
 			"text": "Not all of your work explores dark themes like death and grief and physical isolation and you have a wonderful family and tell me how those themes came to be.",
 			"id": [144, 145],
+			"duration": "< 1 minute",
+			"sequence": 20,
 			"phrase": "you have a wonderful family and tell me how those themes came to be"
 		}, {
 			"text": "We would play tricks on you that would make you laugh and make the audience laugh as well.",
 			"id": [146, 147, 148, 149, 150, 151],
+			"duration": "1-2 minutes",
+			"sequence": 21,
 			"phrase": "tricks on you"
 		}, {
 			"text": "I want to walk you through your creative process so that I can see where your ideas come from.",
 			"id": [152, 153, 154],
+			"duration": "< 1 minute",
+			"sequence": 22,
 			"phrase": "through your creative process"
 		}, {
 			"text": "If you can't be productive in other ways when you see the curve of success failure and a lot of people never return, then you should take the space.",
 			"id": [169, 170, 171, 172, 173, 174, 178, 156, 157, 158, 159, 160],
+			"duration": "< 1 minute",
+			"sequence": 23,
 			"phrase": "t be productive in other ways"
 		}, {
 			"text": "She says that you can fail but not stare at the wall.",
 			"id": [181, 182, 185, 186, 187, 188, 189, 190],
+			"duration": "< 1 minute",
+			"sequence": 24,
 			"phrase": "stare at the wall"
 		}, {
 			"text": "There are certain principles that are absolutely essential if you want to do a composition or editing project.",
 			"id": [201, 202, 203, 204, 205, 206, 214, 215, 216, 217, 218, 219, 220],
+			"duration": "2-5 minutes",
+			"sequence": 25,
 			"phrase": "certain principles that"
 		}, {
 			"text": "The partners that are making it with their healthy lifestyles allow me to have this process.",
 			"id": [211],
+			"duration": "< 1 minute",
+			"sequence": 26,
 			"phrase": "allow me to have this process"
 		}, {
 			"text": "We are protecting the process because I can make mistakes on my own.",
 			"id": [208, 210],
+			"duration": "< 1 minute",
+			"sequence": 27,
 			"phrase": "protecting the process"
 		}, {
 			"text": "I mortgaged my house because I was so scared that nobody would want to buy it and I wonder if I would do a movie with this person.",
 			"id": [233, 234, 235, 236, 237, 238, 239, 243, 262],
+			"duration": "2-5 minutes",
+			"sequence": 28,
 			"phrase": "because i was so scared that"
 		}, {
 			"text": "I was doing a puzzle with my child and I needed to find the next piece.",
 			"id": [242, 249],
+			"duration": "1-2 minutes",
+			"sequence": 29,
 			"phrase": "doing a puzzle with my"
 		}, {
 			"text": "The story is going to be five days instead of six.",
 			"id": [261],
+			"duration": "< 1 minute",
+			"sequence": 30,
 			"phrase": "s going to be five days"
 		}, {
 			"text": "I can talk about it in a way that makes you feel like you have control over it, but that's not the way it is.",
 			"id": [226, 227, 228, 229, 230, 231, 232],
+			"duration": "< 1 minute",
+			"sequence": 31,
 			"phrase": "i can talk about it in"
 		}, {
 			"text": "We were able to find eight 10 and 12 pieces.",
 			"id": [247],
+			"duration": "< 1 minute",
+			"sequence": 32,
 			"phrase": "and 12 pieces"
 		}, {
 			"text": "Visit each raycom and pr e trade securities for more information.",
 			"id": [271],
+			"duration": "< 1 minute",
+			"sequence": 33,
 			"phrase": "for more information"
 		}, {
 			"text": "We will discuss how shyamalan had to adapt his creative process.",
 			"id": [263, 264, 265, 272],
+			"duration": "< 1 minute",
+			"sequence": 34,
 			"phrase": "had to adapt his creative process"
 		}, {
 			"text": "If you can do this for eight weeks, I will pay you and make a movie for you, but only if you do it for a long time.",
 			"id": [294, 296, 298, 299, 300, 301, 302, 303, 304, 305, 306],
+			"duration": "1-2 minutes",
+			"sequence": 35,
 			"phrase": "if you can do this for eight weeks, i"
 		}, {
 			"text": "I can't stop the costumer from talking to the construction worker after they're done.",
 			"id": [295],
+			"duration": "< 1 minute",
+			"sequence": 36,
 			"phrase": "stop the costumer from talking to the construction worker a"
 		}, {
 			"text": "I didn't meet a human that was positive or negative for two and a half months, but I picked up something when I came back.",
 			"id": [307, 308, 309, 312],
+			"duration": "< 1 minute",
+			"sequence": 37,
 			"phrase": "for two and a half months"
 		}, {
 			"text": "The dominican republic helped us, but not as much as we would have liked.",
 			"id": [319, 320, 321, 322, 323],
+			"duration": "< 1 minute",
+			"sequence": 38,
 			"phrase": "the dominican republic"
 		}, {
 			"text": "The second season was finished because of the relationship between the two countries.",
 			"id": [327, 328, 329, 330, 331, 332],
+			"duration": "< 1 minute",
+			"sequence": 39,
 			"phrase": "the two countries"
 		}, {
 			"text": "The film was supposed to be released in February, but it is coming out in July.",
 			"id": [334],
+			"duration": "< 1 minute",
+			"sequence": 40,
 			"phrase": "the film was supposed to be released in february, but it"
 		}, {
 			"text": "It takes two years to see it in a movie theater.",
 			"id": [338],
+			"duration": "< 1 minute",
+			"sequence": 41,
 			"phrase": ""
 		}, {
 			"text": "We said that we were based on what we knew about the vaccines.",
 			"id": [340],
+			"duration": "< 1 minute",
+			"sequence": 42,
 			"phrase": "based on what we knew about the vaccines"
 		}, {
 			"text": "I want to see if he is happy with the questions.",
 			"id": [343, 344, 345, 346, 347, 348],
+			"duration": "< 1 minute",
+			"sequence": 43,
 			"phrase": "see if he"
 		}, {
 			"text": "I can't do that orquentin tarantino can, that was really harsh and not very helpful.",
 			"id": [353, 366],
+			"duration": "1-2 minutes",
+			"sequence": 44,
 			"phrase": "that was really harsh and"
 		}, {
 			"text": "I told the mexican student that there wasn't enough at the table.",
 			"id": [358, 359, 360, 361, 362],
+			"duration": "< 1 minute",
+			"sequence": 45,
 			"phrase": ""
 		}, {
 			"text": "This is a good time to ask how much I played.",
 			"id": [354],
+			"duration": "< 1 minute",
+			"sequence": 46,
 			"phrase": ""
 		}, {
 			"text": "People are more open to the idea of how stories affect society.",
 			"id": [371],
+			"duration": "< 1 minute",
+			"sequence": 47,
 			"phrase": "more open to"
 		}, {
 			"text": "I will combine two questions from sean young and jared jones and ask them if they are the king of plot twists.",
 			"id": [374],
+			"duration": "< 1 minute",
+			"sequence": 48,
 			"phrase": "from sean young and jared jones an"
 		}, {
 			"text": "It is hard to talk about spirituality in a story.",
 			"id": [375, 376, 377, 378, 379, 380, 381],
+			"duration": "< 1 minute",
+			"sequence": 49,
 			"phrase": ""
 		}, {
 			"text": "If I am telling a good story and doing my job you are with me.",
 			"id": [386],
+			"duration": "< 1 minute",
+			"sequence": 50,
 			"phrase": "doing my job"
 		}, {
 			"text": "I enjoy feeling unexpected emotions when I read or watch a painting.",
 			"id": [388],
+			"duration": "< 1 minute",
+			"sequence": 51,
 			"phrase": "i enjoy feeling"
 		}, {
 			"text": "I have an audio recording of the visit in the movie theater and there is a moment when something happens to those of you that haven't watched it before.",
 			"id": [392, 393, 394, 395, 396, 397, 398, 399],
+			"duration": "1-2 minutes",
+			"sequence": 52,
 			"phrase": "i have an audio recording of the visit in the movie theater"
 		}, {
 			"text": "The collective experience of making movies for me is wonderful and I like to see them in a movie theater because the teenage girl is affecting a 60 year old guy.",
 			"id": [404, 405, 406, 407, 408],
+			"duration": "< 1 minute",
+			"sequence": 53,
 			"phrase": "e the teenage girl is affecting"
 		}, {
 			"text": "They say if you say the problem is not working, you will understand.",
 			"id": [414, 415, 416, 417, 420],
+			"duration": "< 1 minute",
+			"sequence": 54,
 			"phrase": "is not working"
 		}, {
 			"text": "When you leave the movie theater, you will realize that you want to go to a theater with a group of people.",
 			"id": [438, 439, 440, 442],
+			"duration": "< 1 minute",
+			"sequence": 55,
 			"phrase": "theater with a group of people"
 		}, {
 			"text": "It will take a long time to feel safe when we are alone.",
 			"id": [430, 431, 432, 433, 434, 435],
+			"duration": "< 1 minute",
+			"sequence": 56,
 			"phrase": "e to feel safe"
 		}, {
 			"text": "Warner made 17 of its major releases available to stream for a month.",
 			"id": [443, 444],
+			"duration": "< 1 minute",
+			"sequence": 57,
 			"phrase": "available to stream for a month"
 		}, {
 			"text": "It was done without talking to the film makers who were passionate about what they were doing and were told that it was not going to be that way.",
 			"id": [448, 449, 450, 451, 453],
+			"duration": "< 1 minute",
+			"sequence": 58,
 			"phrase": "without talking to the film"
 		}, {
 			"text": "The studio should have put it out when it was safer.",
 			"id": [455, 456, 457],
+			"duration": "< 1 minute",
+			"sequence": 59,
 			"phrase": "put it out when it was safer"
 		}, {
 			"text": "The trend of dramatic films being watched at home and the idea that going to the cinema is about spectacle is what the future holds.",
 			"id": [461, 462, 463, 464],
+			"duration": "< 1 minute",
+			"sequence": 60,
 			"phrase": "trend of dramatic films being watched at home"
 		}, {
 			"text": "It takes two hours to commit to an art form.",
 			"id": [476, 477],
+			"duration": "< 1 minute",
+			"sequence": 61,
 			"phrase": "to an art form"
 		}, {
 			"text": "When you go to the movie theater turn off your phone.",
 			"id": [475],
+			"duration": "< 1 minute",
+			"sequence": 62,
 			"phrase": "when you go to the movie theater"
 		}, {
 			"text": "You will get more back if you put more effort into it.",
 			"id": [479],
+			"duration": "< 1 minute",
+			"sequence": 63,
 			"phrase": "if you put more"
 		}, {
 			"text": "I don't believe that we can all be back together again, we just want to experience things together and those movies that promise this will be something you will enjoy.",
 			"id": [466, 467, 468, 469, 470, 471, 472, 473, 474],
+			"duration": "< 1 minute",
+			"sequence": 64,
 			"phrase": "together and those movies that promise this"
 		}, {
 			"text": "I told him that the second column was a waste of time and that he should just figure out when the best time to leave is.",
 			"id": [489, 490, 491, 492, 493],
+			"duration": "< 1 minute",
+			"sequence": 65,
 			"phrase": "t the second column"
 		}]
 	}

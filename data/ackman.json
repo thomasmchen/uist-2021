@@ -2445,138 +2445,206 @@
 		"segments": [{
 			"text": "The markets are a strange place for someone who isn't following the same path.",
 			"id": [1, 2, 3, 4],
+			"duration": "< 1 minute",
+			"sequence": 0,
 			"phrase": "t following the"
 		}, {
 			"text": "The more dominant large cap affects companies more than the average and the sp 500 is a cap weighted index.",
 			"id": [8, 9, 10, 11, 12, 13, 14, 15],
+			"duration": "1-2 minutes",
+			"sequence": 1,
 			"phrase": "p 500 is a cap weighted index"
 		}, {
 			"text": "It seems like the market is moving more than usual because of computerized trading.",
 			"id": [16],
+			"duration": "< 1 minute",
+			"sequence": 2,
 			"phrase": "because of computerized trading"
 		}, {
 			"text": "The uncertainty of the future can affect the model that analysts use to value securities.",
 			"id": [17, 18, 19, 20, 21],
+			"duration": "< 1 minute",
+			"sequence": 3,
 			"phrase": "the model that analysts"
 		}, {
 			"text": "You put 27 million dollars into a hedge and it was worth 26 billion.",
 			"id": [23, 24, 25],
+			"duration": "< 1 minute",
+			"sequence": 4,
 			"phrase": "27 million dollars"
 		}, {
 			"text": "If we were wrong about the economic impact of the crisis, we would have to pay a premium.",
 			"id": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 44],
+			"duration": "2-5 minutes",
+			"sequence": 5,
 			"phrase": "if we were wrong about the economic impact of the crisis"
 		}, {
 			"text": "I had 33 billion more exposure than I did when we started buying stocks.",
 			"id": [40, 41, 42, 43],
+			"duration": "< 1 minute",
+			"sequence": 6,
 			"phrase": "3 billion more exposure than i did"
 		}, {
 			"text": "We spent 27 million dollars on the insurance policy, but we were able to invest the money in the market and protect it.",
 			"id": [49, 50, 51, 52],
+			"duration": "< 1 minute",
+			"sequence": 7,
 			"phrase": "we were able to invest the money in the market and protect"
 		}, {
 			"text": "I told you that Donald trump would be the next president of the united states and that you could short the market if you wanted to.",
 			"id": [53, 54, 55, 56],
+			"duration": "< 1 minute",
+			"sequence": 8,
 			"phrase": "the next president of the united states"
 		}, {
 			"text": "Our strategy is to buy dominant companies that are not exposed to the economy.",
 			"id": [57, 58, 59, 60, 61],
+			"duration": "< 1 minute",
+			"sequence": 9,
 			"phrase": "y dominant companies that"
 		}, {
 			"text": "If I told you he was going to be president, you wouldn't change your mind.",
 			"id": [62, 63, 64, 65, 66, 67],
+			"duration": "< 1 minute",
+			"sequence": 10,
 			"phrase": "if i told you"
 		}, {
 			"text": "In the midst of a crisis, the stock almost tripled.",
 			"id": [76],
+			"duration": "< 1 minute",
+			"sequence": 11,
 			"phrase": "in the midst of a crisis"
 		}, {
 			"text": "There was a public square in front of the grand central station.",
 			"id": [81],
+			"duration": "< 1 minute",
+			"sequence": 12,
 			"phrase": "grand central station"
 		}, {
 			"text": "We lose money when we stray from the eight principles and I had a member of the investment team engrave the two investments in a stone tablet.",
 			"id": [98, 99, 100, 101, 104],
+			"duration": "1-2 minutes",
+			"sequence": 13,
 			"phrase": "i had a member of the investment team"
 		}, {
 			"text": "One side of the debate will slam anyone who takes a high profile position.",
 			"id": [116, 117, 114],
+			"duration": "< 1 minute",
+			"sequence": 14,
 			"phrase": "one side of the debate"
 		}, {
 			"text": "I did not debate carl icahn on television because he got a lot of attention.",
 			"id": [110, 111, 112, 113],
+			"duration": "< 1 minute",
+			"sequence": 15,
 			"phrase": "carl icahn on"
 		}, {
 			"text": "There are strong opinions on both sides of the issue, but no one pays attention to it, and you have a lot of conviction in your garrett.",
 			"id": [115],
+			"duration": "< 1 minute",
+			"sequence": 16,
 			"phrase": "you have a lot of conviction in your garrett"
 		}, {
 			"text": "The congress has put a lot of money off of its balance sheet.",
 			"id": [118, 119, 120, 121],
+			"duration": "< 1 minute",
+			"sequence": 17,
 			"phrase": "f its balance sheet"
 		}, {
 			"text": "35 percent of your income is owned by the country, which is one of the most valuable assets, and we have outstanding social security.",
 			"id": [122, 123, 124, 127, 128, 129, 130, 131, 132],
+			"duration": "1-2 minutes",
+			"sequence": 18,
 			"phrase": "one of the most valuable assets"
 		}, {
 			"text": "We will return to a normal economy by the end of the year, but I don't think it will happen until the second half of 2021.",
 			"id": [145, 137, 138, 139, 140, 141],
+			"duration": "< 1 minute",
+			"sequence": 19,
 			"phrase": "the second half of 2021."
 		}, {
 			"text": "The healthcare system is getting better and people are going to be more careful.",
 			"id": [149, 150, 151, 152, 153, 154, 155],
+			"duration": "1-2 minutes",
+			"sequence": 20,
 			"phrase": "the healthcare system is getting better"
 		}, {
 			"text": "I don't know what to do if the treasury secretary calls tomorrow.",
 			"id": [156, 157, 158],
+			"duration": "< 1 minute",
+			"sequence": 21,
 			"phrase": ""
 		}, {
 			"text": "I think we have to protect the most vulnerable people when these programs end.",
 			"id": [162, 165],
+			"duration": "< 1 minute",
+			"sequence": 22,
 			"phrase": "i think we have to protect the most vulnerable people"
 		}, {
 			"text": "The benefits of working in the restaurant industry are better than in private businesses.",
 			"id": [163, 164],
+			"duration": "< 1 minute",
+			"sequence": 23,
 			"phrase": "in the restaurant industry"
 		}, {
 			"text": "If we invest in a self driving company, we might buy other businesses, but we are heavy users.",
 			"id": [168, 169, 170, 171, 174, 175, 176, 177, 178],
+			"duration": "< 1 minute",
+			"sequence": 24,
 			"phrase": "we are heavy users"
 		}, {
 			"text": "We don't like businesses that have young people in a garage.",
 			"id": [179],
+			"duration": "< 1 minute",
+			"sequence": 25,
 			"phrase": "young people in a garage"
 		}, {
 			"text": "I watched bill ackman when I was a young person at your alma mater.",
 			"id": [180, 181, 182, 183, 184],
+			"duration": "< 1 minute",
+			"sequence": 26,
 			"phrase": "i was a young person at your alma mater"
 		}, {
 			"text": "We were looking for a goldman who had been in investment banking.",
 			"id": [187, 188, 189, 190],
+			"duration": "< 1 minute",
+			"sequence": 27,
 			"phrase": ""
 		}, {
 			"text": "We could return to success if we followed the principles of the firm.",
 			"id": [194, 195, 196, 197, 198],
+			"duration": "< 1 minute",
+			"sequence": 28,
 			"phrase": "return to success"
 		}, {
 			"text": "I think coming into an office is helpful when you work from home.",
 			"id": [204, 205, 206, 207, 208, 210, 211],
+			"duration": "1-2 minutes",
+			"sequence": 29,
 			"phrase": "into an office"
 		}, {
 			"text": "The idea of asymmetric risk reward in business and philanthropy entrepreneurs is something I like.",
 			"id": [216, 217, 218, 219, 220],
+			"duration": "1-2 minutes",
+			"sequence": 30,
 			"phrase": "reward in business and"
 		}, {
 			"text": "I was told by the harvard coach that I had a good chance of making the jv and he told about 50 other young people that there were probably four spots on the rowing meeting.",
 			"id": [225, 226, 227],
+			"duration": "< 1 minute",
+			"sequence": 31,
 			"phrase": "i was told by the harvard coach that i had a good chance of making the jv and he told"
 		}, {
 			"text": "I think I have the best of both worlds when it comes to tennis, I am a vastly superior tennis player that can play a very high level tennis game.",
 			"id": [233],
+			"duration": "< 1 minute",
+			"sequence": 32,
 			"phrase": "m a vastly superior tennis player that can play a very high"
 		}, {
 			"text": "He spent the rest of the match trying to hit me back after I hit him with the overhead.",
 			"id": [238, 239, 240, 241, 242, 243, 244],
+			"duration": "< 1 minute",
+			"sequence": 33,
 			"phrase": "e rest of the match"
 		}]
 	}

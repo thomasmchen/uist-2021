@@ -1862,90 +1862,134 @@
 		"segments": [{
 			"text": "The founder of ceo of teach for America was interviewed in October of last year.",
 			"id": [6, 7, 8],
+			"duration": "< 1 minute",
+			"sequence": 0,
 			"phrase": "ceo of teach for america"
 		}, {
 			"text": "When my mother came to the united states from Mexico at the age of 17 she married a man with a college degree because she knew her children's lives would be different.",
 			"id": [13, 14, 15, 16],
+			"duration": "< 1 minute",
+			"sequence": 1,
 			"phrase": "came to the united states from mexico at the age of 17"
 		}, {
 			"text": "The only way to get to the other side was to go through it.",
 			"id": [33],
+			"duration": "< 1 minute",
+			"sequence": 2,
 			"phrase": "the only way to get to the other side was to go through it"
 		}, {
 			"text": "I was introduced to how it plays out for kids in my community.",
 			"id": [34],
+			"duration": "< 1 minute",
+			"sequence": 3,
 			"phrase": "how it plays out for kids"
 		}, {
 			"text": "If your mom says the only way through is through, that's the answer.",
 			"id": [39, 40, 41, 42],
+			"duration": "< 1 minute",
+			"sequence": 4,
 			"phrase": "the only way through is through"
 		}, {
 			"text": "The teachers would not be able to teach these children face to face.",
 			"id": [44],
+			"duration": "< 1 minute",
+			"sequence": 5,
 			"phrase": "would not be able to teach these children face to"
 		}, {
 			"text": "The biggest decision we had to make was the fact that most districts don't have the infrastructure to just pivot and how do you take care of the teachers throughout all of this.",
 			"id": [45, 46, 47],
+			"duration": "< 1 minute",
+			"sequence": 6,
 			"phrase": ""
 		}, {
 			"text": "15 to 16 million children don't have access to broadband internet according to many of your teachers.",
 			"id": [56],
+			"duration": "< 1 minute",
+			"sequence": 7,
 			"phrase": "t have access to broadband internet"
 		}, {
 			"text": "Social and emotional wellbeing of our kids is not considered when we think about academics.",
 			"id": [66, 68],
+			"duration": "< 1 minute",
+			"sequence": 8,
 			"phrase": "d when we think about academics"
 		}, {
 			"text": "The status quo isn't helping many kids learn to thrive if we could just send them.",
 			"id": [78, 79, 80, 81, 82, 87, 88, 89, 90, 92, 100, 101],
+			"duration": "2-5 minutes",
+			"sequence": 9,
 			"phrase": "if we could just send"
 		}, {
 			"text": "White middle class teachers are placed in areas that are less well off to try to get more teachers.",
 			"id": [112, 113],
+			"duration": "< 1 minute",
+			"sequence": 10,
 			"phrase": "white middle class"
 		}, {
 			"text": "Nerdwallet is a personal finance website and app that helps people make smarter money moves and has new money goals this year whether you want to use credit card points to plan a family.",
 			"id": [102, 103, 104],
+			"duration": "< 1 minute",
+			"sequence": 11,
 			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
 		}, {
 			"text": "I asked if the organization was recruiting teachers with the same background as the kids they serve.",
 			"id": [108, 109, 110, 111],
+			"duration": "< 1 minute",
+			"sequence": 12,
 			"phrase": "the same background"
 		}, {
 			"text": "We have to recruit in the middle of the season to keep our teachers and students safe.",
 			"id": [130, 134],
+			"duration": "< 1 minute",
+			"sequence": 13,
 			"phrase": "the middle of the season"
 		}, {
 			"text": "The ground zero is where you can see the inequalities in our kids.",
 			"id": [135],
+			"duration": "< 1 minute",
+			"sequence": 14,
 			"phrase": "the ground zero"
 		}, {
 			"text": "Our model is not very strict on the front end because we do a virtual interview in a few hours.",
 			"id": [139, 140, 141, 142],
+			"duration": "< 1 minute",
+			"sequence": 15,
 			"phrase": "on the front end because we"
 		}, {
 			"text": "For their kids this school year and half of last year will give them a lot of data and information but they need a device and internet access.",
 			"id": [148, 149, 150],
+			"duration": "< 1 minute",
+			"sequence": 16,
 			"phrase": "this school year and half of last"
 		}, {
 			"text": "The beginning of digital learning and the Pandemic will inform policy decisions going forward.",
 			"id": [151],
+			"duration": "< 1 minute",
+			"sequence": 17,
 			"phrase": "inform policy decisions going forward"
 		}, {
 			"text": "Our kids need to learn how to work with people who are different when we send her to a 21st century global society.",
 			"id": [157, 158, 162, 164, 165, 166],
+			"duration": "1-2 minutes",
+			"sequence": 18,
 			"phrase": "a 21st century global society"
 		}, {
 			"text": "It would be a missed opportunity to go back to how it was.",
 			"id": [153, 154, 155, 156, 160],
+			"duration": "< 1 minute",
+			"sequence": 19,
 			"phrase": "to go back to how it was"
 		}, {
 			"text": "We had to do that in the spring but my kids have been back in school since september and I think it's great that parents know what it means to be a teacher.",
 			"id": [173, 174, 182],
+			"duration": "1-2 minutes",
+			"sequence": 20,
 			"phrase": "my kids have been back in school"
 		}, {
 			"text": "I want to lower the pressure because they are easy to get access to.",
 			"id": [181],
+			"duration": "< 1 minute",
+			"sequence": 21,
 			"phrase": "re easy to get access to"
 		}]
 	}
