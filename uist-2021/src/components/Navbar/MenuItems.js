@@ -1,5 +1,10 @@
 export const MenuItems = [
     {
+        title: 'Main',
+        url: '/uist-2021/data/main',
+        cName: 'nav-links'
+    },
+    {
         title:  'Explore',
         url: '/uist-2021/data/explore',
         cName: 'nav-links'
@@ -18,5 +23,5 @@ export const MenuItems = [
         title:  'About Us',
         url: '/uist-2021/static/about',
         cName: 'nav-links-mobile'
-    },
+    }
 ]

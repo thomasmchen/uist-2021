@@ -5,6 +5,7 @@ import QAView from "../QAView/QAView"
 import SpeakerView from "../SpeakerView/SpeakerView"
 import './DataContainer.css'
 import AboutView from '../AboutView/AboutView'
+import UnifiedView from '../UnifiedView/UnifiedView'
 
 
 function DataContainer(props) {
@@ -37,6 +38,9 @@ function DataContainer(props) {
     return (
         <div className="DataContainer">
             <Switch>
+                <Route path="/uist-2021/data/main">
+                    <UnifiedView audioName={props.audioName} audioData={audioData}/>
+                </Route>
                 <Route path="/uist-2021/data/explore">
                     <SpansView audioName={props.audioName} audioData={audioData}/>
                 </Route>
