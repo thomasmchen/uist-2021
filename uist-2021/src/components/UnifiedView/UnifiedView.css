@@ -3,19 +3,24 @@ html {
 }
 
 .Parent {
-    display: grid;  
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-.SummaryView {
+.SummaryView, .DetailView {
     background-color: #2E2E2E;
     color: #E2E2E2;
     padding: 2em;
     margin-top: 1em;
     border-radius: 0.3em;
     margin-right: 1em;
+    max-height: 100vh;
+    overflow-y: scroll;
+    width: 50%;
 }
+
 
 .SummaryView .data{
     margin: 1em 0em 1em 0em;
@@ -23,12 +28,33 @@ html {
 
 .data {
     display: inline;
+    overflow: scroll;
 }
+
 
 .DetailModal {
     background-color: #2E2E2E;
     color: #E2E2E2;
-    padding: 2em;
-    margin-top: 1em;
+    padding: 2em 1em 1em;
+    margin-top: 2em;
     border-radius: 0.3em;
+    position: relative;
+
 }
+
+.DetailModal > .ColumnTitleContainer { 
+    position: absolute;
+    top: -1rem;
+    background: #888888;
+    padding: 6px 12px;
+    margin: 0;
+}
+
+.DetailModal > .ColumnTitleContainer > .ColumnTitle {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding: 0;
+}
+

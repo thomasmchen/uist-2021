@@ -122,6 +122,7 @@ function UnifiedView(props) {
     const [selectedIds, setSelectedIds] = useState([])
     const [highSelectedIdx, setHighSelectedIdx] = useState(null)
     const selectedRef = useRef(null);
+    const detailRef = useRef(null);
 
     // reset selectedId on audioData change
     let { audioData } = props;
@@ -131,7 +132,7 @@ function UnifiedView(props) {
     useEffect(() => {
         if (highSelectedIdx === null){
             return;
-        }
+        } 
 
         if (selectedRef.current){
             selectedRef.current.scrollIntoView({
@@ -151,11 +152,24 @@ function UnifiedView(props) {
             </div>
         )
     }
+    const right = document.querySelector(".DetailView");
+
+    // Scrolls the detail view up when the sentence ref is clicked
+    const setSelected = (ids) => {
+        setSelectedIds(ids);
+
+        detailRef.current.scrollTo({
+            top: 0,
+            left: 0,
+            behavior: 'smooth'
+        });
+
+    }
 
     return (
         <div className="Parent">
             <div className="SummaryView">
-                <MainSummary title="" segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelectedIds} selectedRef={selectedRef}/>
+                <MainSummary title="" segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef}/>
                 <TemporalView
                         raw={props.audioData["raw"]["segments"]}
                         high={props.audioData["high"]["segments"]}
@@ -163,7 +177,7 @@ function UnifiedView(props) {
                         low={props.audioData["low"]["segments"]}
                         selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} />
             </div>
-            <div className="DetailView">
+            <div className="DetailView" ref={detailRef}>
                 <DetailSummary title="Intermediate" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>
                 <DetailSummary title="Initial" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} label="speaker"/>
                 <DetailSummary title="Original" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
