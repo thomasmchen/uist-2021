@@ -13,7 +13,7 @@
     "react-h5-audio-player": "^3.6.2",
     "react-highlighter": "^0.4.3",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.0",
     "wavesurfer.js": "^4.6.0",
     "web-vitals": "^1.1.1"
   },
