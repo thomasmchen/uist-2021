@@ -31,6 +31,7 @@ html {
     min-height: 75vh;
     max-height: 75vh;
     width: 50%;
+    flex-direction: column;
 }
 
 .DetailView {
@@ -83,7 +84,7 @@ html {
 .MainDataSegments {
     overflow-y: auto;
     display: inline-block;
-    max-height: 65vh;
+    max-height: 55vh;
 }
 
 .SegmentText {
