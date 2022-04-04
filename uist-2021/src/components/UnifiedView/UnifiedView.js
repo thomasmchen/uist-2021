@@ -84,26 +84,39 @@ function TemporalView(props) {
     )
 }
 
-function getShortSummaryTotalInfo(highSummaries){
-    let totalShortInfo = 0;
-    highSummaries.forEach(e => totalShortInfo += e.information_contained);
-    return (totalShortInfo * 100).toFixed(2);
+function getTotalInfo(highSums, rawSums, ids){
+    let baseShortInfoTotal = 0;
+    highSums.forEach(e => baseShortInfoTotal += e.information_contained);
+
+    let deltaInfo = 0.0;
+    ids.forEach(e => {
+        deltaInfo = deltaInfo + rawSums[e].info_gain;
+    })
+
+    let highTotal = 0.0;
+    highSums.forEach(e => {
+        highTotal = highTotal + e.information_contained;
+    })
+    console.log("HIGHTOTAL:" + highTotal);
+
+    let rawTotal = 0.0;
+    rawSums.forEach(e => {
+        rawTotal = rawTotal + e.info_gain;
+    })
+    console.log("RAWTOTAL:" + rawTotal);
+
+    let combined = highTotal+rawTotal;
+    console.log("HIGHTOTAL+RAWTOTAL: " + combined);
+
+    let totalInfo = baseShortInfoTotal + deltaInfo;
+    return (totalInfo * 100).toFixed(2);
 }
 
-function getDeltaTotalInfo(rawSummaries, ids){
-    let deltaInfo = 0.0;
-    /*
-    console.log("DELTASTART");
-    console.log(rawSummaries);
-    console.log(ids);
-    console.log("DELTAEND");
-    */
-    ids.forEach(e => {
-        deltaInfo = deltaInfo + rawSummaries[e].info_gain;
-        console.log(rawSummaries[e].info_gain)
-    })
-    console.log("deltainfo: " + deltaInfo);
-    return deltaInfo;
+function onSegmentClick(props, id){
+    props.setSelected(id);
+    let totalInfo = getTotalInfo(props.segments, props.rawSegments, props.lifetimeSelected);
+    props.setInformationShown(totalInfo);
+    console.log(totalInfo)
 }
 
 function MainSummary(props) {
@@ -116,13 +129,20 @@ function MainSummary(props) {
                 <h2 className="SummaryTitle">
                     <span>{props.title} Summary</span>
                 </h2>
-                <h2 className="InfoDisplayLabel">Information Displayed: <span className="InfoDisplayValue">{getShortSummaryTotalInfo(props.segments)+getDeltaTotalInfo(props.rawSegments,props.lifetimeSelected)} %</span></h2>
+                <h2 className="InfoDisplayLabel">Information Displayed: <span className="InfoDisplayValue">
+                {
+                    (props.informationShown === 0) ? 
+                    getTotalInfo(props.segments, props.rawSegments, props.lifetimeSelected)
+                    :
+                    props.informationShown
+                } %
+                </span></h2>
             </div>
             <div className="MainDataSegments">
                 { props.segments
                     .map((segment, idx) =>
                         <span key={idx} 
-                        onClick={() => {props.setSelected(segment.id)}} 
+                        onClick={() => {onSegmentClick(props, segment.id)}} 
                         className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
                         ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
                         <SimpleSegment 
@@ -249,24 +269,12 @@ function UnifiedView(props) {
 
         setLifetimeSelectedIdx(tempLifeTimeSelected);
     }
-    /*
-    console.log("selectedIds")
-    console.log(selectedIds)
-
-    
-    console.log("lifetimeSelectedIdx")
-    console.log(lifetimeSelectedIdx)
-
-    console.log("informationShown")
-    console.log(informationShown)
-    console.log(props.audioData.high)
-    */
 
     return (
         <div className="Wrapper">
             <div className="DataParent">
                 <div className="SummaryView">
-                    <MainSummary title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelected={lifetimeSelectedIdx}/>
+                    <MainSummary title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelected={lifetimeSelectedIdx} informationShown={informationShown} setInformationShown={setInformationShown}/>
                     <TemporalView
                             raw={props.audioData["raw"]["segments"]}
                             high={props.audioData["high"]["segments"]}
