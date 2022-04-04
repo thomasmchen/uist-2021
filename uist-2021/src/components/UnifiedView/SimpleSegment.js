@@ -13,7 +13,7 @@ function Segment(props) {
 
     return (
         (props.phrase != null && props.isSelected) ?
-        <Highlight className="SegmentText" matchStyle="SegmentTextHighlight" search={props.phrase}>{props.text}</Highlight>
+        <Highlight className="SegmentText" search={props.phrase}>{props.text}</Highlight>
         :
         <span className="SegmentText" >{props.text}{segmentEnd}</span>
     )
