@@ -96,7 +96,7 @@ function getTotalInfo(highSums, rawSums, ids){
             deltaInfo = deltaInfo + highSums[e].delta;
         })
     }
-    
+
     let totalInfo = baseShortInfoTotal + deltaInfo;
     return (totalInfo * 100).toFixed(2);
     // Debug checking only
