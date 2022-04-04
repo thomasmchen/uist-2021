@@ -58,7 +58,9 @@ function TemporalView(props) {
             return {
                 name: element.id.join(", "),
                 duration: element.id.reduce((p, c) => p + rawDurationMap[c], 0), // cumulative duration of all associated segments
-                ids: element.id
+                ids: element.id,
+                info: element.information_contained,
+                quality: element.quality
             }
         })
 
@@ -82,6 +84,28 @@ function TemporalView(props) {
     )
 }
 
+function getShortSummaryTotalInfo(highSummaries){
+    let totalShortInfo = 0;
+    highSummaries.forEach(e => totalShortInfo += e.information_contained);
+    return (totalShortInfo * 100).toFixed(2);
+}
+
+function getDeltaTotalInfo(rawSummaries, ids){
+    let deltaInfo = 0.0;
+    /*
+    console.log("DELTASTART");
+    console.log(rawSummaries);
+    console.log(ids);
+    console.log("DELTAEND");
+    */
+    ids.forEach(e => {
+        deltaInfo = deltaInfo + rawSummaries[e].info_gain;
+        console.log(rawSummaries[e].info_gain)
+    })
+    console.log("deltainfo: " + deltaInfo);
+    return deltaInfo;
+}
+
 function MainSummary(props) {
     // takes in segments prop
     // takes in selectedIds prop
@@ -89,60 +113,78 @@ function MainSummary(props) {
     return (
         <div className="Summary">
             <div className="SummaryTitleContainer">
-                <h2 className="SummaryTitle">{props.title} Summary</h2>
+                <h2 className="SummaryTitle">
+                    <span>{props.title} Summary</span>
+                </h2>
+                <h2 className="InfoDisplayLabel">Information Displayed: <span className="InfoDisplayValue">{getShortSummaryTotalInfo(props.segments)+getDeltaTotalInfo(props.rawSegments,props.lifetimeSelected)} %</span></h2>
             </div>
             <div className="MainDataSegments">
                 { props.segments
                     .map((segment, idx) =>
-                        <div key={idx} 
-                            onClick={() => {props.setSelected(segment.id)}} 
-                            className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
-                            ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
-                            <SimpleSegment 
-                                text={segment.text} 
-                                id={segment.id.join(", ")}
-                                sequence={segment.sequence}
-                                phrase={segment.phrase ? segment.phrase : null}
-                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
-                                speaker={segment.duration}/>
-                        </div>
+                        <span key={idx} 
+                        onClick={() => {props.setSelected(segment.id)}} 
+                        className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
+                        ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
+                        <SimpleSegment 
+                            text={segment.text} 
+                            id={segment.id.join(", ")}
+                            sequence={segment.sequence}
+                            phrase={segment.phrase ? segment.phrase : null}
+                            isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                            speaker={segment.duration}/>
+                        </span>
                     ) }
             </div>
         </div>
     );
 }
 
+function getStartTime(array){
+    if (array[0] != null) {
+        return array[0].start;
+    }
+}
+
+function getEndTime(array){
+    if (array[0] != null) {
+        return array[array.length - 1].end;
+    }
+}
+
 function DetailSummary(props) {
     return (
         <div className={`DetailModal notclickable ${props.title}`}>
-            <div className="ColumnTitleContainer">
-                <h2 className="ColumnTitle">{props.title} {props.title !== "Original" ? "Summary" : "Transcript"}</h2>
+            <div className="ColumnHeader">
+                <div className="ColumnTitleContainer">
+                    <h2 className="ColumnTitle">{props.title} {props.title !== "Original" ? "Summary" : "Transcript"}</h2>
+                </div>
+                {
+                        props.segments
+                        .filter(segment => ifArrayIntersect(segment.id, props.selectedIds)) != null &&
+                        props.audioName &&
+                        <AudioSegment 
+                        audioName={props.audioName}
+                        start={getStartTime(props.segments
+                            .filter(segment => ifArrayIntersect(segment.id, props.selectedIds)))}
+                        end={getEndTime(props.segments
+                            .filter(segment => ifArrayIntersect(segment.id, props.selectedIds)))}/>
+                }
             </div>
             <div className="DetailDataSegments">
-                { props.segments
+                { 
+                    props.segments
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
-                            <div key={idx} className={classnames({'selected': true, "item": true})}>
-                                { (segment.start && segment.end) ?
-                                <AudioSegment 
-                                text={segment.text} id={segment.id.join(", ")}
-                                speaker={segment.speaker ? segment.speaker : null}
-                                phrase={segment.phrase ? segment.phrase : null}
-                                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
-                                audioName={props.audioName}
-                                start={segment.start}
-                                end={segment.end}
-                                label="Speaker"/>
-                                :
+                            <span key={idx} className={classnames({'selected': true, "item": true})}>
                                 <SimpleSegment 
                                     text={segment.text} id={segment.id.join(", ")}
                                     speaker={segment.speaker ? segment.speaker : null}
                                     phrase={segment.phrase ? segment.phrase : null}
                                     isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                     label="Speaker"/>
-                                }
-                            </div>
-                        ) }
+                            </span>
+                        ) 
+                }
             </div>
         </div>
     );
@@ -151,6 +193,8 @@ function DetailSummary(props) {
 function UnifiedView(props) {
     const [selectedIds, setSelectedIds] = useState([])
     const [highSelectedIdx, setHighSelectedIdx] = useState(null)
+    const [lifetimeSelectedIdx, setLifetimeSelectedIdx] = useState([])
+    const [informationShown, setInformationShown] = useState(0)
     const selectedRef = useRef(null);
     const detailRef = useRef(null);
 
@@ -194,13 +238,35 @@ function UnifiedView(props) {
             behavior: 'smooth'
         });
 
+        let tempLifeTimeSelected = lifetimeSelectedIdx;
+        if (selectedIds != null) {
+            selectedIds.forEach(e => {
+                if (!tempLifeTimeSelected.includes(e)){
+                    tempLifeTimeSelected.push(e);
+                }
+            })
+        }
+
+        setLifetimeSelectedIdx(tempLifeTimeSelected);
     }
+    /*
+    console.log("selectedIds")
+    console.log(selectedIds)
+
+    
+    console.log("lifetimeSelectedIdx")
+    console.log(lifetimeSelectedIdx)
+
+    console.log("informationShown")
+    console.log(informationShown)
+    console.log(props.audioData.high)
+    */
 
     return (
         <div className="Wrapper">
             <div className="DataParent">
                 <div className="SummaryView">
-                    <MainSummary title="" segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef}/>
+                    <MainSummary title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelected={lifetimeSelectedIdx}/>
                     <TemporalView
                             raw={props.audioData["raw"]["segments"]}
                             high={props.audioData["high"]["segments"]}

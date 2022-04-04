@@ -26,5 +26,9 @@
     {
         "id": 6,
         "value":"ackman"
+    },
+    {
+        "id": 7,
+        "value":"new_diversity"
     }
 ]

@@ -1,6 +1,8 @@
 :root {
     --raw-bg-color: 0, 0, 0;
     --high-bg-color: 3, 218, 198;
+    --high-default-color: 132, 132, 132;
+    --high-default-outline-color: 132, 132, 132;
 }
 
 html {
@@ -22,22 +24,88 @@ html {
     min-width: 100%;
 }
 
+.Summary {
+    display: grid;
+    grid-template: 1fr / 1fr;
+    place-items: center;
+}
+
 .SummaryView {
     background-color: #2E2E2E;
     color: #E2E2E2;
-    padding: 2em;
+    padding: 2em 3em 2em 3em;
     margin: 1em 1em 0em 1em;
     border-radius: 0.3em;
     min-height: 75vh;
     max-height: 75vh;
     width: 50%;
     flex-direction: column;
+    position: relative;
+}
+
+.SummaryTitleContainer{
+    padding: 0em;
+    margin: 0em;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.SummaryTitle {
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: normal;
+    float: left;
+    color: #8B8B8B;  
+}
+
+.InfoDisplayLabel{
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #8B8B8B;  
+    float: right;
+}
+
+.InfoDisplayValue{
+    color: #BB86FC;
+}
+
+.MainDataSegments {
+    overflow-y: auto;
+    max-height: 64vh;
+    text-align: justify;
+    padding-right: 1em;
+}
+
+.DetailDataSegments{
+    text-align: justify;
+    padding-top: 0.5em;
+}
+
+.SegmentText {
+    transition-property: color 1s;
+    line-height: 1.3em;
+}
+
+.DetailDataSegments > span > .SegmentText {
+    font-size: 1.25em;
+}
+
+.MainDataSegments > span > .SegmentText{
+    font-size: 1.5em;
+}
+
+.MainDataSegments > span > .SegmentText:hover{
+    color: #03dac583;
+    cursor: pointer;
 }
 
 .DetailView {
     background-color: #2E2E2E;
     color: #E2E2E2;
-    padding: 2em;
+    padding: 1em;
     margin: 1em 1em 0em 1em;
     border-radius: 0.3em;
     min-height: 75vh;
@@ -46,70 +114,44 @@ html {
     overflow-y: scroll;
 }
 
-.SummaryView{
-    position: relative;
-}
-
 .data {
     overflow-y: auto;
-    display: inline-block;
     min-height: 2em;
 }
 
 .DetailModal {
     background-color: #2E2E2E;
     color: #E2E2E2;
-    padding: 2em 1em 1em;
-    margin-top: 2em;
+    padding: 1em 1em 1em;
     border-radius: 0.3em;
     position: relative;
 }
 
-.DetailModal > .ColumnTitleContainer { 
-    position: absolute;
-    top: -1rem;
-    background: #888888;
-    padding: 6px 12px;
+.DetailModal > .ColumnHeader {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.DetailModal > .ColumnHeader > .ColumnTitleContainer { 
+    padding: 0;
     margin: 0;
 }
 
-.DetailModal > .ColumnTitleContainer > .ColumnTitle {
-    font-size: 14px;
+.DetailModal > .ColumnHeader > .ColumnTitleContainer > .ColumnTitle {
+    font-size: 17px;
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: normal;
-    padding: 0;
+    float: left;
+    color: #8B8B8B;
 }
 
-.MainDataSegments {
-    overflow-y: auto;
-    display: inline-block;
-    max-height: 55vh;
-}
-
-.SegmentText {
-    transition-property: color 1s;
-}
-
-.SegmentText:hover{
-    color: #03dac583;
-    cursor: pointer;
+.DetailModal > .ColumnHeader > .AudioSegment > .AudioSegmentPlayerContainer{
+    float: right;
 }
 
 .AudioSegment {
-    display: grid;
-    grid-template-columns: 75% 20%; 
-    grid-template-rows: auto;
-    grid-column-gap: 5px;
-    max-width: 99%;
-    min-width: 99%;
-}
-
-.AudioSegmentTextContainer{
-}
-
-.AudioSegmentPlayerContainer {
-
+    float: right;
 }
 
 .TitleViewContainer {
@@ -145,17 +187,17 @@ html {
 }
 
 .TitleViewSubtitle {
-    font-size: 0.75vw;
+    font-size: 0.7vw;
     text-transform: uppercase;
 }
 
 .TitleViewTitle{
-    font-size: 1.25vw;
+    font-size: 1vw;
     padding: 0.4em 0em 0.4em 0em;
 }
 
 .TitleViewDate{
-    font-size: 0.75vw;
+    font-size: 0.65vw;
 }
 
 .SummaryView .selected { color: rgba(var(--high-bg-color), 1); }
@@ -227,5 +269,5 @@ border-radius: 20px;
 border: 3px solid #404040;
 }
 
-.temporal .high .item { border: 1px solid rgba(var(--high-bg-color), 0.5); background-color: rgba(var(--high-bg-color), 0.1); }
-.temporal .high .item.selected { background-color: rgba(var(--high-bg-color), 0.4); }
+.temporal .high .item { border: 1px solid rgba(var(--high-default-color), 0.5); background-color: rgba(var(--high-default-color), 0.1); }
+.temporal .high .item.selected { border: 1px solid rgba(var(--high-bg-color), 0.5); background-color: rgba(var(--high-bg-color), 0.4); }
