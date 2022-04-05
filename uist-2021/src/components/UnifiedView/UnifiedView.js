@@ -162,7 +162,7 @@ function MainSummary(props) {
                 <h2 className="SummaryTitle">
                     <span>{props.title} Summary</span>
                 </h2>
-                <h2 className="InfoDisplayLabel">Information Displayed: <span className="InfoDisplayValue">
+                <h2 className="InfoDisplayLabel">Total Information Displayed: <span className="InfoDisplayValue">
                 {
                     getTotalInfo(props.segments, props.lifetimeSelectedIds)
                 } %
@@ -182,6 +182,7 @@ function MainSummary(props) {
                             phrase={segment.phrase ? segment.phrase : null}
                             isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                             speaker={segment.duration}/>
+                        {segment.ShouldBreak && (<br/>)}
                         </span>
                     ) }
             </div>

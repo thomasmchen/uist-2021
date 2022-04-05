@@ -54,7 +54,7 @@ function DataContainer(props) {
                     <AboutView />
                 </Route>
                 <Route>
-                    <p>Welcome! Navigate to the Explore Page to Begin.</p>
+                    <p>Welcome! Navigate to the Main Page to Begin.</p>
                 </Route>
             </Switch>
         </div>
