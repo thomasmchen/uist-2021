@@ -164,7 +164,7 @@ function MainSummary(props) {
             <div className="MainDataSegments">
                 { props.segments
                     .map((segment, idx) =>
-                        <span key={idx} 
+                        <li key={idx} 
                         onClick={() => {onSegmentClick(props, segment.id, idx)}} 
                         className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
                         ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
@@ -175,7 +175,7 @@ function MainSummary(props) {
                             phrase={segment.phrase ? segment.phrase : null}
                             isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                             speaker={segment.duration}/>
-                        </span>
+                        </li>
                     ) }
             </div>
         </div>
