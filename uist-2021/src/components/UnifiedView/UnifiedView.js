@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import SimpleSegment from './SimpleSegment'
 import AudioSegment from './AudioSegment'
+import DataSegment from './DataSegment'
 import "./UnifiedView.css"
 import classnames from 'classnames'
 
@@ -84,7 +85,13 @@ function TemporalView(props) {
     )
 }
 
-function getTotalInfo(highSums, rawSums, ids){
+function getTotalInfoContained(highSums){
+    let baseShortInfoTotal = 0;
+    highSums.forEach(e => baseShortInfoTotal += e.information_contained);
+    return baseShortInfoTotal;
+}
+
+function getTotalInfo(highSums, ids){
     console.log("GET TOTAL INFO:")
 
     let baseShortInfoTotal = 0;
@@ -157,14 +164,14 @@ function MainSummary(props) {
                 </h2>
                 <h2 className="InfoDisplayLabel">Information Displayed: <span className="InfoDisplayValue">
                 {
-                    getTotalInfo(props.segments, props.rawSegments, props.lifetimeSelectedIds)
+                    getTotalInfo(props.segments, props.lifetimeSelectedIds)
                 } %
                 </span></h2>
             </div>
             <div className="MainDataSegments">
                 { props.segments
                     .map((segment, idx) =>
-                        <li key={idx} 
+                        <span key={idx} 
                         onClick={() => {onSegmentClick(props, segment.id, idx)}} 
                         className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
                         ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
@@ -175,7 +182,7 @@ function MainSummary(props) {
                             phrase={segment.phrase ? segment.phrase : null}
                             isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                             speaker={segment.duration}/>
-                        </li>
+                        </span>
                     ) }
             </div>
         </div>
@@ -215,6 +222,20 @@ function DetailSummary(props) {
             </div>
             <div className="DetailDataSegments">
                 { 
+                props.initialSegments != null ? 
+                    props.initialSegments
+                            .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
+                            .map((segment, idx) =>
+                                <span key={idx} className={classnames({'selected': true, "item": true})}>
+                                    <SimpleSegment 
+                                        text={segment.text} id={segment.id.join(", ")}
+                                        speaker={segment.speaker ? segment.speaker : null}
+                                        phrase={segment.phrase ? segment.phrase : null}
+                                        isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                                        label="Speaker"/>
+                                </span>
+                            ) 
+                : 
                     props.segments
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
@@ -225,6 +246,30 @@ function DetailSummary(props) {
                                     phrase={segment.phrase ? segment.phrase : null}
                                     isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                     label="Speaker"/>
+                            </span>
+                        ) 
+                }
+            </div>
+        </div>
+    );
+}
+
+function DetailDataSummary(props) {
+    return (
+        <div className={`DetailDataModal notclickable ${props.title}`}>
+            <div className="ColumnTitleContainer">
+                <h2 className="ColumnTitle">{props.title}</h2>
+            </div>
+            <div className="DetailDataDataSegments">
+                { 
+                    props.segments
+                        .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
+                        .map((segment, idx) =>
+                            <span key={idx} className={classnames({'selected': true, "item": true})}>
+                                <DataSegment
+                                    segment={segment}
+                                    totalInfo={getTotalInfo(props.segments, props.lifetimeSelectedIds)}
+                                />
                             </span>
                         ) 
                 }
@@ -309,9 +354,15 @@ function UnifiedView(props) {
                             selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds} />
                 </div>
                 <div className="DetailView" ref={detailRef}>
-                    <DetailSummary title="Intermediate" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>
-                    <DetailSummary title="Initial" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} label="speaker"/>
-                    <DetailSummary title="Original" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
+                    <DetailDataSummary title="Summary Data" segments={props.audioData["high"]["segments"]}  lifetimeSelectedIds={lifetimeSelectedIds} selectedIds={selectedIds} label="speaker"/>
+                    {
+                        /*
+                            <DetailSummary title="Intermediate" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>
+                            <DetailSummary title="Initial" segments={props.audioData["low"]["segments"]} selectedIds={selectedIds} label="speaker"/>
+                            <DetailSummary title="Original" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
+                        */
+                    }
+                    <DetailSummary title="Initial" initialSegments={props.audioData["low"]["segments"]} segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
                 </div>
             </div>
             <TitleView title={props.audioData.title} subtitle={props.audioData.subtitle} date={props.audioData.date} audioName={props.audioName} image={props.audioData.image}></TitleView>
