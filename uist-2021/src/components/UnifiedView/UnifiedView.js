@@ -265,7 +265,6 @@ function UnifiedView(props) {
     if (!props.audioData) {
         return (
             <div>
-                <h1>Unified View</h1>
                 <p>No audio sample selected</p>
             </div>
         )

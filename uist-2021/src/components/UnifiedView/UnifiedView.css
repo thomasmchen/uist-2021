@@ -97,7 +97,17 @@ html {
     font-size: 1.5em;
 }
 
-.MainDataSegments > span > .SegmentText:hover{
+.MainDataSegments > li {
+    transition: color;
+    transition-duration: 0.5s;
+}
+
+.MainDataSegments > li:hover {
+    color: #03dac583;
+    cursor: pointer;
+}
+
+.MainDataSegments > span > li:hover{
     color: #03dac583;
     cursor: pointer;
 }

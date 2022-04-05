@@ -5,11 +5,6 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title:  'Explore',
-        url: '/uist-2021/data/explore',
-        cName: 'nav-links'
-    },
-    {
         title:  'Q&A',
         url: '/uist-2021/data/qa',
         cName: 'nav-links'
