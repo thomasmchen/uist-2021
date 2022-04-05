@@ -1,8 +1,4 @@
 {
-    "title": "How to foster true diversity and inclusion at work (and in your community)",
-    "subtitle": "TED Talks: Rosalind G. Brewer ",
-    "date": "December 22, 2020 - 09:21 PM ET",
-    "image": "https://www.princetonsenior.org/wp-content/uploads/2018/05/TED-LOGO-SQUARE.png",
 	"raw": {
 		"segments": [{
 			"id": [0],
@@ -10,7 +6,7 @@
 			"text": "Hi raspberry were thank you so much for being with us hereThank you for having We can just Dive Right and I think you know, we're right now in the last quarter of 2020 and you know, I think that a lot of people would agree that we're in the midst of what's probably one of the largest rectangle.",
 			"start": "12.9",
 			"end": "29.6",
-			"info_gain": 0.1,
+			"info_gain": 0,
 			"phrase": "in the last quarter of 2020"
 		}, {
 			"id": [1],
@@ -298,7 +294,7 @@
 			"text": "I mean, it's like what I hear you saying is that it's less about you know this short term.",
 			"start": "337.1",
 			"end": "341.7",
-			"info_gain": 0.0014326647564469914,
+			"info_gain": 0.0015600624024960997,
 			"phrase": ""
 		}, {
 			"id": [37],
@@ -554,7 +550,7 @@
 			"text": "You know, we had some of our Baristas asking us.",
 			"start": "616.2",
 			"end": "618.3",
-			"info_gain": 0.0014326647564469914,
+			"info_gain": 0.0015600624024960997,
 			"phrase": ""
 		}, {
 			"id": [69],
@@ -786,7 +782,7 @@
 			"text": "And what I try to do is I share stories and I talk very openly about my family and what we do on the weekends and our holiday traditions and all of those things and I have no issue with someone leaning over to me.",
 			"start": "849.1",
 			"end": "861.3",
-			"info_gain": 0.014326647564469915,
+			"info_gain": 0.015600624024960999,
 			"phrase": ""
 		}, {
 			"id": [98],
@@ -882,7 +878,7 @@
 			"text": "And I mean to that point I imagine they're probably also people who because these conversations are tough and uncomfortable think, you know, maybe it's easier.",
 			"start": "928.0",
 			"end": "935.6",
-			"info_gain": 0.00501432664756447,
+			"info_gain": 0.00546021840873635,
 			"phrase": ""
 		}, {
 			"id": [110],
@@ -890,7 +886,7 @@
 			"text": "Or better to just avoid having to to do that have have those conversations and discussions to throw the pot in some ways.",
 			"start": "935.8",
 			"end": "943.5",
-			"info_gain": 0.00501432664756447,
+			"info_gain": 0.00546021840873635,
 			"phrase": ""
 		}, {
 			"id": [111],
@@ -898,7 +894,7 @@
 			"text": "And so I what do you say to the people who think let's just try and lay low and you know, I've heard some of this too and this moment let the moment pass so that we can get back to business.",
 			"start": "944.1",
 			"end": "954.3",
-			"info_gain": 0.0057306590257879654,
+			"info_gain": 0.006240249609984399,
 			"phrase": ""
 		}, {
 			"id": [112],
@@ -962,7 +958,7 @@
 			"text": "How can I help that's pretty simple you might decide it's something I can't help with but you better darn sure pick up the phone and start feeling out the environment in your employee base and your peers and your leaders because the time is now and so I don't give them an out.",
 			"start": "1003.1",
 			"end": "1018.9",
-			"info_gain": 0.002148997134670487,
+			"info_gain": 0.00234009360374415,
 			"phrase": ""
 		}, {
 			"id": [120],
@@ -970,7 +966,7 @@
 			"text": "I actually try and push them over, you know the edge because sometimes they are just kind of stuck.",
 			"start": "1019.5",
 			"end": "1025.5",
-			"info_gain": 0.002148997134670487,
+			"info_gain": 0.00234009360374415,
 			"phrase": ""
 		}, {
 			"id": [121],
@@ -978,7 +974,7 @@
 			"text": "Like what do I do?",
 			"start": "1025.7",
 			"end": "1026.9",
-			"info_gain": 0.002148997134670487,
+			"info_gain": 0.00234009360374415,
 			"phrase": ""
 		}, {
 			"id": [122],
@@ -986,7 +982,7 @@
 			"text": "And then the other thing that I you know personally have to do is to make sure that they understand that because I am at this level where I am.",
 			"start": "1027.0",
 			"end": "1034.7",
-			"info_gain": 0.002148997134670487,
+			"info_gain": 0.00234009360374415,
 			"phrase": ""
 		}, {
 			"id": [123],
@@ -1002,7 +998,7 @@
 			"text": "I know that when my husband jumps in his vehicle, I worry every time if he's out in the evening that he may not come back home the same way.",
 			"start": "1037.5",
 			"end": "1046.4",
-			"info_gain": 0.007879656160458453,
+			"info_gain": 0.008580343213728548,
 			"phrase": ""
 		}, {
 			"id": [125],
@@ -1010,7 +1006,7 @@
 			"text": "He left I feel that way for my son and for my husband I still get even when I go shopping.",
 			"start": "1046.4",
 			"end": "1052.3",
-			"info_gain": 0.007879656160458453,
+			"info_gain": 0.008580343213728548,
 			"phrase": ""
 		}, {
 			"id": [126],
@@ -1018,7 +1014,7 @@
 			"text": "I still get the look am I stealing?",
 			"start": "1053.0",
 			"end": "1055.6",
-			"info_gain": 0.0014326647564469914,
+			"info_gain": 0.0015600624024960997,
 			"phrase": ""
 		}, {
 			"id": [127],
@@ -1026,7 +1022,7 @@
 			"text": "You know watching me as I walk around the corner and I don't know what else are how else I can look or act any different.",
 			"start": "1055.6",
 			"end": "1062.5",
-			"info_gain": 0.0014326647564469914,
+			"info_gain": 0.0015600624024960997,
 			"phrase": ""
 		}, {
 			"id": [128],
@@ -1034,7 +1030,7 @@
 			"text": "So I just act like myself I used to get dressed to go shopping.",
 			"start": "1062.5",
 			"end": "1066.8",
-			"info_gain": 0.0007163323782234957,
+			"info_gain": 0.0007800312012480498,
 			"phrase": ""
 		}, {
 			"id": [129],
@@ -1042,7 +1038,7 @@
 			"text": "Now.",
 			"start": "1066.8",
 			"end": "1067.2",
-			"info_gain": 0.0007163323782234957,
+			"info_gain": 0.0007800312012480498,
 			"phrase": ""
 		}, {
 			"id": [130],
@@ -1050,7 +1046,7 @@
 			"text": "I never do that if I'm spending my money my money spends everywhere.",
 			"start": "1067.2",
 			"end": "1071.5",
-			"info_gain": 0.0007163323782234957,
+			"info_gain": 0.0007800312012480498,
 			"phrase": ""
 		}, {
 			"id": [131],
@@ -1058,7 +1054,7 @@
 			"text": "And if I get that feeling that you're going to race me around the store that I'm going to leave and that's your loss but I still get that and I so I worried so I also try to help people understand that, you know, this is not this is Is not a socio-economic once you've sort of made it you're out of the water.",
 			"start": "1071.5",
 			"end": "1090.3",
-			"info_gain": 0.0057306590257879654,
+			"info_gain": 0.006240249609984399,
 			"phrase": ""
 		}, {
 			"id": [132],
@@ -1066,7 +1062,7 @@
 			"text": "No, we're still as you know, someone with differences visible differences, you're still at.",
 			"start": "1090.4",
 			"end": "1097.2",
-			"info_gain": 0.0057306590257879654,
+			"info_gain": 0.006240249609984399,
 			"phrase": ""
 		}, {
 			"id": [133],
@@ -1840,8 +1836,9 @@
 			"duration": "< 1 minute",
 			"sequence": 0,
 			"quality": 0.5701924497599671,
-			"delta": 0.019704644137078873,
-			"information_contained": 0.02614062806922485,
+			"delta": 0.021456851182029724,
+			"information_contained": 0.028465145697845466,
+			"ShouldBreak": true,
 			"phrase": "in the last quarter of 2020"
 		}, {
 			"text": "Diversity and inclusion in the workplace took off after the death of George Floyd. Business leaders want to do more, but they don't know where to start. Many organizations put out statements of solidarity.",
@@ -1849,8 +1846,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 1,
 			"quality": 0.5620171435610821,
-			"delta": 0.04329629956201338,
-			"information_contained": 0.05555756863282903,
+			"delta": 0.04714636052150599,
+			"information_contained": 0.0604979452507249,
+			"ShouldBreak": false,
 			"phrase": "diversity and inclusion in the workplace"
 		}, {
 			"text": "In order to create an environment where people feel safe and respected, people should come to work. Some companies are engaging their partner networks to create an inclusive environment.",
@@ -1858,8 +1856,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 2,
 			"quality": 0.5704878666407494,
-			"delta": 0.028921304108717454,
-			"information_contained": 0.03841393944429115,
+			"delta": 0.031493089341473914,
+			"information_contained": 0.041829843575842775,
+			"ShouldBreak": true,
 			"phrase": "are engaging their partner networks"
 		}, {
 			"text": "The conversation at breakfast with the Baristas and Partners at Starbucks was rich and enlightening. Change starts with relationships and learning from each other. Diverse people of diverse backgrounds are good sources for discussions about how to make change happen.",
@@ -1867,8 +1866,9 @@
 			"duration": "1-2 minutes",
 			"sequence": 3,
 			"quality": 0.5539505614153977,
-			"delta": 0.0313129262043632,
-			"information_contained": 0.03888764686153938,
+			"delta": 0.034097382980726225,
+			"information_contained": 0.04234567474158266,
+			"ShouldBreak": true,
 			"phrase": "with the baristas and partners at starbucks"
 		}, {
 			"text": "Some business leaders do not support efforts to be more inclusive and diversify, but I have value and I think there should be partnerships right now. The current political moment is about engagement with people.",
@@ -1876,8 +1876,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 4,
 			"quality": 0.5955447400917395,
-			"delta": 0.014486219910754314,
-			"information_contained": 0.02133039900042047,
+			"delta": 0.01577438611186663,
+			"information_contained": 0.023227173950535862,
+			"ShouldBreak": false,
 			"phrase": "efforts to be more inclusive and"
 		}, {
 			"text": "Shops learn from organizations like the legal defense fund. Shops want to feel safe, heard and seen. Some partnerships are important to engage in listening and learning sessions.",
@@ -1885,8 +1886,9 @@
 			"duration": "1-2 minutes",
 			"sequence": 5,
 			"quality": 0.6392988166598526,
-			"delta": 0.016019680062384772,
-			"information_contained": 0.028392927387471963,
+			"delta": 0.01744420699460932,
+			"information_contained": 0.030917727482769778,
+			"ShouldBreak": true,
 			"phrase": "organizations like the legal defense fund"
 		}, {
 			"text": "Purrs is worried about when a company races two numbers.",
@@ -1894,8 +1896,9 @@
 			"duration": "< 1 minute",
 			"sequence": 6,
 			"quality": 0.49433001430479295,
-			"delta": 0.012315744637275815,
-			"information_contained": 0.012039556222323038,
+			"delta": 0.013410904456815162,
+			"information_contained": 0.013110156385618533,
+			"ShouldBreak": true,
 			"phrase": ""
 		}, {
 			"text": "We don't know how to build lasting relationships and key partnerships.",
@@ -1903,8 +1906,9 @@
 			"duration": "< 1 minute",
 			"sequence": 7,
 			"quality": 0.7565113356555545,
-			"delta": 0.0013953505120025524,
-			"information_contained": 0.004335308513785413,
+			"delta": 0.0015194300427110478,
+			"information_contained": 0.004720819567273351,
+			"ShouldBreak": true,
 			"phrase": "we don't know how to"
 		}, {
 			"text": "An employee wanted to take the anti-bias training home. Starbucks took a step back and started thinking about diversity and inclusion after an incident in Philadelphia around racial discrimination. Starbucks failed to select the right leadership, but the training helped build community leadership.",
@@ -1912,8 +1916,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 8,
 			"quality": 0.6326283244086597,
-			"delta": 0.046842520240156574,
-			"information_contained": 0.08066464308362566,
+			"delta": 0.05100792375605194,
+			"information_contained": 0.08783763006610094,
+			"ShouldBreak": true,
 			"phrase": "incident in philadelphia around racial discrimination"
 		}, {
 			"text": "My father never allowed me to take the black girl to prom.",
@@ -1921,8 +1926,9 @@
 			"duration": "< 1 minute",
 			"sequence": 9,
 			"quality": 0.8017085980471812,
-			"delta": 0.0011363404123370703,
-			"information_contained": 0.004594318613450895,
+			"delta": 0.0012373878436993373,
+			"information_contained": 0.005002861766285061,
+			"ShouldBreak": true,
 			"phrase": "take the black girl to"
 		}, {
 			"text": "Starbucks is in charge of what happens when people work at Starbucks.",
@@ -1930,8 +1936,9 @@
 			"duration": "< 1 minute",
 			"sequence": 10,
 			"quality": 0.3328344428750816,
-			"delta": 0.008602421223673733,
-			"information_contained": 0.00429156158434919,
+			"delta": 0.009367379117198541,
+			"information_contained": 0.004673182505266356,
+			"ShouldBreak": false,
 			"phrase": "what happens when"
 		}, {
 			"text": "The materials created for the closing of the stores were created for the closing of the stores.",
@@ -1939,8 +1946,9 @@
 			"duration": "< 1 minute",
 			"sequence": 11,
 			"quality": 0.5407671727870473,
-			"delta": 0.006579266865515082,
-			"information_contained": 0.007747380698954833,
+			"delta": 0.007164318677269153,
+			"information_contained": 0.008436305347691846,
+			"ShouldBreak": true,
 			"phrase": "the closing of"
 		}, {
 			"text": "Some Starbucks senior executives and their families are having conversations with their teens. Starbucks invites the family to a keynote speaker on diversity topics. As a business leader, I would like to be a conduit for conversations with other colleagues to bring about change within Starbucks.",
@@ -1948,8 +1956,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 12,
 			"quality": 0.7013439284661067,
-			"delta": 0.026100315707116753,
-			"information_contained": 0.06129223443614973,
+			"delta": 0.02842124861710997,
+			"information_contained": 0.06674255793515212,
+			"ShouldBreak": true,
 			"phrase": "a keynote speaker on"
 		}, {
 			"text": "The incident made me grab my chest right. My son looks a lot like Dante.",
@@ -1957,8 +1966,9 @@
 			"duration": "< 1 minute",
 			"sequence": 13,
 			"quality": 0.6113051231830823,
-			"delta": 0.013364866824650466,
-			"information_contained": 0.02101908733007733,
+			"delta": 0.014553318320758232,
+			"information_contained": 0.022888179339148166,
+			"ShouldBreak": true,
 			"phrase": "made me grab my chest right"
 		}, {
 			"text": "After the incident, I want black leaders to be confident and do that. I always tell everyone no questions. I know that some people can't handle the tough conversations.",
@@ -1966,8 +1976,9 @@
 			"duration": "1-2 minutes",
 			"sequence": 14,
 			"quality": 0.5182628470639435,
-			"delta": 0.01932469954471287,
-			"information_contained": 0.020789913635802893,
+			"delta": 0.021043120565069552,
+			"information_contained": 0.022638626704821245,
+			"ShouldBreak": false,
 			"phrase": ". i always tell everyone no questions"
 		}, {
 			"text": "There is a lot of discussion about people of color in leadership. When you are in an executive position, you have to make choices and get things done. You know leadership isn't defined by title but by how great you can create followership.",
@@ -1975,8 +1986,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 15,
 			"quality": 0.5495891916947937,
-			"delta": 0.02258506918435848,
-			"information_contained": 0.027558197291286217,
+			"delta": 0.02459341387001906,
+			"information_contained": 0.030008770217344428,
+			"ShouldBreak": true,
 			"phrase": "how great you can create followership"
 		}, {
 			"text": "When I get a call, I take the back seat and calm down.",
@@ -1984,8 +1996,9 @@
 			"duration": "< 1 minute",
 			"sequence": 16,
 			"quality": 0.6949635469328084,
-			"delta": 0.0017480599029638484,
-			"information_contained": 0.003982599122824117,
+			"delta": 0.0019035036072835663,
+			"information_contained": 0.0043367460027008324,
+			"ShouldBreak": true,
 			"phrase": "take the back seat and"
 		}, {
 			"text": "You can call someone and say how are you.",
@@ -1993,8 +2006,9 @@
 			"duration": "< 1 minute",
 			"sequence": 17,
 			"quality": 0.7187066752950819,
-			"delta": 0.00201499516264268,
-			"information_contained": 0.005148328619592277,
+			"delta": 0.0021941756997263502,
+			"information_contained": 0.005606136312754149,
+			"ShouldBreak": false,
 			"phrase": "call someone and say how are you"
 		}, {
 			"text": "Young diverse talent coming into the companies is great, but there is a gap between the two at the top and the rest of the company. The executive leaders will meet with new hires twice a month and twice a year to focus on where they have the greatest opportunity for growth. The executive leaders will be responsible for developing young diverse talent.",
@@ -2002,8 +2016,9 @@
 			"duration": "2-5 minutes",
 			"sequence": 18,
 			"quality": 0.6061922970922585,
-			"delta": 0.03723683150703573,
-			"information_contained": 0.05731904241846571,
+			"delta": 0.040548063013901625,
+			"information_contained": 0.06241605555084097,
+			"ShouldBreak": true,
 			"phrase": "executive leaders will be responsible for"
 		}, {
 			"text": "People are thinking more about themselves and questioning some of their actions. I'm optimistic about the conversations that are happening. I feel like we can't let the moment leave us and what we are learning about it, so I'm hopeful about that.",
@@ -2011,8 +2026,9 @@
 			"duration": "1-2 minutes",
 			"sequence": 19,
 			"quality": 0.6513324639686442,
-			"delta": 0.015984758098858718,
-			"information_contained": 0.029860514107445005,
+			"delta": 0.017406179645871114,
+			"information_contained": 0.032515817234004075,
+			"ShouldBreak": true,
 			"phrase": "about the conversations that are happening."
 		}]
 	}
