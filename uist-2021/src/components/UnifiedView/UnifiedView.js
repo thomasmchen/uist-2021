@@ -85,12 +85,6 @@ function TemporalView(props) {
     )
 }
 
-function getTotalInfoContained(highSums){
-    let baseShortInfoTotal = 0;
-    highSums.forEach(e => baseShortInfoTotal += e.information_contained);
-    return baseShortInfoTotal;
-}
-
 function getTotalInfo(highSums, ids){
     let baseShortInfoTotal = 0;
     highSums.forEach(e => baseShortInfoTotal += e.information_contained);

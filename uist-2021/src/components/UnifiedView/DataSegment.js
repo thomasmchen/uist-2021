@@ -37,7 +37,7 @@ function Segment(props) {
                           strokeWidth: 0
                         },
                         labels: {
-                          fill: "white", font: ""
+                          fill: "#C8C8C8", font: ""
                         }
                     }}
                     />
@@ -52,7 +52,7 @@ function Segment(props) {
                         {x: "Remaining Info", y: (1-props.segment.information_contained).toFixed(2)*100 },
                     ]}
                     colorScale={["#03DAC6","#212121"]}
-                    style={{ labels: { fill: "white", font: "" } }}
+                    style={{ labels: { fill: "#C8C8C8", font: "" } }}
                     animate={{
                         duration: 400
                       }}
@@ -70,7 +70,7 @@ function Segment(props) {
                         {label: " ", y: (1-props.segment.quality).toFixed(2)*100 },
                     ]}
                     colorScale={["#212121","#BB86FC","#212121"]}
-                    style={{ labels: { fill: "white", font: "" } }}
+                    style={{ labels: { fill: "#C8C8C8", font: "" } }}
                     animate={{
                         duration: 400
                       }}

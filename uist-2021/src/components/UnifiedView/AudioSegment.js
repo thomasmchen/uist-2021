@@ -13,6 +13,7 @@ function Segment(props) {
                     <div className="AudioSegmentPlayerContainer">
                         <audio id="player" className="AudioPlayer" src={"http://dev.thomaschen.org/uist2021/" + props.audioName + ".mp3#t=" + adjustedStartTime + "," + adjustedEndTime} controls/>
                         {
+                            console.log("AUDIO LINK: " + "http://dev.thomaschen.org/uist2021/" + props.audioName + ".mp3")
                             /*
                             TODO: Fix prop loading order bug
                             <div className="AudioControls"> 
