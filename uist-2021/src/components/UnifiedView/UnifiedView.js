@@ -160,7 +160,7 @@ function MainSummary(props) {
                             phrase={segment.phrase ? segment.phrase : null}
                             isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                             speaker={segment.duration}/>
-                        {segment.ShouldBreak && (<br/>)}
+                        {segment.ShouldBreak && (<div><br></br></div>)}
                         </span>
                     ) }
             </div>
@@ -348,6 +348,7 @@ function UnifiedView(props) {
 
     return (
         <div className="Wrapper">
+            <TitleView title={props.audioData.title} subtitle={props.audioData.subtitle} date={props.audioData.date} audioName={props.audioName} image={props.audioData.image}></TitleView>
             <div className="DataParent">
                 <div className="SummaryView">
                     <MainSummary title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds} informationShown={informationShown} setInformationShown={setInformationShown}/>
@@ -370,7 +371,6 @@ function UnifiedView(props) {
                     <DetailSummary title="Initial" initialSegments={props.audioData["low"]["segments"]} segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
                 </div>
             </div>
-            <TitleView title={props.audioData.title} subtitle={props.audioData.subtitle} date={props.audioData.date} audioName={props.audioName} image={props.audioData.image}></TitleView>
         </div>
     )
 }

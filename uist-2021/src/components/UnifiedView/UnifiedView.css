@@ -19,6 +19,8 @@ mark {
     flex-direction: column;
     align-items: flex-start;
     min-height:80vh;
+    padding: 0;
+    margin: 0;
 }
 
 .DataParent {
@@ -113,7 +115,7 @@ mark {
 }
 
 .AdditionalInfoLabel {
-    color: #40eb96d5;
+    color: #e7ae45;
 }
 
 .DataVisContainer {
@@ -255,17 +257,14 @@ mark {
     grid-template-columns: 0.1fr 1fr 0.3fr;
     max-height: 10vh;
     min-height: 10vh;
-    background-color: #272727;
+    background-color: #2E2E2E;
     color: #E2E2E2;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    margin-bottom: 0;
+    margin: 0;
 }
 
 .TitleViewImageContainer {
-    max-height: 130px;
-    max-width: 130px;
+    max-height: 10vh;
+    max-width: 10vh;
 }
 
 .TitleViewImage {

@@ -27,7 +27,7 @@ function Segment(props) {
                         {label: " ", y: props.segment.delta.toFixed(2)*100 },
                         {x: "Remaining Info", y: 100-((props.segment.information_contained.toFixed(2)*100)+(props.segment.delta.toFixed(2)*100))},
                     ]}
-                    colorScale={["#212121","#BB86FC", "#40eb96d5","#212121"]}
+                    colorScale={["#212121","#03DAC6", "#e7ae45","#212121"]}
                     animate={{
                         duration: 400
                       }}
@@ -51,7 +51,7 @@ function Segment(props) {
                         {x: "Info Selected", y: props.segment.information_contained.toFixed(2)*100 },
                         {x: "Remaining Info", y: (1-props.segment.information_contained).toFixed(2)*100 },
                     ]}
-                    colorScale={["#BB86FC","#212121"]}
+                    colorScale={["#03DAC6","#212121"]}
                     style={{ labels: { fill: "white", font: "" } }}
                     animate={{
                         duration: 400
@@ -69,7 +69,7 @@ function Segment(props) {
                         {label: " ", y: props.segment.quality.toFixed(2)*100 },
                         {label: " ", y: (1-props.segment.quality).toFixed(2)*100 },
                     ]}
-                    colorScale={["#212121","#03DAC6","#212121"]}
+                    colorScale={["#212121","#BB86FC","#212121"]}
                     style={{ labels: { fill: "white", font: "" } }}
                     animate={{
                         duration: 400
