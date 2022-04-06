@@ -314,8 +314,8 @@ function UnifiedView(props) {
 
     if (!props.audioData) {
         return (
-            <div>
-                <p>No audio sample selected</p>
+            <div className="DefaultMessageContainer">
+                <p className="DefaultMessageTitle">Welcome to the Main View!<br></br><span className="DefaultMessage">Please select an audio above to continue</span></p>
             </div>
         )
     }

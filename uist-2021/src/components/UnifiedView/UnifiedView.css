@@ -35,6 +35,19 @@ mark {
     text-align: center;
 }
 
+
+.DefaultMessageTitle {
+    color: #8b8b8b78;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
 .Summary {
     display: grid;
     grid-template: 1fr / 1fr;

@@ -6,7 +6,7 @@ import SpeakerView from "../SpeakerView/SpeakerView"
 import './DataContainer.css'
 import AboutView from '../AboutView/AboutView'
 import UnifiedView from '../UnifiedView/UnifiedView'
-
+import { NavLink } from 'react-router-dom';
 
 function DataContainer(props) {
     const [audioData, setAudioData] = useState(null)
@@ -54,7 +54,7 @@ function DataContainer(props) {
                     <AboutView />
                 </Route>
                 <Route>
-                    <p>Welcome! Navigate to the Main Page to Begin.</p>
+                    <p className="DefaultMessageTitle">Welcome! Navigate to the <b><NavLink to="/uist-2021/data/main">Main Page</NavLink></b> to Begin.</p>
                 </Route>
             </Switch>
         </div>
