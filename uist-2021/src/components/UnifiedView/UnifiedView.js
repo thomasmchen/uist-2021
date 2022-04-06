@@ -92,8 +92,6 @@ function getTotalInfoContained(highSums){
 }
 
 function getTotalInfo(highSums, ids){
-    console.log("GET TOTAL INFO:")
-
     let baseShortInfoTotal = 0;
     highSums.forEach(e => baseShortInfoTotal += e.information_contained);
 
@@ -106,26 +104,6 @@ function getTotalInfo(highSums, ids){
 
     let totalInfo = baseShortInfoTotal + deltaInfo;
     return (totalInfo * 100).toFixed(2);
-    // Debug checking only
-    /*
-    let highTotal = 0.0;
-    highSums.forEach(e => {
-        highTotal = highTotal + e.information_contained;
-    })
-    let deltaTotal = 0.0;
-    highSums.forEach(e => {
-        deltaTotal = deltaTotal + e.delta;
-    })
-    console.log("DELTATOTAL:" + deltaTotal)
-    console.log("HIGHTOTAL:" + highTotal);
-    let rawTotal = 0.0;
-    rawSums.forEach(e => {
-        rawTotal = rawTotal + e.info_gain;
-    })
-    console.log("RAWTOTAL:" + rawTotal);
-    let combined = highTotal+rawTotal;
-    console.log("HIGHTOTAL+RAWTOTAL: " + combined);
-    */
 }
 
 function onTemporalSegmentclick(props, ids, idx){
@@ -221,6 +199,14 @@ function DetailSummary(props) {
                             .filter(segment => ifArrayIntersect(segment.id, props.selectedIds)))}/>
                 }
             </div>
+            {
+                (props.selectedIds == null) &&
+                <div>
+                    <p className="DefaultMessage">
+                        Click a sentence in the Summary to view Initial Summary and Original Audio.
+                    </p>
+                </div>
+            }
             <div className="DetailDataSegments">
                 { 
                 props.initialSegments != null ? 
@@ -255,12 +241,30 @@ function DetailSummary(props) {
     );
 }
 
+function getTotalDelta(props){
+    let deltaInfo = 0.0;
+    let selectedSegements = props.segments.filter(segment => ifArrayIntersect(segment.id, props.selectedIds));
+    selectedSegements.forEach(e => deltaInfo = deltaInfo + e.delta);
+    console.log(deltaInfo)
+    return (deltaInfo*100).toFixed(2);
+}
+
 function DetailDataSummary(props) {
     return (
         <div className={`DetailDataModal notclickable ${props.title}`}>
             <div className="ColumnTitleContainer">
-                <h2 className="ColumnTitle">{props.title}</h2>
+                <h2 className="ColumnTitle">
+                    {props.title}
+                    {getTotalDelta(props) != 0 &&
+                    <span> | <span className="AdditionalInfoLabel">+{getTotalDelta(props)}% Info</span></span>}
+                </h2>
             </div>
+            {
+                (props.selectedIds == null) &&
+                <p className="DefaultMessage">
+                    Click a sentence in the Summary to view in-depth Summary Data.
+                </p>
+            }
             <div className="DetailDataDataSegments">
                 { 
                     props.segments
@@ -352,7 +356,7 @@ function UnifiedView(props) {
                             high={props.audioData["high"]["segments"]}
                             med={props.audioData["med"]["segments"]}
                             low={props.audioData["low"]["segments"]}
-                            selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds} />
+                            selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds}/>
                 </div>
                 <div className="DetailView" ref={detailRef}>
                     <DetailDataSummary title="Summary Data" segments={props.audioData["high"]["segments"]}  lifetimeSelectedIds={lifetimeSelectedIds} selectedIds={selectedIds} label="speaker"/>
