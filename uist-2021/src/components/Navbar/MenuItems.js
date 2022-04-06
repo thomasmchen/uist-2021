@@ -1,7 +1,7 @@
 export const MenuItems = [
     {
         title: 'Main',
-        url: '/uist-2021/data/explore',
+        url: '/uist-2021/data/main',
         cName: 'nav-links'
     },
     {
