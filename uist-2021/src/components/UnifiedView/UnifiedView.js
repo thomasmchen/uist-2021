@@ -177,7 +177,7 @@ function getEndTime(array){
 function DetailSummary(props) {
     return (
         <div className={`DetailModal notclickable ${props.title}`}>
-            <div className="ColumnHeader">
+            <div className="ColumnHeader" style={{flex: 1}}>
                 <div className="ColumnTitleContainer">
                     <h2 className="ColumnTitle">{props.title} {props.title !== "Original" ? "Summary" : "Transcript"}</h2>
                 </div>
@@ -246,7 +246,7 @@ function getTotalDelta(props){
 function DetailDataSummary(props) {
     return (
         <div className={`DetailDataModal notclickable ${props.title}`}>
-            <div className="ColumnTitleContainer">
+            <div className="ColumnTitleContainer" style={{flex: 1}}>
                 <h2 className="ColumnTitle">
                     {props.title}
                     {getTotalDelta(props) != 0 &&
@@ -259,7 +259,7 @@ function DetailDataSummary(props) {
                     Click a sentence in the Summary to view in-depth Summary Data.
                 </p>
             }
-            <div className="DetailDataDataSegments">
+            <div className="DetailDataDataSegments" style={{flex: 1}}>
                 { 
                     props.segments
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
@@ -353,8 +353,10 @@ function UnifiedView(props) {
                             low={props.audioData["low"]["segments"]}
                             selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds}/>
                 </div>
-                <div className="DetailView" ref={detailRef}>
+                <div className="DetailView" style={{flex: 1}} ref={detailRef}>
+                    <div style={{flex: 0.5}}>
                     <DetailDataSummary title="Summary Data" segments={props.audioData["high"]["segments"]}  lifetimeSelectedIds={lifetimeSelectedIds} selectedIds={selectedIds} label="speaker"/>
+                    </div>
                     {
                         /*
                             <DetailSummary title="Intermediate" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>
@@ -362,7 +364,9 @@ function UnifiedView(props) {
                             <DetailSummary title="Original" segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
                         */
                     }
+                    <div style={{flex: 3}}>
                     <DetailSummary title="Initial" initialSegments={props.audioData["low"]["segments"]} segments={props.audioData["raw"]["segments"]} selectedIds={selectedIds} audioName={props.audioName} label="speaker"/>
+                    </div>
                 </div>
             </div>
         </div>

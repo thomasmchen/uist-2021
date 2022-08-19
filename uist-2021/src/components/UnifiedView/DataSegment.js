@@ -18,6 +18,7 @@ function Segment(props) {
 			{
 				label: '',
 				data: [value],
+        borderRadius: 20,
 //				borderColor: "red",
 				backgroundColor: "#07B6A5",
 			}
@@ -27,6 +28,7 @@ function Segment(props) {
 		type: 'bar',
     data: data,
     options: {
+      maintainAspectRatio: false,
       scales: {
         x: {
           type: 'linear',
@@ -64,11 +66,13 @@ function Segment(props) {
         <p>Total Info Displayed So Far: {props.totalInfo} our of {(100 - props.totalInfo).toFixed(2)}</p>
         */
       }
-      <div>
+      <div style={{flex: 1}}>
         <span>Summary Quality</span>
-        <Bar
-          {...config}
-        />
+        <div style={{height: 100}}>
+          <Bar
+            {...config}
+          />
+        </div>
       </div>
     </div>
   )
