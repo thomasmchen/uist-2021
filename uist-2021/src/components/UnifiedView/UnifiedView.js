@@ -97,7 +97,7 @@ function getTotalInfo(highSums, ids){
     }
 
     let totalInfo = baseShortInfoTotal + deltaInfo;
-    return (totalInfo * 100).toFixed(2);
+    return (totalInfo * 100).toFixed(0);
 }
 
 function onTemporalSegmentclick(props, ids, idx){
@@ -128,16 +128,15 @@ function MainSummary(props) {
     // takes in segments prop
     // takes in selectedIds prop
     // takes in setSelected prop
+    const totalDisplayed = getTotalInfo(props.segments, props.lifetimeSelectedIds)
     return (
         <div className="Summary">
             <div className="SummaryTitleContainer">
                 <h2 className="SummaryTitle">
                     <span>{props.title} Summary</span>
                 </h2>
-                <h2 className="InfoDisplayLabel">Total Information Displayed: <span className="InfoDisplayValue">
-                {
-                    getTotalInfo(props.segments, props.lifetimeSelectedIds)
-                } %
+                <h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
+                {totalDisplayed} %
                 </span></h2>
             </div>
             <div className="MainDataSegments">
@@ -145,6 +144,7 @@ function MainSummary(props) {
                     .map((segment, idx) =>
                         <span key={idx} 
                         onClick={() => {onSegmentClick(props, segment.id, idx)}} 
+                        onMouseEnter={() => {onSegmentClick(props, segment.id, idx)}} 
                         className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
                         ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
                         <SimpleSegment 
@@ -154,7 +154,7 @@ function MainSummary(props) {
                             phrase={segment.phrase ? segment.phrase : null}
                             isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                             speaker={segment.duration}/>
-                        {segment.ShouldBreak && (<div><br></br></div>)}
+                        {segment.ShouldBreak && (<div><div style={{marginTop: 12, marginBottom: 12, backgroundColor: "#616161", height: 1, width: "100%"}}/></div>)}
                         </span>
                     ) }
             </div>
