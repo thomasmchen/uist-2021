@@ -1,0 +1,5131 @@
+{
+	"title": "How I Built Resilience: M. Night Shyamalan",
+	"subtitle": "How I Built This With Guy Raz",
+	"date": "February 04, 2021 - 12:01 AM ET",
+	"image": "https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f-s200-c85.webp",
+	"raw": {
+		"segments": [{
+			"id": [0],
+			"speaker": "0",
+			"text": "This message comes from NPR sponsor RBC Wealth Management helping their clients reach their unique financial goals from planning for life's Necessities to protecting what you've earned visit our bcw m.com / goals to learn more.",
+			"start": "0.0",
+			"end": "15.9",
+			"phrase": ""
+		}, {
+			"id": [1],
+			"speaker": "0",
+			"text": "Hey everyone and welcome to how I built this resilience Edition from NPR.",
+			"start": "16.5",
+			"end": "20.5",
+			"phrase": ""
+		}, {
+			"id": [2],
+			"speaker": "0",
+			"text": "I'm guy Roz and on these episodes were hearing from entrepreneurs and other interesting people about how they've been building resilience into their businesses during this very, A challenging time and today my conversation with filmmaker M Night Shyamalan.",
+			"start": "20.6",
+			"end": "34.8",
+			"phrase": ""
+		}, {
+			"id": [3],
+			"speaker": "0",
+			"text": "I spoke with them night as part of NPR's storytelling Lounge at this year's Sundance Film Festival night is an acclaimed filmmaker whose work includes Sixth Sense unbreakable and split and more recently.",
+			"start": "35.2",
+			"end": "47.8",
+			"phrase": ""
+		}, {
+			"id": [4],
+			"speaker": "0",
+			"text": "He's entered the world of television with his Apple TV plus series servant now in its second season before he became a blockbuster film director producer and writer night grew up outside Philadelphia where As his fans know many of his stories take place and as a kid, he loved recreating and filming his favorite movies in his spare time.",
+			"start": "47.8",
+			"end": "69.4",
+			"phrase": ""
+		}, {
+			"id": [5],
+			"speaker": "0",
+			"text": "I wanted to start briefly with a little bit about your your story because you really developed a passion for filmmaking as a kid, right?",
+			"start": "69.7",
+			"end": "76.9",
+			"phrase": "i used to play"
+		}, {
+			"id": [6],
+			"speaker": "0",
+			"text": "You had like a Super 8 camera at home.",
+			"start": "76.9",
+			"end": "78.7",
+			"phrase": "i used to play"
+		}, {
+			"id": [7],
+			"speaker": "0",
+			"text": "I had one when I was a little kid.",
+			"start": "78.7",
+			"end": "79.6",
+			"phrase": "i used to play"
+		}, {
+			"id": [8],
+			"speaker": "0",
+			"text": "I used to play around with it.",
+			"start": "79.6",
+			"end": "80.7",
+			"phrase": "i used to play"
+		}, {
+			"id": [9],
+			"speaker": "0",
+			"text": "Unlike you I didn't make 45 movies on it by the age of 17.",
+			"start": "81.3",
+			"end": "85.6",
+			"phrase": ""
+		}, {
+			"id": [10],
+			"speaker": "0",
+			"text": "How did you just fall in love with that camera and Making movies as a kid.",
+			"start": "86.0",
+			"end": "91.0",
+			"phrase": ""
+		}, {
+			"id": [11],
+			"speaker": "0",
+			"text": "How did that.",
+			"start": "91.0",
+			"end": "91.3",
+			"phrase": ""
+		}, {
+			"id": [12],
+			"speaker": "1",
+			"text": "I think was a Confluence of when I was born and the natural feeling toward storytelling that I didn't realize that I had but being born and that 1970 and then you know, you have ET when I'm 11 you have read as Lost Ark when I'm 12 in the Star Wars when I'm seven and a half and just right between the eyes, you know, Masterpiece is meant right for me and that became my religion and this feeling I wanted to recreate that feeling I wanted to you know, so you be at home and what you would normally do as a child is, you know, you pretend that you're in the X-Wing Fighter and you're you know, you're doing all the Play Imaginary play but you keep taking that further and further and oh, well, you know, maybe I could record this and and and maybe it could look like that and so I was very organic just following a love and the love was really just a hobby because I thought there was no precedent for becoming a A filmmaker certainly in the Indian Community or the Asian community.",
+			"start": "92.0",
+			"end": "152.6",
+			"phrase": "to be a doctor"
+		}, {
+			"id": [13],
+			"speaker": "1",
+			"text": "And so this was just for me for fun something that I did and I was going to be a doctor.",
+			"start": "152.8",
+			"end": "158.0",
+			"phrase": "to be a doctor"
+		}, {
+			"id": [14],
+			"speaker": "1",
+			"text": "That's what my parents are and everyone in my family is so I think you know from like 10 to like 15.",
+			"start": "158.0",
+			"end": "166.9",
+			"phrase": "to be a doctor"
+		}, {
+			"id": [15],
+			"speaker": "1",
+			"text": "That was it was just a this is the thing.",
+			"start": "166.9",
+			"end": "169.8",
+			"phrase": "to be a doctor"
+		}, {
+			"id": [16],
+			"speaker": "1",
+			"text": "I love to do on the road to.",
+			"start": "169.8",
+			"end": "171.3",
+			"phrase": ""
+		}, {
+			"id": [17],
+			"speaker": "0",
+			"text": "school, huh?",
+			"start": "171.5",
+			"end": "172.3",
+			"phrase": "to get them developed."
+		}, {
+			"id": [18],
+			"speaker": "0",
+			"text": "I mean, I remember those cameras because they were expensive right?",
+			"start": "172.7",
+			"end": "175.5",
+			"phrase": "to get them developed."
+		}, {
+			"id": [19],
+			"speaker": "0",
+			"text": "The cartridges were expensive.",
+			"start": "175.5",
+			"end": "176.8",
+			"phrase": "to get them developed."
+		}, {
+			"id": [20],
+			"speaker": "0",
+			"text": "It was expensive to get them developed.",
+			"start": "176.8",
+			"end": "178.5",
+			"phrase": "to get them developed."
+		}, {
+			"id": [21],
+			"speaker": "0",
+			"text": "You only had a few minutes on that.",
+			"start": "178.5",
+			"end": "179.8",
+			"phrase": ""
+		}, {
+			"id": [22],
+			"speaker": "0",
+			"text": "Cooperate what what kinds of we minutes?",
+			"start": "180.0",
+			"end": "182.6",
+			"phrase": ""
+		}, {
+			"id": [23],
+			"speaker": "0",
+			"text": "Yeah for some of your super fans know that you do show a little clips of them on some of your DVDs are really what kind.",
+			"start": "182.6",
+			"end": "188.0",
+			"phrase": "r fans know that you"
+		}, {
+			"id": [24],
+			"speaker": "1",
+			"text": "Storytelling.",
+			"start": "188.0",
+			"end": "188.9",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [25],
+			"speaker": "1",
+			"text": "Well, I need to convey the level of lack of talent that was shown in these pieces staggering like that.",
+			"start": "189.1",
+			"end": "198.2",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [26],
+			"speaker": "1",
+			"text": "If you're looking for like a morsel of creative instinct or originality, it's void of all of those things.",
+			"start": "198.5",
+			"end": "204.4",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [27],
+			"speaker": "1",
+			"text": "It's just just absolutely me copying copying anything.",
+			"start": "204.4",
+			"end": "209.7",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [28],
+			"speaker": "1",
+			"text": "That I've seen in the worst possible way, you know an ineffectual way and finding that ineffective and finding that not satisfying kind of pretending.",
+			"start": "209.9",
+			"end": "219.7",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [29],
+			"speaker": "1",
+			"text": "I'm making a harem of pretending.",
+			"start": "219.7",
+			"end": "221.3",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [30],
+			"speaker": "1",
+			"text": "I'm making Raiders a lost art pretending I'm making a James Bond movie.",
+			"start": "221.3",
+			"end": "224.6",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [31],
+			"speaker": "1",
+			"text": "It's farcical when you see them, but it was funny.",
+			"start": "224.9",
+			"end": "228.1",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [32],
+			"speaker": "1",
+			"text": "I skipped the wonderful part of it, which is the creating I was mimicking rather than creating.",
+			"start": "228.1",
+			"end": "234.9",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [33],
+			"speaker": "1",
+			"text": "And so it had none of the joy and I think once I started to make up things that Our original it felt so different than.",
+			"start": "235.2",
+			"end": "242.7",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"id": [34],
+			"speaker": "0",
+			"text": "It's an important point because whenever we find people who've mastered what they do, you know people who've been on the show what you do as a filmmaker, you know, people ask me how often ask me.",
+			"start": "243.8",
+			"end": "254.5",
+			"phrase": "ve mastered what they do"
+		}, {
+			"id": [35],
+			"speaker": "0",
+			"text": "How do you interview people so well and and the answer is I did it really badly for 5 to 6 years over a 25-year period when I started I was really bad at it and it's really important.",
+			"start": "254.5",
+			"end": "265.1",
+			"phrase": "ve mastered what they do"
+		}, {
+			"id": [36],
+			"speaker": "0",
+			"text": "I think to underscore this idea that when you start something you're going to be bad.",
+			"start": "265.1",
+			"end": "269.7",
+			"phrase": ""
+		}, {
+			"id": [37],
+			"speaker": "0",
+			"text": "At at it until you start to figure out how to get good at.",
+			"start": "269.9",
+			"end": "272.7",
+			"phrase": ""
+		}, {
+			"id": [38],
+			"speaker": "1",
+			"text": "Hmm.",
+			"start": "273.6",
+			"end": "274.0",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [39],
+			"speaker": "1",
+			"text": "I you're touching on one of my rules of life, which is iterate as much as you can create environments where you can safely iterate some people call it failure.",
+			"start": "274.1",
+			"end": "284.8",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [40],
+			"speaker": "1",
+			"text": "I don't you know, it's so stigmatized that word that just call it iterating.",
+			"start": "285.4",
+			"end": "289.9",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [41],
+			"speaker": "1",
+			"text": "Where can you iterate safely?",
+			"start": "289.9",
+			"end": "291.4",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [42],
+			"speaker": "1",
+			"text": "So as we're just talking is just occurred to me by me couching filmmaking as a hobby as fun.",
+			"start": "291.4",
+			"end": "298.2",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [43],
+			"speaker": "1",
+			"text": "It was safe.",
+			"start": "299.0",
+			"end": "299.8",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [44],
+			"speaker": "1",
+			"text": "Fail because it has no merit in like whether I was going to be going to become a doctor, you know anything.",
+			"start": "299.9",
+			"end": "305.7",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [45],
+			"speaker": "1",
+			"text": "You know, that that my my Indian parents valued.",
+			"start": "305.7",
+			"end": "308.8",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [46],
+			"speaker": "1",
+			"text": "It was like, oh it has no bearing on that so I could wow, that was terrible.",
+			"start": "308.8",
+			"end": "312.5",
+			"phrase": ""
+		}, {
+			"id": [47],
+			"speaker": "1",
+			"text": "Let me do another one of those.",
+			"start": "312.5",
+			"end": "313.8",
+			"phrase": ""
+		}, {
+			"id": [48],
+			"speaker": "1",
+			"text": "Wow, that was a little less terrible and you could just go in and never said anything about me and so as opposed to hey, I'm going to be a filmmaker while I'm terrible at it.",
+			"start": "313.8",
+			"end": "322.4",
+			"phrase": "create environments where you can"
+		}, {
+			"id": [49],
+			"speaker": "1",
+			"text": "I'm not going to do this anymore.",
+			"start": "322.4",
+			"end": "323.4",
+			"phrase": ""
+		}, {
+			"id": [50],
+			"speaker": "1",
+			"text": "Cuz I don't like.",
+			"start": "323.4",
+			"end": "323.9",
+			"phrase": ""
+		}, {
+			"id": [51],
+			"speaker": "0",
+			"text": "feeling you know, how I built this we've had so many stories of people who either are first generation.",
+			"start": "324.0",
+			"end": "329.8",
+			"phrase": ""
+		}, {
+			"id": [52],
+			"speaker": "0",
+			"text": "Americans are born abroad and grew up here.",
+			"start": "329.9",
+			"end": "332.1",
+			"phrase": ""
+		}, {
+			"id": [53],
+			"speaker": "0",
+			"text": "Yeah, and you hear the same stories, which is my parents wanted me to be a doctor or an engineer because that was a safe path to to a secure and stable life and your parents as you mentioned were doctors.",
+			"start": "332.1",
+			"end": "342.8",
+			"phrase": ""
+		}, {
+			"id": [54],
+			"speaker": "0",
+			"text": "They immigrated with you from India when you were a kid.",
+			"start": "343.2",
+			"end": "347.2",
+			"phrase": ""
+		}, {
+			"id": [55],
+			"speaker": "0",
+			"text": "What are they?",
+			"start": "348.3",
+			"end": "348.8",
+			"phrase": ""
+		}, {
+			"id": [56],
+			"speaker": "0",
+			"text": "What do they make of your filmmaking Obsession?",
+			"start": "349.1",
+			"end": "351.5",
+			"phrase": ""
+		}, {
+			"id": [57],
+			"speaker": "0",
+			"text": "I mean it I mean obviously they eventually support it because you went to film school, but but yeah, did they try to kind of discouraged you from it at the beginning?",
+			"start": "351.5",
+			"end": "359.7",
+			"phrase": ""
+		}, {
+			"id": [58],
+			"speaker": "1",
+			"text": "of all, it should be known that at that time and maybe it's similar now.",
+			"start": "360.1",
+			"end": "363.6",
+			"phrase": ""
+		}, {
+			"id": [59],
+			"speaker": "1",
+			"text": "I have to talk to 20 year old Indian child who wants to go in the Arts, but at that time me saying I want to go to film school was exactly the same.",
+			"start": "363.6",
+			"end": "371.7",
+			"phrase": ""
+		}, {
+			"id": [60],
+			"speaker": "1",
+			"text": "If I had said, I'm going to become a goth rock and roll star and I'm going to begin today if I just said that as a mom going to wear makeup.",
+			"start": "371.7",
+			"end": "379.5",
+			"phrase": ""
+		}, {
+			"id": [61],
+			"speaker": "1",
+			"text": "I want to spike my hammering away at the collars and I'm gonna scream for into the microphone.",
+			"start": "379.5",
+			"end": "384.1",
+			"phrase": ""
+		}, {
+			"id": [62],
+			"speaker": "1",
+			"text": "It would have been met with the same kind of.",
+			"start": "384.2",
+			"end": "386.8",
+			"phrase": ""
+		}, {
+			"id": [63],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "387.6",
+			"end": "388.0",
+			"phrase": ""
+		}, {
+			"id": [64],
+			"speaker": "1",
+			"text": "Well, that's insane.",
+			"start": "388.0",
+			"end": "389.3",
+			"phrase": ""
+		}, {
+			"id": [65],
+			"speaker": "1",
+			"text": "And my dad reacted with classic Asian Dad - which was he just became silent and didn't you know just disappointed beyond belief and just ignored this and then my mom who I think fancied herself an artist when she was younger.",
+			"start": "389.8",
+			"end": "405.1",
+			"phrase": ""
+		}, {
+			"id": [66],
+			"speaker": "1",
+			"text": "We obviously never had the opportunity to follow any of this was encouraging in a kind of Follow You thing, you know, but really I think there was what's going to happen and with regard to the college thing.",
+			"start": "405.1",
+			"end": "416.1",
+			"phrase": ""
+		}, {
+			"id": [67],
+			"speaker": "1",
+			"text": "I really only applied to nyu's Tisch School in early.",
+			"start": "416.1",
+			"end": "419.7",
+			"phrase": ""
+		}, {
+			"id": [68],
+			"speaker": "1",
+			"text": "And at that time that was unusual I was the only kid who went and got in early and said, I'm applying to one school.",
+			"start": "419.9",
+			"end": "425.4",
+			"phrase": ""
+		}, {
+			"id": [69],
+			"speaker": "1",
+			"text": "This is it.",
+			"start": "425.4",
+			"end": "426.0",
+			"phrase": ""
+		}, {
+			"id": [70],
+			"speaker": "1",
+			"text": "I'm just going to make.",
+			"start": "426.0",
+			"end": "426.7",
+			"phrase": ""
+		}, {
+			"id": [71],
+			"speaker": "0",
+			"text": "Wow, one of the earliest films.",
+			"start": "427.1",
+			"end": "429.0",
+			"phrase": ""
+		}, {
+			"id": [72],
+			"speaker": "0",
+			"text": "Actually.",
+			"start": "429.0",
+			"end": "429.3",
+			"phrase": ""
+		}, {
+			"id": [73],
+			"speaker": "0",
+			"text": "I think it was really early as film praying with anger.",
+			"start": "429.3",
+			"end": "431.7",
+			"phrase": ""
+		}, {
+			"id": [74],
+			"speaker": "0",
+			"text": "You didn't just directed and write it and produces you started it, but you to raise all the money to fund the production which you still you know, dude, but back then when you were totally unproven an untested, I mean, you must've been terrifying I mean that and that's the same story with an entrepreneur we've done Airbnb and Instagram and slacking all those Aries and it's the same story at there's a point where you are unknown Howard Schultz unknown.",
+			"start": "432.7",
+			"end": "455.0",
+			"phrase": "e money to"
+		}, {
+			"id": [75],
+			"speaker": "0",
+			"text": "Nobody would take his call right?",
+			"start": "455.0",
+			"end": "456.4",
+			"phrase": ""
+		}, {
+			"id": [76],
+			"speaker": "0",
+			"text": "Because who's gonna say, oh, you're Howard Schultz to Starbucks.",
+			"start": "456.4",
+			"end": "458.5",
+			"phrase": ""
+		}, {
+			"id": [77],
+			"speaker": "0",
+			"text": "He was Howard Schultz who have one store called Starbucks.",
+			"start": "458.7",
+			"end": "461.6",
+			"phrase": ""
+		}, {
+			"id": [78],
+			"speaker": "0",
+			"text": "How did you convince people to help you.",
+			"start": "462.2",
+			"end": "465.5",
+			"phrase": ""
+		}, {
+			"id": [79],
+			"speaker": "1",
+			"text": "Well, that first one was friends and bartering and can we borrow this equipment and my uncle giving 5,000 and I ain't giving 2000 and it was like, you know putting it together and when it was all said and done we sell it to Kaiba land.",
+			"start": "466.4",
+			"end": "479.7",
+			"phrase": "i try to do original films"
+		}, {
+			"id": [80],
+			"speaker": "1",
+			"text": "HDL and things for just the same amount of money that we spent on it and we give it back and it was it like, you know, basically like a wash and Loan over those years, but it was terrifying right and you're not making any money and it gave me a chance to go to film festivals.",
+			"start": "479.9",
+			"end": "494.0",
+			"phrase": "i try to do original films"
+		}, {
+			"id": [81],
+			"speaker": "1",
+			"text": "I mean that story that you're asking me about the first film keeps on happening over and over and over in your career at least for me because I try to do original films and so there's this pull to go into the system, but for Whatever reason I feel like every time I want to stay outside the system a bit and try something a little bit different and it's so you're almost every single time.",
+			"start": "494.3",
+			"end": "519.1",
+			"phrase": "i try to do original films"
+		}, {
+			"id": [82],
+			"speaker": "1",
+			"text": "It's feels like that.",
+			"start": "519.1",
+			"end": "519.9",
+			"phrase": ""
+		}, {
+			"id": [83],
+			"speaker": "1",
+			"text": "I mean when I did the the visit which was many many many years later, I put a mortgage on the house and did the whole thing all.",
+			"start": "519.9",
+			"end": "525.9",
+			"phrase": ""
+		}, {
+			"id": [84],
+			"speaker": "0",
+			"text": "again.",
+			"start": "526.1",
+			"end": "526.5",
+			"phrase": ""
+		}, {
+			"id": [85],
+			"speaker": "0",
+			"text": "How did you and this may still be something that you faced and we'll talk about this in a bit sure because certainly something I face but certainly in the early days when you still you know, you hadn't proven what you are capable of.",
+			"start": "527.0",
+			"end": "539.7",
+			"phrase": ""
+		}, {
+			"id": [86],
+			"speaker": "0",
+			"text": "Anybody including to yourself?",
+			"start": "539.9",
+			"end": "541.8",
+			"phrase": ""
+		}, {
+			"id": [87],
+			"speaker": "0",
+			"text": "Yeah, how did you overcome.",
+			"start": "542.0",
+			"end": "544.1",
+			"phrase": ""
+		}, {
+			"id": [88],
+			"speaker": "1",
+			"text": "You you don't that you don't I haven't right now in front of you.",
+			"start": "545.8",
+			"end": "550.1",
+			"phrase": "to balance everything"
+		}, {
+			"id": [89],
+			"speaker": "1",
+			"text": "I mean, I've yeah, I just came from editing room and I have all these issues with this real and I'm trying to figure it out and the voice inside.",
+			"start": "550.1",
+			"end": "557.6",
+			"phrase": "to balance everything"
+		}, {
+			"id": [90],
+			"speaker": "1",
+			"text": "You says you're not you're not going to figure it out.",
+			"start": "557.6",
+			"end": "559.9",
+			"phrase": "to balance everything"
+		}, {
+			"id": [91],
+			"speaker": "1",
+			"text": "It's not you don't appear when I'm done with you.",
+			"start": "560.0",
+			"end": "561.8",
+			"phrase": ""
+		}, {
+			"id": [92],
+			"speaker": "1",
+			"text": "I'm going to write my next movie.",
+			"start": "561.8",
+			"end": "563.1",
+			"phrase": "to balance everything"
+		}, {
+			"id": [93],
+			"speaker": "1",
+			"text": "I'm supposed to spend a few hours a day riding the next movie.",
+			"start": "563.1",
+			"end": "565.8",
+			"phrase": "to balance everything"
+		}, {
+			"id": [94],
+			"speaker": "1",
+			"text": "I'm going to shoot you.",
+			"start": "565.8",
+			"end": "566.5",
+			"phrase": "to balance everything"
+		}, {
+			"id": [95],
+			"speaker": "1",
+			"text": "I'm trying to balance everything and I'm scared to write it.",
+			"start": "566.5",
+			"end": "569.6",
+			"phrase": "to balance everything"
+		}, {
+			"id": [96],
+			"speaker": "1",
+			"text": "Because I might be today I won't be able to think of that thing and you just might both my older daughters artist.",
+			"start": "569.8",
+			"end": "576.6",
+			"phrase": "to balance everything"
+		}, {
+			"id": [97],
+			"speaker": "1",
+			"text": "And I'm said that is your plate you're going to wrestle with your demons every single day of.",
+			"start": "576.6",
+			"end": "582.0",
+			"phrase": ""
+		}, {
+			"id": [98],
+			"speaker": "0",
+			"text": "life.",
+			"start": "582.1",
+			"end": "582.6",
+			"phrase": ""
+		}, {
+			"id": [99],
+			"speaker": "0",
+			"text": "It sounds to me like you sort of absorb a tremendous amount of pressure right before everything you put out is that because you have had so much success and the expectations are so high and you want to meet those expectations.",
+			"start": "582.6",
+			"end": "596.7",
+			"phrase": "you want to meet th"
+		}, {
+			"id": [100],
+			"speaker": "0",
+			"text": "Where's it come.",
+			"start": "597.1",
+			"end": "597.6",
+			"phrase": ""
+		}, {
+			"id": [101],
+			"speaker": "1",
+			"text": "Gosh, um, I definitely have healthy by healthy.",
+			"start": "599.0",
+			"end": "605.0",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"id": [102],
+			"speaker": "1",
+			"text": "I mean unhealthy anxiety about what could go wrong and what's going to happen.",
+			"start": "605.0",
+			"end": "611.3",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"id": [103],
+			"speaker": "1",
+			"text": "And that's the opposite of where you need to be emotionally when you create so the only relief I've ever had in my life this was telling to my head of my company yesterday.",
+			"start": "611.3",
+			"end": "622.7",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"id": [104],
+			"speaker": "1",
+			"text": "I said, you know, I've been anxious a lot and I said, you know what the amazing thing is.",
+			"start": "622.7",
+			"end": "626.1",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"id": [105],
+			"speaker": "1",
+			"text": "The only thing that makes me not anxious is Creating it turns out the thing that I do to ground and be centered is my job.",
+			"start": "626.1",
+			"end": "634.8",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"id": [106],
+			"speaker": "1",
+			"text": "So it's like that beautiful thing that you the thing that you love to do is your job.",
+			"start": "634.8",
+			"end": "638.8",
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"id": [107],
+			"speaker": "1",
+			"text": "So all this other stuff to be honest I've learned is irrelevant.",
+			"start": "638.8",
+			"end": "643.2",
+			"phrase": ""
+		}, {
+			"id": [108],
+			"speaker": "1",
+			"text": "How many people did come on the weekend?",
+			"start": "643.4",
+			"end": "645.5",
+			"phrase": ""
+		}, {
+			"id": [109],
+			"speaker": "1",
+			"text": "And what did the New York Times think and what did that fan think and do that other guy made that much or did that or do the cover they offered you to cover this or that none of that matters honestly to me inside.",
+			"start": "645.5",
+			"end": "658.5",
+			"phrase": ""
+		}, {
+			"id": [110],
+			"speaker": "1",
+			"text": "It's after we're done any of you and I sit down and I can figure out what happens after he falls down.",
+			"start": "658.7",
+			"end": "664.1",
+			"phrase": "figure out what happens after he falls down."
+		}, {
+			"id": [111],
+			"speaker": "1",
+			"text": "I'm talking about a character in this new movie on the hits the ground and hits his head and what they all about to do if I can figure that out today, I'll be so happy.",
+			"start": "664.1",
+			"end": "673.7",
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"id": [112],
+			"speaker": "1",
+			"text": "So so.",
+			"start": "673.8",
+			"end": "674.7",
+			"phrase": ""
+		}, {
+			"id": [113],
+			"speaker": "0",
+			"text": "I love that answer and I'm often asked what makes a good leader and I one of the first things I say self-doubt and the ability to interrogate yourself and your own wisdom, right?",
+			"start": "675.4",
+			"end": "685.6",
+			"phrase": "three billion dollars"
+		}, {
+			"id": [114],
+			"speaker": "0",
+			"text": "Because your films have grossed three billion dollars.",
+			"start": "685.6",
+			"end": "687.9",
+			"phrase": "three billion dollars"
+		}, {
+			"id": [115],
+			"speaker": "0",
+			"text": "So people watch Seeing this.",
+			"start": "687.9",
+			"end": "689.0",
+			"phrase": "three billion dollars"
+		}, {
+			"id": [116],
+			"speaker": "0",
+			"text": "I hope people watching this are looking at you and saying thank you for saying that's amazing to hear somebody whose films have grossed three billion dollars who's still constantly has anxiety about about whether he's good at what he.",
+			"start": "689.0",
+			"end": "701.4",
+			"phrase": "three billion dollars"
+		}, {
+			"id": [117],
+			"speaker": "1",
+			"text": "I get out of this healthy or not.",
+			"start": "702.4",
+			"end": "704.3",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [118],
+			"speaker": "1",
+			"text": "But every single time I go this is the last movie that they'll ever.",
+			"start": "704.3",
+			"end": "709.6",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [119],
+			"speaker": "1",
+			"text": "Let me make this is this is the one and is that okay?",
+			"start": "709.6",
+			"end": "713.0",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [120],
+			"speaker": "1",
+			"text": "So make it so that it's okay that if this was the last one you put it all that wow.",
+			"start": "713.1",
+			"end": "718.5",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [121],
+			"speaker": "1",
+			"text": "I'm ready to burn the house down for this value system that I showed artistically in this movie.",
+			"start": "718.7",
+			"end": "724.6",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [122],
+			"speaker": "1",
+			"text": "And if that means that's the end then no problem.",
+			"start": "724.6",
+			"end": "727.8",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [123],
+			"speaker": "1",
+			"text": "And so each movie is like that that anxiety like I remember as a kid writing unbreakable while I was editing success because I'm like, they're never going to let me direct after this movie comes out to let me try to as fast as I can make this movie about comic books which no one wants to see a movie about comic books.",
+			"start": "727.9",
+			"end": "744.4",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [124],
+			"speaker": "1",
+			"text": "I was like, I'm the only person that would ever want to see a movie about comic book.",
+			"start": "744.4",
+			"end": "747.7",
+			"phrase": ""
+		}, {
+			"id": [125],
+			"speaker": "1",
+			"text": "So I was like, Writing that is fast as I could like on the train rides and all the mentality was, you know, you're an Indian kid from Philly.",
+			"start": "747.7",
+			"end": "755.9",
+			"phrase": "writing that is fast as i could like on the train rides and all the mentality was"
+		}, {
+			"id": [126],
+			"speaker": "1",
+			"text": "This is not you you're already lucky to have been directed a movie.",
+			"start": "755.9",
+			"end": "759.5",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [127],
+			"speaker": "1",
+			"text": "This is maybe an immigrant mentality to because my parents are never stop thinking like this.",
+			"start": "759.5",
+			"end": "765.4",
+			"phrase": ""
+		}, {
+			"id": [128],
+			"speaker": "1",
+			"text": "I mean they have in their house literally pictures of me embossed on covers of like magazines everywhere and I'm like Mom you can't just have this stuff up on the wall that you know, like they still are waiting for me to have my big break.",
+			"start": "765.4",
+			"end": "778.4",
+			"phrase": ""
+		}, {
+			"id": [129],
+			"speaker": "1",
+			"text": "That's like that's an immigrant mentality.",
+			"start": "778.6",
+			"end": "780.9",
+			"phrase": ""
+		}, {
+			"id": [130],
+			"speaker": "1",
+			"text": "My the first time I told her that I was like hey, you know this amazing thing, you know Bill Clinton asked for me to come to the White House to have a dinner.",
+			"start": "781.5",
+			"end": "789.9",
+			"phrase": ""
+		}, {
+			"id": [131],
+			"speaker": "1",
+			"text": "This is amazing and Mom and I was like, oh my God, this is amazing.",
+			"start": "789.9",
+			"end": "794.2",
+			"phrase": ""
+		}, {
+			"id": [132],
+			"speaker": "1",
+			"text": "Maybe something good will come of this.",
+			"start": "794.5",
+			"end": "796.0",
+			"phrase": ""
+		}, {
+			"id": [133],
+			"speaker": "1",
+			"text": "I'm like Mom, that's the good thing.",
+			"start": "796.0",
+			"end": "798.1",
+			"phrase": ""
+		}, {
+			"id": [134],
+			"speaker": "1",
+			"text": "That was the good thing.",
+			"start": "798.1",
+			"end": "799.0",
+			"phrase": ""
+		}, {
+			"id": [135],
+			"speaker": "1",
+			"text": "He's not gonna give me part of the country or in an island.",
+			"start": "799.0",
+			"end": "801.6",
+			"phrase": "part of the country"
+		}, {
+			"id": [136],
+			"speaker": "1",
+			"text": "That's not what that's not an immigrant and here this is it and it's like they never get out of that thing every day when I come over and see them every day now they're they're 80 now and they just still waiting to hear.",
+			"start": "801.6",
+			"end": "814.4",
+			"phrase": ""
+		}, {
+			"id": [137],
+			"speaker": "1",
+			"text": "You know, the good news of we made it.",
+			"start": "815.0",
+			"end": "817.0",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [138],
+			"speaker": "1",
+			"text": "We're going to make it.",
+			"start": "817.0",
+			"end": "817.7",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [139],
+			"speaker": "1",
+			"text": "I'm like, I keep telling we made it.",
+			"start": "817.7",
+			"end": "819.6",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"id": [140],
+			"speaker": "1",
+			"text": "It's all good.",
+			"start": "819.6",
+			"end": "820.7",
+			"phrase": ""
+		}, {
+			"id": [141],
+			"speaker": "1",
+			"text": "It's so good.",
+			"start": "820.7",
+			"end": "822.0",
+			"phrase": ""
+		}, {
+			"id": [142],
+			"speaker": "1",
+			"text": "What happened anything good happen.",
+			"start": "822.5",
+			"end": "823.7",
+			"phrase": ""
+		}, {
+			"id": [143],
+			"speaker": "0",
+			"text": "I'm laughing and shaking my head because I'm also the child of immigrants and I know that story so well, it's so true.",
+			"start": "825.0",
+			"end": "832.6",
+			"phrase": "child of immigrants"
+		}, {
+			"id": [144],
+			"speaker": "0",
+			"text": "Not your your work typically explores pretty dark themes right like Death and grief and physical isolation and Paranormal Activity and you are I've read so much about you such a joyful person.",
+			"start": "833.4",
+			"end": "846.8",
+			"phrase": "you have a wonderful family and tell me how those themes came to be"
+		}, {
+			"id": [145],
+			"speaker": "0",
+			"text": "You have a wonderful family and tell me how those themes came to be what you became known.",
+			"start": "846.8",
+			"end": "853.5",
+			"phrase": "you have a wonderful family and tell me how those themes came to be"
+		}, {
+			"id": [146],
+			"speaker": "1",
+			"text": "if we hung out we were having beers or whatever you I'm a little bit mischievous so that that mischievous side of like making you laugh and you know Playing Tricks on you that would be how our relationship would be and that just kind of spurs into playing with the audience and making them laugh or playing tricks on them or who I love when they who and are when they can't believe what they just saw that was unexpected.",
+			"start": "854.4",
+			"end": "879.0",
+			"phrase": "tricks on you"
+		}, {
+			"id": [147],
+			"speaker": "1",
+			"text": "It makes me happy and and so it's a playfulness about it.",
+			"start": "879.0",
+			"end": "882.7",
+			"phrase": "tricks on you"
+		}, {
+			"id": [148],
+			"speaker": "1",
+			"text": "I think the spirituality is me part of me.",
+			"start": "882.7",
+			"end": "886.2",
+			"phrase": "tricks on you"
+		}, {
+			"id": [149],
+			"speaker": "1",
+			"text": "That's always I'm constantly reading books and trying to understand things and but I do think the inherent spirituality of the Indian culture kind of morphed from my Grandma's.",
+			"start": "886.2",
+			"end": "898.4",
+			"phrase": "tricks on you"
+		}, {
+			"id": [150],
+			"speaker": "1",
+			"text": "And you know, this house is haunted or she puts like a Nails a chicken head outside the house because of some bad thing.",
+			"start": "898.5",
+			"end": "905.8",
+			"phrase": "tricks on you"
+		}, {
+			"id": [151],
+			"speaker": "1",
+			"text": "That was she thinks a curse has been put on her house this kind of it's just normal in the culture to believe in those things that kind of moved over and became aliens and comic books and comic book characters and.",
+			"start": "905.8",
+			"end": "917.7",
+			"phrase": "tricks on you"
+		}, {
+			"id": [152],
+			"speaker": "0",
+			"text": "So walk me through your creative process a little bit.",
+			"start": "917.8",
+			"end": "921.6",
+			"phrase": "through your creative process"
+		}, {
+			"id": [153],
+			"speaker": "0",
+			"text": "I mean what you just said gives me a bit of a window into where your ideas come from, but I mean you've Got infinite ideas.",
+			"start": "921.6",
+			"end": "930.1",
+			"phrase": "through your creative process"
+		}, {
+			"id": [154],
+			"speaker": "0",
+			"text": "You just mentioned that you're working on on trying to figure out what happens after he hits his head on the ground, right?",
+			"start": "930.1",
+			"end": "934.8",
+			"phrase": "through your creative process"
+		}, {
+			"id": [155],
+			"speaker": "0",
+			"text": "So, how do you find them and how do you give yourself the space to come up with ideas and to come up with a whole story a whole.",
+			"start": "935.2",
+			"end": "945.8",
+			"phrase": ""
+		}, {
+			"id": [156],
+			"speaker": "1",
+			"text": "You know what the space is such a great thing that you said.",
+			"start": "947.6",
+			"end": "951.5",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [157],
+			"speaker": "1",
+			"text": "I wonder if when you see this sinus curve of success failure success failure.",
+			"start": "951.8",
+			"end": "958.4",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [158],
+			"speaker": "1",
+			"text": "And a lot of people go success failure and never returned, right?",
+			"start": "958.6",
+			"end": "961.9",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [159],
+			"speaker": "1",
+			"text": "There's inherent pulls that happen because when you have nothing you become really clear about what's important and what are your values your very clear about them and then you get up and you start to have success and there's this accretion of good decision-making that gets you here.",
+			"start": "961.9",
+			"end": "976.8",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [160],
+			"speaker": "1",
+			"text": "And then you have all these distractions that are starting to bend you and distract you from what you knew before and it starts to make bad decisions and you start to come like that and the space that anonymity gave you gives you at the beginning the space that I then again saw during the pandemic where I was just had to stay at home and just sit there there was no there's no press tours.",
+			"start": "976.9",
+			"end": "1006.6",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [161],
+			"speaker": "1",
+			"text": "I'm not going on on The Tonight Show.",
+			"start": "1006.6",
+			"end": "1008.6",
+			"phrase": ""
+		}, {
+			"id": [162],
+			"speaker": "1",
+			"text": "I'm not going to Europe to open up the film there.",
+			"start": "1008.6",
+			"end": "1011.0",
+			"phrase": ""
+		}, {
+			"id": [163],
+			"speaker": "1",
+			"text": "I'm not you know, I'm not doing this screening and that screening right?",
+			"start": "1011.0",
+			"end": "1013.9",
+			"phrase": ""
+		}, {
+			"id": [164],
+			"speaker": "1",
+			"text": "Hey what interests you what's your writing?",
+			"start": "1013.9",
+			"end": "1016.5",
+			"phrase": ""
+		}, {
+			"id": [165],
+			"speaker": "1",
+			"text": "All these ideas started coming in and Minded me of an earlier time.",
+			"start": "1016.7",
+			"end": "1020.9",
+			"phrase": ""
+		}, {
+			"id": [166],
+			"speaker": "1",
+			"text": "I do feel space is such a critical thing.",
+			"start": "1020.9",
+			"end": "1024.1",
+			"phrase": ""
+		}, {
+			"id": [167],
+			"speaker": "1",
+			"text": "I was and I saw the documentary on Bill Gates and he takes that week every year the think week suggests think we don't give ourselves enough of that to let us connect to the universe.",
+			"start": "1024.1",
+			"end": "1035.4",
+			"phrase": ""
+		}, {
+			"id": [168],
+			"speaker": "1",
+			"text": "However, you want to say this thing of coming up with new ideas.",
+			"start": "1035.4",
+			"end": "1039.8",
+			"phrase": ""
+		}, {
+			"id": [169],
+			"speaker": "1",
+			"text": "So that part for me is critical that you take the space and even if it's in the morning like right now, I'm supposed to take two.",
+			"start": "1039.8",
+			"end": "1048.3",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [170],
+			"speaker": "1",
+			"text": "Towers you can blow the two hours that's fine blow it sit there and stare at the wall.",
+			"start": "1048.5",
+			"end": "1054.2",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [171],
+			"speaker": "1",
+			"text": "That's your two hours to write.",
+			"start": "1054.2",
+			"end": "1055.9",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [172],
+			"speaker": "1",
+			"text": "Okay, so you'll feel great shame or I do right you go and you burnt those two hours staring at 12, but you cannot be productive in other ways.",
+			"start": "1055.9",
+			"end": "1065.9",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [173],
+			"speaker": "1",
+			"text": "So that's the thing for me because there's so many other ways I can fill it right now.",
+			"start": "1066.1",
+			"end": "1069.8",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [174],
+			"speaker": "1",
+			"text": "Oh, I need to look at that edit either that it is.",
+			"start": "1069.8",
+			"end": "1071.5",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [175],
+			"speaker": "1",
+			"text": "Yeah all these things.",
+			"start": "1071.5",
+			"end": "1072.8",
+			"phrase": ""
+		}, {
+			"id": [176],
+			"speaker": "1",
+			"text": "No don't kid yourself spend those two hours and even if I sat there for two hours wondering what happens to him.",
+			"start": "1073.1",
+			"end": "1078.3",
+			"phrase": ""
+		}, {
+			"id": [177],
+			"speaker": "1",
+			"text": "After he hits his head five different iterations of things came and went that were incorrect, right?",
+			"start": "1078.5",
+			"end": "1084.0",
+			"phrase": ""
+		}, {
+			"id": [178],
+			"speaker": "1",
+			"text": "It feels like I didn't do anything but I did and then the next day builds and builds and.",
+			"start": "1084.0",
+			"end": "1088.5",
+			"phrase": "t be productive in other ways"
+		}, {
+			"id": [179],
+			"speaker": "0",
+			"text": "Wow.",
+			"start": "1088.8",
+			"end": "1089.1",
+			"phrase": ""
+		}, {
+			"id": [180],
+			"speaker": "0",
+			"text": "So you do that every day, you give yourself two hours and if you just staring at the wall That's those two.",
+			"start": "1089.1",
+			"end": "1093.9",
+			"phrase": ""
+		}, {
+			"id": [181],
+			"speaker": "1",
+			"text": "That's that's the yes, you try not to stare at the wall, but that I'm allowed to yeah, that would be a version of safely failing.",
+			"start": "1094.8",
+			"end": "1103.5",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [182],
+			"speaker": "1",
+			"text": "Yeah, right you creating a space to safely fail every day, but it won't because you're You are inspired you're going.",
+			"start": "1103.8",
+			"end": "1110.1",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [183],
+			"speaker": "1",
+			"text": "Oh, yeah, just write it down and suddenly you become unlock.",
+			"start": "1110.4",
+			"end": "1113.0",
+			"phrase": ""
+		}, {
+			"id": [184],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1113.0",
+			"end": "1113.4",
+			"phrase": ""
+		}, {
+			"id": [185],
+			"speaker": "1",
+			"text": "She I hate when she says this and then you go.",
+			"start": "1113.4",
+			"end": "1115.9",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [186],
+			"speaker": "1",
+			"text": "Oh, yeah, that's right.",
+			"start": "1116.2",
+			"end": "1117.7",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [187],
+			"speaker": "1",
+			"text": "I hate that because of that.",
+			"start": "1117.7",
+			"end": "1119.0",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [188],
+			"speaker": "1",
+			"text": "Sometimes I'll read when I'm writing now.",
+			"start": "1119.1",
+			"end": "1121.9",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [189],
+			"speaker": "1",
+			"text": "We're just talking about writing for a second.",
+			"start": "1121.9",
+			"end": "1123.5",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [190],
+			"speaker": "1",
+			"text": "Yeah, I read constantly, so I'll read something not necessarily nonfiction like these books that are in front of me, but something fiction like a classic, you know, that gives me Rhythm like things you couldn't possibly connect why I why they make any sense like reading?",
+			"start": "1123.5",
+			"end": "1137.3",
+			"phrase": "stare at the wall"
+		}, {
+			"id": [191],
+			"speaker": "1",
+			"text": "Our house five help me write the visit.",
+			"start": "1138.5",
+			"end": "1141.1",
+			"phrase": ""
+		}, {
+			"id": [192],
+			"speaker": "1",
+			"text": "I don't know why you know it just it just it evokes something.",
+			"start": "1141.5",
+			"end": "1145.3",
+			"phrase": ""
+		}, {
+			"id": [193],
+			"speaker": "0",
+			"text": "me.",
+			"start": "1145.4",
+			"end": "1145.8",
+			"phrase": ""
+		}, {
+			"id": [194],
+			"speaker": "0",
+			"text": "I wonder how you balance.",
+			"start": "1146.0",
+			"end": "1148.1",
+			"phrase": ""
+		}, {
+			"id": [195],
+			"speaker": "0",
+			"text": "I mean you run a production company, you are a manager.",
+			"start": "1148.1",
+			"end": "1152.1",
+			"phrase": ""
+		}, {
+			"id": [196],
+			"speaker": "0",
+			"text": "You have people who work for you.",
+			"start": "1152.1",
+			"end": "1153.8",
+			"phrase": ""
+		}, {
+			"id": [197],
+			"speaker": "0",
+			"text": "There's payroll.",
+			"start": "1153.8",
+			"end": "1154.5",
+			"phrase": ""
+		}, {
+			"id": [198],
+			"speaker": "0",
+			"text": "There's I mean of course are people who probably do those different things and operational things, but at normal times, you must be pulled and tugged in different directions from the business people outside of the company and the Hollywood Studios and but you're also the creative You're the person you're the reason why people want to distribute films work with you or so.",
+			"start": "1154.5",
+			"end": "1173.3",
+			"phrase": ""
+		}, {
+			"id": [199],
+			"speaker": "0",
+			"text": "How do you balance the creative side of what you do in the business side of what you have to do?",
+			"start": "1173.3",
+			"end": "1178.3",
+			"phrase": ""
+		}, {
+			"id": [200],
+			"speaker": "0",
+			"text": "This.",
+			"start": "1178.4",
+			"end": "1178.7",
+			"phrase": ""
+		}, {
+			"id": [201],
+			"speaker": "1",
+			"text": "trial and error where we've gotten to what I'm about to say is there's certain principles that now are absolutely essential like no dysfunctional genius is so your dysfunctional genius.",
+			"start": "1178.8",
+			"end": "1189.9",
+			"phrase": "certain principles that"
+		}, {
+			"id": [202],
+			"speaker": "1",
+			"text": "Thanks.",
+			"start": "1190.3",
+			"end": "1190.8",
+			"phrase": "certain principles that"
+		}, {
+			"id": [203],
+			"speaker": "1",
+			"text": "I'm going to go to somebody else to help me do the composition or do that at this or that or editing or put the the production design together, whatever.",
+			"start": "1190.8",
+			"end": "1198.3",
+			"phrase": "certain principles that"
+		}, {
+			"id": [204],
+			"speaker": "1",
+			"text": "It is protecting your process the single greatest thing that we have come to understand in this so you never say yes to anything that would compromise the process.",
+			"start": "1198.4",
+			"end": "1211.3",
+			"phrase": "certain principles that"
+		}, {
+			"id": [205],
+			"speaker": "1",
+			"text": "So if they said hey, do you want to do this?",
+			"start": "1211.3",
+			"end": "1214.7",
+			"phrase": "certain principles that"
+		}, {
+			"id": [206],
+			"speaker": "1",
+			"text": "Incredible XYZ project with this Superstar who has developed this screenplay, right?",
+			"start": "1214.7",
+			"end": "1221.3",
+			"phrase": "certain principles that"
+		}, {
+			"id": [207],
+			"speaker": "1",
+			"text": "And it's going to shoot in this place, you know, and you going well, I don't have the ability to iterate.",
+			"start": "1221.3",
+			"end": "1228.2",
+			"phrase": ""
+		}, {
+			"id": [208],
+			"speaker": "1",
+			"text": "Rate in the way that that is safe for me that that would be an almost guaranteed.",
+			"start": "1228.4",
+			"end": "1233.3",
+			"phrase": "protecting the process"
+		}, {
+			"id": [209],
+			"speaker": "1",
+			"text": "No because I can't guarantee that.",
+			"start": "1233.3",
+			"end": "1236.1",
+			"phrase": ""
+		}, {
+			"id": [210],
+			"speaker": "1",
+			"text": "I can make a Dillion mistakes and figure it out on my own and so we are heavily protecting the process.",
+			"start": "1236.1",
+			"end": "1242.0",
+			"phrase": "protecting the process"
+		}, {
+			"id": [211],
+			"speaker": "1",
+			"text": "And so if you look at the things that are making in the partners that I'm making it with their super healthy, they allow me to have this process and what is the goal the goal like what is success?",
+			"start": "1242.0",
+			"end": "1252.5",
+			"phrase": "allow me to have this process"
+		}, {
+			"id": [212],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "1252.5",
+			"end": "1252.8",
+			"phrase": ""
+		}, {
+			"id": [213],
+			"speaker": "1",
+			"text": "So it's not a monetary thing.",
+			"start": "1252.8",
+			"end": "1254.9",
+			"phrase": ""
+		}, {
+			"id": [214],
+			"speaker": "1",
+			"text": "I believe that the monetary will come if you This other thing and if it doesn't it's still fine, but the monetary will come if you build the strongest connection with the audience possible.",
+			"start": "1254.9",
+			"end": "1266.7",
+			"phrase": "certain principles that"
+		}, {
+			"id": [215],
+			"speaker": "1",
+			"text": "They know that they're coming to someone who isn't pandering or going to do something that I know you want to see it's going to be very specific.",
+			"start": "1266.7",
+			"end": "1277.3",
+			"phrase": "certain principles that"
+		}, {
+			"id": [216],
+			"speaker": "1",
+			"text": "I you know all the filmmakers that we work with in the TV shows and then I'm always like the stronger your voices the more specific it is don't copy me or anybody else or even try to round.",
+			"start": "1277.3",
+			"end": "1288.4",
+			"phrase": "certain principles that"
+		}, {
+			"id": [217],
+			"speaker": "1",
+			"text": "Round off the things that are not great about you your blind spots are your strengths that is why you're not doing this and you're looking at that that's part of what makes you so beautiful to constrain that then your voice shoots.",
+			"start": "1288.4",
+			"end": "1301.2",
+			"phrase": "certain principles that"
+		}, {
+			"id": [218],
+			"speaker": "1",
+			"text": "It pops in the marketplace and they hear you and they remember you we know this all of us know this when we're hanging out with someone and someone says something that's kind of wrote or they betrayed themselves.",
+			"start": "1301.5",
+			"end": "1314.5",
+			"phrase": "certain principles that"
+		}, {
+			"id": [219],
+			"speaker": "1",
+			"text": "So they don't know themselves.",
+			"start": "1314.5",
+			"end": "1315.7",
+			"phrase": "certain principles that"
+		}, {
+			"id": [220],
+			"speaker": "1",
+			"text": "You don't think in that moment.",
+			"start": "1315.7",
+			"end": "1316.7",
+			"phrase": "certain principles that"
+		}, {
+			"id": [221],
+			"speaker": "1",
+			"text": "That's what they did we just is Feeling like well, I don't really know them.",
+			"start": "1316.7",
+			"end": "1320.3",
+			"phrase": ""
+		}, {
+			"id": [222],
+			"speaker": "1",
+			"text": "Well, that was a little artificial comes out.",
+			"start": "1320.5",
+			"end": "1322.5",
+			"phrase": ""
+		}, {
+			"id": [223],
+			"speaker": "1",
+			"text": "That's so true in aren't as well.",
+			"start": "1322.5",
+			"end": "1324.2",
+			"phrase": ""
+		}, {
+			"id": [224],
+			"speaker": "0",
+			"text": "I mean, you know this and our listeners know this so much of putting it idea onto the world is hard making it succeed as even harder and then maintaining that success is even harder than that and I wrote a speech that you gave at Drexel University in Philly and 2013.",
+			"start": "1325.3",
+			"end": "1343.0",
+			"phrase": ""
+		}, {
+			"id": [225],
+			"speaker": "0",
+			"text": "Were you talked about a series of setbacks you had in 2013 and you said I found myself questioning myself and every thought that came out of my head and and you know, maybe I'm a sham you were talking about how you went through a period where you really did not believe in.",
+			"start": "1343.0",
+			"end": "1358.7",
+			"phrase": ""
+		}, {
+			"id": [226],
+			"speaker": "1",
+			"text": "Now that I'm safely away from that moment a little bit.",
+			"start": "1360.3",
+			"end": "1362.9",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [227],
+			"speaker": "1",
+			"text": "I can talk about it in the terms that it should be talked about.",
+			"start": "1362.9",
+			"end": "1365.7",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [228],
+			"speaker": "1",
+			"text": "It's like a great teacher teaching you what's important in that Drexel commencement speech that I gave I was talking about two columns of everything in your life and the one column is the things.",
+			"start": "1365.7",
+			"end": "1378.2",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [229],
+			"speaker": "1",
+			"text": "You have control over and the other column is the things you don't have control over and a lot of times in life.",
+			"start": "1378.4",
+			"end": "1383.8",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [230],
+			"speaker": "1",
+			"text": "You think you have control over this other column, right?",
+			"start": "1383.9",
+			"end": "1386.8",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [231],
+			"speaker": "1",
+			"text": "And you shouldn't put any energy into that column at all.",
+			"start": "1386.8",
+			"end": "1389.5",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [232],
+			"speaker": "1",
+			"text": "So what ended up happening is I was in many ways.",
+			"start": "1389.6",
+			"end": "1393.3",
+			"phrase": "i can talk about it in"
+		}, {
+			"id": [233],
+			"speaker": "1",
+			"text": "If I'm being honest with myself I was confused about this.",
+			"start": "1393.4",
+			"end": "1397.1",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [234],
+			"speaker": "1",
+			"text": "Where is my power and do I have have any power at all, or is it all a femoral that I make it all up?",
+			"start": "1397.1",
+			"end": "1402.8",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [235],
+			"speaker": "1",
+			"text": "I'm sensing the lie in that I have control over this column and I'm blurring it.",
+			"start": "1402.8",
+			"end": "1408.2",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [236],
+			"speaker": "1",
+			"text": "Now and saying I don't I don't think I have controlling either column and so I was getting really scared.",
+			"start": "1408.3",
+			"end": "1414.0",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [237],
+			"speaker": "1",
+			"text": "This is existentially what's happening.",
+			"start": "1414.0",
+			"end": "1415.7",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [238],
+			"speaker": "1",
+			"text": "So I keep trying to control the outcome.",
+			"start": "1415.8",
+			"end": "1417.8",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [239],
+			"speaker": "1",
+			"text": "So I'm like if I work with this person if I do this kind of movie if I do this rather than I wonder what happens to the guy when he hits his head, right?",
+			"start": "1418.0",
+			"end": "1425.3",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [240],
+			"speaker": "1",
+			"text": "That's all I should be worried about nothing else.",
+			"start": "1425.3",
+			"end": "1429.1",
+			"phrase": ""
+		}, {
+			"id": [241],
+			"speaker": "1",
+			"text": "And so the world as I kept putting more and more into the wrong column.",
+			"start": "1429.2",
+			"end": "1433.0",
+			"phrase": ""
+		}, {
+			"id": [242],
+			"speaker": "1",
+			"text": "Nothing was working out in the way and I wasn't happy so then everything went away and then I And I just suddenly felt clear and it was one of those things that was I was having doing a puzzle with my little one and I just.",
+			"start": "1433.1",
+			"end": "1445.8",
+			"phrase": "doing a puzzle with my"
+		}, {
+			"id": [243],
+			"speaker": "1",
+			"text": "showing the movie that I mortgaged my house for right and I showed an early early cut like three weeks four weeks out of shooting which is you should never do this to all the buyers because I was so scared that I was going to go bankrupt or whatever right and nobody wanted to buy it and sat down I was doing the puzzle.",
+			"start": "1448.7",
+			"end": "1467.2",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [244],
+			"speaker": "1",
+			"text": "We started this thousand.",
+			"start": "1467.2",
+			"end": "1468.2",
+			"phrase": ""
+		}, {
+			"id": [245],
+			"speaker": "1",
+			"text": "Piece puzzle and I was like, this is impossible right looking at this puzzle of me and her we're like we both looked at each other.",
+			"start": "1468.3",
+			"end": "1475.7",
+			"phrase": ""
+		}, {
+			"id": [246],
+			"speaker": "1",
+			"text": "I'm like, this is impossible.",
+			"start": "1475.7",
+			"end": "1476.8",
+			"phrase": ""
+		}, {
+			"id": [247],
+			"speaker": "1",
+			"text": "Yeah, and we just did one piece and we did and we took search through the thousand pieces and found like eight pieces and then 10 piece and 12 pieces and we finished the day like with 12 pieces or something and we did it again the next day and suddenly I went.",
+			"start": "1476.8",
+			"end": "1490.3",
+			"phrase": "and 12 pieces"
+		}, {
+			"id": [248],
+			"speaker": "1",
+			"text": "Well, I don't need to know the whole picture.",
+			"start": "1490.4",
+			"end": "1493.2",
+			"phrase": ""
+		}, {
+			"id": [249],
+			"speaker": "1",
+			"text": "All I need to know is find the next puzzle piece.",
+			"start": "1493.2",
+			"end": "1495.9",
+			"phrase": "doing a puzzle with my"
+		}, {
+			"id": [250],
+			"speaker": "1",
+			"text": "That's all you need to concentrate on its favor.",
+			"start": "1495.9",
+			"end": "1498.2",
+			"phrase": ""
+		}, {
+			"id": [251],
+			"speaker": "1",
+			"text": "Vision of stay in this column.",
+			"start": "1498.4",
+			"end": "1500.4",
+			"phrase": ""
+		}, {
+			"id": [252],
+			"speaker": "1",
+			"text": "Yeah, and so what I did was nobody wants to buy it.",
+			"start": "1500.5",
+			"end": "1503.5",
+			"phrase": ""
+		}, {
+			"id": [253],
+			"speaker": "1",
+			"text": "I'm just gonna go in any room and make it just a little bit better.",
+			"start": "1503.8",
+			"end": "1506.3",
+			"phrase": ""
+		}, {
+			"id": [254],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1506.4",
+			"end": "1506.7",
+			"phrase": ""
+		}, {
+			"id": [255],
+			"speaker": "1",
+			"text": "That's all I'm going to do today.",
+			"start": "1506.9",
+			"end": "1507.9",
+			"phrase": ""
+		}, {
+			"id": [256],
+			"speaker": "1",
+			"text": "So I went and I was like, oh, yeah, I can tighten that and I can move that and then I did that again the next day and the next day and the next day and then I suddenly forgot about the mortgage and I forgot about my career being over forgot all about that and I just was looking forward to finding the next puzzle piece with the movie.",
+			"start": "1507.9",
+			"end": "1524.8",
+			"phrase": ""
+		}, {
+			"id": [257],
+			"speaker": "1",
+			"text": "I don't know who you know, if I did that line.",
+			"start": "1524.8",
+			"end": "1527.0",
+			"phrase": ""
+		}, {
+			"id": [258],
+			"speaker": "1",
+			"text": "Oh my God that that takes it's so much fun.",
+			"start": "1527.2",
+			"end": "1529.1",
+			"phrase": ""
+		}, {
+			"id": [259],
+			"speaker": "1",
+			"text": "Either one.",
+			"start": "1529.1",
+			"end": "1529.4",
+			"phrase": ""
+		}, {
+			"id": [260],
+			"speaker": "1",
+			"text": "We never put in we should put that in there and then a Cheeto.",
+			"start": "1529.4",
+			"end": "1532.5",
+			"phrase": ""
+		}, {
+			"id": [261],
+			"speaker": "1",
+			"text": "I have a great idea instead of it being six days that the story is about it's going to be five days.",
+			"start": "1532.5",
+			"end": "1537.5",
+			"phrase": "s going to be five days"
+		}, {
+			"id": [262],
+			"speaker": "1",
+			"text": "Let's take a fight that take that third day right out of the movie and slide it together will be much more the movement like Omer over and boom and then I was it was Off to the Races and then when we were done that movie, you know, we ended up showing it to one studio and they bought it became Universal became one of the biggest movies of the Year blah blah blah blah.",
+			"start": "1537.5",
+			"end": "1555.4",
+			"phrase": "because i was so scared that"
+		}, {
+			"id": [263],
+			"speaker": "0",
+			"text": "when we come back in just a moment more.",
+			"start": "1556.2",
+			"end": "1558.2",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"id": [264],
+			"speaker": "0",
+			"text": "Conversation with filmmaker M Night Shyamalan and how he's had to adapt his creative process to write produce and direct multiple projects safely over the past year stay with us.",
+			"start": "1558.4",
+			"end": "1570.4",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"id": [265],
+			"speaker": "0",
+			"text": "I'm guy Roz and you're listening to how I built this resilience Edition from NPR.",
+			"start": "1570.6",
+			"end": "1575.2",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"id": [266],
+			"speaker": "0",
+			"text": "Support for this podcast and the following message come from E-Trade.",
+			"start": "1578.3",
+			"end": "1581.8",
+			"phrase": ""
+		}, {
+			"id": [267],
+			"speaker": "0",
+			"text": "You want to invest your money, but there's one problem.",
+			"start": "1581.8",
+			"end": "1584.6",
+			"phrase": ""
+		}, {
+			"id": [268],
+			"speaker": "0",
+			"text": "You're not sure where to begin.",
+			"start": "1584.6",
+			"end": "1586.1",
+			"phrase": ""
+		}, {
+			"id": [269],
+			"speaker": "0",
+			"text": "Luckily.",
+			"start": "1586.2",
+			"end": "1586.7",
+			"phrase": ""
+		}, {
+			"id": [270],
+			"speaker": "0",
+			"text": "There's each right who offers more than just trading E-Trade simplifies investing without the financial.",
+			"start": "1586.7",
+			"end": "1592.0",
+			"phrase": ""
+		}, {
+			"id": [271],
+			"speaker": "0",
+			"text": "Jargon and has the people to offer guidance and support to make your money work hard for you for more information visit each Ray.com and PR E-Trade Securities, LLC member finra sipc.",
+			"start": "1592.0",
+			"end": "1604.2",
+			"phrase": "for more information"
+		}, {
+			"id": [272],
+			"speaker": "0",
+			"text": "Hey, welcome back to how I built this resilience Edition and I'm talking with filmmaker and Night Shyamalan.",
+			"start": "1610.5",
+			"end": "1616.0",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"id": [273],
+			"speaker": "0",
+			"text": "The pandemic has completely upended Hollywood over the past year, but despite all the uncertainty night is taking this year in stride working on a new film called old in a new season of his apple plus TV show servant both film during 2020 night.",
+			"start": "1616.3",
+			"end": "1633.9",
+			"phrase": ""
+		}, {
+			"id": [274],
+			"speaker": "0",
+			"text": "I want to talk to you about this past year as seen by this past year because it's obviously been extremely challenging for For the for the movie industry.",
+			"start": "1633.9",
+			"end": "1641.4",
+			"phrase": ""
+		}, {
+			"id": [275],
+			"speaker": "0",
+			"text": "I mean have you been able to to shoot edit directed me?",
+			"start": "1641.4",
+			"end": "1646.2",
+			"phrase": ""
+		}, {
+			"id": [276],
+			"speaker": "0",
+			"text": "Have you been able to do any of the things that you normally.",
+			"start": "1646.2",
+			"end": "1649.3",
+			"phrase": ""
+		}, {
+			"id": [277],
+			"speaker": "1",
+			"text": "You know, the answer is a surprising one and the answer is it was my busiest year.",
+			"start": "1650.7",
+			"end": "1656.4",
+			"phrase": ""
+		}, {
+			"id": [278],
+			"speaker": "1",
+			"text": "Wow why it was is I'm a writer and I was able to write I was able to work with writers on Zoom for the TV show.",
+			"start": "1656.5",
+			"end": "1666.1",
+			"phrase": ""
+		}, {
+			"id": [279],
+			"speaker": "1",
+			"text": "We ended up writing all the episodes for the next.",
+			"start": "1666.7",
+			"end": "1670.1",
+			"phrase": ""
+		}, {
+			"id": [280],
+			"speaker": "1",
+			"text": "Susan and outlining the final season of the show while we were in the pen so we got way ahead way ahead and that's an amazing thing and I did I was went ahead in my head and I said, you know, I'm going to go shoot this new movie.",
+			"start": "1670.2",
+			"end": "1683.4",
+			"phrase": ""
+		}, {
+			"id": [281],
+			"speaker": "1",
+			"text": "So let's start casting.",
+			"start": "1683.6",
+			"end": "1685.1",
+			"phrase": ""
+		}, {
+			"id": [282],
+			"speaker": "1",
+			"text": "So I was the first day see the first movie in the world that started casting during the pandemic.",
+			"start": "1685.1",
+			"end": "1690.0",
+			"phrase": ""
+		}, {
+			"id": [283],
+			"speaker": "1",
+			"text": "So everyone in the world was auditioning for me by zoom and at that moment it was still very odd that you would be in your bedroom or your living room.",
+			"start": "1690.0",
+			"end": "1697.5",
+			"phrase": ""
+		}, {
+			"id": [284],
+			"speaker": "1",
+			"text": "It was super odd, right?",
+			"start": "1697.5",
+			"end": "1698.9",
+			"phrase": ""
+		}, {
+			"id": [285],
+			"speaker": "1",
+			"text": "Everybody was like hey I've never done this before and actors from all over the world thousands and thousands and thousands of audition.",
+			"start": "1698.9",
+			"end": "1705.4",
+			"phrase": ""
+		}, {
+			"id": [286],
+			"speaker": "1",
+			"text": "So I had all this time to audition and prep and write and storyboard.",
+			"start": "1705.4",
+			"end": "1710.0",
+			"phrase": ""
+		}, {
+			"id": [287],
+			"speaker": "1",
+			"text": "I storyboard out everything.",
+			"start": "1710.0",
+			"end": "1711.4",
+			"phrase": ""
+		}, {
+			"id": [288],
+			"speaker": "1",
+			"text": "I draw every single shot of the movie.",
+			"start": "1711.4",
+			"end": "1713.2",
+			"phrase": ""
+		}, {
+			"id": [289],
+			"speaker": "1",
+			"text": "So I took the time to do all of that.",
+			"start": "1713.3",
+			"end": "1715.1",
+			"phrase": ""
+		}, {
+			"id": [290],
+			"speaker": "1",
+			"text": "So there was a lot of work that could be done here and virtually to set us up and then we had to figure out how to do it together in a safe way and there was no guidelines, right?",
+			"start": "1715.1",
+			"end": "1725.2",
+			"phrase": ""
+		}, {
+			"id": [291],
+			"speaker": "1",
+			"text": "This is so I just took the information talk to as many doctors and and And did it by my understanding of human nature, which is this.",
+			"start": "1725.2",
+			"end": "1733.8",
+			"phrase": ""
+		}, {
+			"id": [292],
+			"speaker": "1",
+			"text": "If I do it in the tightest smallest group of people and I buy out everything I buy out the hotel I buy out everyone that's giving us food.",
+			"start": "1735.0",
+			"end": "1745.1",
+			"phrase": ""
+		}, {
+			"id": [293],
+			"speaker": "1",
+			"text": "We don't leave the hotel.",
+			"start": "1745.1",
+			"end": "1746.3",
+			"phrase": ""
+		}, {
+			"id": [294],
+			"speaker": "1",
+			"text": "The people that are cleaning the hotel rooms every single human being for a very short amount of time and everybody commits as much as possible to make a true true bubble here.",
+			"start": "1746.3",
+			"end": "1757.3",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [295],
+			"speaker": "1",
+			"text": "I am not going to be able to stop the costumer from talking to the construction worker and them after I'm not going to be able to Stop that that's going to happen.",
+			"start": "1757.3",
+			"end": "1766.9",
+			"phrase": "stop the costumer from talking to the construction worker a"
+		}, {
+			"id": [296],
+			"speaker": "1",
+			"text": "So but they're going to be within the bubble and give them really clean parameters.",
+			"start": "1767.1",
+			"end": "1771.6",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [297],
+			"speaker": "1",
+			"text": "It's eight weeks.",
+			"start": "1771.6",
+			"end": "1772.4",
+			"phrase": ""
+		}, {
+			"id": [298],
+			"speaker": "1",
+			"text": "I'm asking you for eight weeks and this is why we're doing it.",
+			"start": "1772.4",
+			"end": "1775.7",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [299],
+			"speaker": "1",
+			"text": "You don't go to your daughter's birthday.",
+			"start": "1775.7",
+			"end": "1777.5",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [300],
+			"speaker": "1",
+			"text": "You don't see your sister.",
+			"start": "1777.7",
+			"end": "1779.1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [301],
+			"speaker": "1",
+			"text": "None of that happens.",
+			"start": "1779.3",
+			"end": "1780.2",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [302],
+			"speaker": "1",
+			"text": "If you can't I totally understand it, but we'll go down the next movie.",
+			"start": "1780.2",
+			"end": "1784.1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [303],
+			"speaker": "1",
+			"text": "No problem.",
+			"start": "1784.2",
+			"end": "1785.0",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [304],
+			"speaker": "1",
+			"text": "No problem whatsoever.",
+			"start": "1785.1",
+			"end": "1786.4",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [305],
+			"speaker": "1",
+			"text": "No pejorative nothing.",
+			"start": "1786.4",
+			"end": "1787.7",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [306],
+			"speaker": "1",
+			"text": "But if you can do this for eight weeks, I'm gonna pay you and we're going to go make this movie but that is the only way I will do these projects is if every single person that we come in contact with is within our bubble and we did and it worked really well for me because my movie takes place only in two locations, so we were able to buy out that hole location.",
+			"start": "1788.0",
+			"end": "1807.7",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"id": [307],
+			"speaker": "1",
+			"text": "And so we literally I guy for I would say for two and a half months.",
+			"start": "1807.9",
+			"end": "1812.7",
+			"phrase": "for two and a half months"
+		}, {
+			"id": [308],
+			"speaker": "1",
+			"text": "I didn't meet a human being that wasn't wow, tested and negative and in our bubble like I didn't even meet him.",
+			"start": "1812.7",
+			"end": "1818.6",
+			"phrase": "for two and a half months"
+		}, {
+			"id": [309],
+			"speaker": "1",
+			"text": "I remember when I first came back went to go to like, you know, pick up something.",
+			"start": "1818.6",
+			"end": "1822.7",
+			"phrase": "for two and a half months"
+		}, {
+			"id": [310],
+			"speaker": "1",
+			"text": "I'm like, oh my God, this is the first human beings.",
+			"start": "1822.7",
+			"end": "1824.9",
+			"phrase": ""
+		}, {
+			"id": [311],
+			"speaker": "1",
+			"text": "That I didn't personally test and have in our bubble for three months.",
+			"start": "1825.5",
+			"end": "1829.9",
+			"phrase": ""
+		}, {
+			"id": [312],
+			"speaker": "1",
+			"text": "So it was like that and we were very lucky because everybody did abide by this we tested three times a week every single human being thousands and thousands of tests and not a single positive and everybody went home.",
+			"start": "1829.9",
+			"end": "1841.8",
+			"phrase": "for two and a half months"
+		}, {
+			"id": [313],
+			"speaker": "1",
+			"text": "We made this movie and we made the TV show under those parameters and it was tough.",
+			"start": "1841.8",
+			"end": "1846.1",
+			"phrase": ""
+		}, {
+			"id": [314],
+			"speaker": "1",
+			"text": "Some people were scared to leave their families for that long, but we understood the why I was saying you just you can't you had any if you can do Four weeks and then leave us then I'll get another person to come due for weeks.",
+			"start": "1846.1",
+			"end": "1859.3",
+			"phrase": ""
+		}, {
+			"id": [315],
+			"speaker": "1",
+			"text": "Like I was very clean about what we were doing.",
+			"start": "1859.3",
+			"end": "1861.6",
+			"phrase": ""
+		}, {
+			"id": [316],
+			"speaker": "1",
+			"text": "You just can't come back and forth kind of.",
+			"start": "1861.6",
+			"end": "1863.3",
+			"phrase": ""
+		}, {
+			"id": [317],
+			"speaker": "0",
+			"text": "Wow, where did you do this?",
+			"start": "1863.5",
+			"end": "1865.3",
+			"phrase": ""
+		}, {
+			"id": [318],
+			"speaker": "0",
+			"text": "Well, the movie.",
+			"start": "1865.6",
+			"end": "1866.2",
+			"phrase": ""
+		}, {
+			"id": [319],
+			"speaker": "1",
+			"text": "done in the Dominican Republic.",
+			"start": "1866.4",
+			"end": "1868.4",
+			"phrase": "the dominican republic"
+		}, {
+			"id": [320],
+			"speaker": "1",
+			"text": "So that was a great thing.",
+			"start": "1868.7",
+			"end": "1869.7",
+			"phrase": "the dominican republic"
+		}, {
+			"id": [321],
+			"speaker": "1",
+			"text": "The government helped us a lot and helped us for them.",
+			"start": "1869.7",
+			"end": "1873.0",
+			"phrase": "the dominican republic"
+		}, {
+			"id": [322],
+			"speaker": "1",
+			"text": "They were they didn't quite have the scale of the pandemic that we had.",
+			"start": "1873.0",
+			"end": "1877.3",
+			"phrase": "the dominican republic"
+		}, {
+			"id": [323],
+			"speaker": "1",
+			"text": "So they're their anxieties and his outdoor a lot.",
+			"start": "1877.3",
+			"end": "1880.6",
+			"phrase": "the dominican republic"
+		}, {
+			"id": [324],
+			"speaker": "1",
+			"text": "The movie.",
+			"start": "1880.6",
+			"end": "1881.0",
+			"phrase": ""
+		}, {
+			"id": [325],
+			"speaker": "0",
+			"text": "Outdoors primarily.",
+			"start": "1881.2",
+			"end": "1882.4",
+			"phrase": ""
+		}, {
+			"id": [326],
+			"speaker": "0",
+			"text": "So this is the film.",
+			"start": "1882.4",
+			"end": "1883.6",
+			"phrase": ""
+		}, {
+			"id": [327],
+			"speaker": "1",
+			"text": "This is old.",
+			"start": "1883.8",
+			"end": "1884.5",
+			"phrase": "the two countries"
+		}, {
+			"id": [328],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1884.6",
+			"end": "1885.1",
+			"phrase": "the two countries"
+		}, {
+			"id": [329],
+			"speaker": "1",
+			"text": "Then the other project was servant for Apple which is we had to finish shooting the second season, which is.",
+			"start": "1885.2",
+			"end": "1890.2",
+			"phrase": "the two countries"
+		}, {
+			"id": [330],
+			"speaker": "0",
+			"text": "now that was in.",
+			"start": "1890.5",
+			"end": "1891.6",
+			"phrase": "the two countries"
+		}, {
+			"id": [331],
+			"speaker": "1",
+			"text": "that's intensify.",
+			"start": "1893.0",
+			"end": "1893.6",
+			"phrase": "the two countries"
+		}, {
+			"id": [332],
+			"speaker": "1",
+			"text": "That one was in Philly and they were very different in tenor because of the two countries relationship to the pandemic at the.",
+			"start": "1893.6",
+			"end": "1901.5",
+			"phrase": "the two countries"
+		}, {
+			"id": [333],
+			"speaker": "0",
+			"text": "Well, that's incredible.",
+			"start": "1902.4",
+			"end": "1903.8",
+			"phrase": ""
+		}, {
+			"id": [334],
+			"speaker": "0",
+			"text": "Yeah, the film was supposed to be released in February, but it's coming out in July which doesn't seem like that much of a.",
+			"start": "1904.5",
+			"end": "1910.6",
+			"phrase": "the film was supposed to be released in february, but it"
+		}, {
+			"id": [335],
+			"speaker": "1",
+			"text": "No, no where we picked and again where The movie industry in general is a circus right?",
+			"start": "1911.8",
+			"end": "1917.9",
+			"phrase": ""
+		}, {
+			"id": [336],
+			"speaker": "1",
+			"text": "It's a traveling circus.",
+			"start": "1917.9",
+			"end": "1919.2",
+			"phrase": ""
+		}, {
+			"id": [337],
+			"speaker": "1",
+			"text": "So you're I'm anticipating from the time.",
+			"start": "1919.2",
+			"end": "1921.4",
+			"phrase": ""
+		}, {
+			"id": [338],
+			"speaker": "1",
+			"text": "I got the idea to the time you see it in the movie theaters is two years.",
+			"start": "1921.4",
+			"end": "1924.6",
+			"phrase": ""
+		}, {
+			"id": [339],
+			"speaker": "1",
+			"text": "You know, I'm already thinking what will it be?",
+			"start": "1924.8",
+			"end": "1927.2",
+			"phrase": ""
+		}, {
+			"id": [340],
+			"speaker": "1",
+			"text": "Like well will life be like even who will be president these things all have a ramification on the feeling of the audience and all of that stuff and for us when we did we said based on what we knew about the vaccines and what their what the protocols were looking like and how it was coming along I felt That July July 23rd was a place where the world would be ready to be back to normal and we could be part of bringing everyone safely back together.",
+			"start": "1927.2",
+			"end": "1953.8",
+			"phrase": "based on what we knew about the vaccines"
+		}, {
+			"id": [341],
+			"speaker": "1",
+			"text": "That was again mine.",
+			"start": "1953.8",
+			"end": "1954.4",
+			"phrase": ""
+		}, {
+			"id": [342],
+			"speaker": "1",
+			"text": "If it didn't work out we would just push it but it felt like that was the.",
+			"start": "1954.4",
+			"end": "1957.8",
+			"phrase": ""
+		}, {
+			"id": [343],
+			"speaker": "0",
+			"text": "Point night.",
+			"start": "1958.0",
+			"end": "1958.9",
+			"phrase": "see if he"
+		}, {
+			"id": [344],
+			"speaker": "0",
+			"text": "We've got tons of questions.",
+			"start": "1958.9",
+			"end": "1960.1",
+			"phrase": "see if he"
+		}, {
+			"id": [345],
+			"speaker": "0",
+			"text": "I've come in.",
+			"start": "1960.1",
+			"end": "1960.6",
+			"phrase": "see if he"
+		}, {
+			"id": [346],
+			"speaker": "0",
+			"text": "I promise to get to some of them.",
+			"start": "1960.6",
+			"end": "1961.8",
+			"phrase": "see if he"
+		}, {
+			"id": [347],
+			"speaker": "0",
+			"text": "So let me let me see if he's pleased to a few of them.",
+			"start": "1961.8",
+			"end": "1963.9",
+			"phrase": "see if he"
+		}, {
+			"id": [348],
+			"speaker": "0",
+			"text": "This is from a pillar Fitzgerald floor asks, what advice do you have for aspiring writers and directors of color who want to break into the industry, which is largely dominated by white men, you know, I've.",
+			"start": "1963.9",
+			"end": "1974.7",
+			"phrase": "see if he"
+		}, {
+			"id": [349],
+			"speaker": "1",
+			"text": "doing a lot.",
+			"start": "1974.8",
+			"end": "1975.1",
+			"phrase": ""
+		}, {
+			"id": [350],
+			"speaker": "1",
+			"text": "Of soul-searching myself about this particular subject because I think many of the things I experienced from 21 years old till today.",
+			"start": "1975.2",
+			"end": "1984.5",
+			"phrase": ""
+		}, {
+			"id": [351],
+			"speaker": "1",
+			"text": "I just accept it as my.",
+			"start": "1985.0",
+			"end": "1986.6",
+			"phrase": ""
+		}, {
+			"id": [352],
+			"speaker": "1",
+			"text": "that the the head winds and the resistance and the things of wow.",
+			"start": "1989.1",
+			"end": "1992.6",
+			"phrase": ""
+		}, {
+			"id": [353],
+			"speaker": "1",
+			"text": "That was that was really harsh and wow, that wasn't very helpful and wow, huh?",
+			"start": "1992.6",
+			"end": "1997.7",
+			"phrase": "that was really harsh and"
+		}, {
+			"id": [354],
+			"speaker": "1",
+			"text": "All these things that that feeling it's it's I'm coming to terms with what what it meant to me, you know, and how much how much you became a part of my identity the things that that this person is asking look I think this is a really the best time it's ever been for that question to be asked because I believe in everybody's individuality is their power.",
+			"start": "1998.1",
+			"end": "2020.7",
+			"phrase": ""
+		}, {
+			"id": [355],
+			"speaker": "1",
+			"text": "So the fact that I am was born in pondicherry India and live outside, Philadelphia, Pennsylvania, you know, and I wear flannel shirts.",
+			"start": "2020.7",
+			"end": "2029.6",
+			"phrase": ""
+		}, {
+			"id": [356],
+			"speaker": "1",
+			"text": "I love cheeseburgers.",
+			"start": "2029.6",
+			"end": "2030.6",
+			"phrase": ""
+		}, {
+			"id": [357],
+			"speaker": "1",
+			"text": "But my mom has a Puja, you know at our house all that mixed together is why I think people connect with my voice around the world will call it the Immigrant flavor that that's coming from that that's redefining American story telling is each of our responsibilities to do, you know to bring that to it isn't like hey, I'm angry.",
+			"start": "2030.8",
+			"end": "2053.7",
+			"phrase": ""
+		}, {
+			"id": [358],
+			"speaker": "1",
+			"text": "I don't have a seat at the table.",
+			"start": "2053.7",
+			"end": "2055.2",
+			"phrase": ""
+		}, {
+			"id": [359],
+			"speaker": "1",
+			"text": "It's not only bring your chair to the table.",
+			"start": "2055.5",
+			"end": "2057.9",
+			"phrase": ""
+		}, {
+			"id": [360],
+			"speaker": "1",
+			"text": "It's make the table longer.",
+			"start": "2057.9",
+			"end": "2059.5",
+			"phrase": ""
+		}, {
+			"id": [361],
+			"speaker": "1",
+			"text": "That's your response.",
+			"start": "2059.6",
+			"end": "2060.6",
+			"phrase": ""
+		}, {
+			"id": [362],
+			"speaker": "1",
+			"text": "Go go add to the table, you know, and and so I said once to a Mexican student who was I did a speech and he say, you know, there's not enough Mexican voices and and all that stuff and I was saying to him I need you.",
+			"start": "2060.7",
+			"end": "2074.7",
+			"phrase": ""
+		}, {
+			"id": [363],
+			"speaker": "1",
+			"text": "Yeah, you're right.",
+			"start": "2074.9",
+			"end": "2075.6",
+			"phrase": ""
+		}, {
+			"id": [364],
+			"speaker": "1",
+			"text": "I need you.",
+			"start": "2075.6",
+			"end": "2076.1",
+			"phrase": ""
+		}, {
+			"id": [365],
+			"speaker": "1",
+			"text": "So tell start telling a story for me tell me story about but don't round the corners the more specific it is the more power it is where I go.",
+			"start": "2076.1",
+			"end": "2084.9",
+			"phrase": ""
+		}, {
+			"id": [366],
+			"speaker": "1",
+			"text": "I could never do that or Quentin Tarantino could never do that or Wes Anderson or David Fincher can't That that's what you want that you want that specificity of that person who asked the question telling me exactly the things that make them then and that includes the negative stuff the anger the arrogance all of that stuff needs to be in there in a.",
+			"start": "2084.9",
+			"end": "2105.0",
+			"phrase": "that was really harsh and"
+		}, {
+			"id": [367],
+			"speaker": "0",
+			"text": "capacity essentially use your voice right because they have it you're you're sort of Advantage right you're unfair advantages that is that unlike the people you mentioned the Wes Anderson's and David Fincher's naquin Tarantino's you have a perspective that they don't have.",
+			"start": "2105.6",
+			"end": "2120.2",
+			"phrase": ""
+		}, {
+			"id": [368],
+			"speaker": "0",
+			"text": "Mmm, I think they each.",
+			"start": "2121.1",
+			"end": "2122.5",
+			"phrase": ""
+		}, {
+			"id": [369],
+			"speaker": "1",
+			"text": "to I'm not debating anybody's point of view.",
+			"start": "2122.6",
+			"end": "2125.3",
+			"phrase": ""
+		}, {
+			"id": [370],
+			"speaker": "1",
+			"text": "It's just that in society.",
+			"start": "2125.3",
+			"end": "2126.8",
+			"phrase": ""
+		}, {
+			"id": [371],
+			"speaker": "1",
+			"text": "Most of the time it's been a certain point of view has been more people have been more open to a certain point of view, right and just understanding store how how much storytelling affects everything we do as a society what Stories We Tell ourselves, what are the basic premises that we take for granted and we all get to to decide that a story tells help.",
+			"start": "2126.8",
+			"end": "2150.7",
+			"phrase": "more open to"
+		}, {
+			"id": [372],
+			"speaker": "1",
+			"text": "Add a certain color to that to the things that we take.",
+			"start": "2150.9",
+			"end": "2153.4",
+			"phrase": ""
+		}, {
+			"id": [373],
+			"speaker": "0",
+			"text": "granted.",
+			"start": "2153.5",
+			"end": "2154.2",
+			"phrase": ""
+		}, {
+			"id": [374],
+			"speaker": "0",
+			"text": "I'm gonna combine two questions question from Sean Young and Jared Jones Anna asks as king of plot twists, which one are you most proud of and Jared asks does your reputation of being the plot twist guy get on your.",
+			"start": "2154.2",
+			"end": "2167.3",
+			"phrase": "from sean young and jared jones an"
+		}, {
+			"id": [375],
+			"speaker": "1",
+			"text": "Well, you know, it's funny even as you asked it.",
+			"start": "2169.1",
+			"end": "2172.0",
+			"phrase": ""
+		}, {
+			"id": [376],
+			"speaker": "1",
+			"text": "There is a certain kind of derivative quality to that that is frustrating.",
+			"start": "2172.4",
+			"end": "2179.3",
+			"phrase": ""
+		}, {
+			"id": [377],
+			"speaker": "1",
+			"text": "I would guess I would say More than anything else because I would say, you know in spirituality the pervasive nature of kind of talking about spirituality is just as much there.",
+			"start": "2179.3",
+			"end": "2189.5",
+			"phrase": ""
+		}, {
+			"id": [378],
+			"speaker": "1",
+			"text": "I don't look at it as a kind of a fancy dance move or something like that.",
+			"start": "2191.5",
+			"end": "2195.5",
+			"phrase": ""
+		}, {
+			"id": [379],
+			"speaker": "1",
+			"text": "Like okay now I'm going to do the moonwalk everybody.",
+			"start": "2195.5",
+			"end": "2197.8",
+			"phrase": ""
+		}, {
+			"id": [380],
+			"speaker": "1",
+			"text": "Here we go.",
+			"start": "2197.8",
+			"end": "2198.5",
+			"phrase": ""
+		}, {
+			"id": [381],
+			"speaker": "1",
+			"text": "You know, it's that's not it it's a point of view and how to talk about points of view in the structure of Storytelling and not understanding.",
+			"start": "2198.6",
+			"end": "2207.3",
+			"phrase": ""
+		}, {
+			"id": [382],
+			"speaker": "1",
+			"text": "Why is she acting that way what she acting away?",
+			"start": "2207.3",
+			"end": "2209.7",
+			"phrase": ""
+		}, {
+			"id": [383],
+			"speaker": "1",
+			"text": "Oh my gosh.",
+			"start": "2209.7",
+			"end": "2210.3",
+			"phrase": ""
+		}, {
+			"id": [384],
+			"speaker": "1",
+			"text": "She's That way because of that, you know that kind of thing.",
+			"start": "2210.3",
+			"end": "2213.8",
+			"phrase": ""
+		}, {
+			"id": [385],
+			"speaker": "1",
+			"text": "I love characters realizing things.",
+			"start": "2214.4",
+			"end": "2217.0",
+			"phrase": ""
+		}, {
+			"id": [386],
+			"speaker": "1",
+			"text": "And so if I'm doing my job, right and Storyteller you are with that character as they realized this thing that happens.",
+			"start": "2217.0",
+			"end": "2224.0",
+			"phrase": "doing my job"
+		}, {
+			"id": [387],
+			"speaker": "1",
+			"text": "I really enjoy that mean.",
+			"start": "2224.0",
+			"end": "2225.0",
+			"phrase": ""
+		}, {
+			"id": [388],
+			"speaker": "1",
+			"text": "Look I'm I enjoy feeling feeling emotions that intellectual thoughts that are unexpected that I didn't expect to feel that way about and when I'm whatever I'm reading or learning the painting can do that a book can do that.",
+			"start": "2225.0",
+			"end": "2240.6",
+			"phrase": "i enjoy feeling"
+		}, {
+			"id": [389],
+			"speaker": "1",
+			"text": "Make me feel this kind of epiphany.",
+			"start": "2240.8",
+			"end": "2244.2",
+			"phrase": ""
+		}, {
+			"id": [390],
+			"speaker": "1",
+			"text": "Yeah, and.",
+			"start": "2244.3",
+			"end": "2244.9",
+			"phrase": ""
+		}, {
+			"id": [391],
+			"speaker": "0",
+			"text": "you I hesitate to ask but do you have a favorite or one that you kind of go back to in your mind that you're.",
+			"start": "2245.1",
+			"end": "2249.9",
+			"phrase": ""
+		}, {
+			"id": [392],
+			"speaker": "1",
+			"text": "proud of?",
+			"start": "2250.3",
+			"end": "2250.8",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [393],
+			"speaker": "1",
+			"text": "Um as the mischievous kid, I really enjoy the reactions.",
+			"start": "2252.2",
+			"end": "2257.0",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [394],
+			"speaker": "1",
+			"text": "I was when we were I have an audio recording of the visit in the movie theater, and there's a thing that happens to those of you that haven't watched visit.",
+			"start": "2257.0",
+			"end": "2266.1",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [395],
+			"speaker": "1",
+			"text": "I'm not going to ruin to but there's a moment where something is revealed and the audience's reaction is so vocal it's it was like that.",
+			"start": "2266.1",
+			"end": "2275.2",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [396],
+			"speaker": "1",
+			"text": "I thought the theater was going to erupt.",
+			"start": "2275.2",
+			"end": "2278.2",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [397],
+			"speaker": "1",
+			"text": "These are just my favorite moments of me being in the movie theaters with them with with Audiences when these things happen and then the first time I screen split it was in Austin Texas at a film festival fantastic Fest and when it got to the last scene there was music that comes in prior to the last scene and the music is from a previous movie and soon as those first notes happened.",
+			"start": "2278.2",
+			"end": "2301.8",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [398],
+			"speaker": "1",
+			"text": "There was a guy like I snuck in and hit and I saw a guy in there and he was sitting back and watching the music came in and he was like and he just started sitting up and he started looking at everybody.",
+			"start": "2301.8",
+			"end": "2311.7",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [399],
+			"speaker": "1",
+			"text": "And everybody still has his murmur went through the whole crowd and then at the end when when the reveal happened who was sitting there at the counter at the end of split that the I thought they were going to tear the seats out of the theater when there were people like putting their hands up in the air like like a roller coaster like they were going down a roller coaster.",
+			"start": "2312.0",
+			"end": "2328.6",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"id": [400],
+			"speaker": "1",
+			"text": "Woo.",
+			"start": "2328.6",
+			"end": "2329.2",
+			"phrase": ""
+		}, {
+			"id": [401],
+			"speaker": "1",
+			"text": "So it was really it was such a joy and that that feeling you can imagine right that little kid that loves to have that feeling what.",
+			"start": "2329.2",
+			"end": "2336.6",
+			"phrase": ""
+		}, {
+			"id": [402],
+			"speaker": "0",
+			"text": "felt like, it's amazing to think that you could have that impact on people.",
+			"start": "2336.8",
+			"end": "2340.5",
+			"phrase": ""
+		}, {
+			"id": [403],
+			"speaker": "0",
+			"text": "I mean what and I know Edible feeling to know that you can move people.",
+			"start": "2340.6",
+			"end": "2345.8",
+			"phrase": ""
+		}, {
+			"id": [404],
+			"speaker": "1",
+			"text": "that.",
+			"start": "2346.0",
+			"end": "2346.5",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"id": [405],
+			"speaker": "1",
+			"text": "Aw, thanks man.",
+			"start": "2347.5",
+			"end": "2348.3",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"id": [406],
+			"speaker": "1",
+			"text": "Not it's enjoy the collective experience is such a wonderful thing making movies for me is and throat showing them in a movie theaters a little bit of a sacred thing for me because I think it's when we're at our best because the the teenage girl is affecting the 60 year old guy in the back of the theater.",
+			"start": "2348.3",
+			"end": "2366.3",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"id": [407],
+			"speaker": "1",
+			"text": "We even if he doesn't know it she's giggling in a certain place and a tuning him in a certain way and then his kind of taking things in a kind of earnest or sincere way.",
+			"start": "2366.3",
+			"end": "2375.4",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"id": [408],
+			"speaker": "1",
+			"text": "It's affecting her as well and we're All this quilt as it's putting coming together.",
+			"start": "2375.5",
+			"end": "2379.8",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"id": [409],
+			"speaker": "1",
+			"text": "So I mean, you know for me, it's very sacred thing getting to having the opportunity to tell stories to to.",
+			"start": "2379.9",
+			"end": "2384.7",
+			"phrase": ""
+		}, {
+			"id": [410],
+			"speaker": "0",
+			"text": "group.",
+			"start": "2384.8",
+			"end": "2385.4",
+			"phrase": ""
+		}, {
+			"id": [411],
+			"speaker": "0",
+			"text": "I love this question from Gregory Voight.",
+			"start": "2385.4",
+			"end": "2387.4",
+			"phrase": ""
+		}, {
+			"id": [412],
+			"speaker": "0",
+			"text": "I hope I'm pronouncing that right Gregory Gregory asks when things are going wrong during the script writing process, you know that it's not clicking like what are the steps you take to make it better to improve on.",
+			"start": "2387.9",
+			"end": "2398.2",
+			"phrase": ""
+		}, {
+			"id": [413],
+			"speaker": "1",
+			"text": "What happens is when you when are you get stuck like you're doing you're essentially you're betraying the story, but you don't know how you're betraying it.",
+			"start": "2398.8",
+			"end": "2406.7",
+			"phrase": ""
+		}, {
+			"id": [414],
+			"speaker": "1",
+			"text": "So you Can feel the damage you just don't understand it.",
+			"start": "2406.7",
+			"end": "2410.0",
+			"phrase": "is not working"
+		}, {
+			"id": [415],
+			"speaker": "1",
+			"text": "This isn't working.",
+			"start": "2410.0",
+			"end": "2411.0",
+			"phrase": "is not working"
+		}, {
+			"id": [416],
+			"speaker": "1",
+			"text": "So anyways that you can say it out loud or put it on a paper.",
+			"start": "2411.3",
+			"end": "2415.4",
+			"phrase": "is not working"
+		}, {
+			"id": [417],
+			"speaker": "1",
+			"text": "This is not working this feels so redundant because this and they say you will even as you're saying the problem there's the answer will be kind of in their embedded in there you're going with this is redundant redundant.",
+			"start": "2415.7",
+			"end": "2428.4",
+			"phrase": "is not working"
+		}, {
+			"id": [418],
+			"speaker": "1",
+			"text": "Oh, wait a minute.",
+			"start": "2428.4",
+			"end": "2429.7",
+			"phrase": ""
+		}, {
+			"id": [419],
+			"speaker": "1",
+			"text": "What is the the scene is about why are we doing this whole sequence?",
+			"start": "2429.7",
+			"end": "2434.4",
+			"phrase": ""
+		}, {
+			"id": [420],
+			"speaker": "1",
+			"text": "I already did it before or this isn't the right time to Do that or I don't really know her and I keep putting her down and that's why I'm not I hate writing her because I don't know her it's just a blurry like empty space that I'm calling her and it's generic and I don't like that.",
+			"start": "2434.4",
+			"end": "2452.5",
+			"phrase": "is not working"
+		}, {
+			"id": [421],
+			"speaker": "1",
+			"text": "And so then you so you'll know that and you'll go what was my hope for her.",
+			"start": "2452.5",
+			"end": "2457.0",
+			"phrase": ""
+		}, {
+			"id": [422],
+			"speaker": "1",
+			"text": "Well my hope for her would that she would be like my mom and she would have this sense of anger, but she's never been connected to her own anger.",
+			"start": "2457.0",
+			"end": "2464.6",
+			"phrase": ""
+		}, {
+			"id": [423],
+			"speaker": "1",
+			"text": "Like you'll write something, you know.",
+			"start": "2464.6",
+			"end": "2465.7",
+			"phrase": ""
+		}, {
+			"id": [424],
+			"speaker": "1",
+			"text": "Oh someone who doesn't realize they're angry.",
+			"start": "2465.7",
+			"end": "2468.3",
+			"phrase": ""
+		}, {
+			"id": [425],
+			"speaker": "1",
+			"text": "Okay, great.",
+			"start": "2468.3",
+			"end": "2469.5",
+			"phrase": ""
+		}, {
+			"id": [426],
+			"speaker": "1",
+			"text": "Now I can write that.",
+			"start": "2469.5",
+			"end": "2470.6",
+			"phrase": ""
+		}, {
+			"id": [427],
+			"speaker": "1",
+			"text": "I.",
+			"start": "2470.6",
+			"end": "2470.7",
+			"phrase": ""
+		}, {
+			"id": [428],
+			"speaker": "0",
+			"text": "that like this year has been a kind of a horror film on its own.",
+			"start": "2470.9",
+			"end": "2474.9",
+			"phrase": ""
+		}, {
+			"id": [429],
+			"speaker": "0",
+			"text": "How do you think this past year is going to find expression in in future films and TV, you know, this.",
+			"start": "2475.5",
+			"end": "2482.2",
+			"phrase": ""
+		}, {
+			"id": [430],
+			"speaker": "1",
+			"text": "world of what happened to us is a lot of what I live with and when I'm thinking about fictional stories, you know about things that happen to the world and how does it how do we all feel when were isolated from each other and there was Many things that we experienced that I never thought of that occurred to us.",
+			"start": "2482.8",
+			"end": "2502.0",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [431],
+			"speaker": "1",
+			"text": "I do think that it'll create a certain paranoia.",
+			"start": "2502.7",
+			"end": "2506.4",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [432],
+			"speaker": "1",
+			"text": "I think it'll take us a long while to feel safe even passed the the pandemic we never in a million years thought the whole world would shut down.",
+			"start": "2507.0",
+			"end": "2515.6",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [433],
+			"speaker": "1",
+			"text": "The whole world would shut down.",
+			"start": "2516.0",
+			"end": "2517.3",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [434],
+			"speaker": "1",
+			"text": "That's it's scary.",
+			"start": "2517.3",
+			"end": "2519.2",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [435],
+			"speaker": "1",
+			"text": "It's humbling and I think in probably a healthy way for all of us that you know, this isn't guaranteed and all and They'll be that to Grapple with that might mean that people just want to escape more and be entertained.",
+			"start": "2519.2",
+			"end": "2533.2",
+			"phrase": "e to feel safe"
+		}, {
+			"id": [436],
+			"speaker": "1",
+			"text": "Maybe they're not ready for two heaviest stuff.",
+			"start": "2533.8",
+			"end": "2535.8",
+			"phrase": ""
+		}, {
+			"id": [437],
+			"speaker": "1",
+			"text": "I don't know how that's gonna to play out.",
+			"start": "2535.8",
+			"end": "2538.4",
+			"phrase": ""
+		}, {
+			"id": [438],
+			"speaker": "1",
+			"text": "We have found this movement.",
+			"start": "2539.2",
+			"end": "2540.5",
+			"phrase": "theater with a group of people"
+		}, {
+			"id": [439],
+			"speaker": "1",
+			"text": "This is a whole nother subject guy probably another podcast but this movement of what plays in the movie theater versus that home, huh?",
+			"start": "2540.5",
+			"end": "2547.4",
+			"phrase": "theater with a group of people"
+		}, {
+			"id": [440],
+			"speaker": "1",
+			"text": "And you'll see this movement of drama leaving the movie theater and coming to like you're okay feeling Emotional dramatic things in at home, but going to a movie theater with a group of people you want to be scared and laugh and thrilled and and spectacle and all these things you want to have a group experience.",
+			"start": "2547.4",
+			"end": "2571.9",
+			"phrase": "theater with a group of people"
+		}, {
+			"id": [441],
+			"speaker": "1",
+			"text": "You don't want to have an internal one like, you know, almost we could call drama and internal thing so that that's been an interesting bifurcation that's happened which wasn't there before our streaming and all of these other things and it's up studying.",
+			"start": "2571.9",
+			"end": "2585.3",
+			"phrase": ""
+		}, {
+			"id": [442],
+			"speaker": "1",
+			"text": "You know, what what what how people behave maybe that will change maybe that will change.",
+			"start": "2585.3",
+			"end": "2589.4",
+			"phrase": "theater with a group of people"
+		}, {
+			"id": [443],
+			"speaker": "0",
+			"text": "I know that we're running at a time by dude want to ask you about the streaming question.",
+			"start": "2590.1",
+			"end": "2594.5",
+			"phrase": "available to stream for a month"
+		}, {
+			"id": [444],
+			"speaker": "0",
+			"text": "I know that you were very vocal when Warner decided to drop a 17 of its major releases, I think on the same day, they release them made them available to stream for a month and you and many other filmmakers were really upset about it.",
+			"start": "2594.5",
+			"end": "2606.6",
+			"phrase": "available to stream for a month"
+		}, {
+			"id": [445],
+			"speaker": "0",
+			"text": "I'm can you explain why you think that decision by Warner is so detrimental to creators.",
+			"start": "2606.6",
+			"end": "2612.1",
+			"phrase": ""
+		}, {
+			"id": [446],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "2612.3",
+			"end": "2612.5",
+			"phrase": ""
+		}, {
+			"id": [447],
+			"speaker": "0",
+			"text": "It was more.",
+			"start": "2612.5",
+			"end": "2613.1",
+			"phrase": ""
+		}, {
+			"id": [448],
+			"speaker": "1",
+			"text": "how that the unilaterally did it without talking to the film.",
+			"start": "2613.3",
+			"end": "2617.1",
+			"phrase": "without talking to the film"
+		}, {
+			"id": [449],
+			"speaker": "1",
+			"text": "Makers who had every they are just passionate.",
+			"start": "2617.2",
+			"end": "2620.4",
+			"phrase": "without talking to the film"
+		}, {
+			"id": [450],
+			"speaker": "1",
+			"text": "I am about this movie going experience.",
+			"start": "2620.4",
+			"end": "2622.4",
+			"phrase": "without talking to the film"
+		}, {
+			"id": [451],
+			"speaker": "1",
+			"text": "They thought they were making one art form and then they were told hey, it's mostly not going to be that way or at all.",
+			"start": "2622.7",
+			"end": "2631.0",
+			"phrase": "without talking to the film"
+		}, {
+			"id": [452],
+			"speaker": "1",
+			"text": "And that's a very profound thing to change on somebody that hey we're not even doing the art form that you signed up for to do every decision.",
+			"start": "2631.0",
+			"end": "2639.8",
+			"phrase": ""
+		}, {
+			"id": [453],
+			"speaker": "1",
+			"text": "You're making about how the sound moves through the theater and all that's not going to be the case because it's going to be in a home and a home theater on a TV.",
+			"start": "2639.8",
+			"end": "2647.0",
+			"phrase": "without talking to the film"
+		}, {
+			"id": [454],
+			"speaker": "1",
+			"text": "E or on a laptop.",
+			"start": "2647.2",
+			"end": "2647.8",
+			"phrase": ""
+		}, {
+			"id": [455],
+			"speaker": "1",
+			"text": "Yeah, it should have been filmmaker by filmmakers decision of how to handle this here.",
+			"start": "2647.8",
+			"end": "2652.2",
+			"phrase": "put it out when it was safer"
+		}, {
+			"id": [456],
+			"speaker": "1",
+			"text": "If they wanted to put it out that way great.",
+			"start": "2652.2",
+			"end": "2654.6",
+			"phrase": "put it out when it was safer"
+		}, {
+			"id": [457],
+			"speaker": "1",
+			"text": "Everybody comes to decision if they wanted to wait and if the studio could handle that financial burden of waiting for a beat, you know to put it out when it was safer those conversations just needed to be had and they felt like they were prioritizing their other business and willing to undermine the movie-going experience.",
+			"start": "2654.6",
+			"end": "2674.2",
+			"phrase": "put it out when it was safer"
+		}, {
+			"id": [458],
+			"speaker": "1",
+			"text": "That's what it felt like their value system had switched.",
+			"start": "2674.2",
+			"end": "2677.1",
+			"phrase": ""
+		}, {
+			"id": [459],
+			"speaker": "1",
+			"text": "This is not great.",
+			"start": "2677.4",
+			"end": "2678.8",
+			"phrase": ""
+		}, {
+			"id": [460],
+			"speaker": "1",
+			"text": "For those of us who movie-going.",
+			"start": "2678.8",
+			"end": "2681.4",
+			"phrase": ""
+		}, {
+			"id": [461],
+			"speaker": "0",
+			"text": "religion.",
+			"start": "2682.0",
+			"end": "2682.5",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"id": [462],
+			"speaker": "0",
+			"text": "It sounds like what you're saying is that this year this past year is kind of supercharged this trend of dramatic films being watched at home.",
+			"start": "2682.6",
+			"end": "2690.2",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"id": [463],
+			"speaker": "0",
+			"text": "And this idea that going to the cinema which obviously many people haven't is about spectacle I suspect that's the future right?",
+			"start": "2690.2",
+			"end": "2698.2",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"id": [464],
+			"speaker": "0",
+			"text": "Is there a world where going to the movies will be a very special specific and rare experience in the future.",
+			"start": "2698.2",
+			"end": "2706.3",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"id": [465],
+			"speaker": "0",
+			"text": "I mean is that.",
+			"start": "2706.3",
+			"end": "2707.0",
+			"phrase": ""
+		}, {
+			"id": [466],
+			"speaker": "1",
+			"text": "no no.",
+			"start": "2707.4",
+			"end": "2708.2",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [467],
+			"speaker": "1",
+			"text": "I'm not I don't believe that at all.",
+			"start": "2708.2",
+			"end": "2709.9",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [468],
+			"speaker": "1",
+			"text": "I think II that we can all be back together.",
+			"start": "2709.9",
+			"end": "2712.9",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [469],
+			"speaker": "1",
+			"text": "Again.",
+			"start": "2712.9",
+			"end": "2713.4",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [470],
+			"speaker": "1",
+			"text": "We're just Collective creatures.",
+			"start": "2713.5",
+			"end": "2715.0",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [471],
+			"speaker": "1",
+			"text": "We want to go experience things together.",
+			"start": "2715.1",
+			"end": "2717.1",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [472],
+			"speaker": "1",
+			"text": "Let's watch this together.",
+			"start": "2717.3",
+			"end": "2718.2",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [473],
+			"speaker": "1",
+			"text": "Let's watch the game together.",
+			"start": "2718.2",
+			"end": "2719.5",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [474],
+			"speaker": "1",
+			"text": "Let's go watch the movie together and those movies that promise this is going to be something you want to share with your friends and others.",
+			"start": "2719.5",
+			"end": "2727.8",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"id": [475],
+			"speaker": "1",
+			"text": "I believe when you go to the movie theater and you commit to leave your house park your car get your babysitter and come and Turn off your phone.",
+			"start": "2728.0",
+			"end": "2737.7",
+			"phrase": "when you go to the movie theater"
+		}, {
+			"id": [476],
+			"speaker": "1",
+			"text": "You cannot multitask you're making the biggest commitment that you will ever make to an art form for two hours.",
+			"start": "2737.7",
+			"end": "2745.1",
+			"phrase": "to an art form"
+		}, {
+			"id": [477],
+			"speaker": "1",
+			"text": "Yeah, and then we in turn hold your attention and have to earn that for two hours.",
+			"start": "2745.3",
+			"end": "2749.2",
+			"phrase": "to an art form"
+		}, {
+			"id": [478],
+			"speaker": "1",
+			"text": "That is the greatest commitment.",
+			"start": "2749.2",
+			"end": "2750.6",
+			"phrase": ""
+		}, {
+			"id": [479],
+			"speaker": "1",
+			"text": "And if you put more commitment into anything you're going to get more back.",
+			"start": "2750.6",
+			"end": "2754.2",
+			"phrase": "if you put more"
+		}, {
+			"id": [480],
+			"speaker": "1",
+			"text": "So the experience will be stickier.",
+			"start": "2754.2",
+			"end": "2756.3",
+			"phrase": ""
+		}, {
+			"id": [481],
+			"speaker": "1",
+			"text": "It'll be more powerful and will stay with you longer.",
+			"start": "2756.3",
+			"end": "2759.1",
+			"phrase": ""
+		}, {
+			"id": [482],
+			"speaker": "1",
+			"text": "So it's just in that way.",
+			"start": "2759.1",
+			"end": "2760.7",
+			"phrase": ""
+		}, {
+			"id": [483],
+			"speaker": "1",
+			"text": "If you call that the product that is the most.",
+			"start": "2760.7",
+			"end": "2762.9",
+			"phrase": ""
+		}, {
+			"id": [484],
+			"speaker": "0",
+			"text": "product last question for you.",
+			"start": "2763.0",
+			"end": "2764.9",
+			"phrase": ""
+		}, {
+			"id": [485],
+			"speaker": "0",
+			"text": "What advice would you?",
+			"start": "2765.2",
+			"end": "2767.1",
+			"phrase": ""
+		}, {
+			"id": [486],
+			"speaker": "0",
+			"text": "You give to that kid who made praying with anger.",
+			"start": "2767.1",
+			"end": "2769.3",
+			"phrase": ""
+		}, {
+			"id": [487],
+			"speaker": "0",
+			"text": "If you you know, if you now had that opportunity to go back and speak to him and know what you know now.",
+			"start": "2769.3",
+			"end": "2776.2",
+			"phrase": ""
+		}, {
+			"id": [488],
+			"speaker": "0",
+			"text": "Yeah, what would.",
+			"start": "2776.6",
+			"end": "2777.4",
+			"phrase": ""
+		}, {
+			"id": [489],
+			"speaker": "1",
+			"text": "say?",
+			"start": "2777.5",
+			"end": "2777.8",
+			"phrase": "t the second column"
+		}, {
+			"id": [490],
+			"speaker": "1",
+			"text": "You know so much of the worrying about the second column every single bit of it is a waste of time.",
+			"start": "2779.1",
+			"end": "2785.3",
+			"phrase": "t the second column"
+		}, {
+			"id": [491],
+			"speaker": "1",
+			"text": "I wish I could have figured out that that idea earlier and told him I promise you just figure out what happens to the guy after he hits his head.",
+			"start": "2785.3",
+			"end": "2793.6",
+			"phrase": "t the second column"
+		}, {
+			"id": [492],
+			"speaker": "1",
+			"text": "I promise you that's all you need to worry about and everything will happen.",
+			"start": "2793.6",
+			"end": "2797.8",
+			"phrase": "t the second column"
+		}, {
+			"id": [493],
+			"speaker": "1",
+			"text": "You know, there are moments to say hey who's going to distribute the movie and when is the best date and all of that stuff there are practical things but that's not where you should put your love and your It's over here.",
+			"start": "2797.8",
+			"end": "2810.0",
+			"phrase": "t the second column"
+		}, {
+			"id": [494],
+			"speaker": "1",
+			"text": "Hey, you made this great piece of art and I know he was figuring it out.",
+			"start": "2810.0",
+			"end": "2815.0",
+			"phrase": ""
+		}, {
+			"id": [495],
+			"speaker": "1",
+			"text": "There was no road maps of how to do this, but I certainly have spent way too much of my life worrying about things and angsting and being sad over the wrong things.",
+			"start": "2815.0",
+			"end": "2828.6",
+			"phrase": ""
+		}, {
+			"id": [496],
+			"speaker": "1",
+			"text": "Just the wrong.",
+			"start": "2828.6",
+			"end": "2830.1",
+			"phrase": ""
+		}, {
+			"id": [497],
+			"speaker": "0",
+			"text": "I really love that advice M Night Shyamalan.",
+			"start": "2830.8",
+			"end": "2833.9",
+			"phrase": ""
+		}, {
+			"id": [498],
+			"speaker": "0",
+			"text": "Thank you so much.",
+			"start": "2834.2",
+			"end": "2835.0",
+			"phrase": ""
+		}, {
+			"id": [499],
+			"speaker": "0",
+			"text": "Thanks for being with.",
+			"start": "2835.0",
+			"end": "2835.6",
+			"phrase": ""
+		}, {
+			"id": [500],
+			"speaker": "1",
+			"text": "Thanks guy was really fun talking to you.",
+			"start": "2836.0",
+			"end": "2837.4",
+			"phrase": ""
+		}]
+	},
+	"low": {
+		"segments": [{
+			"text": "This message comes from npr sponsor rBC wealth management, which helps their clients reach their unique financial goals from planning for lifes necessities to protecting what they have earned.",
+			"id": [0, 1, 2],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "At this years sundance film festival night, I spoke with them about their work, which includes sixth sense unbreakable and split, as well as their new series servant on apple tv.",
+			"id": [3, 4],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "When you were a kid, you had a super 8 camera at home, and I used to play around with it.",
+			"id": [5, 6, 7, 8],
+			"speaker": "0",
+			"phrase": "i used to play"
+		}, {
+			"text": "I think it was a confluence of when I was born in 1970 and being 11 at the time, as well as the fact that I had read as lost ark in the star wars.",
+			"id": [12],
+			"speaker": "1",
+			"phrase": "to be a doctor"
+		}, {
+			"text": "I did this because I was going to be a doctor and I wanted to have fun with it.",
+			"id": [13, 14, 15],
+			"speaker": "1",
+			"phrase": "to be a doctor"
+		}, {
+			"text": "The cameras were expensive and it was difficult to get them developed.",
+			"id": [17, 18, 19, 20],
+			"speaker": "0",
+			"phrase": "to get them developed."
+		}, {
+			"text": "Some of your fans know that you show clips of them.",
+			"id": [23],
+			"speaker": "0",
+			"phrase": "r fans know that you"
+		}, {
+			"text": "I need to convey the level of lack of talent that was shown in these pieces staggering like that if you are looking for a bit of creativity or originality.",
+			"id": [24, 25, 26, 27, 28],
+			"speaker": "1",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"text": "When you see raiders, it's farcical, but it was funny because I was mimicking rather than creating and it had none of the joy.",
+			"id": [29, 30, 31, 32, 33],
+			"speaker": "1",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"text": "When we find people who have mastered what they do, it's important that we ask them how often they ask me how to interview people so well.",
+			"id": [34, 35],
+			"speaker": "0",
+			"phrase": "ve mastered what they do"
+		}, {
+			"text": "If you want to create environments where you can make changes safely, then you have to do it iteratively.",
+			"id": [38, 39, 40, 41],
+			"speaker": "1",
+			"phrase": "create environments where you can"
+		}, {
+			"text": "It was safe fail because I couched it as a hobby as fun and I didn't know if I was going to become a doctor.",
+			"id": [42, 43, 44, 45],
+			"speaker": "1",
+			"phrase": "create environments where you can"
+		}, {
+			"text": "You could just go in and not say anything about me and I'm terrible at it.",
+			"id": [48],
+			"speaker": "1",
+			"phrase": "create environments where you can"
+		}, {
+			"text": "My parents wanted me to be a doctor or an engineer because they thought it was a safe path to go to college.",
+			"id": [51, 52, 53],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "When you were a kid, did they discourage you from going to film school because of your filmmaking obsession?",
+			"id": [54, 55, 56, 57],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If I had said I wanted to go to film school at that time, it would have been the same thing.",
+			"id": [58, 59, 60],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I wanted to spike my hammering away at the collars and I was going to scream into the microphone, but my dad reacted with classic asian dad and just ignored this.",
+			"id": [61, 62, 63, 64, 65],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We didn't have the chance to follow any of this, but I think there were things that were going to happen and I only applied to NYU when I was in high school.",
+			"id": [66, 67, 68],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You didn't just direct and write it and produce it, but you had to raise all the money to make it because you were so new.",
+			"id": [74],
+			"speaker": "0",
+			"phrase": "e money to"
+		}, {
+			"text": "I gave 2000 and my uncle gave 5 000 and we sold it to kaiba land for just the same.",
+			"id": [79, 80],
+			"speaker": "1",
+			"phrase": "i try to do original films"
+		}, {
+			"text": "I try to do original films and so there is a pull to go into the system but for whatever reason I feel like every time I want to stay.",
+			"id": [81],
+			"speaker": "1",
+			"phrase": "i try to do original films"
+		}, {
+			"text": "How did you overcome this in the early days when you didn't know what you were capable of?",
+			"id": [84, 85, 86, 87],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I came from the editing room and the voice inside told me I was not going to figure it out.",
+			"id": [88, 89, 90],
+			"speaker": "1",
+			"phrase": "to balance everything"
+		}, {
+			"text": "I'm scared to write my next movie because I might not be able to balance everything, but I want to do it.",
+			"id": [92, 93, 94, 95, 96],
+			"speaker": "1",
+			"phrase": "to balance everything"
+		}, {
+			"text": "You will wrestle with your demons every day.",
+			"id": [97],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You have had a lot of success and you want to meet the high expectations.",
+			"id": [99],
+			"speaker": "0",
+			"phrase": "you want to meet th"
+		}, {
+			"text": "I was told by my head of my company that I have healthy anxiety about what could go wrong.",
+			"id": [101, 102, 103],
+			"speaker": "1",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"text": "I have been anxious for a long time.",
+			"id": [104],
+			"speaker": "1",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"text": "Creating is the only thing that makes me not anxious.",
+			"id": [105],
+			"speaker": "1",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"text": "Your job is what you enjoy doing the most.",
+			"id": [106],
+			"speaker": "1",
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"text": "All this other stuff is irrelevant, to be honest.",
+			"id": [107],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "What did the new york times think about the other guy making that much or doing the cover?",
+			"id": [109],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I have to figure out what happens after he falls down.",
+			"id": [110],
+			"speaker": "1",
+			"phrase": "figure out what happens after he falls down."
+		}, {
+			"text": "If I can figure that out today, I will be so happy.",
+			"id": [111],
+			"speaker": "1",
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"text": "One of the first things I say is self doubt and the ability to question yourself and your own wisdom because your films have made three billion dollars so people will watch this.",
+			"id": [113, 114, 115, 116],
+			"speaker": "0",
+			"phrase": "three billion dollars"
+		}, {
+			"text": "This is the last movie that they will ever allow me to make so make it so that I get out of this healthy.",
+			"id": [117, 118, 119, 120],
+			"speaker": "1",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "I'm ready to burn the house down for this value system that I showed artistically in this movie and if that means that's the end then no problem, I remember as a kid.",
+			"id": [121, 122, 123],
+			"speaker": "1",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "I wanted to see a movie about comic book.",
+			"id": [124],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I was like writing that is fast as I could like on the train rides and all the mentality was you are an indian kid from Philadelphia.",
+			"id": [125],
+			"speaker": "1",
+			"phrase": "writing that is fast as i could like on the train rides and all the mentality was"
+		}, {
+			"text": "You are already lucky to have been directed a movie.",
+			"id": [126],
+			"speaker": "1",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "I think it's an immigrant mentality because my parents think I'm famous and I can't just put it up.",
+			"id": [127, 128],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I told her that I was asked by Bill clinton to come to the white house to have a dinner and that it was amazing.",
+			"id": [129, 130, 131],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "He will not give me an island or part of the country.",
+			"id": [135],
+			"speaker": "1",
+			"phrase": "part of the country"
+		}, {
+			"text": "They are still waiting to hear when I come over and see them every day.",
+			"id": [136],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The good news was that it was going to make it.",
+			"id": [137, 138, 139],
+			"speaker": "1",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "I know that story and I am a child of immigrants.",
+			"id": [143],
+			"speaker": "0",
+			"phrase": "child of immigrants"
+		}, {
+			"text": "Not all of your work explores dark themes like death and grief and physical isolation and you have a wonderful family and tell me how those themes came to be.",
+			"id": [144, 145],
+			"speaker": "0",
+			"phrase": "you have a wonderful family and tell me how those themes came to be"
+		}, {
+			"text": "If we were having beers or something like that, we would be playing tricks on you, that would make you laugh, and that kind of spurs into playing with the audience and making them laugh.",
+			"id": [146],
+			"speaker": "1",
+			"phrase": "tricks on you"
+		}, {
+			"text": "I think the inherent spirituality of the indian culture kind of evolved from my grandmas, and so it makes me happy and playful.",
+			"id": [147, 148, 149],
+			"speaker": "1",
+			"phrase": "tricks on you"
+		}, {
+			"text": "She believes that a curse has been put on her house because she believes it has moved over and become an alien.",
+			"id": [150, 151],
+			"speaker": "1",
+			"phrase": "tricks on you"
+		}, {
+			"text": "I want to walk you through your creative process a little bit so that I can see where your ideas come from.",
+			"id": [152, 153, 154],
+			"speaker": "0",
+			"phrase": "through your creative process"
+		}, {
+			"text": "When you see the curve of success failure and a lot of people never return, you wonder if it's because you have nothing.",
+			"id": [156, 157, 158, 159],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "The space that anonymity gave you at the beginning allowed you to make good decisions, but as time goes on, you start to get distracted and make bad decisions.",
+			"id": [160],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "I'm not going on the show tonight to open the film there, and that screening is not something I want to do, so what interests you?",
+			"id": [161, 162, 163, 164, 165],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You want to talk about coming up with new ideas.",
+			"id": [168],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "It's important that you take the space even if you're supposed to take two towers in the morning.",
+			"id": [169, 170, 171],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "If you go and burn those two hours staring at 12 but you can't be productive in other ways, I need to look at that edit.",
+			"id": [172, 173, 174],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "I did nothing but build and build the next day.",
+			"id": [178],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "You have to stare at the wall for two hours.",
+			"id": [180],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You can create a space to fail but you can't stare at the wall.",
+			"id": [181, 182],
+			"speaker": "1",
+			"phrase": "stare at the wall"
+		}, {
+			"text": "You become unlocked when you write it down.",
+			"id": [183],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I don't like when she says this because sometimes it's so bad to read something that is not necessarily nonfiction.",
+			"id": [185, 186, 187, 188, 189, 190],
+			"speaker": "1",
+			"phrase": "stare at the wall"
+		}, {
+			"text": "You run a production company, you have people who work for you, and you also have payroll, so how do you balance that?",
+			"id": [193, 194, 195, 196, 197, 198],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "How do you balance your business and creativity?",
+			"id": [199],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "There are certain principles that are absolutely essential if you want to do a composition or editing or something like that.",
+			"id": [201, 202, 203],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "It's the greatest thing you can do to protect your process, so if they said hey do you want to do this incredible xyz project with this superstar who has developed this screenplay,.",
+			"id": [204, 205, 206],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "Rate in a way that is safe for me.",
+			"id": [208],
+			"speaker": "1",
+			"phrase": "protecting the process"
+		}, {
+			"text": "We are protecting the process because I can make mistakes on my own.",
+			"id": [210],
+			"speaker": "1",
+			"phrase": "protecting the process"
+		}, {
+			"text": "The partners that are making it with their healthy lifestyles allow me to have this process.",
+			"id": [211],
+			"speaker": "1",
+			"phrase": "allow me to have this process"
+		}, {
+			"text": "If you build the strongest connection with the possible audience, the monetary will come if you do something that you want to do.",
+			"id": [214, 215],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "I like the stronger your voice is the more specific it is, it's not like you can copy me or anyone else, you have your strengths.",
+			"id": [216, 217],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "When you are hanging out with someone and they say something that is written or they betrayed themselves, it pops in the marketplace.",
+			"id": [218, 219, 220],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "You spoke about how hard it is to put a idea onto the world in a speech you gave at drexel university.",
+			"id": [224],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Is it possible that you were talking about how you went through a period where you really didn't believe in?",
+			"id": [225],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I can talk about it in the way that it should be talked about, like a great teacher teaching you what's important in that drexel graduation speech that I gave.",
+			"id": [226, 227, 228],
+			"speaker": "1",
+			"phrase": "i can talk about it in"
+		}, {
+			"text": "You don't want to put any energy into the other column because you think you have control over it, but that's the way it is in life.",
+			"id": [229, 230, 231, 232],
+			"speaker": "1",
+			"phrase": "i can talk about it in"
+		}, {
+			"text": "If it is a lie that I have no power at all, I make it all up.",
+			"id": [233, 234, 235],
+			"speaker": "1",
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "I don't think I have control of either column, so I keep trying to control the outcome, and I wonder if I would do this movie with this person.",
+			"id": [236, 237, 238, 239],
+			"speaker": "1",
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "I was doing a puzzle with my little one and I suddenly felt clear after everything went away.",
+			"id": [242],
+			"speaker": "1",
+			"phrase": "doing a puzzle with my"
+		}, {
+			"text": "I mortgaged my house because I was so scared that nobody would want to buy it that I showed an early cut of the movie to all the buyers.",
+			"id": [243],
+			"speaker": "1",
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "We searched through the thousand pieces and found eight 10 and 12 pieces, then we did it again the next day.",
+			"id": [247],
+			"speaker": "1",
+			"phrase": "and 12 pieces"
+		}, {
+			"text": "I need to find the next puzzle piece.",
+			"id": [249],
+			"speaker": "1",
+			"phrase": "doing a puzzle with my"
+		}, {
+			"text": "We should put that in there and then a cheeto.",
+			"id": [260],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The story is going to be five days instead of six.",
+			"id": [261],
+			"speaker": "1",
+			"phrase": "s going to be five days"
+		}, {
+			"text": "We ended up showing the movie to one studio after we took a fight that would take the third day and slide it together.",
+			"id": [262],
+			"speaker": "1",
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "We will talk about how shyamalan had to adapt his creative process to write produce and direct multiple projects safely over the past year.",
+			"id": [263, 264, 265],
+			"speaker": "0",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"text": "Visit each raycom and pr e trade securities for more information.",
+			"id": [271],
+			"speaker": "0",
+			"phrase": "for more information"
+		}, {
+			"text": "I am talking with shyamalan about resilience.",
+			"id": [272],
+			"speaker": "0",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"text": "Despite the uncertainty of the past year night is working on a new film called old in a brand new season of his tv show servant.",
+			"id": [273],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The movie industry has had a challenging year.",
+			"id": [274],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Have you been able to shoot the edit?",
+			"id": [275],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Have you been able to do what you normally do?",
+			"id": [276],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Thousands of actors from all over the world were auditioning.",
+			"id": [285],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I had a lot of time to prepare and write.",
+			"id": [286],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There was a lot of work that needed to be done here and there was no guidelines so we had to figure out how to do it in a safe way.",
+			"id": [290, 291],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The people that are cleaning the hotel rooms every single human being for a very short amount of time and everybody commits as much as possible to make a true true bubble here.",
+			"id": [294],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "I can't stop the costumer from talking to the construction worker after they're done.",
+			"id": [295],
+			"speaker": "1",
+			"phrase": "stop the costumer from talking to the construction worker a"
+		}, {
+			"text": "They will give them parameters that are clean.",
+			"id": [296],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "I'm asking you for eight weeks so that you can see the next movie and not have to go to your daughters birthday.",
+			"id": [298, 299, 300, 301, 302, 303, 304, 305],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "If you can do this for eight weeks, I will pay you and make a movie for you, but only if every single person that we come in contact with is within our bubble.",
+			"id": [306],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "I didn't meet a human that was positive or negative for two and a half months, but I picked up something when I came back.",
+			"id": [307, 308, 309],
+			"speaker": "1",
+			"phrase": "for two and a half months"
+		}, {
+			"text": "Everyone went home after we were tested three times a week.",
+			"id": [312],
+			"speaker": "1",
+			"phrase": "for two and a half months"
+		}, {
+			"text": "It was difficult to make the tv show.",
+			"id": [313],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Some people were scared to leave their families for that long, but we understood why they were so scared.",
+			"id": [314],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The government in the dominican republic helped us a lot, but not as much as we would have liked.",
+			"id": [319, 320, 321, 322, 323],
+			"speaker": "1",
+			"phrase": "the dominican republic"
+		}, {
+			"text": "The other project was called servant for apple and we had to finish shooting the second season because of the relationship between the two countries.",
+			"id": [327, 328, 329, 330, 331, 332],
+			"speaker": "1",
+			"phrase": "the two countries"
+		}, {
+			"text": "The film was supposed to be released in February, but it is coming out in July.",
+			"id": [334],
+			"speaker": "0",
+			"phrase": "the film was supposed to be released in february, but it"
+		}, {
+			"text": "The movie industry in general is a circus.",
+			"id": [335],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "It takes two years to see it in a movie theater.",
+			"id": [338],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "When we said that we were based on what we knew about the vaccines and what the protocols were looking like and how it was coming, we meant it.",
+			"id": [340],
+			"speaker": "1",
+			"phrase": "based on what we knew about the vaccines"
+		}, {
+			"text": "I promise to get to some of the questions, but I want to see if he is happy with a few of them.",
+			"id": [343, 344, 345, 346, 347, 348],
+			"speaker": "0",
+			"phrase": "see if he"
+		}, {
+			"text": "Wow, that was really harsh and not very helpful.",
+			"id": [353],
+			"speaker": "1",
+			"phrase": "that was really harsh and"
+		}, {
+			"text": "I'm coming to terms with what it meant to me, and how much of a part I played in my identity, I think this is the best time to ask that question.",
+			"id": [354],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I was born in India and live in Philadelphia.",
+			"id": [355],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I think people connect with my voice because of the immigrant flavor that is coming from that, and that's why my mom has a puja at our house.",
+			"id": [357],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I don't have a seat at the table and I told the mexican student I did a speech that there was not enough.",
+			"id": [358, 359, 360, 361, 362],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Tell me a story but don't go around the corners.",
+			"id": [365],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You want that specificity of that person who asked the question, and that includes the negative, but I can't do that or quentin tarantino cannot.",
+			"id": [366],
+			"speaker": "1",
+			"phrase": "that was really harsh and"
+		}, {
+			"text": "You have an advantage because they have it and you have a perspective that they don't.",
+			"id": [367, 368],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Most of the time, it's been a point of view that people have been more open to, understanding how much storytelling affects everything we do as a society, what stories we tell ourselves.",
+			"id": [371],
+			"speaker": "1",
+			"phrase": "more open to"
+		}, {
+			"text": "Add a color to the things we take.",
+			"id": [372],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I will combine two questions from sean young and jared jones and ask them if they are the king of plot twists.",
+			"id": [374],
+			"speaker": "0",
+			"phrase": "from sean young and jared jones an"
+		}, {
+			"text": "In spirituality the pervasive nature of talking about spirituality is just as much as the derivative quality that is frustrating.",
+			"id": [375, 376, 377],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I think it's a point of view and how to talk about it in a story.",
+			"id": [378, 379, 380, 381],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You are with that character if I am telling a good story and doing my job.",
+			"id": [386],
+			"speaker": "1",
+			"phrase": "doing my job"
+		}, {
+			"text": "I enjoy feeling unexpected emotions when I read or watch a painting.",
+			"id": [388],
+			"speaker": "1",
+			"phrase": "i enjoy feeling"
+		}, {
+			"text": "I hesitate to ask, but do you have a favorite?",
+			"id": [391],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I have an audio recording of the visit in the movie theater and there is a moment when something happens to those of you that haven't watched it.",
+			"id": [392, 393, 394, 395],
+			"speaker": "1",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"text": "When the theater was going to erupt, I thought it would be my favorite moment of being in the movie theaters with the audience, and then the first time I screen split it, it was.",
+			"id": [396, 397],
+			"speaker": "1",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"text": "There was a guy who snuck in and hit who was sitting back and watching the music come in, and then he started looking at everybody and his murmur went through the crowd.",
+			"id": [398, 399],
+			"speaker": "1",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"text": "You can imagine a kid that loves that feeling.",
+			"id": [401],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I know that it's possible to move people.",
+			"id": [403],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The collective experience of making movies for me is wonderful and I like to see them in a movie theater because the teenage girl is affecting the 60 year old guy.",
+			"id": [404, 405, 406],
+			"speaker": "1",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"text": "She is giggling in a certain place and he is taking things in an earnest or sincere way which is affecting her.",
+			"id": [407, 408],
+			"speaker": "1",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"text": "When things are not clicking during the script writing process, what are the steps you take to make it better?",
+			"id": [410, 411, 412],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You don't know how you betray the story.",
+			"id": [413],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You can say it out loud or put it on a paper, but they say you will understand if you say the problem is not working.",
+			"id": [414, 415, 416, 417],
+			"speaker": "1",
+			"phrase": "is not working"
+		}, {
+			"text": "The scene is about why we are doing this sequence.",
+			"id": [419],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I already did it before or this is the right time to do it, but I don't know her and I keep putting her down.",
+			"id": [420],
+			"speaker": "1",
+			"phrase": "is not working"
+		}, {
+			"text": "This year has seen a lot of horror films.",
+			"id": [428],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "What do you think about tv and films?",
+			"id": [429],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "When I'm thinking about fictional stories, I think about what happened to us, how do we feel when we're alone, and many other things that I never thought of.",
+			"id": [430],
+			"speaker": "1",
+			"phrase": "e to feel safe"
+		}, {
+			"text": "We never thought the world would shut down, but I think it will take us a long time to feel safe.",
+			"id": [431, 432, 433, 434, 435],
+			"speaker": "1",
+			"phrase": "e to feel safe"
+		}, {
+			"text": "The movement of what plays in the movie theater is what we have found.",
+			"id": [438, 439],
+			"speaker": "1",
+			"phrase": "theater with a group of people"
+		}, {
+			"text": "You will see a movement of drama leaving the movie theater and coming to the realization that you want to go to a theater with a group of people.",
+			"id": [440],
+			"speaker": "1",
+			"phrase": "theater with a group of people"
+		}, {
+			"text": "You don't want to have an internal one like we could call drama and internal thing, so that's been interesting.",
+			"id": [441],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You know what will change about how people behave.",
+			"id": [442],
+			"speaker": "1",
+			"phrase": "theater with a group of people"
+		}, {
+			"text": "When Warner decided to drop 17 of its major releases, I think you were vocal about the fact that they made them available to stream for a month.",
+			"id": [443, 444],
+			"speaker": "0",
+			"phrase": "available to stream for a month"
+		}, {
+			"text": "It was done without talking to the film makers who were passionate about what they were doing and were told that it was not going to be that way.",
+			"id": [448, 449, 450, 451],
+			"speaker": "1",
+			"phrase": "without talking to the film"
+		}, {
+			"text": "The sound won't move through the theater in a home theater on a tv.",
+			"id": [453],
+			"speaker": "1",
+			"phrase": "without talking to the film"
+		}, {
+			"text": "If the studio could handle that financial burden of waiting for a beat, then they should have put it out when it was safer.",
+			"id": [455, 456, 457],
+			"speaker": "1",
+			"phrase": "put it out when it was safer"
+		}, {
+			"text": "It sounds like you're saying that the trend of dramatic films being watched at home and the idea that going to the cinema is about spectacle is what the future holds.",
+			"id": [461, 462, 463, 464],
+			"speaker": "0",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"text": "I don't believe that we can all be back together again, we just want to experience things together and those movies that promise this will be something you will enjoy.",
+			"id": [466, 467, 468, 469, 470, 471, 472, 473, 474],
+			"speaker": "1",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"text": "When you go to the movie theater turn off your phone.",
+			"id": [475],
+			"speaker": "1",
+			"phrase": "when you go to the movie theater"
+		}, {
+			"text": "The commitment to an art form is for two hours.",
+			"id": [476],
+			"speaker": "1",
+			"phrase": "to an art form"
+		}, {
+			"text": "We have to hold your attention for two hours.",
+			"id": [477],
+			"speaker": "1",
+			"phrase": "to an art form"
+		}, {
+			"text": "You will get more back if you put more effort into it.",
+			"id": [479],
+			"speaker": "1",
+			"phrase": "if you put more"
+		}, {
+			"text": "If you had the chance to speak to the kid who made praying with anger, what advice would you give him?",
+			"id": [484, 485, 486, 487],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I told him that the second column was a waste of time and that he should just figure out what happens after he hits his head.",
+			"id": [489, 490, 491],
+			"speaker": "1",
+			"phrase": "t the second column"
+		}, {
+			"text": "I promise you that everything will happen and you will know when the best time to go is, but that is not where you should put your love.",
+			"id": [492, 493],
+			"speaker": "1",
+			"phrase": "t the second column"
+		}, {
+			"text": "I don't know how to do this but I spend a lot of time worrying.",
+			"id": [495],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Thank you so much shyamalan for that advice.",
+			"id": [497, 498],
+			"speaker": "0",
+			"phrase": ""
+		}]
+	},
+	"med": {
+		"segments": [{
+			"text": "rBC wealth management helps their clients reach their unique financial goals from planning for lifes necessities to protecting what they have earned at this years sundance film festival night, I spoke with them about.",
+			"id": [0, 1, 2, 3, 4],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I used to play with the camera when I was a kid.",
+			"id": [5, 6, 7, 8],
+			"speaker": "0",
+			"phrase": "i used to play"
+		}, {
+			"text": "When I was 11 years old I read as lost ark in the star wars and I wanted to be a doctor so I did this.",
+			"id": [12, 13, 14, 15],
+			"speaker": "1",
+			"phrase": "to be a doctor"
+		}, {
+			"text": "The cameras were expensive and it was difficult to get them developed.",
+			"id": [17, 18, 19, 20],
+			"speaker": "0",
+			"phrase": "to get them developed."
+		}, {
+			"text": "Some of your fans know that you show clips of them.",
+			"id": [23],
+			"speaker": "0",
+			"phrase": "r fans know that you"
+		}, {
+			"text": "If you are looking for a bit of creativity or originality when you see raiders, it is farcical but it was funny because I was mimicking rather than creating.",
+			"id": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+			"speaker": "1",
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"text": "We ask people who have mastered what they do how often they interview them.",
+			"id": [34, 35],
+			"speaker": "0",
+			"phrase": "ve mastered what they do"
+		}, {
+			"text": "If you want to create environments where you can make changes safely, then you have to do it iteratively because I couched it as a hobby and I didn't know if I was.",
+			"id": [38, 39, 40, 41, 42, 43, 44, 45, 48],
+			"speaker": "1",
+			"phrase": "create environments where you can"
+		}, {
+			"text": "If I had said I wanted to go to film school at that time, my dad would have reacted the same way as he did when I shouted into the microphone.",
+			"id": [58, 59, 60, 61, 62, 63, 64, 65],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We didn't have the chance to follow any of this but I think there were things that were going to happen and I only applied to nyu when I was in high school.",
+			"id": [66, 67, 68],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You had to raise money to make it because you were so new.",
+			"id": [74],
+			"speaker": "0",
+			"phrase": "e money to"
+		}, {
+			"text": "I gave 2000 and my uncle gave 5 000 and we sold it to kaiba land for the same as I try to do original films.",
+			"id": [79, 80, 81],
+			"speaker": "1",
+			"phrase": "i try to do original films"
+		}, {
+			"text": "The voice inside told me I was not going to figure it out.",
+			"id": [88, 89, 90],
+			"speaker": "1",
+			"phrase": "to balance everything"
+		}, {
+			"text": "I might not be able to balance everything.",
+			"id": [92, 93, 94, 95, 96],
+			"speaker": "1",
+			"phrase": "to balance everything"
+		}, {
+			"text": "You want to meet the high expectations of your success.",
+			"id": [99],
+			"speaker": "0",
+			"phrase": "you want to meet th"
+		}, {
+			"text": "If I can figure that out today, I will be happy.",
+			"id": [106, 111],
+			"speaker": "1",
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"text": "The only thing that makes me not anxious is the fact that I have healthy anxiety about what could go wrong.",
+			"id": [101, 102, 103, 104, 105],
+			"speaker": "1",
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"text": "I have to figure out what happens after he falls down.",
+			"id": [110],
+			"speaker": "1",
+			"phrase": "figure out what happens after he falls down."
+		}, {
+			"text": "Your films have made three billion dollars so people will watch this.",
+			"id": [113, 114, 115, 116],
+			"speaker": "0",
+			"phrase": "three billion dollars"
+		}, {
+			"text": "This is the last movie that they will ever allow me to make so make it so that I get out of this healthy and I'm ready to burn the house down for this value system.",
+			"id": [117, 118, 119, 120, 121, 122, 123, 126, 137, 138, 139],
+			"speaker": "1",
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "I think it's an immigrant mentality because my parents think I'm famous and I can't just put it up.",
+			"id": [127, 128, 129, 130, 131],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "They are still waiting to hear from me.",
+			"id": [136],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I was like writing that is fast as I could like on the train rides and all the mentality was you are an indian kid from Philadelphia.",
+			"id": [125],
+			"speaker": "1",
+			"phrase": "writing that is fast as i could like on the train rides and all the mentality was"
+		}, {
+			"text": "He will not give me an island or part of the country.",
+			"id": [135],
+			"speaker": "1",
+			"phrase": "part of the country"
+		}, {
+			"text": "I know that story and I am a child of immigrants.",
+			"id": [143],
+			"speaker": "0",
+			"phrase": "child of immigrants"
+		}, {
+			"text": "Not all of your work explores dark themes like death and grief and physical isolation and you have a wonderful family and tell me how those themes came to be.",
+			"id": [144, 145],
+			"speaker": "0",
+			"phrase": "you have a wonderful family and tell me how those themes came to be"
+		}, {
+			"text": "If we were having beers or something like that, we would be playing tricks on you that would make you laugh and that kind of spurs into playing with the audience and making them laugh as well.",
+			"id": [146, 147, 148, 149, 150, 151],
+			"speaker": "1",
+			"phrase": "tricks on you"
+		}, {
+			"text": "I want to walk you through your creative process so that I can see where your ideas come from.",
+			"id": [152, 153, 154],
+			"speaker": "0",
+			"phrase": "through your creative process"
+		}, {
+			"text": "It's important that you take the space even if you're not supposed to take two towers in the morning because you can't be productive in other ways.",
+			"id": [169, 170, 171, 172, 173, 174, 178],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "When you see the curve of success failure and a lot of people never return, you wonder if it's because you don't have enough space to make good decisions.",
+			"id": [156, 157, 158, 159, 160],
+			"speaker": "1",
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "She says that you can create a space to fail, but not stare at the wall.",
+			"id": [181, 182, 185, 186, 187, 188, 189, 190],
+			"speaker": "1",
+			"phrase": "stare at the wall"
+		}, {
+			"text": "If you want to do a composition or editing or something like that, there are certain principles that are absolutely essential, so if they said hey do you wanna do this incredible xyz project with.",
+			"id": [201, 202, 203, 204, 205, 206, 214, 215, 216, 217, 218, 219, 220],
+			"speaker": "1",
+			"phrase": "certain principles that"
+		}, {
+			"text": "The partners that are making it with their healthy lifestyles allow me to have this process.",
+			"id": [211],
+			"speaker": "1",
+			"phrase": "allow me to have this process"
+		}, {
+			"text": "We are protecting the process because I can make mistakes on my own.",
+			"id": [208, 210],
+			"speaker": "1",
+			"phrase": "protecting the process"
+		}, {
+			"text": "I mortgaged my house because I was so scared that nobody would want to buy it, and I wonder if I would do this movie with this person, since I don't think I.",
+			"id": [233, 234, 235, 236, 237, 238, 239, 243, 262],
+			"speaker": "1",
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "I was doing a puzzle with my child and I needed to find the next piece.",
+			"id": [242, 249],
+			"speaker": "1",
+			"phrase": "doing a puzzle with my"
+		}, {
+			"text": "The story is going to be five days instead of six.",
+			"id": [261],
+			"speaker": "1",
+			"phrase": "s going to be five days"
+		}, {
+			"text": "I can talk about it in a way that makes you feel like you have control over it, but that's not the way it is.",
+			"id": [226, 227, 228, 229, 230, 231, 232],
+			"speaker": "1",
+			"phrase": "i can talk about it in"
+		}, {
+			"text": "We were able to find eight 10 and 12 pieces.",
+			"id": [247],
+			"speaker": "1",
+			"phrase": "and 12 pieces"
+		}, {
+			"text": "Despite the uncertainty of the past year night is working on a new film called old in a brand new season of his tv show.",
+			"id": [273, 274],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Visit each raycom and pr e trade securities for more information.",
+			"id": [271],
+			"speaker": "0",
+			"phrase": "for more information"
+		}, {
+			"text": "We will discuss how shyamalan had to adapt his creative process.",
+			"id": [263, 264, 265, 272],
+			"speaker": "0",
+			"phrase": "had to adapt his creative process"
+		}, {
+			"text": "The people that are cleaning the hotel rooms every single human being for a very short amount of time and everybody commits as much as possible to make a true true bubble here they will give them parameters.",
+			"id": [294, 296],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "It was difficult to make the tv show because there was a lot of work to be done and there were no guidelines.",
+			"id": [290, 291, 313],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I didn't meet a human that was positive or negative for two and a half months, but I picked up something when I came back.",
+			"id": [307, 308, 309, 312],
+			"speaker": "1",
+			"phrase": "for two and a half months"
+		}, {
+			"text": "Some people were afraid to leave their families.",
+			"id": [314],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I can't stop the costumer from talking to the construction worker after they're done.",
+			"id": [295],
+			"speaker": "1",
+			"phrase": "stop the costumer from talking to the construction worker a"
+		}, {
+			"text": "If you can do this for eight weeks, I will pay you and make a movie for you, but only if every single person that we come in contact with is within our bubble.",
+			"id": [298, 299, 300, 301, 302, 303, 304, 305, 306],
+			"speaker": "1",
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "The dominican republic helped us, but not as much as we would have liked.",
+			"id": [319, 320, 321, 322, 323],
+			"speaker": "1",
+			"phrase": "the dominican republic"
+		}, {
+			"text": "The second season was finished because of the relationship between the two countries.",
+			"id": [327, 328, 329, 330, 331, 332],
+			"speaker": "1",
+			"phrase": "the two countries"
+		}, {
+			"text": "The film was supposed to be released in February, but it is coming out in July.",
+			"id": [334],
+			"speaker": "0",
+			"phrase": "the film was supposed to be released in february, but it"
+		}, {
+			"text": "It takes two years to see it in a movie theater.",
+			"id": [338],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We meant it when we said that we were based on what we knew about the vaccines.",
+			"id": [340],
+			"speaker": "1",
+			"phrase": "based on what we knew about the vaccines"
+		}, {
+			"text": "I want to see if he is happy with the questions.",
+			"id": [343, 344, 345, 346, 347, 348],
+			"speaker": "0",
+			"phrase": "see if he"
+		}, {
+			"text": "I can't do that orquentin tarantino can, that was really harsh and not very helpful.",
+			"id": [353, 366],
+			"speaker": "1",
+			"phrase": "that was really harsh and"
+		}, {
+			"text": "I told the mexican student that there wasn't enough at the table.",
+			"id": [358, 359, 360, 361, 362],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I think people connect with my voice because of the immigrant flavor that is coming from that and that's why my mom has a puja at our house.",
+			"id": [357],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "This is a good time to ask how much of a part I played in my identity it was.",
+			"id": [354],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You have an advantage because they have it.",
+			"id": [367, 368],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Most of the time people are more open to the idea of how stories affect society.",
+			"id": [371],
+			"speaker": "1",
+			"phrase": "more open to"
+		}, {
+			"text": "I will combine two questions from sean young and jared jones and ask them if they are the king of plot twists.",
+			"id": [374],
+			"speaker": "0",
+			"phrase": "from sean young and jared jones an"
+		}, {
+			"text": "The pervasive nature of talking about spirituality makes it hard to talk about it in a story.",
+			"id": [375, 376, 377, 378, 379, 380, 381],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If I am telling a good story and doing my job you are with me.",
+			"id": [386],
+			"speaker": "1",
+			"phrase": "doing my job"
+		}, {
+			"text": "I enjoy feeling unexpected emotions when I read or watch a painting.",
+			"id": [388],
+			"speaker": "1",
+			"phrase": "i enjoy feeling"
+		}, {
+			"text": "I have an audio recording of the visit in the movie theater and there is a moment when something happens to those of you that haven't watched it before and I thought it would be my.",
+			"id": [392, 393, 394, 395, 396, 397, 398, 399],
+			"speaker": "1",
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"text": "The collective experience of making movies for me is wonderful and I like to see them in a movie theater because the teenage girl is affecting a 60 year old guy.",
+			"id": [404, 405, 406, 407, 408],
+			"speaker": "1",
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"text": "You can say it out loud or put it on a paper but they say you will understand if you say the problem is not working.",
+			"id": [414, 415, 416, 417, 420],
+			"speaker": "1",
+			"phrase": "is not working"
+		}, {
+			"text": "You will see a movement of drama leaving the movie theater and coming to the realization that you want to go to a theater with a group of people.",
+			"id": [438, 439, 440, 442],
+			"speaker": "1",
+			"phrase": "theater with a group of people"
+		}, {
+			"text": "You don't want to have an internal one.",
+			"id": [441],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "It will take us a long time to feel safe when we are alone, but I think it will be worth it.",
+			"id": [430, 431, 432, 433, 434, 435],
+			"speaker": "1",
+			"phrase": "e to feel safe"
+		}, {
+			"text": "Warner made 17 of its major releases available to stream for a month.",
+			"id": [443, 444],
+			"speaker": "0",
+			"phrase": "available to stream for a month"
+		}, {
+			"text": "It was done without talking to the film makers who were passionate about what they were doing and were told that it was not going to be that way.",
+			"id": [448, 449, 450, 451, 453],
+			"speaker": "1",
+			"phrase": "without talking to the film"
+		}, {
+			"text": "The studio should have put it out when it was safer.",
+			"id": [455, 456, 457],
+			"speaker": "1",
+			"phrase": "put it out when it was safer"
+		}, {
+			"text": "The trend of dramatic films being watched at home and the idea that going to the cinema is about spectacle is what the future holds.",
+			"id": [461, 462, 463, 464],
+			"speaker": "0",
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"text": "It takes two hours to commit to an art form.",
+			"id": [476, 477],
+			"speaker": "1",
+			"phrase": "to an art form"
+		}, {
+			"text": "When you go to the movie theater turn off your phone.",
+			"id": [475],
+			"speaker": "1",
+			"phrase": "when you go to the movie theater"
+		}, {
+			"text": "You will get more back if you put more effort into it.",
+			"id": [479],
+			"speaker": "1",
+			"phrase": "if you put more"
+		}, {
+			"text": "I don't believe that we can all be back together again, we just want to experience things together and those movies that promise this will be something you will enjoy.",
+			"id": [466, 467, 468, 469, 470, 471, 472, 473, 474],
+			"speaker": "1",
+			"phrase": "together and those movies that promise this"
+		}, {
+			"text": "I told him that the second column was a waste of time and that he should just figure out when the best time to leave is.",
+			"id": [489, 490, 491, 492, 493],
+			"speaker": "1",
+			"phrase": "t the second column"
+		}, {
+			"text": "I don't know how to do this.",
+			"id": [495],
+			"speaker": "1",
+			"phrase": ""
+		}]
+	},
+	"high": {
+		"segments": [{
+			"text": "I used to play with the camera when I was a kid.",
+			"id": [5, 6, 7, 8],
+			"duration": "< 1 minute",
+			"sequence": 0,
+			"phrase": "i used to play"
+		}, {
+			"text": "I wanted to be a doctor after reading about lost ark.",
+			"id": [12, 13, 14, 15],
+			"duration": "1-2 minutes",
+			"sequence": 1,
+			"phrase": "to be a doctor"
+		}, {
+			"text": "The cameras were expensive and it was difficult to get them developed.",
+			"id": [17, 18, 19, 20],
+			"duration": "< 1 minute",
+			"sequence": 2,
+			"phrase": "to get them developed."
+		}, {
+			"text": "Some of your fans know that you show clips of them.",
+			"id": [23],
+			"duration": "< 1 minute",
+			"sequence": 3,
+			"phrase": "r fans know that you"
+		}, {
+			"text": "I was mimicking rather than creating when I saw raiders.",
+			"id": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+			"duration": "< 1 minute",
+			"sequence": 4,
+			"phrase": "i was mimicking rather than creating"
+		}, {
+			"text": "We ask people who have mastered what they do how often they interview them.",
+			"id": [34, 35],
+			"duration": "< 1 minute",
+			"sequence": 5,
+			"phrase": "ve mastered what they do"
+		}, {
+			"text": "If you want to create environments where you can make changes safely, you have to do it iteratively.",
+			"id": [38, 39, 40, 41, 42, 43, 44, 45, 48],
+			"duration": "< 1 minute",
+			"sequence": 6,
+			"phrase": "create environments where you can"
+		}, {
+			"text": "You had to raise money to make it because you were so new.",
+			"id": [74],
+			"duration": "< 1 minute",
+			"sequence": 7,
+			"phrase": "e money to"
+		}, {
+			"text": "We sold it for the same reason as I try to do original films.",
+			"id": [79, 80, 81],
+			"duration": "< 1 minute",
+			"sequence": 8,
+			"phrase": "i try to do original films"
+		}, {
+			"text": "The voice inside told me I might not be able to balance everything.",
+			"id": [88, 89, 90, 92, 93, 94, 95, 96],
+			"duration": "< 1 minute",
+			"sequence": 9,
+			"phrase": "to balance everything"
+		}, {
+			"text": "You want to meet the high expectations of your success.",
+			"id": [99],
+			"duration": "< 1 minute",
+			"sequence": 10,
+			"phrase": "you want to meet th"
+		}, {
+			"text": "If I can figure that out today, I will be happy.",
+			"id": [106, 111],
+			"duration": "< 1 minute",
+			"sequence": 11,
+			"phrase": "if i can figure that out today, i"
+		}, {
+			"text": "I have healthy anxiety about what could go wrong, which makes me not anxious.",
+			"id": [101, 102, 103, 104, 105],
+			"duration": "< 1 minute",
+			"sequence": 12,
+			"phrase": "healthy anxiety about what could go wrong"
+		}, {
+			"text": "I have to figure out what happens after he falls down.",
+			"id": [110],
+			"duration": "< 1 minute",
+			"sequence": 13,
+			"phrase": "figure out what happens after he falls down."
+		}, {
+			"text": "Your films have made three billion dollars so people will watch this.",
+			"id": [113, 114, 115, 116],
+			"duration": "< 1 minute",
+			"sequence": 14,
+			"phrase": "three billion dollars"
+		}, {
+			"text": "This is the last movie that they will allow me to make and I am ready to burn the house down for this value system.",
+			"id": [117, 118, 119, 120, 121, 122, 123, 126, 137, 138, 139],
+			"duration": "1-2 minutes",
+			"sequence": 15,
+			"phrase": "m ready to burn the house down for this value system"
+		}, {
+			"text": "My parents think I'm famous and I can't just put it up.",
+			"id": [127, 128, 129, 130, 131],
+			"duration": "< 1 minute",
+			"sequence": 16,
+			"phrase": ""
+		}, {
+			"text": "I was like writing that is fast as I could like on the train rides and all the mentality was you are an indian kid from Philadelphia.",
+			"id": [125],
+			"duration": "< 1 minute",
+			"sequence": 17,
+			"phrase": "writing that is fast as i could like on the train rides and all the mentality was"
+		}, {
+			"text": "He will not give me an island or part of the country.",
+			"id": [135],
+			"duration": "< 1 minute",
+			"sequence": 18,
+			"phrase": "part of the country"
+		}, {
+			"text": "I know that story and I am a child of immigrants.",
+			"id": [143],
+			"duration": "< 1 minute",
+			"sequence": 19,
+			"phrase": "child of immigrants"
+		}, {
+			"text": "Not all of your work explores dark themes like death and grief and physical isolation and you have a wonderful family and tell me how those themes came to be.",
+			"id": [144, 145],
+			"duration": "< 1 minute",
+			"sequence": 20,
+			"phrase": "you have a wonderful family and tell me how those themes came to be"
+		}, {
+			"text": "We would play tricks on you that would make you laugh and make the audience laugh as well.",
+			"id": [146, 147, 148, 149, 150, 151],
+			"duration": "1-2 minutes",
+			"sequence": 21,
+			"phrase": "tricks on you"
+		}, {
+			"text": "I want to walk you through your creative process so that I can see where your ideas come from.",
+			"id": [152, 153, 154],
+			"duration": "< 1 minute",
+			"sequence": 22,
+			"phrase": "through your creative process"
+		}, {
+			"text": "If you can't be productive in other ways when you see the curve of success failure and a lot of people never return, then you should take the space.",
+			"id": [169, 170, 171, 172, 173, 174, 178, 156, 157, 158, 159, 160],
+			"duration": "< 1 minute",
+			"sequence": 23,
+			"phrase": "t be productive in other ways"
+		}, {
+			"text": "She says that you can fail but not stare at the wall.",
+			"id": [181, 182, 185, 186, 187, 188, 189, 190],
+			"duration": "< 1 minute",
+			"sequence": 24,
+			"phrase": "stare at the wall"
+		}, {
+			"text": "There are certain principles that are absolutely essential if you want to do a composition or editing project.",
+			"id": [201, 202, 203, 204, 205, 206, 214, 215, 216, 217, 218, 219, 220],
+			"duration": "2-5 minutes",
+			"sequence": 25,
+			"phrase": "certain principles that"
+		}, {
+			"text": "The partners that are making it with their healthy lifestyles allow me to have this process.",
+			"id": [211],
+			"duration": "< 1 minute",
+			"sequence": 26,
+			"phrase": "allow me to have this process"
+		}, {
+			"text": "We are protecting the process because I can make mistakes on my own.",
+			"id": [208, 210],
+			"duration": "< 1 minute",
+			"sequence": 27,
+			"phrase": "protecting the process"
+		}, {
+			"text": "I mortgaged my house because I was so scared that nobody would want to buy it and I wonder if I would do a movie with this person.",
+			"id": [233, 234, 235, 236, 237, 238, 239, 243, 262],
+			"duration": "2-5 minutes",
+			"sequence": 28,
+			"phrase": "because i was so scared that"
+		}, {
+			"text": "I was doing a puzzle with my child and I needed to find the next piece.",
+			"id": [242, 249],
+			"duration": "1-2 minutes",
+			"sequence": 29,
+			"phrase": "doing a puzzle with my"
+		}, {
+			"text": "The story is going to be five days instead of six.",
+			"id": [261],
+			"duration": "< 1 minute",
+			"sequence": 30,
+			"phrase": "s going to be five days"
+		}, {
+			"text": "I can talk about it in a way that makes you feel like you have control over it, but that's not the way it is.",
+			"id": [226, 227, 228, 229, 230, 231, 232],
+			"duration": "< 1 minute",
+			"sequence": 31,
+			"phrase": "i can talk about it in"
+		}, {
+			"text": "We were able to find eight 10 and 12 pieces.",
+			"id": [247],
+			"duration": "< 1 minute",
+			"sequence": 32,
+			"phrase": "and 12 pieces"
+		}, {
+			"text": "Visit each raycom and pr e trade securities for more information.",
+			"id": [271],
+			"duration": "< 1 minute",
+			"sequence": 33,
+			"phrase": "for more information"
+		}, {
+			"text": "We will discuss how shyamalan had to adapt his creative process.",
+			"id": [263, 264, 265, 272],
+			"duration": "< 1 minute",
+			"sequence": 34,
+			"phrase": "had to adapt his creative process"
+		}, {
+			"text": "If you can do this for eight weeks, I will pay you and make a movie for you, but only if you do it for a long time.",
+			"id": [294, 296, 298, 299, 300, 301, 302, 303, 304, 305, 306],
+			"duration": "1-2 minutes",
+			"sequence": 35,
+			"phrase": "if you can do this for eight weeks, i"
+		}, {
+			"text": "I can't stop the costumer from talking to the construction worker after they're done.",
+			"id": [295],
+			"duration": "< 1 minute",
+			"sequence": 36,
+			"phrase": "stop the costumer from talking to the construction worker a"
+		}, {
+			"text": "I didn't meet a human that was positive or negative for two and a half months, but I picked up something when I came back.",
+			"id": [307, 308, 309, 312],
+			"duration": "< 1 minute",
+			"sequence": 37,
+			"phrase": "for two and a half months"
+		}, {
+			"text": "The dominican republic helped us, but not as much as we would have liked.",
+			"id": [319, 320, 321, 322, 323],
+			"duration": "< 1 minute",
+			"sequence": 38,
+			"phrase": "the dominican republic"
+		}, {
+			"text": "The second season was finished because of the relationship between the two countries.",
+			"id": [327, 328, 329, 330, 331, 332],
+			"duration": "< 1 minute",
+			"sequence": 39,
+			"phrase": "the two countries"
+		}, {
+			"text": "The film was supposed to be released in February, but it is coming out in July.",
+			"id": [334],
+			"duration": "< 1 minute",
+			"sequence": 40,
+			"phrase": "the film was supposed to be released in february, but it"
+		}, {
+			"text": "It takes two years to see it in a movie theater.",
+			"id": [338],
+			"duration": "< 1 minute",
+			"sequence": 41,
+			"phrase": ""
+		}, {
+			"text": "We said that we were based on what we knew about the vaccines.",
+			"id": [340],
+			"duration": "< 1 minute",
+			"sequence": 42,
+			"phrase": "based on what we knew about the vaccines"
+		}, {
+			"text": "I want to see if he is happy with the questions.",
+			"id": [343, 344, 345, 346, 347, 348],
+			"duration": "< 1 minute",
+			"sequence": 43,
+			"phrase": "see if he"
+		}, {
+			"text": "I can't do that orquentin tarantino can, that was really harsh and not very helpful.",
+			"id": [353, 366],
+			"duration": "1-2 minutes",
+			"sequence": 44,
+			"phrase": "that was really harsh and"
+		}, {
+			"text": "I told the mexican student that there wasn't enough at the table.",
+			"id": [358, 359, 360, 361, 362],
+			"duration": "< 1 minute",
+			"sequence": 45,
+			"phrase": ""
+		}, {
+			"text": "This is a good time to ask how much I played.",
+			"id": [354],
+			"duration": "< 1 minute",
+			"sequence": 46,
+			"phrase": ""
+		}, {
+			"text": "People are more open to the idea of how stories affect society.",
+			"id": [371],
+			"duration": "< 1 minute",
+			"sequence": 47,
+			"phrase": "more open to"
+		}, {
+			"text": "I will combine two questions from sean young and jared jones and ask them if they are the king of plot twists.",
+			"id": [374],
+			"duration": "< 1 minute",
+			"sequence": 48,
+			"phrase": "from sean young and jared jones an"
+		}, {
+			"text": "It is hard to talk about spirituality in a story.",
+			"id": [375, 376, 377, 378, 379, 380, 381],
+			"duration": "< 1 minute",
+			"sequence": 49,
+			"phrase": ""
+		}, {
+			"text": "If I am telling a good story and doing my job you are with me.",
+			"id": [386],
+			"duration": "< 1 minute",
+			"sequence": 50,
+			"phrase": "doing my job"
+		}, {
+			"text": "I enjoy feeling unexpected emotions when I read or watch a painting.",
+			"id": [388],
+			"duration": "< 1 minute",
+			"sequence": 51,
+			"phrase": "i enjoy feeling"
+		}, {
+			"text": "I have an audio recording of the visit in the movie theater and there is a moment when something happens to those of you that haven't watched it before.",
+			"id": [392, 393, 394, 395, 396, 397, 398, 399],
+			"duration": "1-2 minutes",
+			"sequence": 52,
+			"phrase": "i have an audio recording of the visit in the movie theater"
+		}, {
+			"text": "The collective experience of making movies for me is wonderful and I like to see them in a movie theater because the teenage girl is affecting a 60 year old guy.",
+			"id": [404, 405, 406, 407, 408],
+			"duration": "< 1 minute",
+			"sequence": 53,
+			"phrase": "e the teenage girl is affecting"
+		}, {
+			"text": "They say if you say the problem is not working, you will understand.",
+			"id": [414, 415, 416, 417, 420],
+			"duration": "< 1 minute",
+			"sequence": 54,
+			"phrase": "is not working"
+		}, {
+			"text": "When you leave the movie theater, you will realize that you want to go to a theater with a group of people.",
+			"id": [438, 439, 440, 442],
+			"duration": "< 1 minute",
+			"sequence": 55,
+			"phrase": "theater with a group of people"
+		}, {
+			"text": "It will take a long time to feel safe when we are alone.",
+			"id": [430, 431, 432, 433, 434, 435],
+			"duration": "< 1 minute",
+			"sequence": 56,
+			"phrase": "e to feel safe"
+		}, {
+			"text": "Warner made 17 of its major releases available to stream for a month.",
+			"id": [443, 444],
+			"duration": "< 1 minute",
+			"sequence": 57,
+			"phrase": "available to stream for a month"
+		}, {
+			"text": "It was done without talking to the film makers who were passionate about what they were doing and were told that it was not going to be that way.",
+			"id": [448, 449, 450, 451, 453],
+			"duration": "< 1 minute",
+			"sequence": 58,
+			"phrase": "without talking to the film"
+		}, {
+			"text": "The studio should have put it out when it was safer.",
+			"id": [455, 456, 457],
+			"duration": "< 1 minute",
+			"sequence": 59,
+			"phrase": "put it out when it was safer"
+		}, {
+			"text": "The trend of dramatic films being watched at home and the idea that going to the cinema is about spectacle is what the future holds.",
+			"id": [461, 462, 463, 464],
+			"duration": "< 1 minute",
+			"sequence": 60,
+			"phrase": "trend of dramatic films being watched at home"
+		}, {
+			"text": "It takes two hours to commit to an art form.",
+			"id": [476, 477],
+			"duration": "< 1 minute",
+			"sequence": 61,
+			"phrase": "to an art form"
+		}, {
+			"text": "When you go to the movie theater turn off your phone.",
+			"id": [475],
+			"duration": "< 1 minute",
+			"sequence": 62,
+			"phrase": "when you go to the movie theater"
+		}, {
+			"text": "You will get more back if you put more effort into it.",
+			"id": [479],
+			"duration": "< 1 minute",
+			"sequence": 63,
+			"phrase": "if you put more"
+		}, {
+			"text": "I don't believe that we can all be back together again, we just want to experience things together and those movies that promise this will be something you will enjoy.",
+			"id": [466, 467, 468, 469, 470, 471, 472, 473, 474],
+			"duration": "< 1 minute",
+			"sequence": 64,
+			"phrase": "together and those movies that promise this"
+		}, {
+			"text": "I told him that the second column was a waste of time and that he should just figure out when the best time to leave is.",
+			"id": [489, 490, 491, 492, 493],
+			"duration": "< 1 minute",
+			"sequence": 65,
+			"phrase": "t the second column"
+		}]
+	}
+}

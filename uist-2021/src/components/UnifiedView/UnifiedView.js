@@ -175,6 +175,36 @@ function getEndTime(array){
 }
 
 function DetailSummary(props) {
+  const [expanded, setExpanded] = React.useState(undefined)
+
+  const expand = (innerProps) => {
+    setExpanded(innerProps)
+  }
+
+  let full = (<div/>)
+  if (expanded && props.selectedIds) {
+    const ids = expanded.id.split(", ").map(s => parseInt(s))
+    const raws = expanded.raw.filter((_, idx) => ids.includes(idx)).map(r => r.text)
+    for (const selected of ids) {
+      if (props.selectedIds.includes(selected)) {
+        full = (<div>
+          <br/>
+          <br/>
+            <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>{"Original Transcript"}</h2>
+          <div style={{fontSize: 20}}>
+            <SimpleSegment
+                phrase={expanded.phrase}
+                text={raws.join("\n\n")}
+                speaker={null}
+                isSelected={true}
+                label="Full"/>
+          </div>
+          </div>)
+          break;
+      }
+    }
+  }
+
     return (
         <div className={`DetailModal notclickable ${props.title}`}>
             <div className="ColumnHeader" style={{flex: 1}}>
@@ -209,9 +239,11 @@ function DetailSummary(props) {
                             .map((segment, idx) =>
                                 <span key={idx} className={classnames({'selected': true, "item": true})}>
                                     <SimpleSegment 
+                                        raw={props.segments}
                                         text={segment.text} id={segment.id.join(", ")}
                                         speaker={segment.speaker ? segment.speaker : null}
                                         phrase={segment.phrase ? segment.phrase : null}
+                                        onExpand={expand}
                                         isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                         label="Speaker"/>
                                 </span>
@@ -222,14 +254,19 @@ function DetailSummary(props) {
                         .map((segment, idx) =>
                             <span key={idx} className={classnames({'selected': true, "item": true})}>
                                 <SimpleSegment 
+                                    raw={props.segments}
                                     text={segment.text} id={segment.id.join(", ")}
                                     speaker={segment.speaker ? segment.speaker : null}
                                     phrase={segment.phrase ? segment.phrase : null}
+                                    onExpand={expand}
                                     isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                     label="Speaker"/>
                             </span>
                         ) 
                 }
+            </div>
+            <div className="DetailDataSegments">
+             {full}
             </div>
         </div>
     );

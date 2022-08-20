@@ -1,0 +1,1996 @@
+{
+	"title": "How I Built Resilience: Elisa Villanueva Beard of Teach For America",
+	"subtitle": "How I Built This With Guy Raz",
+	"date": "January 21, 2021 - 12:01 AM ET",
+	"image": "https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f-s100-c85.webp",
+	"raw": {
+		"segments": [{
+			"id": [0],
+			"speaker": "0",
+			"text": "This message comes from NPR sponsor.",
+			"start": "0.0",
+			"end": "2.5",
+			"phrase": ""
+		}, {
+			"id": [1],
+			"speaker": "0",
+			"text": "Adian.",
+			"start": "2.5",
+			"end": "3.1",
+			"phrase": ""
+		}, {
+			"id": [2],
+			"speaker": "0",
+			"text": "Adian is the payments platform that adapts with your business so you can accept all kinds of payments with one single integration Adian business not boundaries visit a dyn.com NPR.",
+			"start": "3.3",
+			"end": "17.6",
+			"phrase": ""
+		}, {
+			"id": [3],
+			"speaker": "0",
+			"text": "Hey everyone and welcome to how I built this resilience Edition from NPR.",
+			"start": "18.4",
+			"end": "22.7",
+			"phrase": ""
+		}, {
+			"id": [4],
+			"speaker": "0",
+			"text": "I'm Gyros and on these episodes were hearing from entrepreneurs and Business Leaders about how they've been building resilience into there.",
+			"start": "23.0",
+			"end": "29.8",
+			"phrase": ""
+		}, {
+			"id": [5],
+			"speaker": "0",
+			"text": "Businesses during this very challenging year and today my conversation with Elisa Villanueva beard.",
+			"start": "30.0",
+			"end": "36.5",
+			"phrase": ""
+		}, {
+			"id": [6],
+			"speaker": "0",
+			"text": "CEO of Teach for America teacher America is a nonprofit that recruits members to teach in low-income communities.",
+			"start": "36.6",
+			"end": "43.8",
+			"phrase": "ceo of teach for america"
+		}, {
+			"id": [7],
+			"speaker": "0",
+			"text": "And if you want to hear the story of how it began, I interviewed the founder Wendy Kopp back in October of 2017 on the podcast.",
+			"start": "43.9",
+			"end": "51.7",
+			"phrase": "ceo of teach for america"
+		}, {
+			"id": [8],
+			"speaker": "0",
+			"text": "So check that out.",
+			"start": "51.7",
+			"end": "52.7",
+			"phrase": "ceo of teach for america"
+		}, {
+			"id": [9],
+			"speaker": "0",
+			"text": "Anyway about 80% of Teach for America alums have a career in education or serve low-income.",
+			"start": "53.1",
+			"end": "59.7",
+			"phrase": ""
+		}, {
+			"id": [10],
+			"speaker": "0",
+			"text": "He's and that includes Eliza.",
+			"start": "60.0",
+			"end": "62.3",
+			"phrase": ""
+		}, {
+			"id": [11],
+			"speaker": "0",
+			"text": "You yourself went through the program in 1998.",
+			"start": "62.7",
+			"end": "65.7",
+			"phrase": ""
+		}, {
+			"id": [12],
+			"speaker": "0",
+			"text": "What made you interested in pursuing a career in",
+			"start": "66.6",
+			"end": "68.8",
+			"phrase": ""
+		}, {
+			"id": [13],
+			"speaker": "1",
+			"text": "Well guy, you know, my story is quite personal.",
+			"start": "69.4",
+			"end": "71.8",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"id": [14],
+			"speaker": "1",
+			"text": "I grew up in South Texas in the Rio Grande Valley right on the texas-mexico border.",
+			"start": "71.8",
+			"end": "76.8",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"id": [15],
+			"speaker": "1",
+			"text": "That's where my story and interest begins.",
+			"start": "77.2",
+			"end": "79.2",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"id": [16],
+			"speaker": "1",
+			"text": "My mom came to the United States from Mexico at the age of 17 with a formal eighth grade education.",
+			"start": "79.3",
+			"end": "85.1",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"id": [17],
+			"speaker": "1",
+			"text": "She quickly figured out the pathway to opportunity in this country is education.",
+			"start": "85.5",
+			"end": "89.7",
+			"phrase": ""
+		}, {
+			"id": [18],
+			"speaker": "1",
+			"text": "So so she'll often tell us, you know, my first most important decision as young adult was decided.",
+			"start": "89.7",
+			"end": "94.8",
+			"phrase": ""
+		}, {
+			"id": [19],
+			"speaker": "1",
+			"text": "I was going to marry a man with a college degree because I knew my kids lives would be different which is quite literally how she chose my father is to story.",
+			"start": "94.8",
+			"end": "101.5",
+			"phrase": ""
+		}, {
+			"id": [20],
+			"speaker": "1",
+			"text": "They're still together 48 years later dad's a first generation college graduate.",
+			"start": "101.8",
+			"end": "105.6",
+			"phrase": ""
+		}, {
+			"id": [21],
+			"speaker": "1",
+			"text": "Anyway, I was the kid that did everything right in high school.",
+			"start": "105.8",
+			"end": "108.8",
+			"phrase": ""
+		}, {
+			"id": [22],
+			"speaker": "1",
+			"text": "I ended up in college in the midwest.",
+			"start": "108.8",
+			"end": "110.7",
+			"phrase": ""
+		}, {
+			"id": [23],
+			"speaker": "1",
+			"text": "It is liberal arts small College DePaul University in Greencastle, Indiana and the short story is that when I got there, I thought gosh the hardest part of this.",
+			"start": "110.7",
+			"end": "119.8",
+			"phrase": ""
+		}, {
+			"id": [24],
+			"speaker": "1",
+			"text": "Is going to be adapting to a very different place at the time DePaul was three percent Latino five percent black, but I quickly realized that was not the hard part.",
+			"start": "120.0",
+			"end": "128.9",
+			"phrase": ""
+		}, {
+			"id": [25],
+			"speaker": "1",
+			"text": "The hard part was coming to understand.",
+			"start": "128.9",
+			"end": "131.0",
+			"phrase": ""
+		}, {
+			"id": [26],
+			"speaker": "1",
+			"text": "I was under prepared for the rigors of college which is shocking because I was an A+ student.",
+			"start": "131.0",
+			"end": "137.2",
+			"phrase": ""
+		}, {
+			"id": [27],
+			"speaker": "1",
+			"text": "I was student body president.",
+			"start": "137.2",
+			"end": "138.7",
+			"phrase": ""
+		}, {
+			"id": [28],
+			"speaker": "1",
+			"text": "I was a student athlete I did everything right?",
+			"start": "138.7",
+			"end": "141.3",
+			"phrase": ""
+		}, {
+			"id": [29],
+			"speaker": "1",
+			"text": "I didn't think I was going to make it.",
+			"start": "142.4",
+			"end": "143.9",
+			"phrase": ""
+		}, {
+			"id": [30],
+			"speaker": "1",
+			"text": "I called my mom a few months in and said Mom I may not be cut out for this.",
+			"start": "143.9",
+			"end": "148.1",
+			"phrase": ""
+		}, {
+			"id": [31],
+			"speaker": "1",
+			"text": "Maybe I'm not College material.",
+			"start": "148.1",
+			"end": "149.6",
+			"phrase": ""
+		}, {
+			"id": [32],
+			"speaker": "1",
+			"text": "She told me that was ridiculous and that I wasn't welcome home with the support of my dad until I completed my degree from DePaul University.",
+			"start": "150.0",
+			"end": "158.0",
+			"phrase": ""
+		}, {
+			"id": [33],
+			"speaker": "1",
+			"text": "And so the only way to get to the other side was to go through it and I ended up thriving so I had a very hard first year and then I was thriving like, you know competitive with every other kid and I was going to be a lawyer that was the path I was on but then I started to get curious about how was it so that I struggled so much and that no one liked the system shouldn't exist that you do everything right and yet you almost, you know, don't make it.",
+			"start": "158.0",
+			"end": "179.8",
+			"phrase": "the only way to get to the other side was to go through it"
+		}, {
+			"id": [34],
+			"speaker": "1",
+			"text": "And that's when I got introduced to the systemic inequities that exist in our country how it plays out for kids growing up in my community.",
+			"start": "180.4",
+			"end": "187.0",
+			"phrase": "how it plays out for kids"
+		}, {
+			"id": [35],
+			"speaker": "1",
+			"text": "And that's what drew me to Teach for America.",
+			"start": "187.0",
+			"end": "189.6",
+			"phrase": ""
+		}, {
+			"id": [36],
+			"speaker": "1",
+			"text": "I got hooked and I joined the corps 1998 and have been on staff now for nearly 20",
+			"start": "190.0",
+			"end": "194.9",
+			"phrase": ""
+		}, {
+			"id": [37],
+			"speaker": "0",
+			"text": "Wow, and now the CEO of the",
+			"start": "195.5",
+			"end": "197.3",
+			"phrase": ""
+		}, {
+			"id": [38],
+			"speaker": "1",
+			"text": "that's right for the last five and a half years.",
+			"start": "198.7",
+			"end": "200.7",
+			"phrase": ""
+		}, {
+			"id": [39],
+			"speaker": "0",
+			"text": "yes the story you tell if your your mom saying the only way through is through reminds me of that Robert Frost poem and I'm paraphrasing where he essentially says the only Only way through is through which is often.",
+			"start": "200.8",
+			"end": "212.1",
+			"phrase": "the only way through is through"
+		}, {
+			"id": [40],
+			"speaker": "0",
+			"text": "Unfortunately.",
+			"start": "212.1",
+			"end": "212.7",
+			"phrase": "the only way through is through"
+		}, {
+			"id": [41],
+			"speaker": "0",
+			"text": "Unfortunately the answer for challenging moments.",
+			"start": "212.7",
+			"end": "215.7",
+			"phrase": "the only way through is through"
+		}, {
+			"id": [42],
+			"speaker": "0",
+			"text": "I want to dive into this year because there's so much to unpack.",
+			"start": "216.9",
+			"end": "220.5",
+			"phrase": "the only way through is through"
+		}, {
+			"id": [43],
+			"speaker": "0",
+			"text": "This has been a I think it's an understatement to say the most challenging Academic Year in modern US History right right walk us through what started to happen and how you began to figure out what you needed to do in February and March.",
+			"start": "222.0",
+			"end": "239.8",
+			"phrase": ""
+		}, {
+			"id": [44],
+			"speaker": "0",
+			"text": "Would become clear that all of these teachers that are you know, under your sort of supervision would not be able to teach these children face to",
+			"start": "240.0",
+			"end": "250.4",
+			"phrase": "would not be able to teach these children face to"
+		}, {
+			"id": [45],
+			"speaker": "1",
+			"text": "these inequities that there's a bright light being shown on them now have existed pre covet right?",
+			"start": "251.7",
+			"end": "258.5",
+			"phrase": ""
+		}, {
+			"id": [46],
+			"speaker": "1",
+			"text": "And so I think people started to realize all that schools hold, you know, I was watching suddenly our own teacher scrambling saying, how are my kids going to eat?",
+			"start": "258.5",
+			"end": "268.7",
+			"phrase": ""
+		}, {
+			"id": [47],
+			"speaker": "1",
+			"text": "I mean they rely on School to eat they rely on all these social services at schools in order to get their social emotional and learning needs met all at the same time.",
+			"start": "268.7",
+			"end": "279.3",
+			"phrase": ""
+		}, {
+			"id": [48],
+			"speaker": "1",
+			"text": "And then the realization that most districts most schools don't have that infrastructure to just pivot and then how do you take care of the teachers throughout all of this and boy if we talk about resilience is talk about our Educators?",
+			"start": "280.1",
+			"end": "292.0",
+			"phrase": ""
+		}, {
+			"id": [49],
+			"speaker": "1",
+			"text": "Yes moment.",
+			"start": "292.0",
+			"end": "292.9",
+			"phrase": ""
+		}, {
+			"id": [50],
+			"speaker": "1",
+			"text": "And so it's been remarkable.",
+			"start": "292.9",
+			"end": "295.1",
+			"phrase": ""
+		}, {
+			"id": [51],
+			"speaker": "1",
+			"text": "So right away, we pivot to offering virtual spaces for school leaders are Yours in order to support them through this.",
+			"start": "295.3",
+			"end": "302.7",
+			"phrase": ""
+		}, {
+			"id": [52],
+			"speaker": "1",
+			"text": "I mean the big very practical decision we had to Pivot to is the way we train our teachers as we talked about earlier we go out and recruit these folks and then beyond our rigorous recruitment process we train them and we support them and so our whole model requires in person and so we have to quickly figure out how to do that virtually so designed a, you know, a new curriculum and nine weeks and you know, really our organization came together to really Step Up pup and meet the moment for kids because we want it to be able to obviously provide a cohort of Educators into classrooms this fall one of the biggest needs that are it still exists today.",
+			"start": "302.7",
+			"end": "339.0",
+			"phrase": ""
+		}, {
+			"id": [53],
+			"speaker": "1",
+			"text": "There's so many of our kids didn't have access to hot spots and broadband and still today 10 months into this thing like 15 to 16 million kids still do not have access to learning and that is one of the biggest Injustice has that is just not okay, you know, we've been talking about the digital divide for decades now, And this has been the moment.",
+			"start": "339.0",
+			"end": "361.5",
+			"phrase": ""
+		}, {
+			"id": [54],
+			"speaker": "1",
+			"text": "I mean, you know having access to a device having access to broadband is like having pencil and paper we used to say what are the basics these are the basics now and we still have that and we still have about 1 to 3 million kids that have not been engaged.",
+			"start": "361.5",
+			"end": "375.4",
+			"phrase": ""
+		}, {
+			"id": [55],
+			"speaker": "1",
+			"text": "Like we don't know where they are because they haven't been engaged since March in any kind of learning and so schools are still looking for many kids and that's the reality that we're still facing right",
+			"start": "375.4",
+			"end": "386.3",
+			"phrase": ""
+		}, {
+			"id": [56],
+			"speaker": "0",
+			"text": "I mean when we are facing the reality that 15 to 16 million children do not have access to broadband internet and probably I'm assuming that many of your teachers are encountering that reality in some of the schools are in because they're teaching in some of the poorest communities in the country.",
+			"start": "386.8",
+			"end": "404.7",
+			"phrase": "t have access to broadband internet"
+		}, {
+			"id": [57],
+			"speaker": "0",
+			"text": "What do they do?",
+			"start": "404.9",
+			"end": "405.9",
+			"phrase": ""
+		}, {
+			"id": [58],
+			"speaker": "0",
+			"text": "How do they what options to the teachers have to reach these",
+			"start": "405.9",
+			"end": "410.0",
+			"phrase": ""
+		}, {
+			"id": [59],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "411.3",
+			"end": "412.0",
+			"phrase": ""
+		}, {
+			"id": [60],
+			"speaker": "1",
+			"text": "So what I'm observing from our network is we're just watching Heroes play out everywhere and communities come together.",
+			"start": "412.5",
+			"end": "418.9",
+			"phrase": ""
+		}, {
+			"id": [61],
+			"speaker": "1",
+			"text": "So in some places Is you know folks are like it's just not.",
+			"start": "418.9",
+			"end": "422.2",
+			"phrase": ""
+		}, {
+			"id": [62],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "422.2",
+			"end": "422.6",
+			"phrase": ""
+		}, {
+			"id": [63],
+			"speaker": "1",
+			"text": "And so they themselves are figuring out.",
+			"start": "422.6",
+			"end": "424.6",
+			"phrase": ""
+		}, {
+			"id": [64],
+			"speaker": "1",
+			"text": "How do they raise the money?",
+			"start": "424.6",
+			"end": "425.8",
+			"phrase": ""
+		}, {
+			"id": [65],
+			"speaker": "1",
+			"text": "How do they partner with the right people to get our kids the devices and the connectivity but it's a true systemic problem.",
+			"start": "425.8",
+			"end": "433.2",
+			"phrase": ""
+		}, {
+			"id": [66],
+			"speaker": "1",
+			"text": "And so what we're seeing instead in some districts has I mean folks are handing out worksheets, you know, like and there's no engagement with the child.",
+			"start": "433.8",
+			"end": "442.0",
+			"phrase": "d when we think about academics"
+		}, {
+			"id": [67],
+			"speaker": "1",
+			"text": "And so what we are looking at and we have to be so clear-eyed about is the fact that we are on track to leaving a whole generation.",
+			"start": "442.0",
+			"end": "449.7",
+			"phrase": ""
+		}, {
+			"id": [68],
+			"speaker": "1",
+			"text": "Behind when we think about academics and this is not even dealing with the social and emotional Wellness of our kids.",
+			"start": "449.8",
+			"end": "457.6",
+			"phrase": "d when we think about academics"
+		}, {
+			"id": [69],
+			"speaker": "1",
+			"text": "I mean, we've got to get centered and grounded in the fact that there is so much loss so much trauma so much fear when we think about all the crisis is where talk about the pandemic.",
+			"start": "457.6",
+			"end": "468.3",
+			"phrase": ""
+		}, {
+			"id": [70],
+			"speaker": "1",
+			"text": "There's an economic crisis.",
+			"start": "468.3",
+			"end": "470.3",
+			"phrase": ""
+		}, {
+			"id": [71],
+			"speaker": "1",
+			"text": "There is an environmental disasters happening.",
+			"start": "470.3",
+			"end": "472.4",
+			"phrase": ""
+		}, {
+			"id": [72],
+			"speaker": "1",
+			"text": "There's a racial Reckoning all of these things, you know, who they're impacting the most they're impacting our kids young urban and",
+			"start": "472.4",
+			"end": "479.0",
+			"phrase": ""
+		}, {
+			"id": [73],
+			"speaker": "0",
+			"text": "Yeah, I mean I have no doubt and I think that you have no doubt that we will begin to see the long-term effects of this over the next year's and decades in the numbers of children who were left behind I do want to ask you though.",
+			"start": "479.9",
+			"end": "493.3",
+			"phrase": ""
+		}, {
+			"id": [74],
+			"speaker": "0",
+			"text": "And I don't want to be overly sunny here.",
+			"start": "493.3",
+			"end": "495.6",
+			"phrase": ""
+		}, {
+			"id": [75],
+			"speaker": "0",
+			"text": "Now in any way to minimize that gravity of what has happened, but what kinds of creative things have you seen teachers tried to do this year.",
+			"start": "495.9",
+			"end": "506.5",
+			"phrase": ""
+		}, {
+			"id": [76],
+			"speaker": "0",
+			"text": "To do anything they can despite the overwhelming challenges.",
+			"start": "507.4",
+			"end": "511.0",
+			"phrase": ""
+		}, {
+			"id": [77],
+			"speaker": "0",
+			"text": "They are facing and that the kids",
+			"start": "511.0",
+			"end": "513.1",
+			"phrase": ""
+		}, {
+			"id": [78],
+			"speaker": "1",
+			"text": "facing.",
+			"start": "513.3",
+			"end": "513.9",
+			"phrase": "if we could just send"
+		}, {
+			"id": [79],
+			"speaker": "1",
+			"text": "There's so much good creativity guy that is happening.",
+			"start": "514.5",
+			"end": "517.8",
+			"phrase": "if we could just send"
+		}, {
+			"id": [80],
+			"speaker": "1",
+			"text": "I'm watching some schools, you know, the once I see most effective Educators, they Center students like they're really empathetic and trying to figure out.",
+			"start": "517.9",
+			"end": "525.7",
+			"phrase": "if we could just send"
+		}, {
+			"id": [81],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "525.7",
+			"end": "526.2",
+			"phrase": "if we could just send"
+		}, {
+			"id": [82],
+			"speaker": "1",
+			"text": "What is the reality of where kids are our kids are having to work?",
+			"start": "526.6",
+			"end": "530.2",
+			"phrase": "if we could just send"
+		}, {
+			"id": [83],
+			"speaker": "1",
+			"text": "They're watching their parents grandparents as their jobs.",
+			"start": "530.2",
+			"end": "532.5",
+			"phrase": ""
+		}, {
+			"id": [84],
+			"speaker": "1",
+			"text": "They have to go work.",
+			"start": "532.5",
+			"end": "533.4",
+			"phrase": ""
+		}, {
+			"id": [85],
+			"speaker": "1",
+			"text": "They can't be engaging in the virtual learning don't always have the Ports to do it and so schools are saying hey you go work.",
+			"start": "533.4",
+			"end": "541.6",
+			"phrase": ""
+		}, {
+			"id": [86],
+			"speaker": "1",
+			"text": "We're going to offer different times for engagement in learning.",
+			"start": "541.6",
+			"end": "545.1",
+			"phrase": ""
+		}, {
+			"id": [87],
+			"speaker": "1",
+			"text": "And so when you fast forward and you think the status quo wasn't working for many of our kids already.",
+			"start": "545.4",
+			"end": "550.6",
+			"phrase": "if we could just send"
+		}, {
+			"id": [88],
+			"speaker": "1",
+			"text": "They were bored.",
+			"start": "550.6",
+			"end": "551.6",
+			"phrase": "if we could just send"
+		}, {
+			"id": [89],
+			"speaker": "1",
+			"text": "They were disengaged.",
+			"start": "551.6",
+			"end": "552.8",
+			"phrase": "if we could just send"
+		}, {
+			"id": [90],
+			"speaker": "1",
+			"text": "You know, it wasn't really helping them learn leading Thrive.",
+			"start": "552.8",
+			"end": "555.7",
+			"phrase": "if we could just send"
+		}, {
+			"id": [91],
+			"speaker": "1",
+			"text": "How can we continue to build on that and take that forward where you have schooling that allows kids to work that allow kids to engage in various ways based on their own individual needs and Interests.",
+			"start": "556.0",
+			"end": "567.7",
+			"phrase": ""
+		}, {
+			"id": [92],
+			"speaker": "1",
+			"text": "Another thing that I'm watching is, you know, when schools are really centering their content, you know, what the kids are engaging in the world when they're engaging community members into the actual lessons and it's real it's relevant kids are able to even engage in problem-solving in their local context.",
+			"start": "568.1",
+			"end": "588.9",
+			"phrase": "if we could just send"
+		}, {
+			"id": [93],
+			"speaker": "1",
+			"text": "So there's lots of cool things happening like that.",
+			"start": "589.4",
+			"end": "591.3",
+			"phrase": ""
+		}, {
+			"id": [94],
+			"speaker": "1",
+			"text": "I was listening to a school leader talk about their school who they had good.",
+			"start": "591.3",
+			"end": "597.0",
+			"phrase": ""
+		}, {
+			"id": [95],
+			"speaker": "1",
+			"text": "GE infrastructure when this all happened every kid had a device and so that wasn't the issue.",
+			"start": "597.2",
+			"end": "602.3",
+			"phrase": ""
+		}, {
+			"id": [96],
+			"speaker": "1",
+			"text": "They really focused on building the infrastructure with relationships.",
+			"start": "602.5",
+			"end": "606.1",
+			"phrase": ""
+		}, {
+			"id": [97],
+			"speaker": "1",
+			"text": "And so they quickly said every adult is going to be assigned a pot of kids at our school about 10 kids and you are responsible for building a relationship.",
+			"start": "606.8",
+			"end": "615.9",
+			"phrase": ""
+		}, {
+			"id": [98],
+			"speaker": "1",
+			"text": "There's Mutual accountability for what the school is doing well connection with the family and the students and so you're able to constantly adapt and figure out how do we you know meet our kids?",
+			"start": "615.9",
+			"end": "626.6",
+			"phrase": ""
+		}, {
+			"id": [99],
+			"speaker": "1",
+			"text": "Needs in the moment.",
+			"start": "627.1",
+			"end": "628.7",
+			"phrase": ""
+		}, {
+			"id": [100],
+			"speaker": "1",
+			"text": "And so there's lots of cool things like that that we can just be learning from and the biggest thing I would say is gosh if we could just send her our students in this moment to really figure out how to move forward.",
+			"start": "628.7",
+			"end": "638.3",
+			"phrase": "if we could just send"
+		}, {
+			"id": [101],
+			"speaker": "1",
+			"text": "We would I think we'd have major",
+			"start": "638.3",
+			"end": "639.7",
+			"phrase": "if we could just send"
+		}, {
+			"id": [102],
+			"speaker": "0",
+			"text": "when we come back in just a moment more of my conversation with Elisa Villanueva beard and how Teach for America has worked to improve its recruiting efforts to include more teachers of color stay with us.",
+			"start": "641.0",
+			"end": "652.0",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"id": [103],
+			"speaker": "0",
+			"text": "I'm guy Roz and you're listening to how I built this resilience Edition from NPR.",
+			"start": "652.1",
+			"end": "656.8",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"id": [104],
+			"speaker": "0",
+			"text": "This message comes from NPR sponsor NerdWallet a personal finance website and app that helps people make smarter money moves have new money goals this year whether you want to use credit card points to plan a family vacation abroad once it's safe or take advantage of low mortgage rates to refinance and save for your child's education.",
+			"start": "660.4",
+			"end": "681.0",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"id": [105],
+			"speaker": "0",
+			"text": "NerdWallet is the best place to shop Financial products to help make your 2021.",
+			"start": "681.4",
+			"end": "687.0",
+			"phrase": ""
+		}, {
+			"id": [106],
+			"speaker": "0",
+			"text": "Money goals happen discover and compare the smartest credit cards mortgage lenders and more at NerdWallet.com.",
+			"start": "687.1",
+			"end": "695.6",
+			"phrase": ""
+		}, {
+			"id": [107],
+			"speaker": "0",
+			"text": "Hey, welcome back to how I built this resilience Edition.",
+			"start": "701.6",
+			"end": "704.1",
+			"phrase": ""
+		}, {
+			"id": [108],
+			"speaker": "0",
+			"text": "So one of the knocks on Teach for America has been that they recruit teachers who don't share the same backgrounds as the kids in the communities they serve so when I spoke with TFA is CEO Elisa Villanueva beard.",
+			"start": "704.3",
+			"end": "717.0",
+			"phrase": "the same background"
+		}, {
+			"id": [109],
+			"speaker": "0",
+			"text": "I asked her what the organization is doing to recruit more diverse members roughly half of America's public school kids identify as as people of color, right?",
+			"start": "717.2",
+			"end": "726.8",
+			"phrase": "the same background"
+		}, {
+			"id": [110],
+			"speaker": "0",
+			"text": "But only one in five teachers do right now and as Most are studies that show that children of color often perform better on standardized tests.",
+			"start": "727.4",
+			"end": "736.0",
+			"phrase": "the same background"
+		}, {
+			"id": [111],
+			"speaker": "0",
+			"text": "When at least one of their teachers is the same race as you know, and I talked about this with Wendy Kopp when she was on the show in 2017 the founder of TFA.",
+			"start": "736.0",
+			"end": "745.6",
+			"phrase": "the same background"
+		}, {
+			"id": [112],
+			"speaker": "0",
+			"text": "There's been a longtime criticism of TFA that it places often white middle class upper middle class Educators and communities of color and an areas where people are of lower socioeconomic status and you're aware of these criticisms and critiques and we're Any questions about this from our listeners?",
+			"start": "745.9",
+			"end": "763.2",
+			"phrase": "white middle class"
+		}, {
+			"id": [113],
+			"speaker": "0",
+			"text": "What is TFA doing to meet the critics and to recruit more teachers of",
+			"start": "763.8",
+			"end": "771.2",
+			"phrase": "white middle class"
+		}, {
+			"id": [114],
+			"speaker": "1",
+			"text": "It's such an important question guide appreciate you raising it.",
+			"start": "772.1",
+			"end": "775.6",
+			"phrase": ""
+		}, {
+			"id": [115],
+			"speaker": "1",
+			"text": "So, I mean, I'm happy to say that over the last six years.",
+			"start": "775.6",
+			"end": "780.0",
+			"phrase": ""
+		}, {
+			"id": [116],
+			"speaker": "1",
+			"text": "We have fielded a core that is at least 50% people of color this last year was just over fifty percent people of color and because we understand the importance This and have worked really hard to put forward the resources to ensure that we are able to attract a strong racially, ethnically and socioeconomically diverse core.",
+			"start": "780.4",
+			"end": "802.6",
+			"phrase": ""
+		}, {
+			"id": [117],
+			"speaker": "1",
+			"text": "And so I would say we are now among the largest and actually most ethnically diverse and racially diverse group of Educators going into low-income communities and further about a third of our new core members are first generation college graduates.",
+			"start": "802.6",
+			"end": "818.4",
+			"phrase": ""
+		}, {
+			"id": [118],
+			"speaker": "1",
+			"text": "So this is something that we have taken on believe.",
+			"start": "818.7",
+			"end": "820.9",
+			"phrase": ""
+		}, {
+			"id": [119],
+			"speaker": "1",
+			"text": "It's so important and have it as a top priority and will and it's a commitment that we will continue",
+			"start": "820.9",
+			"end": "826.4",
+			"phrase": ""
+		}, {
+			"id": [120],
+			"speaker": "0",
+			"text": "carry forward.",
+			"start": "826.5",
+			"end": "827.4",
+			"phrase": ""
+		}, {
+			"id": [121],
+			"speaker": "0",
+			"text": "Are you having any challenges in recruiting right now given given how challenging it is to teach?",
+			"start": "827.4",
+			"end": "834.2",
+			"phrase": ""
+		}, {
+			"id": [122],
+			"speaker": "0",
+			"text": "I mean is it have you seen a drop off an applications?",
+			"start": "834.2",
+			"end": "837.7",
+			"phrase": ""
+		}, {
+			"id": [123],
+			"speaker": "0",
+			"text": "Have you seen people withdrawing from the",
+			"start": "838.0",
+			"end": "839.6",
+			"phrase": ""
+		}, {
+			"id": [124],
+			"speaker": "1",
+			"text": "We are in the middle of our recruitment season right now to answer your first question about people dropping out.",
+			"start": "840.8",
+			"end": "846.7",
+			"phrase": ""
+		}, {
+			"id": [125],
+			"speaker": "1",
+			"text": "I mean that the answer to that is no I mean we the again the Instead of the Educators who just know their role is so important and in the midst of a lot of chaos, as you can imagine guy in for us.",
+			"start": "846.7",
+			"end": "859.8",
+			"phrase": ""
+		}, {
+			"id": [126],
+			"speaker": "1",
+			"text": "We're in 37 States and Washington DC with very different policies and very different rules.",
+			"start": "860.2",
+			"end": "865.3",
+			"phrase": ""
+		}, {
+			"id": [127],
+			"speaker": "1",
+			"text": "Some of our core members are facing realities where they are having to report to schools where there is no requirement of a mask.",
+			"start": "865.3",
+			"end": "873.8",
+			"phrase": ""
+		}, {
+			"id": [128],
+			"speaker": "1",
+			"text": "There are no safety precautions to than other extremes that you know are not in person.",
+			"start": "873.8",
+			"end": "879.1",
+			"phrase": ""
+		}, {
+			"id": [129],
+			"speaker": "1",
+			"text": "And so it's just so much to manage.",
+			"start": "879.1",
+			"end": "881.2",
+			"phrase": ""
+		}, {
+			"id": [130],
+			"speaker": "1",
+			"text": "In our folks have just continued to show up and we continue to figure out how do we really hold our Educators In This Moment the safety of them and our students at the same time in terms of the recruitment where the middle of the Season we are watching that, you know, we're having to recruit virtually which is completely new and different for us and we're watching timeline.",
+			"start": "881.3",
+			"end": "900.1",
+			"phrase": "the middle of the season"
+		}, {
+			"id": [131],
+			"speaker": "1",
+			"text": "Skip pushed into the spring as you know employers are trying to figure out who to recruit and so we're seeing timelines delayed.",
+			"start": "900.1",
+			"end": "907.1",
+			"phrase": ""
+		}, {
+			"id": [132],
+			"speaker": "1",
+			"text": "We do expect to have a smaller core.",
+			"start": "907.1",
+			"end": "910.1",
+			"phrase": ""
+		}, {
+			"id": [133],
+			"speaker": "1",
+			"text": "Year because we are managing all of these realities of covid-19.",
+			"start": "911.3",
+			"end": "915.0",
+			"phrase": ""
+		}, {
+			"id": [134],
+			"speaker": "1",
+			"text": "But we're optimistic about folks, you know, stepping up and wanting to be part of the solution and realizing, you know, if you want to have an impact there is no greater impact than teaching in classrooms and really coming to understand all the inequities.",
+			"start": "915.0",
+			"end": "929.3",
+			"phrase": "the middle of the season"
+		}, {
+			"id": [135],
+			"speaker": "1",
+			"text": "I call teaching, you know the ground zero where you get to see all the inequities playing out for our kids and you get to do something about",
+			"start": "929.3",
+			"end": "936.4",
+			"phrase": "the ground zero"
+		}, {
+			"id": [136],
+			"speaker": "0",
+			"text": "This is a question from Gabby Barakat also from Facebook Gabby.",
+			"start": "936.9",
+			"end": "941.0",
+			"phrase": ""
+		}, {
+			"id": [137],
+			"speaker": "0",
+			"text": "He's a junior in college very interested in pursuing this program post-grad, but doesn't know how it works.",
+			"start": "941.2",
+			"end": "947.2",
+			"phrase": ""
+		}, {
+			"id": [138],
+			"speaker": "0",
+			"text": "Can you briefly explain how it works and a bit about the",
+			"start": "947.6",
+			"end": "950.4",
+			"phrase": ""
+		}, {
+			"id": [139],
+			"speaker": "1",
+			"text": "process?",
+			"start": "950.9",
+			"end": "951.3",
+			"phrase": "on the front end because we"
+		}, {
+			"id": [140],
+			"speaker": "1",
+			"text": "Sure so you can go on www.eatright.org click to apply.",
+			"start": "951.7",
+			"end": "959.2",
+			"phrase": "on the front end because we"
+		}, {
+			"id": [141],
+			"speaker": "1",
+			"text": "We have a process by which we will do a virtual interview that's few hours long and the process is pretty rigorous.",
+			"start": "959.5",
+			"end": "967.8",
+			"phrase": "on the front end because we"
+		}, {
+			"id": [142],
+			"speaker": "1",
+			"text": "You know, one of the big parts of our entire model is No being really rigorous on the front end because we're worked placing our teachers and our first promise is to ensure that our kids get the education they deserve we really want to make sure that we are recruiting and accepting someone that you know is going to be successful and we have now lots of data and evidence when it comes to skills and mindsets orientations, excuse me that are really critical and we study our best teachers that continue to refine our model.",
+			"start": "967.8",
+			"end": "995.7",
+			"phrase": "on the front end because we"
+		}, {
+			"id": [143],
+			"speaker": "1",
+			"text": "So that's step number one recruit and then we have a training where we will train.",
+			"start": "996.3",
+			"end": "1001.1",
+			"phrase": ""
+		}, {
+			"id": [144],
+			"speaker": "1",
+			"text": "Our teachers on the fundamentals of great teaching, you know things that include the science of reading to how to approach the classroom and a trauma-informed ways to ensuring there is a clear approach to racial equity and cultural relevance and how we approach our classrooms and after that training we support our teachers.",
+			"start": "1001.2",
+			"end": "1020.8",
+			"phrase": ""
+		}, {
+			"id": [145],
+			"speaker": "1",
+			"text": "So every core member who's which we call our teachers will get supports in the region.",
+			"start": "1020.8",
+			"end": "1026.7",
+			"phrase": ""
+		}, {
+			"id": [146],
+			"speaker": "1",
+			"text": "There will be natural supports.",
+			"start": "1026.7",
+			"end": "1028.0",
+			"phrase": ""
+		}, {
+			"id": [147],
+			"speaker": "1",
+			"text": "There's Regional supports that ensure that our teachers Are successful what their kids are learning from other teachers who are teaching in their content area and really just have the emotional support and the inspiration of an entire network who's getting up every morning to pursue educational equity and",
+			"start": "1028.0",
+			"end": "1045.6",
+			"phrase": ""
+		}, {
+			"id": [148],
+			"speaker": "0",
+			"text": "for their kids, you know the past year and this school year and half of last school year will ultimately give us so much data and information about but the needs and the gaps and you mentioned the idea that a device and access to the internet.",
+			"start": "1046.0",
+			"end": "1061.1",
+			"phrase": "this school year and half of last"
+		}, {
+			"id": [149],
+			"speaker": "0",
+			"text": "Internet is like having a pencil and paper.",
+			"start": "1061.2",
+			"end": "1063.9",
+			"phrase": "this school year and half of last"
+		}, {
+			"id": [150],
+			"speaker": "0",
+			"text": "It is absolutely essential for a students today.",
+			"start": "1063.9",
+			"end": "1067.9",
+			"phrase": "this school year and half of last"
+		}, {
+			"id": [151],
+			"speaker": "0",
+			"text": "And I suspect that that will hopefully inform policy decisions going forward when this is done, you know with everything that's happened during the pandemic and the onset of digital learning.",
+			"start": "1068.3",
+			"end": "1079.4",
+			"phrase": "inform policy decisions going forward"
+		}, {
+			"id": [152],
+			"speaker": "0",
+			"text": "What do you think teaching will look like when this is",
+			"start": "1080.0",
+			"end": "1084.0",
+			"phrase": ""
+		}, {
+			"id": [153],
+			"speaker": "1",
+			"text": "Well guide my hope is that teaching looks very different as a norm than it did before that.",
+			"start": "1085.7",
+			"end": "1092.4",
+			"phrase": "to go back to how it was"
+		}, {
+			"id": [154],
+			"speaker": "1",
+			"text": "This is a chance for us to really lean into what a reinvention I think it would be just such a massive missed opportunity.",
+			"start": "1092.4",
+			"end": "1101.6",
+			"phrase": "to go back to how it was"
+		}, {
+			"id": [155],
+			"speaker": "1",
+			"text": "If we just try to go back to how it was.",
+			"start": "1101.6",
+			"end": "1104.1",
+			"phrase": "to go back to how it was"
+		}, {
+			"id": [156],
+			"speaker": "1",
+			"text": "We really don't want to do that.",
+			"start": "1104.1",
+			"end": "1105.7",
+			"phrase": "to go back to how it was"
+		}, {
+			"id": [157],
+			"speaker": "1",
+			"text": "Right and when we sent her on a 21st century Global society and what our kids need our kids need to learn critical thinking skills are kids need to know the Between facts and opinion that kids need to be compassionate and empathize and you to learn how to work with, you know people who are very different than them.",
+			"start": "1105.7",
+			"end": "1123.6",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [158],
+			"speaker": "1",
+			"text": "And so these are all skills and they have to be adaptive.",
+			"start": "1123.6",
+			"end": "1126.5",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [159],
+			"speaker": "1",
+			"text": "You know, they have to be prepared to do jobs that we don't even know what they're going to be in the next 10 years.",
+			"start": "1126.5",
+			"end": "1132.9",
+			"phrase": ""
+		}, {
+			"id": [160],
+			"speaker": "1",
+			"text": "And so when you think about that, we think gosh that learning has to be relevant and if kid has access to a device the role of the teacher changes right to many times still it's the teacher giving information.",
+			"start": "1132.9",
+			"end": "1145.3",
+			"phrase": "to go back to how it was"
+		}, {
+			"id": [161],
+			"speaker": "1",
+			"text": "All the kids have access to all the information and sewed.",
+			"start": "1145.4",
+			"end": "1148.4",
+			"phrase": ""
+		}, {
+			"id": [162],
+			"speaker": "1",
+			"text": "It allows you to then start to think about how can we be creative and think about learning differently.",
+			"start": "1148.4",
+			"end": "1153.7",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [163],
+			"speaker": "1",
+			"text": "How do we involve the community in learning?",
+			"start": "1153.7",
+			"end": "1156.9",
+			"phrase": ""
+		}, {
+			"id": [164],
+			"speaker": "1",
+			"text": "And how do we personalize the our children's experience so that we're really stoking their interest and their passions were in allowing that to really take hold and fostering things like collaboration and teamwork all these things that we know are really important and so my hope is that as we go back to this.",
+			"start": "1156.9",
+			"end": "1174.3",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [165],
+			"speaker": "1",
+			"text": "I mean, I think technology You will play a role.",
+			"start": "1174.3",
+			"end": "1176.1",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [166],
+			"speaker": "1",
+			"text": "I think there is a real need for that but it's a way that allows us to more effectively meet the needs of our kids give them access to the world and Foster some of these 21st century skills that we all talk about that.",
+			"start": "1176.1",
+			"end": "1187.5",
+			"phrase": "a 21st century global society"
+		}, {
+			"id": [167],
+			"speaker": "1",
+			"text": "I think we have a real opportunity to maximize in",
+			"start": "1187.5",
+			"end": "1190.5",
+			"phrase": ""
+		}, {
+			"id": [168],
+			"speaker": "0",
+			"text": "moment.",
+			"start": "1190.7",
+			"end": "1191.4",
+			"phrase": ""
+		}, {
+			"id": [169],
+			"speaker": "0",
+			"text": "So many of us have been working and also trying to help our kids with school from home this year.",
+			"start": "1191.6",
+			"end": "1197.9",
+			"phrase": ""
+		}, {
+			"id": [170],
+			"speaker": "0",
+			"text": "I count myself among those and I know you've got four children yourself.",
+			"start": "1199.0",
+			"end": "1203.2",
+			"phrase": ""
+		}, {
+			"id": [171],
+			"speaker": "0",
+			"text": "What advice do you have?",
+			"start": "1203.8",
+			"end": "1205.2",
+			"phrase": ""
+		}, {
+			"id": [172],
+			"speaker": "0",
+			"text": "And for parents who are trying to make virtual learning work for their",
+			"start": "1205.4",
+			"end": "1210.8",
+			"phrase": ""
+		}, {
+			"id": [173],
+			"speaker": "1",
+			"text": "Well, there's nothing easy about this.",
+			"start": "1211.5",
+			"end": "1213.3",
+			"phrase": "my kids have been back in school"
+		}, {
+			"id": [174],
+			"speaker": "1",
+			"text": "As you said we had to do that in the spring and thankfully my kids have been back in school physically since September one of the things that I think has been really great is that parents are really getting proximate to what it means to be a teacher.",
+			"start": "1213.3",
+			"end": "1225.8",
+			"phrase": "my kids have been back in school"
+		}, {
+			"id": [175],
+			"speaker": "1",
+			"text": "And so the level of just empathy and compassion to what it takes to do.",
+			"start": "1226.2",
+			"end": "1231.5",
+			"phrase": ""
+		}, {
+			"id": [176],
+			"speaker": "1",
+			"text": "This.",
+			"start": "1231.5",
+			"end": "1231.8",
+			"phrase": ""
+		}, {
+			"id": [177],
+			"speaker": "1",
+			"text": "Well is a topic of conversation, so we're literally having Conversation all across the country, which I think should then help us lead to questions of you know, the role of the teacher and you know, what is required of them and all the policies that might become discussable around what it takes to ensure that we are, you know Fielding great teachers supporting them ensuring that they are retained but as for the parent, I think it just depends on the situation, you know, my husband and I are both former Educators and it was very hard for us to meet the needs of our kids.",
+			"start": "1231.8",
+			"end": "1265.0",
+			"phrase": ""
+		}, {
+			"id": [178],
+			"speaker": "1",
+			"text": "Given the roles that we also have and so I just think parents need to really be asking kids more than anything.",
+			"start": "1265.4",
+			"end": "1272.0",
+			"phrase": ""
+		}, {
+			"id": [179],
+			"speaker": "1",
+			"text": "How are they doing and getting them access to content that is relevant that gets them excited about learning that gets them curious.",
+			"start": "1272.0",
+			"end": "1281.5",
+			"phrase": ""
+		}, {
+			"id": [180],
+			"speaker": "1",
+			"text": "And so that's what we were focused on and there are so many great programs out there right now Khan Academy all I mean there's access to tutoring programs that are rigorous they're accessible.",
+			"start": "1281.5",
+			"end": "1292.5",
+			"phrase": ""
+		}, {
+			"id": [181],
+			"speaker": "1",
+			"text": "They're easy to get access to and so I will try to lower the pressure for everybody a bit and just focus on the things that matter the most and more than anything.",
+			"start": "1292.5",
+			"end": "1302.2",
+			"phrase": "re easy to get access to"
+		}, {
+			"id": [182],
+			"speaker": "1",
+			"text": "We're watching our most effective Educators just our protein all of this with a very humanistic orientation first and meeting our kids where they are to figure out how to get into the learning and the academics of",
+			"start": "1302.6",
+			"end": "1316.0",
+			"phrase": "my kids have been back in school"
+		}]
+	},
+	"low": {
+		"segments": [{
+			"text": "You can accept all kinds of payments with one single integration if you use adian.",
+			"id": [2],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Hello everyone and welcome to how I built resilience edition.",
+			"id": [3],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Business leaders were telling me how to build resilience.",
+			"id": [4],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I had a conversation with elisa villanueva beard.",
+			"id": [5],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If you want to hear the story of how it began, I interviewed the founder of ceo of teach for America in October of 2017).",
+			"id": [6, 7, 8],
+			"speaker": "0",
+			"phrase": "ceo of teach for america"
+		}, {
+			"text": "There are 80 alumni who have a career in education.",
+			"id": [9],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The program made eliza interested in pursuing a career.",
+			"id": [10, 11, 12],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "My mother came to the united states from Mexico at the age of 17 with a formal eighth grade education, and that's where my story begins.",
+			"id": [13, 14, 15, 16],
+			"speaker": "1",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"text": "When she was a young adult she decided to marry a man with a college degree because she knew her children's lives would be different.",
+			"id": [17, 18, 19],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "They are still together 48 years later, my dad is a first generation college graduate, and I was the kid that did everything right in high school.",
+			"id": [20, 21, 22, 23],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I was under prepared for college when depaul was three percent latino five percent black, but I quickly realized that it was not the hard part.",
+			"id": [24, 25, 26],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I was the student body president and I did everything right, but I called my mom a few months in and said I might not make it and she told me it was ridiculous.",
+			"id": [27, 28, 29, 30, 31, 32],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The only way to get to the other side was to go through it, and I had a very hard first year, but I ended up thriving, so I was going to be a lawyer.",
+			"id": [33],
+			"speaker": "1",
+			"phrase": "the only way to get to the other side was to go through it"
+		}, {
+			"text": "I was introduced to how it plays out for kids in my community.",
+			"id": [34],
+			"speaker": "1",
+			"phrase": "how it plays out for kids"
+		}, {
+			"text": "I have been with the corps for 20 years.",
+			"id": [36],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The story you tell if your mom says the only way through is through reminds me of a Robert frost poem, which is often the answer for challenging moments.",
+			"id": [39, 40, 41, 42],
+			"speaker": "0",
+			"phrase": "the only way through is through"
+		}, {
+			"text": "The teachers would not be able to teach these children face to face.",
+			"id": [44],
+			"speaker": "0",
+			"phrase": "would not be able to teach these children face to"
+		}, {
+			"text": "I think people started to realize that there are inequalities that have existed before and that the bright light is showing them.",
+			"id": [45, 46, 47],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The realization that most districts don't have that infrastructure to just pivot and how do you take care of the teachers throughout all of this has been remarkable.",
+			"id": [48, 49, 50, 51],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The big decision we had to make was the way we train our teachers, as we talked about earlier, we go out and recruit these people and then we support them and so our whole model.",
+			"id": [52],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "15 to 16 million kids don't have access to broadband or hot spots and that's one of the biggest injustice because we're talking about the digital.",
+			"id": [53],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We still have about 1 to 3 million kids that have not been engaged in school because they don't have access to a device with broadband.",
+			"id": [54],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We don't know where they are because they have not been engaged since march.",
+			"id": [55],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The reality is that 15 to 16 million children don't have access to broadband internet, and many of your teachers are seeing that.",
+			"id": [56],
+			"speaker": "0",
+			"phrase": "t have access to broadband internet"
+		}, {
+			"text": "In some places, people are figuring out how to raise the money, how do they partner with the right people to get our kids, because heroes play out everywhere, and communities come together,.",
+			"id": [59, 60, 61, 62, 63, 64, 65],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There is no engagement with the child in some districts.",
+			"id": [66],
+			"speaker": "1",
+			"phrase": "d when we think about academics"
+		}, {
+			"text": "We have to be aware that we are on the verge of leaving a generation.",
+			"id": [67],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Social and emotional wellbeing of our kids is not considered when we think about academics.",
+			"id": [68],
+			"speaker": "1",
+			"phrase": "d when we think about academics"
+		}, {
+			"text": "There is a lot of trauma when we think about the crisis.",
+			"id": [69],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Who they are impacting the most is who you know.",
+			"id": [72],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I want to know if you have any doubts about the long term effects of this on the number of children who were left behind.",
+			"id": [73],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I don't want to be overly sunny here, but what kinds of creative things have teachers tried to do this year despite the challenges they are facing.",
+			"id": [74, 75, 76, 77],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I watch some schools that are most effective and try to figure out where our kids are going to school.",
+			"id": [78, 79, 80, 81, 82],
+			"speaker": "1",
+			"phrase": "if we could just send"
+		}, {
+			"text": "The status quo isn't helping many of our kids learn to thrive.",
+			"id": [87, 88, 89, 90],
+			"speaker": "1",
+			"phrase": "if we could just send"
+		}, {
+			"text": "How can we allow kids to engage in different ways based on their own interests?",
+			"id": [91],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The kids are more likely to engage in problem solving in their local context when schools focus on the actual lessons.",
+			"id": [92],
+			"speaker": "1",
+			"phrase": "if we could just send"
+		}, {
+			"text": "I was listening to the leader of the school talk about how good the infrastructure was at their school and how they focused on building relationships with the kids and then they said that every adult in the.",
+			"id": [94, 95, 96, 97],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If we could just send her our students in this moment to figure out how to move forward, we would have major.",
+			"id": [100, 101],
+			"speaker": "1",
+			"phrase": "if we could just send"
+		}, {
+			"text": "I will talk about how teach for America has worked to improve its recruiting efforts to include more teachers of color stay with us.",
+			"id": [102, 103],
+			"speaker": "0",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"text": "Nerdwallet is a personal finance website and app that helps people make smarter money moves and has new money goals this year whether you want to use credit card points to plan a family vacation abroad.",
+			"id": [104],
+			"speaker": "0",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"text": "They don't recruit teachers with the same background as the kids they serve.",
+			"id": [108],
+			"speaker": "0",
+			"phrase": "the same background"
+		}, {
+			"text": "Roughly half of America's public school kids identify as people of color, so I asked her what the organization was doing to recruit more diverse members.",
+			"id": [109],
+			"speaker": "0",
+			"phrase": "the same background"
+		}, {
+			"text": "There are studies that show that children of color perform better on standardized tests if at least one of their teachers is the same race.",
+			"id": [110, 111],
+			"speaker": "0",
+			"phrase": "the same background"
+		}, {
+			"text": "There is a long standing criticism of tFA that it places white middle class teachers and communities of color in areas where they are less well off.",
+			"id": [112],
+			"speaker": "0",
+			"phrase": "white middle class"
+		}, {
+			"text": "tFA is trying to get more teachers.",
+			"id": [113],
+			"speaker": "0",
+			"phrase": "white middle class"
+		}, {
+			"text": "Over the last six years we have had a core of at least 50 people of color and because we understand the importance of this and have worked really hard to put forward the resources to we.",
+			"id": [115, 116],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "A third of our new core members are first generation college graduates, and we are among the largest and most diverse group of educators going into low income communities.",
+			"id": [117, 118],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Do you have any challenges in recruiting right now given how difficult it is to teach?",
+			"id": [120, 121, 122, 123],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Some of our core members have to wear a mask.",
+			"id": [127],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There are no safety precautions that are done in person.",
+			"id": [128],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We are trying to figure out how to keep our teachers and students safe at the same time as we are having to recruit in the middle of the season.",
+			"id": [130],
+			"speaker": "1",
+			"phrase": "the middle of the season"
+		}, {
+			"text": "Employers are trying to figure out who to hire.",
+			"id": [131],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We are managing all of the realities of covid19.",
+			"id": [133],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If you want to have an impact, you have to step up and be part of the solution and teach in classrooms.",
+			"id": [134],
+			"speaker": "1",
+			"phrase": "the middle of the season"
+		}, {
+			"text": "The ground zero is where you can see the inequalities in our kids.",
+			"id": [135],
+			"speaker": "1",
+			"phrase": "the ground zero"
+		}, {
+			"text": "gabby barakat is a junior in college and is interested in pursuing this program post grad but he doesn't know how it works.",
+			"id": [136, 137, 138],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "One of the big parts of our model is not being really rigorous on the front end because we have a process by which we will do a virtual interview that is few hours long.",
+			"id": [139, 140, 141, 142],
+			"speaker": "1",
+			"phrase": "on the front end because we"
+		}, {
+			"text": "We will train our teachers on the basics of great teaching, including the science of reading, how to approach the classroom, and trauma informed ways to ensure there is a clear approach to racial equity.",
+			"id": [143, 144],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Every core member of our teachers will receive support.",
+			"id": [145],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There are regional supports that ensure that our teachers are successful and that their kids are learning from other teachers in their area.",
+			"id": [147],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "For their kids this school year and half of last year will give them a lot of data and information but they need a device and internet access.",
+			"id": [148, 149, 150],
+			"speaker": "0",
+			"phrase": "this school year and half of last"
+		}, {
+			"text": "The beginning of digital learning and the Pandemic will inform policy decisions going forward.",
+			"id": [151],
+			"speaker": "0",
+			"phrase": "inform policy decisions going forward"
+		}, {
+			"text": "What do you think teaching will look like?",
+			"id": [152],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If we try to go back to how it was, it would be a huge missed opportunity, because teaching looks very different as a norm than it did before.",
+			"id": [153, 154, 155, 156],
+			"speaker": "1",
+			"phrase": "to go back to how it was"
+		}, {
+			"text": "When we sent her to a 21st century global society, what our kids need is to learn critical thinking skills and how to work with people who are different.",
+			"id": [157],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "All of these skills have to be adaptive.",
+			"id": [158],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "We don't know what jobs they will be doing in 10 years.",
+			"id": [159],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If a child has access to a device the role of the teacher changes.",
+			"id": [160],
+			"speaker": "1",
+			"phrase": "to go back to how it was"
+		}, {
+			"text": "The kids have access to all the information.",
+			"id": [161],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Think about how we can be more creative.",
+			"id": [162],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "My hope is that we will be able to personalize our childrens experience so that they are more interested in collaborating and working together.",
+			"id": [164],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "There is a need for technology to help us meet the needs of our kids and give them access to the world but it is also a way that we can teach them 21st century skills.",
+			"id": [165, 166],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "What advice do you have for those who are trying to help our kids with school from home?",
+			"id": [168, 169, 170, 171],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Parents are trying to make virtual learning work for them.",
+			"id": [172],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "We had to do that in the spring but my kids have been back in school since september and I think it's great that parents know what it means to be a teacher.",
+			"id": [173, 174],
+			"speaker": "1",
+			"phrase": "my kids have been back in school"
+		}, {
+			"text": "Having a conversation all across the country about what it takes to do this well is a topic that should help us lead to questions about the role of the teacher and what is required of them.",
+			"id": [175, 176, 177],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I think parents need to be more interested in how kids are doing and getting them access to relevant content that gets them excited about learning and so that is what we were focused on.",
+			"id": [178, 179, 180],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I will try to lower the pressure for everyone because they are easy to get access to.",
+			"id": [181],
+			"speaker": "1",
+			"phrase": "re easy to get access to"
+		}, {
+			"text": "I was trying to figure out how to get my kids into school.",
+			"id": [182],
+			"speaker": "1",
+			"phrase": "my kids have been back in school"
+		}]
+	},
+	"med": {
+		"segments": [{
+			"text": "Business leaders told me how to build resilience.",
+			"id": [3, 4],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Payments can be accepted if you use adian.",
+			"id": [2],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The founder of ceo of teach for America was interviewed in October of last year.",
+			"id": [6, 7, 8],
+			"speaker": "0",
+			"phrase": "ceo of teach for america"
+		}, {
+			"text": "When my mother came to the united states from Mexico at the age of 17 she decided to marry a man with a college degree because she knew her children's lives would be different.",
+			"id": [13, 14, 15, 16],
+			"speaker": "1",
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"text": "The only way to get to the other side was to go through it.",
+			"id": [33],
+			"speaker": "1",
+			"phrase": "the only way to get to the other side was to go through it"
+		}, {
+			"text": "I was introduced to how it plays out for kids in my community.",
+			"id": [34],
+			"speaker": "1",
+			"phrase": "how it plays out for kids"
+		}, {
+			"text": "If your mom says the only way through is through, it's often the answer for challenging moments.",
+			"id": [39, 40, 41, 42],
+			"speaker": "0",
+			"phrase": "the only way through is through"
+		}, {
+			"text": "The teachers would not be able to teach these children face to face.",
+			"id": [44],
+			"speaker": "0",
+			"phrase": "would not be able to teach these children face to"
+		}, {
+			"text": "One of the biggest injustice is the fact that 15 to 16 million kids don't have access to broadband or hot spots, and that's a lot of kids.",
+			"id": [53, 54, 55],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The big decision we had to make was the fact that most districts don't have the infrastructure to just pivot and how do you take care of the teachers throughout all of this.",
+			"id": [45, 46, 47],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Many of your teachers say that 15 to 16 million children don't have access to broadband internet.",
+			"id": [56],
+			"speaker": "0",
+			"phrase": "t have access to broadband internet"
+		}, {
+			"text": "Social and emotional wellbeing of our kids is not considered when we think about academics.",
+			"id": [66, 68],
+			"speaker": "1",
+			"phrase": "d when we think about academics"
+		}, {
+			"text": "In some places people are figuring out how to raise money, in other places they are not sure.",
+			"id": [59, 60, 61, 62, 63, 64, 65],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We need to be aware that we are leaving a generation.",
+			"id": [67],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There is a lot of trauma when we think about the crisis.",
+			"id": [69],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If you have doubts about the long term effects of this on the number of children who were left behind, what kinds of creative things have teachers tried this year?",
+			"id": [73, 74, 75, 76, 77],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "I watch some schools that are most effective and try to figure out where our kids are going to school, the status quo is not helping many kids learn to thrive, if we could just send.",
+			"id": [78, 79, 80, 81, 82, 87, 88, 89, 90, 92, 100, 101],
+			"speaker": "1",
+			"phrase": "if we could just send"
+		}, {
+			"text": "I was listening to the leader of the school talk about how good the infrastructure was at their school and how they focused on building relationships with the kids and then they said that every adult in the.",
+			"id": [94, 95, 96, 97],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "White middle class teachers are placed in areas where they are less well off to try to get more teachers.",
+			"id": [112, 113],
+			"speaker": "0",
+			"phrase": "white middle class"
+		}, {
+			"text": "nerdwallet is a personal finance website and app that helps people make smarter money moves and has new money goals this year whether you want to use credit card points to plan a family.",
+			"id": [102, 103, 104],
+			"speaker": "0",
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"text": "They don't recruit teachers with the same background as the kids they serve roughly half of America's public school kids identify as people of color so I asked her what the organization was doing.",
+			"id": [108, 109, 110, 111],
+			"speaker": "0",
+			"phrase": "the same background"
+		}, {
+			"text": "Over the last six years we have had a core of at least 50 people of color and because we understand the importance of this and have worked really hard to put forward the resources to we a.",
+			"id": [115, 116],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We are trying to figure out how to keep our teachers and students safe at the same time as we are having to recruit in the middle of the season.",
+			"id": [130, 134],
+			"speaker": "1",
+			"phrase": "the middle of the season"
+		}, {
+			"text": "The ground zero is where you can see the inequalities in our kids.",
+			"id": [135],
+			"speaker": "1",
+			"phrase": "the ground zero"
+		}, {
+			"text": "gabby barakat is a junior in college and is interested in pursuing this program post grad but he doesn't know how it works.",
+			"id": [136, 137, 138],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Every core member of our teachers will receive support there are regional supports that ensure that their teachers are successful and their kids are learning from other teachers in their area.",
+			"id": [145, 147],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "One of the big parts of our model is not being really rigorous on the front end because we have a process by which we will do a virtual interview that is few hours long, and we.",
+			"id": [139, 140, 141, 142],
+			"speaker": "1",
+			"phrase": "on the front end because we"
+		}, {
+			"text": "For their kids this school year and half of last year will give them a lot of data and information but they need a device and internet access.",
+			"id": [148, 149, 150],
+			"speaker": "0",
+			"phrase": "this school year and half of last"
+		}, {
+			"text": "The beginning of digital learning and the Pandemic will inform policy decisions going forward.",
+			"id": [151],
+			"speaker": "0",
+			"phrase": "inform policy decisions going forward"
+		}, {
+			"text": "When we sent her to a 21st century global society, what our kids need is to learn critical thinking skills and how to work with people who are different all of these skills have to be.",
+			"id": [157, 158, 162, 164, 165, 166],
+			"speaker": "1",
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "It would be a huge missed opportunity if we tried to go back to how it was.",
+			"id": [153, 154, 155, 156, 160],
+			"speaker": "1",
+			"phrase": "to go back to how it was"
+		}, {
+			"text": "We don't know what jobs they will be doing in 10 years.",
+			"id": [159],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We had to do that in the spring but my kids have been back in school since september and I think its great that parents know what it means to be a teacher having a conversation all across.",
+			"id": [173, 174, 182],
+			"speaker": "1",
+			"phrase": "my kids have been back in school"
+		}, {
+			"text": "I want to lower the pressure because they are easy to get access to.",
+			"id": [181],
+			"speaker": "1",
+			"phrase": "re easy to get access to"
+		}]
+	},
+	"high": {
+		"segments": [{
+			"text": "The founder of ceo of teach for America was interviewed in October of last year.",
+			"id": [6, 7, 8],
+			"duration": "< 1 minute",
+			"sequence": 0,
+			"phrase": "ceo of teach for america"
+		}, {
+			"text": "When my mother came to the united states from Mexico at the age of 17 she married a man with a college degree because she knew her children's lives would be different.",
+			"id": [13, 14, 15, 16],
+			"duration": "< 1 minute",
+			"sequence": 1,
+			"phrase": "came to the united states from mexico at the age of 17"
+		}, {
+			"text": "The only way to get to the other side was to go through it.",
+			"id": [33],
+			"duration": "< 1 minute",
+			"sequence": 2,
+			"phrase": "the only way to get to the other side was to go through it"
+		}, {
+			"text": "I was introduced to how it plays out for kids in my community.",
+			"id": [34],
+			"duration": "< 1 minute",
+			"sequence": 3,
+			"phrase": "how it plays out for kids"
+		}, {
+			"text": "If your mom says the only way through is through, that's the answer.",
+			"id": [39, 40, 41, 42],
+			"duration": "< 1 minute",
+			"sequence": 4,
+			"phrase": "the only way through is through"
+		}, {
+			"text": "The teachers would not be able to teach these children face to face.",
+			"id": [44],
+			"duration": "< 1 minute",
+			"sequence": 5,
+			"phrase": "would not be able to teach these children face to"
+		}, {
+			"text": "The biggest decision we had to make was the fact that most districts don't have the infrastructure to just pivot and how do you take care of the teachers throughout all of this.",
+			"id": [45, 46, 47],
+			"duration": "< 1 minute",
+			"sequence": 6,
+			"phrase": ""
+		}, {
+			"text": "15 to 16 million children don't have access to broadband internet according to many of your teachers.",
+			"id": [56],
+			"duration": "< 1 minute",
+			"sequence": 7,
+			"phrase": "t have access to broadband internet"
+		}, {
+			"text": "Social and emotional wellbeing of our kids is not considered when we think about academics.",
+			"id": [66, 68],
+			"duration": "< 1 minute",
+			"sequence": 8,
+			"phrase": "d when we think about academics"
+		}, {
+			"text": "The status quo isn't helping many kids learn to thrive if we could just send them.",
+			"id": [78, 79, 80, 81, 82, 87, 88, 89, 90, 92, 100, 101],
+			"duration": "2-5 minutes",
+			"sequence": 9,
+			"phrase": "if we could just send"
+		}, {
+			"text": "White middle class teachers are placed in areas that are less well off to try to get more teachers.",
+			"id": [112, 113],
+			"duration": "< 1 minute",
+			"sequence": 10,
+			"phrase": "white middle class"
+		}, {
+			"text": "Nerdwallet is a personal finance website and app that helps people make smarter money moves and has new money goals this year whether you want to use credit card points to plan a family.",
+			"id": [102, 103, 104],
+			"duration": "< 1 minute",
+			"sequence": 11,
+			"phrase": "new money goals this year whether you want to use credit card points to plan a family"
+		}, {
+			"text": "I asked if the organization was recruiting teachers with the same background as the kids they serve.",
+			"id": [108, 109, 110, 111],
+			"duration": "< 1 minute",
+			"sequence": 12,
+			"phrase": "the same background"
+		}, {
+			"text": "We have to recruit in the middle of the season to keep our teachers and students safe.",
+			"id": [130, 134],
+			"duration": "< 1 minute",
+			"sequence": 13,
+			"phrase": "the middle of the season"
+		}, {
+			"text": "The ground zero is where you can see the inequalities in our kids.",
+			"id": [135],
+			"duration": "< 1 minute",
+			"sequence": 14,
+			"phrase": "the ground zero"
+		}, {
+			"text": "Our model is not very strict on the front end because we do a virtual interview in a few hours.",
+			"id": [139, 140, 141, 142],
+			"duration": "< 1 minute",
+			"sequence": 15,
+			"phrase": "on the front end because we"
+		}, {
+			"text": "For their kids this school year and half of last year will give them a lot of data and information but they need a device and internet access.",
+			"id": [148, 149, 150],
+			"duration": "< 1 minute",
+			"sequence": 16,
+			"phrase": "this school year and half of last"
+		}, {
+			"text": "The beginning of digital learning and the Pandemic will inform policy decisions going forward.",
+			"id": [151],
+			"duration": "< 1 minute",
+			"sequence": 17,
+			"phrase": "inform policy decisions going forward"
+		}, {
+			"text": "Our kids need to learn how to work with people who are different when we send her to a 21st century global society.",
+			"id": [157, 158, 162, 164, 165, 166],
+			"duration": "1-2 minutes",
+			"sequence": 18,
+			"phrase": "a 21st century global society"
+		}, {
+			"text": "It would be a missed opportunity to go back to how it was.",
+			"id": [153, 154, 155, 156, 160],
+			"duration": "< 1 minute",
+			"sequence": 19,
+			"phrase": "to go back to how it was"
+		}, {
+			"text": "We had to do that in the spring but my kids have been back in school since september and I think it's great that parents know what it means to be a teacher.",
+			"id": [173, 174, 182],
+			"duration": "1-2 minutes",
+			"sequence": 20,
+			"phrase": "my kids have been back in school"
+		}, {
+			"text": "I want to lower the pressure because they are easy to get access to.",
+			"id": [181],
+			"duration": "< 1 minute",
+			"sequence": 21,
+			"phrase": "re easy to get access to"
+		}]
+	}
+}

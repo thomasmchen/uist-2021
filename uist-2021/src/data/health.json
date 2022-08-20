@@ -1,0 +1,3201 @@
+{
+	"title": "How I Built Resilience: Dr. Iman Abuzeid of Incredible Health",
+	"subtitle": "HOW I BUILT THIS WITH GUY RAZ",
+	"date": "November 25, 202012:01 AM ET",
+	"image": "https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f-s200-c85.webp",
+	"raw": {
+		"segments": [{
+			"id": [0],
+			"speaker": "0",
+			"text": "This message comes from NPR sponsor.",
+			"start": "0.0",
+			"end": "2.3",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [1],
+			"speaker": "0",
+			"text": "Why isn't a one-to-one tutoring alternative to online classes offering live online personalized lessons and more than 300 subjects head to Wy Z AE n t.com because it wise and we take learning personally hate really quick before we start the show the how I built this book is now a New York Times and Wall Street Journal bestseller.",
+			"start": "2.3",
+			"end": "26.0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [2],
+			"speaker": "0",
+			"text": "So thank you to all of you who ordered it and for your support.",
+			"start": "26.3",
+			"end": "29.9",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [3],
+			"speaker": "0",
+			"text": "Support of this show.",
+			"start": "30.0",
+			"end": "31.2",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [4],
+			"speaker": "0",
+			"text": "If you haven't picked it up and you want to learn the secrets of how to develop an entrepreneurial mindset how I built this the book is for you.",
+			"start": "31.4",
+			"end": "39.9",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [5],
+			"speaker": "0",
+			"text": "It's now available wherever books are sold and in most countries around the world or by visiting how I built this.com or guy Roz.com and thanks.",
+			"start": "40.2",
+			"end": "50.8",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [6],
+			"speaker": "0",
+			"text": "Hey everyone, and welcome to how I built this resilience Edition on these episodes were talking with entrepreneurs and other Business Leaders about how they're building resilience into their businesses at this very challenging moment.",
+			"start": "55.9",
+			"end": "67.3",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [7],
+			"speaker": "0",
+			"text": "And today we're going to hear from dr Amano abizaid the co-founder and CEO of incredible Health.",
+			"start": "67.8",
+			"end": "73.2",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [8],
+			"speaker": "0",
+			"text": "It's a digital career platform where nurses create profiles and are matched with hospitals making the hiring and onboarding process much quicker and much more efficient.",
+			"start": "73.5",
+			"end": "84.2",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [9],
+			"speaker": "0",
+			"text": "It's currently being used by Hundreds of leading hospitals across the.",
+			"start": "84.5",
+			"end": "88.0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"id": [10],
+			"speaker": "1",
+			"text": "So hospitals and Health Systems, they use our platform and our custom matching technology to hire permanent nurses in what is 15 days or less right now.",
+			"start": "89.0",
+			"end": "98.8",
+			"phrase": ""
+		}, {
+			"id": [11],
+			"speaker": "1",
+			"text": "Usually the industry average is 90 days.",
+			"start": "99.0",
+			"end": "101.2",
+			"phrase": ""
+		}, {
+			"id": [12],
+			"speaker": "1",
+			"text": "Now.",
+			"start": "101.6",
+			"end": "101.9",
+			"phrase": ""
+		}, {
+			"id": [13],
+			"speaker": "1",
+			"text": "The reason the average is so high at 90 days is because we are experiencing a massive nursing shortage.",
+			"start": "101.9",
+			"end": "107.9",
+			"phrase": ""
+		}, {
+			"id": [14],
+			"speaker": "1",
+			"text": "Even before the pandemic.",
+			"start": "107.9",
+			"end": "109.2",
+			"phrase": ""
+		}, {
+			"id": [15],
+			"speaker": "1",
+			"text": "The shortage was pretty bad and it's now become even worse.",
+			"start": "109.4",
+			"end": "112.7",
+			"phrase": ""
+		}, {
+			"id": [16],
+			"speaker": "1",
+			"text": "So the few unique things about our platform and the way it works is that the hospital's apply to the nurses instead of the other way around and so by flipping it around like that.",
+			"start": "113.0",
+			"end": "122.7",
+			"phrase": ""
+		}, {
+			"id": [17],
+			"speaker": "1",
+			"text": "It's a magical experience for the nurses.",
+			"start": "122.8",
+			"end": "124.8",
+			"phrase": ""
+		}, {
+			"id": [18],
+			"speaker": "1",
+			"text": "They create a profile they sit back and relax and they hear from different employers and they get to choose which interviews to accept or decline and we also use our software and automation to screen the nurses as well as to custom match nurses to the right.",
+			"start": "124.8",
+			"end": "137.4",
+			"phrase": ""
+		}, {
+			"id": [19],
+			"speaker": "0",
+			"text": "to so it's sort of like a job site.",
+			"start": "137.9",
+			"end": "140.1",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"id": [20],
+			"speaker": "0",
+			"text": "But of course the nurses are not applying for jobs.",
+			"start": "140.1",
+			"end": "142.3",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"id": [21],
+			"speaker": "0",
+			"text": "Just putting up a profile.",
+			"start": "142.3",
+			"end": "143.4",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"id": [22],
+			"speaker": "0",
+			"text": "It's sort of like LinkedIn Meats.",
+			"start": "144.0",
+			"end": "145.5",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"id": [23],
+			"speaker": "0",
+			"text": "It's.com and a saint away, I guess right and Hospital, right?",
+			"start": "145.7",
+			"end": "149.1",
+			"phrase": ""
+		}, {
+			"id": [24],
+			"speaker": "0",
+			"text": "I.",
+			"start": "149.1",
+			"end": "149.2",
+			"phrase": ""
+		}, {
+			"id": [25],
+			"speaker": "1",
+			"text": "chief nursing officers refer to us as the match.com of hospitals.",
+			"start": "149.5",
+			"end": "152.8",
+			"phrase": ""
+		}, {
+			"id": [26],
+			"speaker": "0",
+			"text": "nurses all the time.",
+			"start": "153.0",
+			"end": "154.0",
+			"phrase": ""
+		}, {
+			"id": [27],
+			"speaker": "0",
+			"text": "So, yeah.",
+			"start": "154.0",
+			"end": "154.8",
+			"phrase": ""
+		}, {
+			"id": [28],
+			"speaker": "0",
+			"text": "So how does hospitals applying for nurses instead of the other way around help the shortage issue for for both sides our demand for.",
+			"start": "155.1",
+			"end": "164.8",
+			"phrase": ""
+		}, {
+			"id": [29],
+			"speaker": "1",
+			"text": "is a country keeps going up.",
+			"start": "165.2",
+			"end": "166.5",
+			"phrase": ""
+		}, {
+			"id": [30],
+			"speaker": "1",
+			"text": "You know, our population is aging of course pandemics don't help and we just simply don't have enough workers in the system like by 2024.",
+			"start": "166.5",
+			"end": "174.4",
+			"phrase": ""
+		}, {
+			"id": [31],
+			"speaker": "1",
+			"text": "We're going to be 1 million.",
+			"start": "174.4",
+			"end": "175.5",
+			"phrase": ""
+		}, {
+			"id": [32],
+			"speaker": "1",
+			"text": "In nurses short and that shortage just keeps getting worse and worse.",
+			"start": "175.6",
+			"end": "179.2",
+			"phrase": ""
+		}, {
+			"id": [33],
+			"speaker": "1",
+			"text": "Now what's happening inside a hospital or a health system is the way they hire really hasn't changed since the early 90s, right?",
+			"start": "179.3",
+			"end": "185.8",
+			"phrase": "s the way they hire"
+		}, {
+			"id": [34],
+			"speaker": "1",
+			"text": "Like it's post a job and hope something happens.",
+			"start": "185.8",
+			"end": "188.2",
+			"phrase": ""
+		}, {
+			"id": [35],
+			"speaker": "1",
+			"text": "Unfortunately like that process and that kind of outdated technology is not sufficient to operate in such a competitive Talent market like this.",
+			"start": "188.4",
+			"end": "196.5",
+			"phrase": ""
+		}, {
+			"id": [36],
+			"speaker": "1",
+			"text": "That's why by adding the you know, changing the model.",
+			"start": "196.5",
+			"end": "198.8",
+			"phrase": ""
+		}, {
+			"id": [37],
+			"speaker": "1",
+			"text": "So they're applying to the nurses adding the screening adding the custom matching as really accelerated the hiring and why we're used to Over 250 hospitals and Health Systems across the.",
+			"start": "198.8",
+			"end": "208.1",
+			"phrase": "over 250 hospitals and health systems"
+		}, {
+			"id": [38],
+			"speaker": "0",
+			"text": "today.",
+			"start": "208.4",
+			"end": "208.8",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"id": [39],
+			"speaker": "0",
+			"text": "My stepsister is a nurse and this shortage crisis that you mention is obviously an acute crisis before we talk more about you know, how incredible health is kind of streamlining this process.",
+			"start": "209.2",
+			"end": "224.5",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"id": [40],
+			"speaker": "0",
+			"text": "Let's just talk for a moment about this crisis in nursing.",
+			"start": "224.6",
+			"end": "227.5",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"id": [41],
+			"speaker": "0",
+			"text": "I mean, I know maybe people watching don't know you are a Doctor by training your md and also an MBA how do we even begin to change?",
+			"start": "227.5",
+			"end": "235.5",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"id": [42],
+			"speaker": "0",
+			"text": "Change this presumably if to attract more people to the nursing profession, how do you do.",
+			"start": "235.6",
+			"end": "240.4",
+			"phrase": ""
+		}, {
+			"id": [43],
+			"speaker": "1",
+			"text": "Yeah, that's a great question.",
+			"start": "241.3",
+			"end": "242.5",
+			"phrase": "the amount of training"
+		}, {
+			"id": [44],
+			"speaker": "1",
+			"text": "Yes, we have to as a country have to solve the underlying Supply and we need to not only attract more people to the nursing profession.",
+			"start": "242.5",
+			"end": "250.5",
+			"phrase": "the amount of training"
+		}, {
+			"id": [45],
+			"speaker": "1",
+			"text": "But even for the nurses that are graduating we need to expand the amount of training that we have for them as well because there's bottlenecks and in both places.",
+			"start": "251.1",
+			"end": "259.5",
+			"phrase": "the amount of training"
+		}, {
+			"id": [46],
+			"speaker": "1",
+			"text": "There's a few ways to do that.",
+			"start": "259.8",
+			"end": "260.9",
+			"phrase": ""
+		}, {
+			"id": [47],
+			"speaker": "1",
+			"text": "So one is really I guess promoting the profession as a fantastic profession.",
+			"start": "260.9",
+			"end": "265.3",
+			"phrase": "after you complete your"
+		}, {
+			"id": [48],
+			"speaker": "1",
+			"text": "Look at the end of the day.",
+			"start": "265.6",
+			"end": "266.3",
+			"phrase": ""
+		}, {
+			"id": [49],
+			"speaker": "1",
+			"text": "Yes nurses are I think you work a lot, you know, sometimes they do feel underappreciated.",
+			"start": "266.3",
+			"end": "272.3",
+			"phrase": "the amount of training"
+		}, {
+			"id": [50],
+			"speaker": "1",
+			"text": "But this is a relatively high paying profession after you complete your.",
+			"start": "272.3",
+			"end": "276.9",
+			"phrase": "after you complete your"
+		}, {
+			"id": [51],
+			"speaker": "0",
+			"text": "It seems to me that we should pay or subsidize their education that becoming a nurse should essentially.",
+			"start": "278.0",
+			"end": "284.1",
+			"phrase": ""
+		}, {
+			"id": [52],
+			"speaker": "1",
+			"text": "free.",
+			"start": "284.3",
+			"end": "284.8",
+			"phrase": "free continuing education"
+		}, {
+			"id": [53],
+			"speaker": "1",
+			"text": "I hundred percent agree.",
+			"start": "285.0",
+			"end": "286.2",
+			"phrase": "free continuing education"
+		}, {
+			"id": [54],
+			"speaker": "1",
+			"text": "So for incredible Health specifically, you know, we provide free continuing education to every single nurse in the country continuing education is needed to renew and activate their licenses and they usually have to pay out-of-pocket for it, you know just on continuing education which is you know, those are courses that you do after you become a nurse, you know, we figured this is crazy.",
+			"start": "286.2",
+			"end": "305.2",
+			"phrase": "free continuing education"
+		}, {
+			"id": [55],
+			"speaker": "1",
+			"text": "Let's just give it give it away for free.",
+			"start": "305.2",
+			"end": "306.9",
+			"phrase": ""
+		}, {
+			"id": [56],
+			"speaker": "1",
+			"text": "It's a credit in all 50 states and they can just simply get it done inside the incredible health application.",
+			"start": "307.4",
+			"end": "311.9",
+			"phrase": ""
+		}, {
+			"id": [57],
+			"speaker": "1",
+			"text": "So there needs to be more programs like this across the board that essentially make the education and the training of nurses cheaper and cheaper and ideally.",
+			"start": "312.2",
+			"end": "319.9",
+			"phrase": "free continuing education"
+		}, {
+			"id": [58],
+			"speaker": "0",
+			"text": "I just cannot believe that you've packed so much into your life already.",
+			"start": "320.7",
+			"end": "323.7",
+			"phrase": ""
+		}, {
+			"id": [59],
+			"speaker": "0",
+			"text": "You have a medical degree.",
+			"start": "323.7",
+			"end": "325.4",
+			"phrase": ""
+		}, {
+			"id": [60],
+			"speaker": "0",
+			"text": "And an MBA did you by the way did you ever.",
+			"start": "325.7",
+			"end": "327.8",
+			"phrase": ""
+		}, {
+			"id": [61],
+			"speaker": "1",
+			"text": "I actually did not so I finished medical school and I always wanted to make an impact kind of on a more system level and don't get me wrong.",
+			"start": "328.9",
+			"end": "336.7",
+			"phrase": ""
+		}, {
+			"id": [62],
+			"speaker": "1",
+			"text": "Look one on one patient care is amazing, but it's not very scalable things like software and Technology are highly scalable.",
+			"start": "336.7",
+			"end": "343.6",
+			"phrase": ""
+		}, {
+			"id": [63],
+			"speaker": "1",
+			"text": "You can literally transform an entire industry the Genesis of incredible Health came from my background, right?",
+			"start": "343.6",
+			"end": "350.4",
+			"phrase": ""
+		}, {
+			"id": [64],
+			"speaker": "1",
+			"text": "So I am an MD.",
+			"start": "350.4",
+			"end": "352.0",
+			"phrase": ""
+		}, {
+			"id": [65],
+			"speaker": "1",
+			"text": "I have a lot of Hospital friends and family members that are Others as well who are often complaining about understaffing at the same time my co-founder who is a software engineer from MIT Rome portlock.",
+			"start": "352.0",
+			"end": "363.3",
+			"phrase": ""
+		}, {
+			"id": [66],
+			"speaker": "1",
+			"text": "His sisters are nurses and they were saying hey I'm experience and I'm qualified and it still takes me to three months to get my next job.",
+			"start": "363.4",
+			"end": "370.1",
+			"phrase": "sisters are nurses"
+		}, {
+			"id": [67],
+			"speaker": "1",
+			"text": "I applied a 10-15 places.",
+			"start": "370.1",
+			"end": "371.8",
+			"phrase": ""
+		}, {
+			"id": [68],
+			"speaker": "1",
+			"text": "I often don't hear back.",
+			"start": "371.9",
+			"end": "373.2",
+			"phrase": ""
+		}, {
+			"id": [69],
+			"speaker": "1",
+			"text": "This is a very common experience for nurses by the way even today and so we just figured there just has to be an easier way to solve this.",
+			"start": "373.3",
+			"end": "379.3",
+			"phrase": "to be an easier way to solve"
+		}, {
+			"id": [70],
+			"speaker": "0",
+			"text": "So essentially the problem you identified was this kind of the process right of hiring.",
+			"start": "380.3",
+			"end": "385.4",
+			"phrase": ""
+		}, {
+			"id": [71],
+			"speaker": "0",
+			"text": "Nurses was broken, which doesn't make sense, right?",
+			"start": "385.6",
+			"end": "388.3",
+			"phrase": ""
+		}, {
+			"id": [72],
+			"speaker": "0",
+			"text": "Because you would think you know with the shortage and hospitals needing nurses.",
+			"start": "388.3",
+			"end": "391.4",
+			"phrase": ""
+		}, {
+			"id": [73],
+			"speaker": "0",
+			"text": "They would bring them on but hospitals are also big bureaucracies with lots of different challenges.",
+			"start": "391.4",
+			"end": "396.0",
+			"phrase": ""
+		}, {
+			"id": [74],
+			"speaker": "0",
+			"text": "So I guess it does make sense.",
+			"start": "396.0",
+			"end": "398.1",
+			"phrase": ""
+		}, {
+			"id": [75],
+			"speaker": "0",
+			"text": "You identified this problem, which was the hiring the onboarding process and and all the bureaucracy involved you decided to figure out how to streamline it and that was the Genesis of.",
+			"start": "398.5",
+			"end": "411.6",
+			"phrase": "you decided to"
+		}, {
+			"id": [76],
+			"speaker": "1",
+			"text": "Health.",
+			"start": "412.2",
+			"end": "412.6",
+			"phrase": ""
+		}, {
+			"id": [77],
+			"speaker": "1",
+			"text": "That's right, and it's now expanded Beyond just the place where a nurse finds a job.",
+			"start": "413.2",
+			"end": "418.5",
+			"phrase": ""
+		}, {
+			"id": [78],
+			"speaker": "1",
+			"text": "It's a place where he or she manages their career.",
+			"start": "418.5",
+			"end": "420.7",
+			"phrase": ""
+		}, {
+			"id": [79],
+			"speaker": "1",
+			"text": "I mention continuing education earlier.",
+			"start": "421.2",
+			"end": "423.0",
+			"phrase": ""
+		}, {
+			"id": [80],
+			"speaker": "1",
+			"text": "We also have free salary estimators.",
+			"start": "423.0",
+			"end": "425.1",
+			"phrase": ""
+		}, {
+			"id": [81],
+			"speaker": "1",
+			"text": "We have a couple more services that are launching at the end of this year as well.",
+			"start": "425.3",
+			"end": "428.5",
+			"phrase": ""
+		}, {
+			"id": [82],
+			"speaker": "1",
+			"text": "That's exclusively for nurses, you know, so it's really become the place where you know, you can manage your entire career on.",
+			"start": "428.5",
+			"end": "434.3",
+			"phrase": ""
+		}, {
+			"id": [83],
+			"speaker": "0",
+			"text": "Health.",
+			"start": "434.7",
+			"end": "435.1",
+			"phrase": ""
+		}, {
+			"id": [84],
+			"speaker": "0",
+			"text": "Well, I'm wondering him on how does the business model work to hospitals subscribe pay a subscription fee to the site or do they pay, you know, every time They hire somebody you get a fee sort of like Zack docs.",
+			"start": "435.5",
+			"end": "448.3",
+			"phrase": ""
+		}, {
+			"id": [85],
+			"speaker": "1",
+			"text": "Yeah, it's designed as a subscription and within that you know, the hospitals are picking are selecting different tiers that are based on volume, but it's of course a hundred percent free for.",
+			"start": "449.2",
+			"end": "458.2",
+			"phrase": ""
+		}, {
+			"id": [86],
+			"speaker": "0",
+			"text": "nurses when nurses go and work at hospitals.",
+			"start": "458.2",
+			"end": "461.7",
+			"phrase": ""
+		}, {
+			"id": [87],
+			"speaker": "0",
+			"text": "Do they tend to stay at the same hospital for a long time or is there high turnover are they moving around to different.",
+			"start": "461.7",
+			"end": "467.1",
+			"phrase": ""
+		}, {
+			"id": [88],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "468.2",
+			"end": "468.4",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [89],
+			"speaker": "1",
+			"text": "So for our platform specifically we only do permanent workers, right?",
+			"start": "468.4",
+			"end": "471.6",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [90],
+			"speaker": "1",
+			"text": "We don't do any contract workers now look nursing in general.",
+			"start": "471.6",
+			"end": "475.2",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [91],
+			"speaker": "1",
+			"text": "Is known for high turnover, right?",
+			"start": "475.5",
+			"end": "477.2",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [92],
+			"speaker": "1",
+			"text": "So usually it's at 17% as a national annual turnover right now.",
+			"start": "477.2",
+			"end": "482.6",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [93],
+			"speaker": "1",
+			"text": "And so retention is also a Hot Topic and a very important topic for these for these employers as well.",
+			"start": "482.6",
+			"end": "488.9",
+			"phrase": "is known for high turnover"
+		}, {
+			"id": [94],
+			"speaker": "1",
+			"text": "And we'll try to do whatever they can to keep their.",
+			"start": "488.9",
+			"end": "492.6",
+			"phrase": ""
+		}, {
+			"id": [95],
+			"speaker": "0",
+			"text": "So let's go back to the beginning of this year.",
+			"start": "493.0",
+			"end": "495.9",
+			"phrase": ""
+		}, {
+			"id": [96],
+			"speaker": "0",
+			"text": "And what point did you realize that this pandemic was going to be a major problem and that the service you offer was was Actually going to be in.",
+			"start": "495.9",
+			"end": "506.4",
+			"phrase": ""
+		}, {
+			"id": [97],
+			"speaker": "1",
+			"text": "demand.",
+			"start": "506.6",
+			"end": "507.2",
+			"phrase": "s and public health experts around the world"
+		}, {
+			"id": [98],
+			"speaker": "1",
+			"text": "I figured this out put this all together probably in January early February and that was because I was on Twitter and the honesty the most amount of information was coming from epidemiologists and MDS and public health experts around the world because we weren't getting real-time data here in the US.",
+			"start": "507.7",
+			"end": "526.6",
+			"phrase": "s and public health experts around the world"
+		}, {
+			"id": [99],
+			"speaker": "1",
+			"text": "So Twitter was actually the my source for figuring.",
+			"start": "526.6",
+			"end": "529.7",
+			"phrase": "s and public health experts around the world"
+		}, {
+			"id": [100],
+			"speaker": "0",
+			"text": "out.",
+			"start": "529.9",
+			"end": "530.4",
+			"phrase": ""
+		}, {
+			"id": [101],
+			"speaker": "0",
+			"text": "I know you've got a team of about 30 people you're based in San Francisco,.",
+			"start": "530.4",
+			"end": "533.4",
+			"phrase": ""
+		}, {
+			"id": [102],
+			"speaker": "1",
+			"text": "We are headquartered in San Francisco, but our team is in different parts of.",
+			"start": "533.8",
+			"end": "537.2",
+			"phrase": ""
+		}, {
+			"id": [103],
+			"speaker": "0",
+			"text": "country.",
+			"start": "537.3",
+			"end": "537.8",
+			"phrase": ""
+		}, {
+			"id": [104],
+			"speaker": "0",
+			"text": "So when you realize that this was potentially going to be a huge issue.",
+			"start": "538.2",
+			"end": "543.6",
+			"phrase": ""
+		}, {
+			"id": [105],
+			"speaker": "0",
+			"text": "Did you see an immediate spike in demand for your.",
+			"start": "544.1",
+			"end": "547.5",
+			"phrase": ""
+		}, {
+			"id": [106],
+			"speaker": "1",
+			"text": "We did certainly by April there was a spike in demand for specific types of nurses.",
+			"start": "548.4",
+			"end": "553.8",
+			"phrase": "there was a spike in demand for specific types of nurses"
+		}, {
+			"id": [107],
+			"speaker": "1",
+			"text": "If you are an ICU nurse or an ed nurse like that hiring for that like increased like by 3x on our platform like right away and we saw a drop for some of the other Specialties because you know surgeries were getting But since then since July August the demand for every single role has dramatically increased because not only are hospitals operating at full capacity.",
+			"start": "553.8",
+			"end": "575.6",
+			"phrase": "there was a spike in demand for specific types of nurses"
+		}, {
+			"id": [108],
+			"speaker": "1",
+			"text": "They're also dealing with this.",
+			"start": "575.8",
+			"end": "576.8",
+			"phrase": ""
+		}, {
+			"id": [109],
+			"speaker": "0",
+			"text": "So how did you start to position your your company in your business to meet that.",
+			"start": "577.7",
+			"end": "582.8",
+			"phrase": ""
+		}, {
+			"id": [110],
+			"speaker": "1",
+			"text": "So there are few things that we did a few months ago.",
+			"start": "584.1",
+			"end": "587.2",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"id": [111],
+			"speaker": "1",
+			"text": "We launched what we call the pandemic hiring sweet, right and what that is is a range of features and tools that even more dramatically Accelerates the hiring and really helps the hospital's reduce costs because they had gone through some very severe financial hardship.",
+			"start": "587.2",
+			"end": "602.6",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"id": [112],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "602.6",
+			"end": "603.2",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"id": [113],
+			"speaker": "1",
+			"text": "So a couple of the things that we did was we added an automated interview scheduling remote interviewing because that's just what you have to do during a pandemic in-app chat, you know enhanced our matching algorithms all of these with a goal of accelerating the hiring even further.",
+			"start": "603.2",
+			"end": "619.1",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"id": [114],
+			"speaker": "1",
+			"text": "So we got it down to 12 days now and on average we save every hospital that we work with at least two.",
+			"start": "619.1",
+			"end": "625.3",
+			"phrase": ""
+		}, {
+			"id": [115],
+			"speaker": "1",
+			"text": "Million dollars because they dramatically try to reduce their travel nurse costs as well as their overtime and HR.",
+			"start": "625.5",
+			"end": "631.5",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"id": [116],
+			"speaker": "0",
+			"text": "So essentially last year or the year before if you were a nurse using your platform, you would have done an in-person interview.",
+			"start": "632.4",
+			"end": "639.4",
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"id": [117],
+			"speaker": "0",
+			"text": "At least one you would have traveled to the hospital and that of course is as gone away that's gone.",
+			"start": "639.4",
+			"end": "645.6",
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"id": [118],
+			"speaker": "0",
+			"text": "So that's not even a feature anymore.",
+			"start": "646.0",
+			"end": "647.7",
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"id": [119],
+			"speaker": "0",
+			"text": "Now, everything is happening.",
+			"start": "647.7",
+			"end": "649.1",
+			"phrase": ""
+		}, {
+			"id": [120],
+			"speaker": "1",
+			"text": "correct and that has accelerated.",
+			"start": "650.0",
+			"end": "651.7",
+			"phrase": ""
+		}, {
+			"id": [121],
+			"speaker": "0",
+			"text": "process.",
+			"start": "651.8",
+			"end": "652.4",
+			"phrase": ""
+		}, {
+			"id": [122],
+			"speaker": "0",
+			"text": "So now it's meant that the average Hiring period is just 12 days from the time that somebody identifies a nurse they want to the time that nurses offered a.",
+			"start": "652.8",
+			"end": "660.9",
+			"phrase": "e hiring period"
+		}, {
+			"id": [123],
+			"speaker": "1",
+			"text": "from the time the nurse accepts the.",
+			"start": "661.6",
+			"end": "663.0",
+			"phrase": ""
+		}, {
+			"id": [124],
+			"speaker": "0",
+			"text": "Yeah, how are the interviews happening?",
+			"start": "663.6",
+			"end": "665.9",
+			"phrase": ""
+		}, {
+			"id": [125],
+			"speaker": "0",
+			"text": "Do they go through your an interface on your site or is it just like a zoom.",
+			"start": "665.9",
+			"end": "670.1",
+			"phrase": ""
+		}, {
+			"id": [126],
+			"speaker": "1",
+			"text": "Yeah, the first set of interviews are all facilitated through our software and our site and we have automated interview scheduling built-in that requires like 0 integration with hospital it teams so that it was very rapidly adopted by both both the recruiters.",
+			"start": "670.9",
+			"end": "685.2",
+			"phrase": "through our software and our site and we have automated interview scheduling built"
+		}, {
+			"id": [127],
+			"speaker": "0",
+			"text": "Nurses did you build that this.",
+			"start": "685.5",
+			"end": "687.1",
+			"phrase": ""
+		}, {
+			"id": [128],
+			"speaker": "1",
+			"text": "Yeah at the beginning of this year.",
+			"start": "687.8",
+			"end": "689.3",
+			"phrase": "have to accelerate it because"
+		}, {
+			"id": [129],
+			"speaker": "1",
+			"text": "I mean it was in our roadmap.",
+			"start": "689.5",
+			"end": "690.7",
+			"phrase": "have to accelerate it because"
+		}, {
+			"id": [130],
+			"speaker": "1",
+			"text": "We just have to accelerate it because of.",
+			"start": "690.7",
+			"end": "692.2",
+			"phrase": "have to accelerate it because"
+		}, {
+			"id": [131],
+			"speaker": "0",
+			"text": "pandemic.",
+			"start": "692.3",
+			"end": "692.9",
+			"phrase": ""
+		}, {
+			"id": [132],
+			"speaker": "0",
+			"text": "How did you wrap that up?",
+			"start": "693.2",
+			"end": "694.3",
+			"phrase": ""
+		}, {
+			"id": [133],
+			"speaker": "1",
+			"text": "quickly it's just a case of prioritization when it comes to product roadmaps.",
+			"start": "694.5",
+			"end": "698.8",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [134],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "698.8",
+			"end": "699.0",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [135],
+			"speaker": "1",
+			"text": "Like you just kind of shift things around and you prioritize what your customers are most urgently need right away half.",
+			"start": "699.0",
+			"end": "706.5",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [136],
+			"speaker": "1",
+			"text": "Our team is software engineers.",
+			"start": "706.5",
+			"end": "707.9",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [137],
+			"speaker": "1",
+			"text": "And so we are able to ship products.",
+			"start": "708.1",
+			"end": "710.3",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [138],
+			"speaker": "1",
+			"text": "Honestly we ship code every single day and do product launches every single quarter.",
+			"start": "710.7",
+			"end": "715.3",
+			"phrase": "our team is software engineers"
+		}, {
+			"id": [139],
+			"speaker": "0",
+			"text": "so when you release that that's a pretty you know, sophisticated feature right on your site where you can now interface and do an interview through the site when it was initially released was it perfect has it been improved upon was a little glitchy.",
+			"start": "715.8",
+			"end": "729.6",
+			"phrase": ""
+		}, {
+			"id": [140],
+			"speaker": "1",
+			"text": "first?",
+			"start": "729.7",
+			"end": "730.3",
+			"phrase": ""
+		}, {
+			"id": [141],
+			"speaker": "1",
+			"text": "Yeah, of course, it was not perfect.",
+			"start": "730.7",
+			"end": "732.9",
+			"phrase": ""
+		}, {
+			"id": [142],
+			"speaker": "1",
+			"text": "You know that the the priority was to release it fast, even if it was imperfect and then we dramatic, you know, rapidly improved it over.",
+			"start": "733.0",
+			"end": "739.7",
+			"phrase": ""
+		}, {
+			"id": [143],
+			"speaker": "0",
+			"text": "Do you think that that you could have done something like that so quickly Out the urgency of.",
+			"start": "740.3",
+			"end": "747.0",
+			"phrase": ""
+		}, {
+			"id": [144],
+			"speaker": "1",
+			"text": "pandemic honestly, yes, because one of the values of our companies is speed.",
+			"start": "747.1",
+			"end": "752.6",
+			"phrase": ""
+		}, {
+			"id": [145],
+			"speaker": "1",
+			"text": "I just believe one of the only competitive advantages you have as a start-up is you can operate and you can execute far faster than any of your incumbents and anyone else so we generally move as quickly as humanly possible and so the improvements to our platform our rapid even before.",
+			"start": "753.1",
+			"end": "767.9",
+			"phrase": "so we generally move as quickly as"
+		}, {
+			"id": [146],
+			"speaker": "0",
+			"text": "pandemic tell me about your work force.",
+			"start": "768.0",
+			"end": "770.0",
+			"phrase": "a distributed workforce or"
+		}, {
+			"id": [147],
+			"speaker": "0",
+			"text": "I mean you're based in San Francisco, but you've got a distributed Workforce or pre-pandemic where most people coming into an office.",
+			"start": "770.0",
+			"end": "775.3",
+			"phrase": "a distributed workforce or"
+		}, {
+			"id": [148],
+			"speaker": "0",
+			"text": "In San.",
+			"start": "775.4",
+			"end": "775.7",
+			"phrase": "a distributed workforce or"
+		}, {
+			"id": [149],
+			"speaker": "1",
+			"text": "Yeah, so half our team is in San Francisco and we do have an office here in San Francisco, but half the team are on other parts of the US that's been really helpful because we do serve clients, you know all over the country.",
+			"start": "776.3",
+			"end": "787.0",
+			"phrase": "n other parts of the"
+		}, {
+			"id": [150],
+			"speaker": "1",
+			"text": "And of course at the moment, we're fall fully remote.",
+			"start": "787.4",
+			"end": "790.1",
+			"phrase": "n other parts of the"
+		}, {
+			"id": [151],
+			"speaker": "1",
+			"text": "We are going to keep our office.",
+			"start": "790.4",
+			"end": "791.8",
+			"phrase": ""
+		}, {
+			"id": [152],
+			"speaker": "1",
+			"text": "So we're likely going to do this hybrid.",
+			"start": "791.8",
+			"end": "793.8",
+			"phrase": ""
+		}, {
+			"id": [153],
+			"speaker": "0",
+			"text": "So people will kind of work from home or come in a couple days a week depending on how it works for them.",
+			"start": "794.8",
+			"end": "800.3",
+			"phrase": "work from home or come in a"
+		}, {
+			"id": [154],
+			"speaker": "0",
+			"text": "You know, you said half of your Workforce are Engineers, so presumably they are.",
+			"start": "800.8",
+			"end": "805.3",
+			"phrase": ""
+		}, {
+			"id": [155],
+			"speaker": "0",
+			"text": "Kind of self-sufficient but what about the rest of the team?",
+			"start": "805.6",
+			"end": "808.0",
+			"phrase": ""
+		}, {
+			"id": [156],
+			"speaker": "0",
+			"text": "I mean you are the CEO of the company and you know, even the best of employees are it's a challenge this year, right?",
+			"start": "808.0",
+			"end": "814.7",
+			"phrase": ""
+		}, {
+			"id": [157],
+			"speaker": "0",
+			"text": "So there are lots of challenges of people are dealing with whether its family issues or just you know, loneliness and isolation morale.",
+			"start": "814.7",
+			"end": "822.5",
+			"phrase": ""
+		}, {
+			"id": [158],
+			"speaker": "0",
+			"text": "How are you how have you been handling those challenges with.",
+			"start": "822.9",
+			"end": "826.8",
+			"phrase": ""
+		}, {
+			"id": [159],
+			"speaker": "1",
+			"text": "team?",
+			"start": "826.9",
+			"end": "827.3",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [160],
+			"speaker": "1",
+			"text": "You're right.",
+			"start": "827.7",
+			"end": "828.2",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [161],
+			"speaker": "1",
+			"text": "I mean, it's been a very challenging year.",
+			"start": "828.2",
+			"end": "830.3",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [162],
+			"speaker": "1",
+			"text": "Mentally, right?",
+			"start": "831.1",
+			"end": "832.5",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [163],
+			"speaker": "1",
+			"text": "We had done a quick survey of our team and it was like 50% were experiencing some kind of symptoms of anxiety or depression and I think that's pretty common across the board across the country.",
+			"start": "832.8",
+			"end": "842.1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [164],
+			"speaker": "1",
+			"text": "So there were a few things that we did.",
+			"start": "842.8",
+			"end": "844.2",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [165],
+			"speaker": "1",
+			"text": "So the first thing is just in the acknowledgement and communication of the problem everything from just like hey, like we understand everyone's going through a tough time right now and just saying that explicitly and saying that we understand and then also for certain groups of employees like, you know, the parents were they young kids right or the person in an apartment with three other roommates.",
+			"start": "844.2",
+			"end": "863.5",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [166],
+			"speaker": "1",
+			"text": "I mean they were under even And I'll strain and saying that hey it's okay.",
+			"start": "863.6",
+			"end": "868.3",
+			"phrase": ""
+		}, {
+			"id": [167],
+			"speaker": "1",
+			"text": "If we're on a zoom call that your you know, your kids shows up, right that's perfectly acceptable.",
+			"start": "868.3",
+			"end": "872.8",
+			"phrase": ""
+		}, {
+			"id": [168],
+			"speaker": "1",
+			"text": "The second thing we did is just really invest more time on just improving the setup.",
+			"start": "872.9",
+			"end": "876.7",
+			"phrase": ""
+		}, {
+			"id": [169],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "876.7",
+			"end": "877.0",
+			"phrase": ""
+		}, {
+			"id": [170],
+			"speaker": "1",
+			"text": "So everyone got a work from home like stipend to set up their office space and at home for some employees.",
+			"start": "877.0",
+			"end": "883.9",
+			"phrase": ""
+		}, {
+			"id": [171],
+			"speaker": "1",
+			"text": "They did have to like scale back a little bit in terms of their hours and switch from full-time to part-time which is completely understandable.",
+			"start": "883.9",
+			"end": "889.5",
+			"phrase": ""
+		}, {
+			"id": [172],
+			"speaker": "1",
+			"text": "And then the third major thing that we did is just kind of dramatically improve our communication and our As a team in a remote setting so whether it be like our weekly hangouts or coffees that are we do every Friday our game, you know game afternoons, you know, just adding more of these intentional communication touchpoints was was really helpful.",
+			"start": "890.0",
+			"end": "910.7",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"id": [173],
+			"speaker": "0",
+			"text": "well.",
+			"start": "910.9",
+			"end": "911.1",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [174],
+			"speaker": "0",
+			"text": "When we come back in just a moment in my describes.",
+			"start": "912.0",
+			"end": "914.7",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [175],
+			"speaker": "0",
+			"text": "The biggest change has she seen in the healthcare industry during this unprecedented here stay with us.",
+			"start": "914.7",
+			"end": "921.1",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [176],
+			"speaker": "0",
+			"text": "I'm guy Roz and you're listening to how I built this resilience Edition from NPR.",
+			"start": "921.3",
+			"end": "925.3",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [177],
+			"speaker": "0",
+			"text": "r this message comes from NPR sponsor Fidelity Investments introducing Fidelity income planning.",
+			"start": "925.4",
+			"end": "935.4",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [178],
+			"speaker": "0",
+			"text": "They look at how much you've saved how much you'll need and help you build a straightforward plan to generate income.",
+			"start": "935.5",
+			"end": "942.2",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [179],
+			"speaker": "0",
+			"text": "Even when you're not working a plan that gives you the chance to grow your savings and create cash flow that lasts plus you can start stop or adjust your plan at any time talk to Fidelity today so they can help you go from saving to living fidelity.",
+			"start": "942.2",
+			"end": "958.4",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [180],
+			"speaker": "0",
+			"text": "Services member NYSC as IPC.",
+			"start": "958.9",
+			"end": "962.0",
+			"phrase": ""
+		}, {
+			"id": [181],
+			"speaker": "0",
+			"text": "This message comes from NPR sponsor a DP by working with more than eight hundred sixty thousand companies worldwide ADP knows how to help businesses grow stronger, whether it's through Data Insights that help you make informed decisions about building a team that works better as a team or by keeping you ahead of thousands of changing regulations.",
+			"start": "962.4",
+			"end": "982.3",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [182],
+			"speaker": "0",
+			"text": "So you can keep ahead of everything else like building that better team grows stronger with ADP.",
+			"start": "982.3",
+			"end": "988.7",
+			"phrase": ""
+		}, {
+			"id": [183],
+			"speaker": "0",
+			"text": "P HR Talent time and payroll.",
+			"start": "988.9",
+			"end": "991.6",
+			"phrase": ""
+		}, {
+			"id": [184],
+			"speaker": "0",
+			"text": "Hey, welcome back to how I built this resilience Edition and I'm talking with dr Ahmad Abu Zaid the co-founder and CEO of incredible health and she says the health care industry has had to adapt very quickly to meet the increased demand for services during the.",
+			"start": "992.1",
+			"end": "1007.0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"id": [185],
+			"speaker": "1",
+			"text": "The biggest change I've seen is the rapid decision-making and Rapid adoption of whatever solution there is right.",
+			"start": "1008.3",
+			"end": "1015.2",
+			"phrase": "the biggest change"
+		}, {
+			"id": [186],
+			"speaker": "1",
+			"text": "So, you know historically the healthcare industry has just been Known for lots of red tape bureaucracy.",
+			"start": "1015.2",
+			"end": "1021.2",
+			"phrase": "the healthcare industry"
+		}, {
+			"id": [187],
+			"speaker": "1",
+			"text": "Like you can't get anything done fast and this year just like really dramatically changed all of that.",
+			"start": "1021.2",
+			"end": "1027.8",
+			"phrase": "the biggest change"
+		}, {
+			"id": [188],
+			"speaker": "1",
+			"text": "Whether it's the adoption of telemedicine adoption of you know, operational infrastructure, like incredible health and others like it was the speed in which they started to move and operate and make decisions has been we've never seen anything like this.",
+			"start": "1027.8",
+			"end": "1042.8",
+			"phrase": "the biggest change"
+		}, {
+			"id": [189],
+			"speaker": "0",
+			"text": "I've had to consultations with my doctor this year for minor things, you know, like a skin Issue and I got a covid test just at a safety a couple months ago, you know the doctor that I used to go see she was just a remote call and as you know CMS is now reimbursing doctors for consultations with Medicare patients, which is a new feature this year.",
+			"start": "1043.9",
+			"end": "1065.6",
+			"phrase": "like a skin issue and i got a covid test just at a safety a couple months ago,"
+		}, {
+			"id": [190],
+			"speaker": "0",
+			"text": "Do you think telemedicine now is here to stay and will actually be the predominant form of Medical Care in the.",
+			"start": "1065.6",
+			"end": "1075.5",
+			"phrase": ""
+		}, {
+			"id": [191],
+			"speaker": "1",
+			"text": "I think it is here to stay at the end of the day.",
+			"start": "1075.6",
+			"end": "1078.6",
+			"phrase": "focus on customer service"
+		}, {
+			"id": [192],
+			"speaker": "1",
+			"text": "The health care industry as a whole needs to really focus on customer service, which is like basically the patient experience or when you know many phrases for that and if patients are adopting telemedicine and you're going to get reimbursed for it like as you just described then there is no reason why it would not be fully adopted.",
+			"start": "1079.0",
+			"end": "1098.5",
+			"phrase": "focus on customer service"
+		}, {
+			"id": [193],
+			"speaker": "1",
+			"text": "Now.",
+			"start": "1098.5",
+			"end": "1098.6",
+			"phrase": "focus on customer service"
+		}, {
+			"id": [194],
+			"speaker": "1",
+			"text": "There's a few, you know areas that need to get figured out, you know, there are entire communities in the US I don't have access to these devices and don't have internet access and so on so it's not a solution for For everyone and every single location and every person but the adoption of it the dramatic adoption of it is here to.",
+			"start": "1098.6",
+			"end": "1115.1",
+			"phrase": "focus on customer service"
+		}, {
+			"id": [195],
+			"speaker": "0",
+			"text": "anyone who's been to a hospital for any reason knows that you interface mostly with nurses and nurses are the people who make your experience better.",
+			"start": "1116.1",
+			"end": "1124.8",
+			"phrase": ""
+		}, {
+			"id": [196],
+			"speaker": "0",
+			"text": "There's a bunch of questions coming in.",
+			"start": "1126.3",
+			"end": "1127.9",
+			"phrase": ""
+		}, {
+			"id": [197],
+			"speaker": "0",
+			"text": "I'm going to ask this is more of a comment from Petty McLaughlin.",
+			"start": "1127.9",
+			"end": "1130.4",
+			"phrase": ""
+		}, {
+			"id": [198],
+			"speaker": "0",
+			"text": "She says that she is a registered nurse.",
+			"start": "1131.2",
+			"end": "1134.1",
+			"phrase": ""
+		}, {
+			"id": [199],
+			"speaker": "0",
+			"text": "She went through a refresher course at the age of 63, but nobody would Her and she believes it's blatant age discrimination.",
+			"start": "1134.7",
+			"end": "1142.9",
+			"phrase": ""
+		}, {
+			"id": [200],
+			"speaker": "0",
+			"text": "You know, she said she had great references and did really well in a refresher course.",
+			"start": "1144.4",
+			"end": "1147.4",
+			"phrase": ""
+		}, {
+			"id": [201],
+			"speaker": "0",
+			"text": "She got certified in BLS and ACLS.",
+			"start": "1147.4",
+			"end": "1149.6",
+			"phrase": ""
+		}, {
+			"id": [202],
+			"speaker": "0",
+			"text": "I don't know what those mean but you do not pass with flying colors.",
+			"start": "1149.6",
+			"end": "1153.0",
+			"phrase": ""
+		}, {
+			"id": [203],
+			"speaker": "0",
+			"text": "And apparently we're getting a lot of nurses responding to that comment on Facebook or saying yeah same experience.",
+			"start": "1154.2",
+			"end": "1159.2",
+			"phrase": ""
+		}, {
+			"id": [204],
+			"speaker": "0",
+			"text": "First of all, do you think that is a common experience and then the second question I would have is if there's a shortage of nurses now wouldn't hospitals want to hire somebody.",
+			"start": "1159.6",
+			"end": "1168.7",
+			"phrase": ""
+		}, {
+			"id": [205],
+			"speaker": "0",
+			"text": "Like Patty at age.",
+			"start": "1168.8",
+			"end": "1169.7",
+			"phrase": ""
+		}, {
+			"id": [206],
+			"speaker": "1",
+			"text": "Yeah, so unfortunately it is a common experience not only do older nurses get hired less.",
+			"start": "1170.6",
+			"end": "1176.8",
+			"phrase": ""
+		}, {
+			"id": [207],
+			"speaker": "1",
+			"text": "Even if you took a gap from the workforce, right like you have to raise your kids or you know, just had to take a few years off that also reduces your hiring, you know chances and opportunities in your right that is really unfortunate because like there is a dramatic shortage.",
+			"start": "1177.0",
+			"end": "1191.2",
+			"phrase": ""
+		}, {
+			"id": [208],
+			"speaker": "1",
+			"text": "Yeah, and we need we need every able-bodied we can get, you know, a lot of that has to do with just the existing.",
+			"start": "1191.2",
+			"end": "1197.4",
+			"phrase": ""
+		}, {
+			"id": [209],
+			"speaker": "1",
+			"text": "I don't know by Right that just exists among employers today and that's across all Industries.",
+			"start": "1198.1",
+			"end": "1203.0",
+			"phrase": ""
+		}, {
+			"id": [210],
+			"speaker": "1",
+			"text": "Not just Healthcare.",
+			"start": "1203.0",
+			"end": "1203.8",
+			"phrase": ""
+		}, {
+			"id": [211],
+			"speaker": "1",
+			"text": "And so this is one of the really important topic because it's something that we track really carefully because we're a software platform.",
+			"start": "1204.1",
+			"end": "1210.3",
+			"phrase": ""
+		}, {
+			"id": [212],
+			"speaker": "1",
+			"text": "We have so much data on this like I'll give you another example of a human bias that's been introduced or that we noticed.",
+			"start": "1210.3",
+			"end": "1215.9",
+			"phrase": ""
+		}, {
+			"id": [213],
+			"speaker": "1",
+			"text": "We notice that nurses that lived further away from a facility.",
+			"start": "1216.2",
+			"end": "1220.2",
+			"phrase": ""
+		}, {
+			"id": [214],
+			"speaker": "1",
+			"text": "Were less likely to get interview requests on the platform, even though they wanted to you know live in wherever was LA or Dallas or whatever it was and what we did is we just remove the current location of the nurse, right?",
+			"start": "1221.9",
+			"end": "1234.8",
+			"phrase": ""
+		}, {
+			"id": [215],
+			"speaker": "1",
+			"text": "And we just saw that human bias just remove tiles gone, you know hiring in general, you know, we there's a lot of preconceived notions and biases and so on that you have to constantly be addressed in order for it to get better and the great thing about a software platform is going to really highlight this Data at scale and so we can have more.",
+			"start": "1235.1",
+			"end": "1253.1",
+			"phrase": "in order for it to get better"
+		}, {
+			"id": [216],
+			"speaker": "0",
+			"text": "discussions about it.",
+			"start": "1253.4",
+			"end": "1254.3",
+			"phrase": ""
+		}, {
+			"id": [217],
+			"speaker": "0",
+			"text": "Could you also remove H from the.",
+			"start": "1254.4",
+			"end": "1256.5",
+			"phrase": ""
+		}, {
+			"id": [218],
+			"speaker": "1",
+			"text": "the tough thing with age is that you know work experience of course is required.",
+			"start": "1257.5",
+			"end": "1261.0",
+			"phrase": ""
+		}, {
+			"id": [219],
+			"speaker": "1",
+			"text": "And so absolutely age is not part of the nurse profile but work experience is and so sometimes you know employers can tell.",
+			"start": "1261.0",
+			"end": "1268.5",
+			"phrase": ""
+		}, {
+			"id": [220],
+			"speaker": "0",
+			"text": "that.",
+			"start": "1268.6",
+			"end": "1269.1",
+			"phrase": "a nurse just out of"
+		}, {
+			"id": [221],
+			"speaker": "0",
+			"text": "I mean, I would rather have a 63 year old nurse than a nurse just out of nursing is not to say that a nurse out of nursing school isn't great.",
+			"start": "1269.1",
+			"end": "1275.1",
+			"phrase": "a nurse just out of"
+		}, {
+			"id": [222],
+			"speaker": "0",
+			"text": "But I mean a 63 year old nurse or 65 year old nurse is coming with Decades of experience.",
+			"start": "1275.1",
+			"end": "1279.7",
+			"phrase": "a nurse just out of"
+		}, {
+			"id": [223],
+			"speaker": "0",
+			"text": "I mean to To me it would seem like a no-brainer that you would want somebody with that experience at.",
+			"start": "1279.7",
+			"end": "1284.4",
+			"phrase": ""
+		}, {
+			"id": [224],
+			"speaker": "1",
+			"text": "hospital.",
+			"start": "1284.5",
+			"end": "1285.1",
+			"phrase": ""
+		}, {
+			"id": [225],
+			"speaker": "1",
+			"text": "And you do look and that's not to say that older nurses.",
+			"start": "1285.3",
+			"end": "1288.1",
+			"phrase": ""
+		}, {
+			"id": [226],
+			"speaker": "1",
+			"text": "Don't get hired.",
+			"start": "1288.1",
+			"end": "1288.7",
+			"phrase": ""
+		}, {
+			"id": [227],
+			"speaker": "1",
+			"text": "Look there is a huge cohort nurses that is approaching retirement, which isn't going to be enough add another string when they do retire.",
+			"start": "1288.7",
+			"end": "1295.4",
+			"phrase": ""
+		}, {
+			"id": [228],
+			"speaker": "1",
+			"text": "So regardless of what age you're at like nurses are needed whether you're a new graduate 10 years experience 30 years experience you're needed.",
+			"start": "1295.7",
+			"end": "1303.0",
+			"phrase": ""
+		}, {
+			"id": [229],
+			"speaker": "0",
+			"text": "Here's a question from Mark Monroe.",
+			"start": "1303.8",
+			"end": "1305.2",
+			"phrase": ""
+		}, {
+			"id": [230],
+			"speaker": "0",
+			"text": "It's more asking you to put on your entrepreneurs hat for a moment.",
+			"start": "1305.2",
+			"end": "1308.2",
+			"phrase": ""
+		}, {
+			"id": [231],
+			"speaker": "0",
+			"text": "He writes as someone who's built a In platform.",
+			"start": "1309.1",
+			"end": "1311.8",
+			"phrase": ""
+		}, {
+			"id": [232],
+			"speaker": "0",
+			"text": "I'm wondering what your mm on what your best interview.",
+			"start": "1312.0",
+			"end": "1315.0",
+			"phrase": ""
+		}, {
+			"id": [233],
+			"speaker": "1",
+			"text": "are.",
+			"start": "1315.7",
+			"end": "1316.1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [234],
+			"speaker": "1",
+			"text": "Oh, that's that's a great question.",
+			"start": "1316.5",
+			"end": "1318.7",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [235],
+			"speaker": "1",
+			"text": "So well, there's interview practices for nurses specifically and then interview practices for technology workers and solve this answer and two different ways.",
+			"start": "1319.4",
+			"end": "1327.7",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [236],
+			"speaker": "1",
+			"text": "So in terms of interview practices when we're hiring for our team, the most critical thing is to get phrases like cultural fit and like my gut feeling these kinds of phrases needs to be removed from any High early process.",
+			"start": "1327.7",
+			"end": "1340.6",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [237],
+			"speaker": "1",
+			"text": "Totally that's their nonsense.",
+			"start": "1340.9",
+			"end": "1342.7",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [238],
+			"speaker": "1",
+			"text": "They're not complete nonsense.",
+			"start": "1342.7",
+			"end": "1344.1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [239],
+			"speaker": "1",
+			"text": "Right?",
+			"start": "1344.1",
+			"end": "1344.3",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [240],
+			"speaker": "1",
+			"text": "So what we've done is like really have improved on this and like got really diligent with our hiring process.",
+			"start": "1344.3",
+			"end": "1349.6",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [241],
+			"speaker": "1",
+			"text": "So every single interviewer has specific questions that they must ask like literally there's a guide and they have to follow the guide right the weight the rubrics that the interviewers fill out afterwards are very very regimented.",
+			"start": "1349.9",
+			"end": "1362.3",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [242],
+			"speaker": "1",
+			"text": "We do training for the interviewers as well.",
+			"start": "1362.3",
+			"end": "1364.6",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [243],
+			"speaker": "1",
+			"text": "And then we think through a hiring process is not just like asking behavioral questions, but you have to ask case studies or you doing Sanitation to kind of test like a range of different skills.",
+			"start": "1364.9",
+			"end": "1373.8",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [244],
+			"speaker": "1",
+			"text": "Now for nurses specifically, I don't think nurses should assume because they're very experienced that they know how to interview and we've seen it time and time again that you know, very experienced nurses can sometimes bomb interviews.",
+			"start": "1374.2",
+			"end": "1386.0",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"id": [245],
+			"speaker": "1",
+			"text": "And so we have put together pretty detailed interview preparation and guides that are available on our site and free to everyone that have with the do's and don'ts for a nurse interviewing everything from like, you know, don't bash your former employer.",
+			"start": "1386.2",
+			"end": "1397.9",
+			"phrase": ""
+		}, {
+			"id": [246],
+			"speaker": "1",
+			"text": "Don't say you're looking for the job because of money should be saying it's because it's about patient care and you know, just things like that.",
+			"start": "1398.3",
+			"end": "1404.3",
+			"phrase": ""
+		}, {
+			"id": [247],
+			"speaker": "1",
+			"text": "You just need to present yourself in an extremely.",
+			"start": "1404.3",
+			"end": "1406.5",
+			"phrase": ""
+		}, {
+			"id": [248],
+			"speaker": "0",
+			"text": "way him on.",
+			"start": "1407.0",
+			"end": "1407.8",
+			"phrase": ""
+		}, {
+			"id": [249],
+			"speaker": "0",
+			"text": "How do you and I'm sorry.",
+			"start": "1407.8",
+			"end": "1409.8",
+			"phrase": ""
+		}, {
+			"id": [250],
+			"speaker": "0",
+			"text": "I keep calling you Mom.",
+			"start": "1409.8",
+			"end": "1410.7",
+			"phrase": ""
+		}, {
+			"id": [251],
+			"speaker": "0",
+			"text": "I should be calling you.",
+			"start": "1410.7",
+			"end": "1411.3",
+			"phrase": ""
+		}, {
+			"id": [252],
+			"speaker": "0",
+			"text": "Dr.",
+			"start": "1411.3",
+			"end": "1411.6",
+			"phrase": ""
+		}, {
+			"id": [253],
+			"speaker": "0",
+			"text": "I was Aid.",
+			"start": "1411.6",
+			"end": "1412.3",
+			"phrase": ""
+		}, {
+			"id": [254],
+			"speaker": "1",
+			"text": "know please that's totally fine.",
+			"start": "1412.4",
+			"end": "1414.5",
+			"phrase": ""
+		}, {
+			"id": [255],
+			"speaker": "1",
+			"text": "How do.",
+			"start": "1414.9",
+			"end": "1415.5",
+			"phrase": ""
+		}, {
+			"id": [256],
+			"speaker": "0",
+			"text": "prevent or as best you can systemic bias and hiring the nurses come from diverse backgrounds and there's incredible need for example nurses who are bilingual who speak Spanish etcetera.",
+			"start": "1417.2",
+			"end": "1430.7",
+			"phrase": "who speak spanish"
+		}, {
+			"id": [257],
+			"speaker": "0",
+			"text": "But how do you build in barriers to prevent the kinds of bias that that happened in the.",
+			"start": "1431.0",
+			"end": "1438.0",
+			"phrase": ""
+		}, {
+			"id": [258],
+			"speaker": "1",
+			"text": "process?",
+			"start": "1438.3",
+			"end": "1438.8",
+			"phrase": ""
+		}, {
+			"id": [259],
+			"speaker": "1",
+			"text": "Yeah, that's great.",
+			"start": "1439.5",
+			"end": "1440.7",
+			"phrase": ""
+		}, {
+			"id": [260],
+			"speaker": "1",
+			"text": "Great question.",
+			"start": "1440.7",
+			"end": "1441.3",
+			"phrase": ""
+		}, {
+			"id": [261],
+			"speaker": "1",
+			"text": "I mean look there's there's several tactics for addressing bias.",
+			"start": "1441.3",
+			"end": "1444.9",
+			"phrase": ""
+		}, {
+			"id": [262],
+			"speaker": "1",
+			"text": "But a huge one is just acknowledging it and measuring it right.",
+			"start": "1444.9",
+			"end": "1448.8",
+			"phrase": ""
+		}, {
+			"id": [263],
+			"speaker": "1",
+			"text": "So there's a whole set of best practices around just measuring your entire funnel how your sourcing and like almost like tagging every candidate that's coming through based on some kind of demographic data, right and then that way you can quickly based on the data acknowledge and realize where the bias is happening after getting that information, you know, then it's time to implement some best practices to reduce the bias that could just simply be training that's needed for the interviewers that could be, you know, completely adjusting your sourcing methodology and like attracting candidates from different from different sources, you know for incredible Health specifically, there's a few things that we do for example nurses can pick avatars instead of their All pictures if they don't want to kind of reveal how they look we absolutely do a random sort inside the application on the employer side.",
+			"start": "1448.8",
+			"end": "1500.1",
+			"phrase": ""
+		}, {
+			"id": [264],
+			"speaker": "1",
+			"text": "The nurses are randomly listed.",
+			"start": "1500.4",
+			"end": "1502.2",
+			"phrase": ""
+		}, {
+			"id": [265],
+			"speaker": "1",
+			"text": "So everyone has equal opportunity to interview requests, you know, there's a few other things that we do to kind of constantly reduce the bias that can be.",
+			"start": "1502.3",
+			"end": "1510.0",
+			"phrase": ""
+		}, {
+			"id": [266],
+			"speaker": "0",
+			"text": "and you can imagine working with like social scientists for example to experiment with you know, not using names for example, because as you know names are often Source of bias, right?",
+			"start": "1510.7",
+			"end": "1522.3",
+			"phrase": ""
+		}, {
+			"id": [267],
+			"speaker": "0",
+			"text": "It's often where the.",
+			"start": "1522.3",
+			"end": "1523.3",
+			"phrase": ""
+		}, {
+			"id": [268],
+			"speaker": "1",
+			"text": "begins we've tried, you know, removing names even removing pictures the number of interview requests.",
+			"start": "1523.6",
+			"end": "1529.9",
+			"phrase": ""
+		}, {
+			"id": [269],
+			"speaker": "1",
+			"text": "You receive drops.",
+			"start": "1529.9",
+			"end": "1531.3",
+			"phrase": ""
+		}, {
+			"id": [270],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1531.3",
+			"end": "1531.6",
+			"phrase": ""
+		}, {
+			"id": [271],
+			"speaker": "1",
+			"text": "There's something about software.",
+			"start": "1531.7",
+			"end": "1533.2",
+			"phrase": ""
+		}, {
+			"id": [272],
+			"speaker": "1",
+			"text": "We're like, it's there's like almost like a human connection that you're trying to enable and inside a software platform things like names and.",
+			"start": "1533.2",
+			"end": "1541.8",
+			"phrase": "almost like a human connection"
+		}, {
+			"id": [273],
+			"speaker": "0",
+			"text": "enable.",
+			"start": "1542.2",
+			"end": "1542.7",
+			"phrase": ""
+		}, {
+			"id": [274],
+			"speaker": "0",
+			"text": "I mean, how do you think that this year has changed your company's overall.",
+			"start": "1543.2",
+			"end": "1548.2",
+			"phrase": ""
+		}, {
+			"id": [275],
+			"speaker": "1",
+			"text": "It's changed our strategy in a few ways.",
+			"start": "1549.7",
+			"end": "1551.4",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"id": [276],
+			"speaker": "1",
+			"text": "So one in terms of just we talk about the product changes as a dramatically reprioritize and reconfigure things and and really double down on what's it going to take to help hospitals and nurses find each other faster and interview remotely and just and dramatically reduce the cost for the hospitals to the other thing that's changed is just like where we expand geographically, you know, when the pandemic first hit in, you know, April, you know, we just have to delay all our New York expansion plans basically, right?",
+			"start": "1551.4",
+			"end": "1579.2",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"id": [277],
+			"speaker": "1",
+			"text": "And as a pandemic has spread throughout the country we had to adjust where are different expansion plans at this point.",
+			"start": "1579.6",
+			"end": "1586.9",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"id": [278],
+			"speaker": "1",
+			"text": "Also and Health Systems have honestly become quite accustomed to the pandemic and they're very prepared and they have the, you know, the personal protective equipment and they've they're making a justments needed and they're not just a lot better prepared now, so we haven't we've been able to kind of really roll out our Geographic expansion plans as.",
+			"start": "1586.9",
+			"end": "1602.5",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"id": [279],
+			"speaker": "0",
+			"text": "last question for you.",
+			"start": "1603.7",
+			"end": "1604.4",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"id": [280],
+			"speaker": "0",
+			"text": "Mine.",
+			"start": "1604.4",
+			"end": "1604.6",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"id": [281],
+			"speaker": "0",
+			"text": "I'm going to ask you again to put on your entrepreneurs hat for someone watching this who's looking at you now an MD and MBA from Wharton, I believe you are the child of immigrants.",
+			"start": "1604.6",
+			"end": "1614.5",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"id": [282],
+			"speaker": "0",
+			"text": "Am I right about that?",
+			"start": "1614.5",
+			"end": "1615.4",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"id": [283],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1615.4",
+			"end": "1616.2",
+			"phrase": ""
+		}, {
+			"id": [284],
+			"speaker": "0",
+			"text": "Yes.",
+			"start": "1616.3",
+			"end": "1616.7",
+			"phrase": ""
+		}, {
+			"id": [285],
+			"speaker": "0",
+			"text": "I think your parents came from Sudan.",
+			"start": "1617.4",
+			"end": "1618.9",
+			"phrase": ""
+		}, {
+			"id": [286],
+			"speaker": "0",
+			"text": "Is that right?",
+			"start": "1618.9",
+			"end": "1619.4",
+			"phrase": ""
+		}, {
+			"id": [287],
+			"speaker": "0",
+			"text": "That's correct.",
+			"start": "1619.5",
+			"end": "1620.1",
+			"phrase": ""
+		}, {
+			"id": [288],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1620.1",
+			"end": "1620.4",
+			"phrase": ""
+		}, {
+			"id": [289],
+			"speaker": "0",
+			"text": "So if somebody somebody looking at you now and you know looking at you as somebody who's inspiring them do you think it's a good time right now to start a business or maybe to go to business school or to you know to dive into this uncertain world of.",
+			"start": "1620.4",
+			"end": "1635.9",
+			"phrase": ""
+		}, {
+			"id": [290],
+			"speaker": "1",
+			"text": "Okay, so obviously I'm heavily by Steer but an opinion I have is the epitome of what you can do with your business career is to start a company and that's just nothing out a fact that's an opinion the the excitement the learning the skill development that comes from entrepreneurship is is dramatic.",
+			"start": "1637.4",
+			"end": "1654.9",
+			"phrase": "is the epitome of what you can do with your business career"
+		}, {
+			"id": [291],
+			"speaker": "1",
+			"text": "Now, of course with that comes an intense amount of resilience is needed and you know, you got to manage your mental health pretty carefully as well.",
+			"start": "1654.9",
+			"end": "1662.3",
+			"phrase": "is the epitome of what you can do with your business career"
+		}, {
+			"id": [292],
+			"speaker": "1",
+			"text": "But it's the quickest way to learn as much as possible and sometimes As we need to you know, evaluate the risk and the perceived risk a little more carefully.",
+			"start": "1662.5",
+			"end": "1674.2",
+			"phrase": "is the epitome of what you can do with your business career"
+		}, {
+			"id": [293],
+			"speaker": "1",
+			"text": "It's not you know, there have been a lot of layoffs this year.",
+			"start": "1674.3",
+			"end": "1676.9",
+			"phrase": ""
+		}, {
+			"id": [294],
+			"speaker": "1",
+			"text": "So like just working a normal job is not necessarily like foolproof either.",
+			"start": "1676.9",
+			"end": "1680.1",
+			"phrase": ""
+		}, {
+			"id": [295],
+			"speaker": "1",
+			"text": "So yeah, I highly.",
+			"start": "1680.1",
+			"end": "1681.9",
+			"phrase": ""
+		}]
+	},
+	"low": {
+		"segments": [{
+			"text": "This message comes from the sponsor of the show, who said that one to one tutoring is an alternative to online classes that offer live online personalized lessons and more than 300 subjects.",
+			"id": [0, 1],
+			"speaker": "0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "If you haven't picked up the show yet, I would like to thank you for your support and for ordering the book so that you can learn the secrets of how to develop an entrepreneurial.",
+			"id": [2, 3, 4, 5],
+			"speaker": "0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "I spoke with entrepreneurs and other business leaders about how to build resilience in their businesses.",
+			"id": [6],
+			"speaker": "0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "The co founder and ceo of incredible health is going to tell me about a digital career platform where nurses create profiles and are matched with hospitals.",
+			"id": [7, 8, 9],
+			"speaker": "0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "Hospitals and health systems use our platform to hire permanent nurses in 15 days or less because of the nursing shortage.",
+			"id": [10, 11, 12, 13],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The only unique thing about our platform is that hospitals apply to the nurses.",
+			"id": [16],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We use our software and automation to screen the nurses as well as to custom match nurses to the right.",
+			"id": [17, 18],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The nurses are not applying for jobs just putting up a profile.",
+			"id": [19, 20, 21, 22],
+			"speaker": "0",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"text": "I think it's itscom and a saint away.",
+			"id": [23],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The matchcom of hospitals is the chief nursing officers.",
+			"id": [25],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Hospitals applying for nurses help with the shortage issue.",
+			"id": [28],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "We don't have enough workers to keep up with the aging population.",
+			"id": [30],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The shortage of nurses is getting worse and worse.",
+			"id": [32],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Since the early 90s the way they hire has not changed.",
+			"id": [33],
+			"speaker": "1",
+			"phrase": "s the way they hire"
+		}, {
+			"text": "In a competitive talent market, outdated technology is not enough.",
+			"id": [35],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Over 250 hospitals and health systems used custom matching and screening to hire.",
+			"id": [37],
+			"speaker": "1",
+			"phrase": "over 250 hospitals and health systems"
+		}, {
+			"text": "My stepsister is a nurse and this shortage crisis that you mention is obviously an acute crisis before we talk more about it.",
+			"id": [38, 39, 40, 41],
+			"speaker": "0",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"text": "How do you attract more people to the nursing profession?",
+			"id": [42],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "We have to solve the underlying supply and we need to expand the amount of training that we have for the nurses that are graduating because there is a shortage.",
+			"id": [43, 44, 45],
+			"speaker": "1",
+			"phrase": "the amount of training"
+		}, {
+			"text": "The profession is promoted as a fantastic profession.",
+			"id": [47],
+			"speaker": "1",
+			"phrase": "after you complete your"
+		}, {
+			"text": "Sometimes nurses feelunderappreciated because they work so much.",
+			"id": [49],
+			"speaker": "1",
+			"phrase": "the amount of training"
+		}, {
+			"text": "After you complete your studies, this is a high paying profession.",
+			"id": [50],
+			"speaker": "1",
+			"phrase": "after you complete your"
+		}, {
+			"text": "I think becoming a nurse should be paid for.",
+			"id": [51],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "For incredible health, we provide free continuing education to every single nurse in the country, and they usually have to pay out of pocket for it, because they need it to renew their licenses,.",
+			"id": [52, 53, 54],
+			"speaker": "1",
+			"phrase": "free continuing education"
+		}, {
+			"text": "The education and training of nurses needs more programs like this.",
+			"id": [57],
+			"speaker": "1",
+			"phrase": "free continuing education"
+		}, {
+			"text": "Did you ever think that you have packed so much into your life?",
+			"id": [58, 59, 60],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "My sisters are nurses so I have to wait three months for my next job.",
+			"id": [66],
+			"speaker": "1",
+			"phrase": "sisters are nurses"
+		}, {
+			"text": "We thought there had to be an easier way to solve it.",
+			"id": [69],
+			"speaker": "1",
+			"phrase": "to be an easier way to solve"
+		}, {
+			"text": "Hospitals are big and bureaucratic and the process of hiring nurses is broken because of the shortage.",
+			"id": [70, 71, 72, 73],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You decided to simplify the hiring process after finding a problem.",
+			"id": [75],
+			"speaker": "0",
+			"phrase": "you decided to"
+		}, {
+			"text": "It now includes a place for a nurse to manage their career as well as a couple more services that are launching.",
+			"id": [76, 77, 78, 79, 80, 81],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Do hospitals pay a subscription fee to the site or do they charge a fee every time they hire someone?",
+			"id": [84],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The hospitals pick different tiers based on volume so it is a subscription.",
+			"id": [85],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Do nurses stay at the same hospital for a long time when they go somewhere else?",
+			"id": [86, 87],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Retention is a very important topic for these employers because nursing is known for high turnover and so it's a hot topic right now.",
+			"id": [88, 89, 90, 91, 92, 93],
+			"speaker": "1",
+			"phrase": "is known for high turnover"
+		}, {
+			"text": "Did you know that the service would be a problem?",
+			"id": [96],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The most amount of information was coming from epidemiologists and public health experts around the world because we weren't getting real time data here in the us.",
+			"id": [97, 98, 99],
+			"speaker": "1",
+			"phrase": "s and public health experts around the world"
+		}, {
+			"text": "There is a group of people in San Francisco.",
+			"id": [101],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Our team is in different parts of the country.",
+			"id": [102],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "This was going to be a huge issue.",
+			"id": [104],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "There was a spike in demand for specific types of nurses if you are an icu nurse or ed nurse, and we saw a drop for some of the other specialties.",
+			"id": [106, 107],
+			"speaker": "1",
+			"phrase": "there was a spike in demand for specific types of nurses"
+		}, {
+			"text": "How did you get your company in your business?",
+			"id": [109],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "There are few things that we did a few months ago but one of them is called the Pandemic hiring sweet which is a range of features and tools that help hospitals.",
+			"id": [110, 111],
+			"speaker": "1",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"text": "We added an automated interview scheduling option because it's what you have to do during a pandemic in app chat and we enhanced our matching algorithm with a goal of speeding up the hiring.",
+			"id": [112, 113],
+			"speaker": "1",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"text": "We were able to get it down to 12 days.",
+			"id": [114],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "They try to reduce their travel nurse costs.",
+			"id": [115],
+			"speaker": "1",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"text": "If you were a nurse using your platform, you would do an in person interview at least one time if you traveled to the hospital, but that is no longer a feature.",
+			"id": [116, 117, 118],
+			"speaker": "0",
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"text": "The hiring period for a nurse is usually just 12 days.",
+			"id": [122],
+			"speaker": "0",
+			"phrase": "e hiring period"
+		}, {
+			"text": "Do the interviews go through your website interface?",
+			"id": [124, 125],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The first set of interviews are done through our software and our site and we have automated interview scheduling built in that requires 0 integration with the hospital.",
+			"id": [126],
+			"speaker": "1",
+			"phrase": "through our software and our site and we have automated interview scheduling built"
+		}, {
+			"text": "We have to accelerate it because it was in our plan at the beginning of the year.",
+			"id": [128, 129, 130],
+			"speaker": "1",
+			"phrase": "have to accelerate it because"
+		}, {
+			"text": "Half of our team is software engineers so we prioritize what our customers need the most right away.",
+			"id": [133, 134, 135, 136, 137, 138],
+			"speaker": "1",
+			"phrase": "our team is software engineers"
+		}, {
+			"text": "When you release a feature like that on your site, you know it's sophisticated, but has it been improved upon?",
+			"id": [139],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "We dramatically improved it even if it was not perfect.",
+			"id": [140, 141, 142],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Do you think you could have done it quickly?",
+			"id": [143],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "One of the advantages of being a start up is that you can operate and execute quickly so we generally move as quickly as possible and the improvements to our platform even before that.",
+			"id": [145],
+			"speaker": "1",
+			"phrase": "so we generally move as quickly as"
+		}, {
+			"text": "I want to know if you have a distributed workforce or a pre-pandemic one.",
+			"id": [146, 147, 148],
+			"speaker": "0",
+			"phrase": "a distributed workforce or"
+		}, {
+			"text": "We have an office in other parts of the country which has been helpful because we serve clients all over the nation.",
+			"id": [149, 150],
+			"speaker": "1",
+			"phrase": "n other parts of the"
+		}, {
+			"text": "People will work from home or come in a few days a week.",
+			"id": [153],
+			"speaker": "0",
+			"phrase": "work from home or come in a"
+		}, {
+			"text": "Half of your workforce are engineers so presumably they are self sufficient but what about the rest of the team?",
+			"id": [154, 155, 156],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "50 of our team were experiencing some kind of symptoms of anxiety or depression, so there were a few things that we had to address.",
+			"id": [159, 160, 161, 162, 163, 164],
+			"speaker": "1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "The first thing is acknowledgement and communication of the problem from saying that we understand everyone going through a tough time right now and also for certain groups of employees like the parents were young.",
+			"id": [165],
+			"speaker": "1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "The second thing we did was just really invest more time on just improving the setup because they were under even strain.",
+			"id": [166, 167, 168, 169],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Everyone got a work from home stipend to set up their office space and for some employees they had to scale back their hours and switch from full time to part time which is understandable.",
+			"id": [170, 171],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The third major thing that we did was to dramatically improve our communication and our as a team in a remote setting.",
+			"id": [172],
+			"speaker": "1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "The biggest change she has seen in the healthcare industry is when we come back in just a moment.",
+			"id": [173, 174, 175, 176, 177],
+			"speaker": "0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "They look at how much you have saved and help you build a plan that will allow you to grow your savings and make money.",
+			"id": [178, 179],
+			"speaker": "0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "The message comes from a dp who knows how to help businesses grow stronger by using data insights and keeping them ahead of thousands of competitors.",
+			"id": [181],
+			"speaker": "0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "According to the co founder of incredible health, the health care industry has had to adapt quickly to meet increased demand.",
+			"id": [184],
+			"speaker": "0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "Rapid decision making has been the biggest change.",
+			"id": [185],
+			"speaker": "1",
+			"phrase": "the biggest change"
+		}, {
+			"text": "There is a lot of red tape in the healthcare industry.",
+			"id": [186],
+			"speaker": "1",
+			"phrase": "the healthcare industry"
+		}, {
+			"text": "You can't get anything done fast this year.",
+			"id": [187],
+			"speaker": "1",
+			"phrase": "the biggest change"
+		}, {
+			"text": "The speed at which they started to move and operate and make decisions has never been seen before.",
+			"id": [188],
+			"speaker": "1",
+			"phrase": "the biggest change"
+		}, {
+			"text": "I had a consultation with my doctor this year for things like a skin issue and I got a covid test just at a safety a couple months ago, she was just a remote call.",
+			"id": [189],
+			"speaker": "0",
+			"phrase": "like a skin issue and i got a covid test just at a safety a couple months ago,"
+		}, {
+			"text": "Is it the main form of medical care in the future?",
+			"id": [190],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "The health care industry as a whole needs to focus on customer service in order to get reimbursed for it, and if patients are using telemedicine, you'll get paid for that as well.",
+			"id": [191, 192],
+			"speaker": "1",
+			"phrase": "focus on customer service"
+		}, {
+			"text": "There are a few areas that need to be figured out and it's not a solution for everyone and every single location and person but the adoption of it.",
+			"id": [193, 194],
+			"speaker": "1",
+			"phrase": "focus on customer service"
+		}, {
+			"text": "If you've been to a hospital before, you know that the people who make your experience better are the nurses and other staff.",
+			"id": [195, 196, 197, 198],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You don't pass with flying colors.",
+			"id": [202],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "A lot of nurses said the same thing.",
+			"id": [203],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If there is a shortage of nurses, wouldn't hospitals want to hire someone?",
+			"id": [204],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If you take a gap from the workforce like you have to raise your kids or you just took a few years off that reduces your hiring.",
+			"id": [207],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We need every able body that we can get.",
+			"id": [208],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I don't know if it exists among employers today, but it is something that we track very carefully, because we have so much data on this, and we can give you an example.",
+			"id": [209, 210, 211, 212],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Even though they wanted to live there, nurses who lived further away were less likely to get interview requests on the platform.",
+			"id": [213, 214],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "You have to constantly be addressed in order for it to get better and the great thing about a software platform is that it will highlight this.",
+			"id": [215],
+			"speaker": "1",
+			"phrase": "in order for it to get better"
+		}, {
+			"text": "You know work experience is required with age.",
+			"id": [218],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Work experience is not part of the nurse profile.",
+			"id": [219],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I am not saying that having a nurse just out of school is a bad thing.",
+			"id": [220, 221, 222],
+			"speaker": "0",
+			"phrase": "a nurse just out of"
+		}, {
+			"text": "A large group of nurses are going to retire.",
+			"id": [227],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "If you are 30 years old or a new graduate, you need to be a nurse.",
+			"id": [228],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "I am wondering what your best interview was when you were asked to put on your entrepreneurs hat.",
+			"id": [229, 230, 231, 232],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "When hiring for our team the most critical thing is to get phrases like cultural fit and like my because there are different interview practices for nurses and technology workers.",
+			"id": [233, 234, 235, 236],
+			"speaker": "1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"text": "They are not complete nonsense and what we have done is made the hiring process more thorough, so every interviewer has a guide and they have to follow it.",
+			"id": [237, 238, 239, 240, 241],
+			"speaker": "1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"text": "We do training for the interviewers as well and we think through a hiring process is not just like asking behavioral questions but you have to ask case studies or you doing Sanitation to kind of test like.",
+			"id": [242, 243, 244],
+			"speaker": "1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"text": "Do you mean that you are looking for a job?",
+			"id": [246],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "How do you and I keep calling you mom?",
+			"id": [248, 249, 250, 251],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You can prevent systemic bias by hiring nurses who speak Spanish and are bilingual.",
+			"id": [256],
+			"speaker": "0",
+			"phrase": "who speak spanish"
+		}, {
+			"text": "How do you prevent bias in the first place?",
+			"id": [257],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Measuring bias correctly is one of the best ways to address it.",
+			"id": [258, 259, 260, 261, 262],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "There are a lot of best practices around measuring your entire funnel and using demographic data to see where the bias is happening after you get that.",
+			"id": [263],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We can make sure everyone has the same chance to interview.",
+			"id": [265],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Social scientists can experiment with not using names because they are a source of bias.",
+			"id": [266],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "We tried to remove names from the requests.",
+			"id": [268],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "It was almost like a human connection inside the software platform.",
+			"id": [272],
+			"speaker": "1",
+			"phrase": "almost like a human connection"
+		}, {
+			"text": "How do you think this year has changed your company?",
+			"id": [274],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "One of the things that has changed our strategy is that we have to reprioritize things and double down on what it will take to help hospitals and nurses find each other faster and interview.",
+			"id": [275, 276],
+			"speaker": "1",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"text": "As a result of the Pandemic we had to adjust our expansion plans and health systems have become used to it and are prepared.",
+			"id": [277, 278],
+			"speaker": "1",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"text": "I'm going to ask you again to put on your entrepreneurs hat because I believe you are the child of immigrants.",
+			"id": [279, 280, 281, 282],
+			"speaker": "0",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"text": "I think your parents came from sudan.",
+			"id": [285, 286, 287],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "Do you think it's a good time to start a business or go to business school now that someone is looking at you?",
+			"id": [289],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "An opinion I have is that starting a company is the epitome of what you can do with your business career, and that is a fact.",
+			"id": [290],
+			"speaker": "1",
+			"phrase": "is the epitome of what you can do with your business career"
+		}, {
+			"text": "With that comes an intense amount of resilience is needed and you have to manage your mental health pretty carefully as well.",
+			"id": [291, 292],
+			"speaker": "1",
+			"phrase": "is the epitome of what you can do with your business career"
+		}, {
+			"text": "There have been a lot of layoffs this year.",
+			"id": [293],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Just working a normal job is not perfect.",
+			"id": [294],
+			"speaker": "1",
+			"phrase": ""
+		}]
+	},
+	"med": {
+		"segments": [{
+			"text": "The sponsor of the show said that one to one tutoring is an alternative to online classes that offer live online personalized lessons and more than 300 subjects if you haven't picked it up yet.",
+			"id": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+			"speaker": "0",
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "Hospitals and health systems use our platform to hire permanent nurses in 15 days or less because of the nursing shortage, the only unique thing about the platform is that hospitals apply to the nurses we use.",
+			"id": [10, 11, 12, 13, 16, 17, 18],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The nurses are not applying for jobs just putting up a profile.",
+			"id": [19, 20, 21, 22],
+			"speaker": "0",
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"text": "The shortage of nurses is getting worse because of outdated technology.",
+			"id": [30, 32, 35],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Over 250 hospitals and health systems used custom matching and screening to hire.",
+			"id": [37],
+			"speaker": "1",
+			"phrase": "over 250 hospitals and health systems"
+		}, {
+			"text": "Since the early 90s the way they hire has not changed.",
+			"id": [33],
+			"speaker": "1",
+			"phrase": "s the way they hire"
+		}, {
+			"text": "The shortage crisis is acute and my stepsister is a nurse.",
+			"id": [38, 39, 40, 41],
+			"speaker": "0",
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"text": "We have to expand the amount of training we have for the nurses that are graduating because there is a shortage sometimes.",
+			"id": [43, 44, 45, 49],
+			"speaker": "1",
+			"phrase": "the amount of training"
+		}, {
+			"text": "A high paying profession is promoted after you complete your studies.",
+			"id": [47, 50],
+			"speaker": "1",
+			"phrase": "after you complete your"
+		}, {
+			"text": "Every nurse in the country gets free continuing education, but they have to pay out of pocket for it because they need it to renew their licenses.",
+			"id": [52, 53, 54, 57],
+			"speaker": "1",
+			"phrase": "free continuing education"
+		}, {
+			"text": "I have to wait three months for my next job because my sisters are nurses.",
+			"id": [66],
+			"speaker": "1",
+			"phrase": "sisters are nurses"
+		}, {
+			"text": "We thought there had to be an easier way to solve it.",
+			"id": [69],
+			"speaker": "1",
+			"phrase": "to be an easier way to solve"
+		}, {
+			"text": "The process of hiring nurses is not working.",
+			"id": [70, 71, 72, 73],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "You decided to simplify the hiring process after finding a problem.",
+			"id": [75],
+			"speaker": "0",
+			"phrase": "you decided to"
+		}, {
+			"text": "There is a place for a nurse to manage their career.",
+			"id": [76, 77, 78, 79, 80, 81],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The hospitals pick different tiers based on volume so it is a subscription.",
+			"id": [85],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Retention is important for these employers because nursing is known for high turnover.",
+			"id": [88, 89, 90, 91, 92, 93],
+			"speaker": "1",
+			"phrase": "is known for high turnover"
+		}, {
+			"text": "The most amount of information was coming from epidemiologists and public health experts around the world.",
+			"id": [97, 98, 99],
+			"speaker": "1",
+			"phrase": "s and public health experts around the world"
+		}, {
+			"text": "There was a spike in demand for specific types of nurses.",
+			"id": [106, 107],
+			"speaker": "1",
+			"phrase": "there was a spike in demand for specific types of nurses"
+		}, {
+			"text": "There are few things that we did a few months ago but one of them is called the pandemic hiring sweet which is a range of features and tools that help hospitals and we added an automated interview.",
+			"id": [110, 111, 112, 113, 115],
+			"speaker": "1",
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"text": "If you were a nurse using your platform, you would do an in person interview at least one time if you traveled to the hospital, but that is no longer a feature.",
+			"id": [116, 117, 118],
+			"speaker": "0",
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"text": "The hiring period for a nurse is usually just 12 days.",
+			"id": [122],
+			"speaker": "0",
+			"phrase": "e hiring period"
+		}, {
+			"text": "The first set of interviews are done through our software and our site and we have automated interview scheduling built in that requires 0 integration with the hospital.",
+			"id": [126],
+			"speaker": "1",
+			"phrase": "through our software and our site and we have automated interview scheduling built"
+		}, {
+			"text": "We have to accelerate it because it was in our plan at the beginning of the year.",
+			"id": [128, 129, 130],
+			"speaker": "1",
+			"phrase": "have to accelerate it because"
+		}, {
+			"text": "We prioritize what customers need the most because half of our team is software engineers.",
+			"id": [133, 134, 135, 136, 137, 138],
+			"speaker": "1",
+			"phrase": "our team is software engineers"
+		}, {
+			"text": "One of the advantages of being a start up is that you can operate and execute quickly so we generally move as quickly as possible and the improvements to our platform even before that.",
+			"id": [145],
+			"speaker": "1",
+			"phrase": "so we generally move as quickly as"
+		}, {
+			"text": "I want to know if you have a distributed workforce or a pre-pandemic one.",
+			"id": [146, 147, 148],
+			"speaker": "0",
+			"phrase": "a distributed workforce or"
+		}, {
+			"text": "In other parts of the country, we serve clients from our office.",
+			"id": [149, 150],
+			"speaker": "1",
+			"phrase": "n other parts of the"
+		}, {
+			"text": "People will work from home or come in a few days a week.",
+			"id": [153],
+			"speaker": "0",
+			"phrase": "work from home or come in a"
+		}, {
+			"text": "50 of our team were experiencing some kind of symptoms of anxiety or depression so there were a few things that we had to address the first thing is acknowledgement and communication.",
+			"id": [159, 160, 161, 162, 163, 164, 165],
+			"speaker": "1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "They had to scale back their hours and switch from full time to part time because they were under so much strain.",
+			"id": [166, 167, 168, 169, 170, 171],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The third major thing that we did was to dramatically improve our communication.",
+			"id": [172],
+			"speaker": "1",
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "The biggest change she has seen in the healthcare industry is when they look at how much you have saved and help you build a plan that will allow you to grow your savings and make money.",
+			"id": [173, 174, 175, 176, 177, 178, 179, 181, 184],
+			"speaker": "0",
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "The biggest change this year is the rapid decision making which has never been seen before.",
+			"id": [185, 187, 188],
+			"speaker": "1",
+			"phrase": "the biggest change"
+		}, {
+			"text": "There is a lot of red tape in the healthcare industry.",
+			"id": [186],
+			"speaker": "1",
+			"phrase": "the healthcare industry"
+		}, {
+			"text": "I had a consultation with my doctor this year for things like a skin issue and I got a covid test just at a safety a couple months ago, she was just a remote call.",
+			"id": [189],
+			"speaker": "0",
+			"phrase": "like a skin issue and i got a covid test just at a safety a couple months ago,"
+		}, {
+			"text": "The health care industry as a whole needs to focus on customer service in order to get reimbursed for it and if patients are using telemedicine you will get paid for that as well.",
+			"id": [191, 192, 193, 194],
+			"speaker": "1",
+			"phrase": "focus on customer service"
+		}, {
+			"text": "If you have been to a hospital before, the nurses and other staff make your experience better.",
+			"id": [195, 196, 197, 198, 203],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "If you take a gap from the workforce like you have to raise your kids or you just took a few years off that reduces your hiring, we have so much data that we can give you.",
+			"id": [207, 209, 210, 211, 212, 213, 214],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "The software platform will highlight this in order for it to get better.",
+			"id": [215],
+			"speaker": "1",
+			"phrase": "in order for it to get better"
+		}, {
+			"text": "It's good to have a nurse just out of school.",
+			"id": [220, 221, 222],
+			"speaker": "0",
+			"phrase": "a nurse just out of"
+		}, {
+			"text": "You need to be a nurse if you are 30 or younger.",
+			"id": [227, 228],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "What was the best interview that you ever had?",
+			"id": [229, 230, 231, 232],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "When hiring for our team, the most important thing is to get phrases like cultural fit and like my, because there are different interview practices for nurses and technology workers, they are not complete nonsense.",
+			"id": [233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244],
+			"speaker": "1",
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"text": "You can prevent systemic bias by hiring nurses who speak Spanish and are bilingual.",
+			"id": [256],
+			"speaker": "0",
+			"phrase": "who speak spanish"
+		}, {
+			"text": "One of the best ways to address bias is by measuring it correctly and using demographic data to see where it is happening.",
+			"id": [258, 259, 260, 261, 262, 263],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "We can make sure everyone has the same chance to interview.",
+			"id": [265],
+			"speaker": "1",
+			"phrase": ""
+		}, {
+			"text": "Social scientists can experiment with not using names.",
+			"id": [266],
+			"speaker": "0",
+			"phrase": ""
+		}, {
+			"text": "It was almost like a human connection inside the software platform.",
+			"id": [272],
+			"speaker": "1",
+			"phrase": "almost like a human connection"
+		}, {
+			"text": "One of the things that has changed our strategy is that we have to reprioritize things and double down on what it will take to help hospitals and nurses find each other faster and interview.",
+			"id": [275, 276, 277, 278],
+			"speaker": "1",
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"text": "I want you to be anentrepreneur because I believe you are the child of immigrants.",
+			"id": [279, 280, 281, 282],
+			"speaker": "0",
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"text": "I believe that starting a company is the epitome of what you can do with your business career and that comes with an intense amount of resilience needed.",
+			"id": [290, 291, 292],
+			"speaker": "1",
+			"phrase": "is the epitome of what you can do with your business career"
+		}]
+	},
+	"high": {
+		"segments": [{
+			"text": "One to one tutoring is an alternative to online classes that offer live online personalized lessons and more than 300 subjects according to the sponsor of the show.",
+			"id": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+			"duration": "1-2 minutes",
+			"sequence": 0,
+			"phrase": "live online personalized lessons and more than 300 subjects"
+		}, {
+			"text": "The nurses are not applying for jobs just putting up a profile.",
+			"id": [19, 20, 21, 22],
+			"duration": "< 1 minute",
+			"sequence": 1,
+			"phrase": "the nurses are not applying for jobs"
+		}, {
+			"text": "The shortage of nurses is getting worse because of outdated technology.",
+			"id": [30, 32, 35],
+			"duration": "< 1 minute",
+			"sequence": 2,
+			"phrase": ""
+		}, {
+			"text": "Over 250 hospitals and health systems used custom matching and screening to hire.",
+			"id": [37],
+			"duration": "< 1 minute",
+			"sequence": 3,
+			"phrase": "over 250 hospitals and health systems"
+		}, {
+			"text": "Since the early 90s the way they hire has not changed.",
+			"id": [33],
+			"duration": "< 1 minute",
+			"sequence": 4,
+			"phrase": "s the way they hire"
+		}, {
+			"text": "The shortage crisis is acute and my stepsister is a nurse.",
+			"id": [38, 39, 40, 41],
+			"duration": "< 1 minute",
+			"sequence": 5,
+			"phrase": "my stepsister is a nurse"
+		}, {
+			"text": "Sometimes there is a shortage of nurses and we have to increase the amount of training we give them.",
+			"id": [43, 44, 45, 49],
+			"duration": "< 1 minute",
+			"sequence": 6,
+			"phrase": "the amount of training"
+		}, {
+			"text": "A high paying profession is promoted after you complete your studies.",
+			"id": [47, 50],
+			"duration": "< 1 minute",
+			"sequence": 7,
+			"phrase": "after you complete your"
+		}, {
+			"text": "Every nurse in the country gets free continuing education, but they have to pay for it.",
+			"id": [52, 53, 54, 57],
+			"duration": "< 1 minute",
+			"sequence": 8,
+			"phrase": "free continuing education"
+		}, {
+			"text": "I have to wait three months for my next job because my sisters are nurses.",
+			"id": [66],
+			"duration": "< 1 minute",
+			"sequence": 9,
+			"phrase": "sisters are nurses"
+		}, {
+			"text": "We thought there had to be an easier way to solve it.",
+			"id": [69],
+			"duration": "< 1 minute",
+			"sequence": 10,
+			"phrase": "to be an easier way to solve"
+		}, {
+			"text": "You decided to simplify the hiring process after finding a problem.",
+			"id": [75],
+			"duration": "< 1 minute",
+			"sequence": 11,
+			"phrase": "you decided to"
+		}, {
+			"text": "There is a place for a nurse to manage their career.",
+			"id": [76, 77, 78, 79, 80, 81],
+			"duration": "< 1 minute",
+			"sequence": 12,
+			"phrase": ""
+		}, {
+			"text": "The hospitals pick different tiers based on volume so it is a subscription.",
+			"id": [85],
+			"duration": "< 1 minute",
+			"sequence": 13,
+			"phrase": ""
+		}, {
+			"text": "Retention is important for these employers because nursing is known for high turnover.",
+			"id": [88, 89, 90, 91, 92, 93],
+			"duration": "< 1 minute",
+			"sequence": 14,
+			"phrase": "is known for high turnover"
+		}, {
+			"text": "The epidemiologists and public health experts around the world gave the most information.",
+			"id": [97, 98, 99],
+			"duration": "< 1 minute",
+			"sequence": 15,
+			"phrase": "s and public health experts around the world"
+		}, {
+			"text": "There was a spike in demand for specific types of nurses.",
+			"id": [106, 107],
+			"duration": "< 1 minute",
+			"sequence": 16,
+			"phrase": "there was a spike in demand for specific types of nurses"
+		}, {
+			"text": "There are few things that we did a few months ago but one of them is called the Pandemic hiring sweet which is a range of features and tools that help hospitals.",
+			"id": [110, 111, 112, 113, 115],
+			"duration": "< 1 minute",
+			"sequence": 17,
+			"phrase": "there are few things that we did a few months ago"
+		}, {
+			"text": "If you were a nurse using your platform, you would do an in person interview at least one time if you traveled to the hospital, but that is no longer a feature.",
+			"id": [116, 117, 118],
+			"duration": "< 1 minute",
+			"sequence": 18,
+			"phrase": "if you were a nurse using your platform, you would"
+		}, {
+			"text": "The hiring period for a nurse is usually just 12 days.",
+			"id": [122],
+			"duration": "< 1 minute",
+			"sequence": 19,
+			"phrase": "e hiring period"
+		}, {
+			"text": "The first set of interviews are done through our software and our site and we have automated interview scheduling built in that requires 0 integration with the hospital.",
+			"id": [126],
+			"duration": "< 1 minute",
+			"sequence": 20,
+			"phrase": "through our software and our site and we have automated interview scheduling built"
+		}, {
+			"text": "We have to accelerate it because it was in our plan at the beginning of the year.",
+			"id": [128, 129, 130],
+			"duration": "< 1 minute",
+			"sequence": 21,
+			"phrase": "have to accelerate it because"
+		}, {
+			"text": "We prioritize what customers need the most because half of our team is software engineers.",
+			"id": [133, 134, 135, 136, 137, 138],
+			"duration": "< 1 minute",
+			"sequence": 22,
+			"phrase": "our team is software engineers"
+		}, {
+			"text": "One of the advantages of being a start up is that you can operate and execute quickly so we generally move as quickly as possible and the improvements to our platform even before that.",
+			"id": [145],
+			"duration": "< 1 minute",
+			"sequence": 23,
+			"phrase": "so we generally move as quickly as"
+		}, {
+			"text": "I want to know if you have a distributed workforce or a pre-pandemic one.",
+			"id": [146, 147, 148],
+			"duration": "< 1 minute",
+			"sequence": 24,
+			"phrase": "a distributed workforce or"
+		}, {
+			"text": "In other parts of the country, we serve clients from our office.",
+			"id": [149, 150],
+			"duration": "< 1 minute",
+			"sequence": 25,
+			"phrase": "n other parts of the"
+		}, {
+			"text": "People will work from home or come in a few days a week.",
+			"id": [153],
+			"duration": "< 1 minute",
+			"sequence": 26,
+			"phrase": "work from home or come in a"
+		}, {
+			"text": "50 of our team were experiencing some kind of symptoms of anxiety or depression, so there were a few things that we had to address first.",
+			"id": [159, 160, 161, 162, 163, 164, 165, 172],
+			"duration": "1-2 minutes",
+			"sequence": 27,
+			"phrase": "were experiencing some kind of symptoms of anxiety or depression"
+		}, {
+			"text": "They had to scale back their hours because of the strain.",
+			"id": [166, 167, 168, 169, 170, 171],
+			"duration": "< 1 minute",
+			"sequence": 28,
+			"phrase": ""
+		}, {
+			"text": "The biggest change she has seen in the healthcare industry is when they look at how much you have saved and help you build a plan that will allow you to grow your savings and make money.",
+			"id": [173, 174, 175, 176, 177, 178, 179, 181, 184],
+			"duration": "1-2 minutes",
+			"sequence": 29,
+			"phrase": "seen in the healthcare industry"
+		}, {
+			"text": "The rapid decision making is the biggest change this year.",
+			"id": [185, 187, 188],
+			"duration": "< 1 minute",
+			"sequence": 30,
+			"phrase": "the biggest change"
+		}, {
+			"text": "There is a lot of red tape in the healthcare industry.",
+			"id": [186],
+			"duration": "< 1 minute",
+			"sequence": 31,
+			"phrase": "the healthcare industry"
+		}, {
+			"text": "I had a consultation with my doctor this year for things like a skin issue and I got a covid test just at a safety a couple months ago, she was just a remote call.",
+			"id": [189],
+			"duration": "< 1 minute",
+			"sequence": 32,
+			"phrase": "like a skin issue and i got a covid test just at a safety a couple months ago,"
+		}, {
+			"text": "The health care industry needs to focus on customer service in order to get reimbursed for it and if patients are using telemedicine you will get paid for that as well.",
+			"id": [191, 192, 193, 194],
+			"duration": "< 1 minute",
+			"sequence": 33,
+			"phrase": "focus on customer service"
+		}, {
+			"text": "The nurses and other staff make your hospital experience better.",
+			"id": [195, 196, 197, 198, 203],
+			"duration": "< 1 minute",
+			"sequence": 34,
+			"phrase": ""
+		}, {
+			"text": "The software platform will highlight this in order for it to get better.",
+			"id": [215],
+			"duration": "< 1 minute",
+			"sequence": 35,
+			"phrase": "in order for it to get better"
+		}, {
+			"text": "It's good to have a nurse just out of school.",
+			"id": [220, 221, 222],
+			"duration": "< 1 minute",
+			"sequence": 36,
+			"phrase": "a nurse just out of"
+		}, {
+			"text": "You need to be a nurse if you are 30 or younger.",
+			"id": [227, 228],
+			"duration": "< 1 minute",
+			"sequence": 37,
+			"phrase": ""
+		}, {
+			"text": "It's important to get phrases like cultural fit and my because there are different interview practices for nurses and technology workers.",
+			"id": [233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244],
+			"duration": "1-2 minutes",
+			"sequence": 38,
+			"phrase": "to get phrases like cultural fit and"
+		}, {
+			"text": "You can prevent systemic bias by hiring nurses who speak Spanish and are bilingual.",
+			"id": [256],
+			"duration": "< 1 minute",
+			"sequence": 39,
+			"phrase": "who speak spanish"
+		}, {
+			"text": "One of the best ways to address bias is to use demographic data.",
+			"id": [258, 259, 260, 261, 262, 263],
+			"duration": "1-2 minutes",
+			"sequence": 40,
+			"phrase": ""
+		}, {
+			"text": "We can make sure everyone has the same chance to interview.",
+			"id": [265],
+			"duration": "< 1 minute",
+			"sequence": 41,
+			"phrase": ""
+		}, {
+			"text": "It was almost like a human connection inside the software platform.",
+			"id": [272],
+			"duration": "< 1 minute",
+			"sequence": 42,
+			"phrase": "almost like a human connection"
+		}, {
+			"text": "We need to double down on what it will take to help hospitals and nurses find each other faster.",
+			"id": [275, 276, 277, 278],
+			"duration": "< 1 minute",
+			"sequence": 43,
+			"phrase": "take to help hospitals and nurses find each other faster"
+		}, {
+			"text": "I want you to be anentrepreneur because I believe you are the child of immigrants.",
+			"id": [279, 280, 281, 282],
+			"duration": "< 1 minute",
+			"sequence": 44,
+			"phrase": "i believe you are the child of immigrants."
+		}, {
+			"text": "I believe that starting a company is the epitome of what you can do with your business career and that comes with an intense amount of resilience.",
+			"id": [290, 291, 292],
+			"duration": "< 1 minute",
+			"sequence": 45,
+			"phrase": "is the epitome of what you can do with your business career"
+		}]
+	}
+}

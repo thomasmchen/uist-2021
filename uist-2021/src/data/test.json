@@ -1,0 +1,93 @@
+{
+    "raw": {
+      "segments": [
+        {
+          "id": [0],
+          "speaker": "0",
+          "start": "00",
+          "end": "23",
+          "phrase": "In the last quarter of 2020",
+          "text": "We can just Dive Right and I think you know, we're right now in the last quarter of 2020 and you know, I think that a lot of people would agree that we're in the midst of what's probably one of the largest rectangle."
+        },
+        {
+          "id": [1],
+          "speaker": "0",
+          "start": "24",
+          "end": "42",
+          "text": "Openings around racial Equity that we've had in this country in decades and it's something that you've been such a vocal advocate for and you're both Through Your Role at Starbucks and throughout your career of diversity and inclusion in the workplace. And so I'm curious just to hear from you to start the conversation and sort of what this moment means for D EI efforts not just in Corporate America, but in business in"
+        },
+        {
+          "id": [2],
+          "speaker": "1",
+          "start": "43",
+          "end": "80",
+          "text": "I think the position on diversity and inclusion in the workplace, you know, let me start with you know the conversation about where are we actually in diversity and inclusion in the corporate setting and I will tell you that this is actually putting a spotlight on the weaknesses and maybe the lack of forethought and intensity that we should always have maintained on this subject all along one of the things that I think it's in highlighting for most of us. Us is"
+        }
+      ]
+    },
+    "low": {
+      "segments": [
+        {
+          "id": [0],
+          "phrase": "In the last quarter of 2020",
+          "text": "I think that a lot of people would agree that it was in the last quarter of 2020 and we were able to dive right."
+        },
+        {
+          "id": [1],
+          "text": "We have had openings around racial equity in this country for decades and you have been a vocal advocate for it and I am curious to hear from you."
+        },
+        {
+          "id": [2],
+          "text": "I think the position on diversity and inclusion in the workplace, you know, let me start with you know the conversation about where are we actually in diversity and inclusion in the corporate setting and I will tell you that this is actually putting a spotlight on the weaknesses and maybe the lack of forethought and intensity that we should always have maintained on this subject all along one of the things that I think it's in highlighting for most of us. Us is"
+        }
+      ]
+    },
+    "med": {
+      "segments": [
+        {
+          "id": [
+            0,
+            1
+          ],
+          "phrase": "In the last quarter of 2020",
+          "text": "It was in the last quarter of 2020 and we had openings around racial equity in this country for decades and I am curious to hear from you."
+        },
+        {
+          "id": [
+            2
+          ],
+          "text": "The position on diversity and inclusion in the workplace may be putting a spotlight on weaknesses."
+        }
+      ]
+    },
+    "high": {
+      "segments": [
+        {
+          "id": [
+            0,
+            1
+          ],
+          "phrase": "In the last quarter of 2020",
+          "text": "In the last quarter of 2020 there were openings around racial equity in this country."
+        }
+      ]
+    },
+    "queries": {
+      "query": [
+        {
+          "searchString": "black racial hiring equity",
+          "lowSegments": [
+            1,
+            2
+          ],
+          "midSegments": [
+            0
+          ],
+          "highSegments": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  }

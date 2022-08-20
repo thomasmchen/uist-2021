@@ -1,0 +1,6527 @@
+{
+    "title": "Daniel Meeting",
+	"subtitle": "Meeting",
+	"date": "May 5, 2021 12:01 AM ET",
+	"image": "https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f-s200-c85.webp",
+	"raw": {
+		"segments": [{
+			"id": [0],
+			"speaker": "0",
+			"text": "Recording will start soon.",
+			"start": "0.5",
+			"end": "2.0"
+		}, {
+			"id": [1],
+			"speaker": "0",
+			"text": "All right.",
+			"start": "2.3",
+			"end": "2.9"
+		}, {
+			"id": [2],
+			"speaker": "0",
+			"text": "According yay.",
+			"start": "2.9",
+			"end": "5.0"
+		}, {
+			"id": [3],
+			"speaker": "0",
+			"text": "All right, so I guess it'll give us something at the end and I can send it to you and whatever.",
+			"start": "5.7",
+			"end": "10.5"
+		}, {
+			"id": [4],
+			"speaker": "0",
+			"text": "Okay.",
+			"start": "11.3",
+			"end": "11.8"
+		}, {
+			"id": [5],
+			"speaker": "0",
+			"text": "Yeah so right like I was saying I think there's a lot of potential for that like use case.",
+			"start": "11.9",
+			"end": "19.4"
+		}, {
+			"id": [6],
+			"speaker": "0",
+			"text": "The hardest thing for me is to find a use case like what problem are we trying to solve?",
+			"start": "19.4",
+			"end": "24.7"
+		}, {
+			"id": [7],
+			"speaker": "0",
+			"text": "That is the thing that takes me.",
+			"start": "25.9",
+			"end": "28.2"
+		}, {
+			"id": [8],
+			"speaker": "0",
+			"text": "Forever.",
+			"start": "29.0",
+			"end": "29.9"
+		}, {
+			"id": [9],
+			"speaker": "0",
+			"text": "If we could stay somewhere in that domain I think we could save ourselves a lot of time that's it.",
+			"start": "31.5",
+			"end": "40.9"
+		}, {
+			"id": [10],
+			"speaker": "0",
+			"text": "If we have a brilliant idea and something totally different shouldn't ignore that but you know, like you also start to make a name for yourself.",
+			"start": "40.9",
+			"end": "51.1"
+		}, {
+			"id": [11],
+			"speaker": "0",
+			"text": "But you want to your thesis should be at least semi coherent.",
+			"start": "51.1",
+			"end": "54.8"
+		}, {
+			"id": [12],
+			"speaker": "1",
+			"text": "I finally for me brainstorm isn't like super super For difficult.",
+			"start": "56.2",
+			"end": "59.5"
+		}, {
+			"id": [13],
+			"speaker": "1",
+			"text": "So remember back in November where I came up with like three proposals, like they were kind of flushed out took like maybe wait ish, I can do that again and make it related to what we just.",
+			"start": "59.7",
+			"end": "70.3"
+		}, {
+			"id": [14],
+			"speaker": "0",
+			"text": "Yeah, let's do that.",
+			"start": "71.7",
+			"end": "73.6"
+		}, {
+			"id": [15],
+			"speaker": "0",
+			"text": "And that's kind of maybe talk through some stuff together.",
+			"start": "73.7",
+			"end": "78.2"
+		}, {
+			"id": [16],
+			"speaker": "0",
+			"text": "I remember the last time we see her internship is something about translation,.",
+			"start": "78.2",
+			"end": "82.3"
+		}, {
+			"id": [17],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "83.2",
+			"end": "83.5"
+		}, {
+			"id": [18],
+			"speaker": "1",
+			"text": "I actually don't know, it always changes that we see what they stood later.",
+			"start": "83.5",
+			"end": "86.9"
+		}, {
+			"id": [19],
+			"speaker": "1",
+			"text": "Say that they.",
+			"start": "86.9",
+			"end": "87.4"
+		}, {
+			"id": [20],
+			"speaker": "0",
+			"text": "Yeah, that's happening to Katie to.",
+			"start": "88.9",
+			"end": "91.0"
+		}, {
+			"id": [21],
+			"speaker": "0",
+			"text": "So she told me she was not taking the Google internship.",
+			"start": "91.0",
+			"end": "94.5"
+		}, {
+			"id": [22],
+			"speaker": "0",
+			"text": "They offered her because I gave her 0 details on the project.",
+			"start": "94.5",
+			"end": "97.5"
+		}, {
+			"id": [23],
+			"speaker": "0",
+			"text": "And then yesterday she was like so I might through the Google thing after all, because I really liked the project, they finally told me what it is.",
+			"start": "97.5",
+			"end": "103.3"
+		}, {
+			"id": [24],
+			"speaker": "0",
+			"text": "Like that's a little weird what she.",
+			"start": "103.4",
+			"end": "106.0"
+		}, {
+			"id": [25],
+			"speaker": "1",
+			"text": "for like research or like force.",
+			"start": "106.4",
+			"end": "107.9"
+		}, {
+			"id": [26],
+			"speaker": "0",
+			"text": "Well, they're kind of Merged a little bit.",
+			"start": "110.7",
+			"end": "116.1"
+		}, {
+			"id": [27],
+			"speaker": "0",
+			"text": "It is very researchy and everyone on the team has.",
+			"start": "116.3",
+			"end": "119.0"
+		}, {
+			"id": [28],
+			"speaker": "1",
+			"text": "PhD.",
+			"start": "119.1",
+			"end": "120.0"
+		}, {
+			"id": [29],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "120.1",
+			"end": "120.4"
+		}, {
+			"id": [30],
+			"speaker": "1",
+			"text": "Yes little letter publish and all that's good.",
+			"start": "120.4",
+			"end": "122.9"
+		}, {
+			"id": [31],
+			"speaker": "1",
+			"text": "That's like the most important thing is like are they going to stick your ass on like describing infrastructure code?",
+			"start": "123.0",
+			"end": "128.3"
+		}, {
+			"id": [32],
+			"speaker": "1",
+			"text": "Which no one.",
+			"start": "128.3",
+			"end": "128.9"
+		}, {
+			"id": [33],
+			"speaker": "1",
+			"text": "Well, no one wants to do it right now.",
+			"start": "129.0",
+			"end": "130.6"
+		}, {
+			"id": [34],
+			"speaker": "1",
+			"text": "I got so many emails out to my other evening.",
+			"start": "141.4",
+			"end": "144.8"
+		}, {
+			"id": [35],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "144.8",
+			"end": "145.3"
+		}, {
+			"id": [36],
+			"speaker": "1",
+			"text": "Okay, so it's automatic evaluation, this is very NLP.",
+			"start": "160.3",
+			"end": "163.8"
+		}, {
+			"id": [37],
+			"speaker": "1",
+			"text": "It's an automatic evaluation system for translation quality.",
+			"start": "164.0",
+			"end": "167.6"
+		}, {
+			"id": [38],
+			"speaker": "1",
+			"text": "So remember how we had the issue of evaluating summarization accuracy unsupervised.",
+			"start": "167.9",
+			"end": "172.4"
+		}, {
+			"id": [39],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "173.0",
+			"end": "173.2"
+		}, {
+			"id": [40],
+			"speaker": "1",
+			"text": "So this is like that.",
+			"start": "173.2",
+			"end": "174.2"
+		}, {
+			"id": [41],
+			"speaker": "1",
+			"text": "But for.",
+			"start": "174.2",
+			"end": "174.5"
+		}, {
+			"id": [42],
+			"speaker": "1",
+			"text": "I think there's use cases here because the paper that they linked me to from before that this team did, they went out like kind of did user study and Sense that they realized.",
+			"start": "177.4",
+			"end": "187.6"
+		}, {
+			"id": [43],
+			"speaker": "1",
+			"text": "Hey, we actually don't need super great translation in the sense that like it doesn't need be like 90% accurate, the average Layman like, unless they're like a linguistic expert, it's just gonna be like, okay, I can get with what it's saying, that's good enough for me.",
+			"start": "187.6",
+			"end": "200.7"
+		}, {
+			"id": [44],
+			"speaker": "1",
+			"text": "So if you're hungry, I like 80, 70 percent accuracy, that's what you should go for.",
+			"start": "200.7",
+			"end": "204.2"
+		}, {
+			"id": [45],
+			"speaker": "1",
+			"text": "So they actually change their scoring metric from like a percentage to Binary.",
+			"start": "204.2",
+			"end": "209.0"
+		}, {
+			"id": [46],
+			"speaker": "1",
+			"text": "Yes, no.",
+			"start": "209.0",
+			"end": "209.5"
+		}, {
+			"id": [47],
+			"speaker": "1",
+			"text": "Similar to what we did that.",
+			"start": "209.5",
+			"end": "211.2"
+		}, {
+			"id": [48],
+			"speaker": "1",
+			"text": "I think I touched upon that.",
+			"start": "211.5",
+			"end": "212.4"
+		}, {
+			"id": [49],
+			"speaker": "1",
+			"text": "I was like yeah this is like that paper.",
+			"start": "212.4",
+			"end": "214.6"
+		}, {
+			"id": [50],
+			"speaker": "1",
+			"text": "We could have cited if they said hey why.",
+			"start": "214.6",
+			"end": "216.3"
+		}, {
+			"id": [51],
+			"speaker": "1",
+			"text": "Why aren't you doing percentages?",
+			"start": "216.4",
+			"end": "217.6"
+		}, {
+			"id": [52],
+			"speaker": "1",
+			"text": "Well, it turns out that I just haven't you.",
+			"start": "217.8",
+			"end": "219.7"
+		}, {
+			"id": [53],
+			"speaker": "1",
+			"text": "Yes, nose already the best indicator for practical use.",
+			"start": "219.7",
+			"end": "222.7"
+		}, {
+			"id": [54],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "224.6",
+			"end": "224.9"
+		}, {
+			"id": [55],
+			"speaker": "0",
+			"text": "I mean like at the end of the day what is the percentage?",
+			"start": "224.9",
+			"end": "227.1"
+		}, {
+			"id": [56],
+			"speaker": "0",
+			"text": "Even mean what you have to translate that percentage into useful?",
+			"start": "227.1",
+			"end": "230.7"
+		}, {
+			"id": [57],
+			"speaker": "0",
+			"text": "Not useful?",
+			"start": "230.7",
+			"end": "231.7"
+		}, {
+			"id": [58],
+			"speaker": "1",
+			"text": "it's not like super surprising once you expected but yeah that's what I'd be working on it.",
+			"start": "232.5",
+			"end": "239.2"
+		}, {
+			"id": [59],
+			"speaker": "1",
+			"text": "Some fashion.",
+			"start": "239.2",
+			"end": "241.0"
+		}, {
+			"id": [60],
+			"speaker": "1",
+			"text": "This.",
+			"start": "241.0",
+			"end": "241.2"
+		}, {
+			"id": [61],
+			"speaker": "0",
+			"text": "is translation something that.",
+			"start": "242.7",
+			"end": "244.4"
+		}, {
+			"id": [62],
+			"speaker": "1",
+			"text": "like I mean I find it like all language stuff kind of interesting.",
+			"start": "245.2",
+			"end": "251.3"
+		}, {
+			"id": [63],
+			"speaker": "1",
+			"text": "I just don't give a shit about bio that.",
+			"start": "251.8",
+			"end": "254.0"
+		}, {
+			"id": [64],
+			"speaker": "0",
+			"text": "like yeah, yeah.",
+			"start": "254.3",
+			"end": "257.0"
+		}, {
+			"id": [65],
+			"speaker": "0",
+			"text": "Okay, long as it's not by.",
+			"start": "257.0",
+			"end": "260.1"
+		}, {
+			"id": [66],
+			"speaker": "0",
+			"text": "Oh yeah, I think it's also.",
+			"start": "260.1",
+			"end": "262.4"
+		}, {
+			"id": [67],
+			"speaker": "1",
+			"text": "mentioning.",
+			"start": "262.6",
+			"end": "262.9"
+		}, {
+			"id": [68],
+			"speaker": "1",
+			"text": "Like I don't think I'm going to career and see us either.",
+			"start": "262.9",
+			"end": "264.9"
+		}, {
+			"id": [69],
+			"speaker": "1",
+			"text": "So there's.",
+			"start": "265.1",
+			"end": "266.9"
+		}, {
+			"id": [70],
+			"speaker": "0",
+			"text": "Are you gonna just like mess with the stock market.",
+			"start": "269.0",
+			"end": "271.8"
+		}, {
+			"id": [71],
+			"speaker": "1",
+			"text": "Yeah, I think that's what's gonna happen.",
+			"start": "272.8",
+			"end": "274.2"
+		}, {
+			"id": [72],
+			"speaker": "1",
+			"text": "Like, I'm probably gonna have to work a year or two before I can raise, like, 25 million dollars or something like that because you know, without being vetted by another institutions very hard to raise.",
+			"start": "274.2",
+			"end": "282.8"
+		}, {
+			"id": [73],
+			"speaker": "1",
+			"text": "So that's how I've spent some I'm at Google but I'm like 99% sure I'm not going to do CS.",
+			"start": "283.0",
+			"end": "288.1"
+		}, {
+			"id": [74],
+			"speaker": "1",
+			"text": "I'm not even good at this shit.",
+			"start": "288.1",
+			"end": "289.3"
+		}, {
+			"id": [75],
+			"speaker": "1",
+			"text": "Like, I don't got a grand scheme of things.",
+			"start": "289.3",
+			"end": "295.0"
+		}, {
+			"id": [76],
+			"speaker": "1",
+			"text": "Like, I just don't suck at a wire as like a broad, demand things like I can do like, decent quality work across disparate things, but I'm just not very good at.",
+			"start": "295.0",
+			"end": "305.0"
+		}, {
+			"id": [77],
+			"speaker": "0",
+			"text": "individual.",
+			"start": "305.3",
+			"end": "306.2"
+		}, {
+			"id": [78],
+			"speaker": "0",
+			"text": "Oh, but that's a real talent.",
+			"start": "306.7",
+			"end": "308.2"
+		}, {
+			"id": [79],
+			"speaker": "0",
+			"text": "That's what, like, at least Ivy League.",
+			"start": "308.2",
+			"end": "311.1"
+		}, {
+			"id": [80],
+			"speaker": "0",
+			"text": "Schools are supposed to pump out like people who Like know enough about a lot of things to be dangerous and they can always put together the talent.",
+			"start": "311.1",
+			"end": "319.3"
+		}, {
+			"id": [81],
+			"speaker": "0",
+			"text": "You don't they don't like the goal is to not be a tool.",
+			"start": "319.3",
+			"end": "322.6"
+		}, {
+			"id": [82],
+			"speaker": "0",
+			"text": "Like if you're just like the guy can write a big pile of code.",
+			"start": "322.6",
+			"end": "325.5"
+		}, {
+			"id": [83],
+			"speaker": "0",
+			"text": "You Are by definition, somebody else's tool because it takes a lot to get a project together.",
+			"start": "325.5",
+			"end": "334.5"
+		}, {
+			"id": [84],
+			"speaker": "0",
+			"text": "So anyway I think you're doing it right.",
+			"start": "334.8",
+			"end": "339.4"
+		}, {
+			"id": [85],
+			"speaker": "0",
+			"text": "You don't want to be somebody's.",
+			"start": "339.5",
+			"end": "341.4"
+		}, {
+			"id": [86],
+			"speaker": "1",
+			"text": "Monkey.",
+			"start": "341.8",
+			"end": "342.3"
+		}, {
+			"id": [87],
+			"speaker": "1",
+			"text": "Yeah, I don't want to.",
+			"start": "342.6",
+			"end": "343.8"
+		}, {
+			"id": [88],
+			"speaker": "1",
+			"text": "Do this kind of stuff, I don't know.",
+			"start": "344.2",
+			"end": "347.8"
+		}, {
+			"id": [89],
+			"speaker": "1",
+			"text": "Yeah, with that said, it's like, why did you do a few HDMI?",
+			"start": "347.8",
+			"end": "349.9"
+		}, {
+			"id": [90],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "349.9",
+			"end": "350.2"
+		}, {
+			"id": [91],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "350.2",
+			"end": "350.3"
+		}, {
+			"id": [92],
+			"speaker": "1",
+			"text": "You know, poor life decisions.",
+			"start": "350.3",
+			"end": "351.4"
+		}, {
+			"id": [93],
+			"speaker": "1",
+			"text": "We all make it once in awhile.",
+			"start": "351.4",
+			"end": "352.5"
+		}, {
+			"id": [94],
+			"speaker": "0",
+			"text": "I did.",
+			"start": "353.6",
+			"end": "354.1"
+		}, {
+			"id": [95],
+			"speaker": "0",
+			"text": "It sucked in and I keep going to get sucked out but there's so many things I hate about companies that probably are true Academia as well but they don't feel as true because I feel like I'm in control even though I'm not.",
+			"start": "354.1",
+			"end": "370.8"
+		}, {
+			"id": [96],
+			"speaker": "0",
+			"text": "Anyway.",
+			"start": "370.8",
+			"end": "371.3"
+		}, {
+			"id": [97],
+			"speaker": "1",
+			"text": "all the air is out the spot now.",
+			"start": "371.5",
+			"end": "372.9"
+		}, {
+			"id": [98],
+			"speaker": "1",
+			"text": "We're like a company could Give you, you know, fixed percentage of equity just to put your face on like they're bored and be like hey we have enough professor at Columbia advising us on, you know, some language related or like some HCI related thing and then you literally do nothing.",
+			"start": "372.9",
+			"end": "387.9"
+		}, {
+			"id": [99],
+			"speaker": "1",
+			"text": "And like let's say, it works out, right?",
+			"start": "387.9",
+			"end": "389.3"
+		}, {
+			"id": [100],
+			"speaker": "1",
+			"text": "You get a point, you know, point three percent of all their equity and that could be a lot of money someday.",
+			"start": "389.3",
+			"end": "394.8"
+		}, {
+			"id": [101],
+			"speaker": "1",
+			"text": "So you got it's like the sea turtle analogy from Silicon Valley right now.",
+			"start": "394.9",
+			"end": "397.9"
+		}, {
+			"id": [102],
+			"speaker": "1",
+			"text": "It's like a couple of them make enough to see so many.",
+			"start": "398.4",
+			"end": "401.9"
+		}, {
+			"id": [103],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "406.8",
+			"end": "407.4"
+		}, {
+			"id": [104],
+			"speaker": "0",
+			"text": "Okay I got to get on that.",
+			"start": "407.7",
+			"end": "409.0"
+		}, {
+			"id": [105],
+			"speaker": "0",
+			"text": "I feel like that.",
+			"start": "409.1",
+			"end": "409.8"
+		}, {
+			"id": [106],
+			"speaker": "0",
+			"text": "Yeah, that's probably the way to make a lot of money without doing anything.",
+			"start": "409.8",
+			"end": "414.4"
+		}, {
+			"id": [107],
+			"speaker": "0",
+			"text": "You know what I really want to do is like you can get pretty big speaker fees you show up for you know an hour talk about shit.",
+			"start": "415.4",
+			"end": "422.6"
+		}, {
+			"id": [108],
+			"speaker": "0",
+			"text": "And go, I can I do all my speaking for free and other people.",
+			"start": "422.8",
+			"end": "427.0"
+		}, {
+			"id": [109],
+			"speaker": "0",
+			"text": "Like I got paid $10,000 to do that.",
+			"start": "427.0",
+			"end": "429.3"
+		}, {
+			"id": [110],
+			"speaker": "0",
+			"text": "I'm like you fucking kidding.",
+			"start": "429.3",
+			"end": "430.6"
+		}, {
+			"id": [111],
+			"speaker": "1",
+			"text": "More the 10 car.",
+			"start": "430.9",
+			"end": "431.8"
+		}, {
+			"id": [112],
+			"speaker": "1",
+			"text": "You can get one of the 10 grand, like the yeah.",
+			"start": "431.8",
+			"end": "434.0"
+		}, {
+			"id": [113],
+			"speaker": "1",
+			"text": "The white fragility thing from, like 6 months ago, like that back up there.",
+			"start": "434.5",
+			"end": "438.7"
+		}, {
+			"id": [114],
+			"speaker": "1",
+			"text": "Show me down our throats.",
+			"start": "438.7",
+			"end": "439.4"
+		}, {
+			"id": [115],
+			"speaker": "1",
+			"text": "Yeah, she charged NASA 500.",
+			"start": "439.4",
+			"end": "441.3"
+		}, {
+			"id": [116],
+			"speaker": "0",
+			"text": "Oh my God.",
+			"start": "445.9",
+			"end": "446.5"
+		}, {
+			"id": [117],
+			"speaker": "0",
+			"text": "I hated that book.",
+			"start": "446.9",
+			"end": "448.1"
+		}, {
+			"id": [118],
+			"speaker": "0",
+			"text": "I was just, I don't get socials, like there's no proof for any of them.",
+			"start": "448.2",
+			"end": "452.1"
+		}, {
+			"id": [119],
+			"speaker": "0",
+			"text": "You just saying things, but that's, there's no burden of proof in the humanities.",
+			"start": "452.1",
+			"end": "459.7"
+		}, {
+			"id": [120],
+			"speaker": "0",
+			"text": "It's just like I thought of something and wrote many words on it,.",
+			"start": "459.7",
+			"end": "463.5"
+		}, {
+			"id": [121],
+			"speaker": "1",
+			"text": "Proof.",
+			"start": "464.7",
+			"end": "465.2"
+		}, {
+			"id": [122],
+			"speaker": "1",
+			"text": "She definitely knows what she's doing like building these giant companies for hella money like I she definitely knows.",
+			"start": "465.5",
+			"end": "470.4"
+		}, {
+			"id": [123],
+			"speaker": "0",
+			"text": "yep that's the real talent.",
+			"start": "471.8",
+			"end": "474.7"
+		}, {
+			"id": [124],
+			"speaker": "0",
+			"text": "Okay yeah well you know I'm just jealous right that's all it is hates just jealousy -.",
+			"start": "475.4",
+			"end": "481.9"
+		}, {
+			"id": [125],
+			"speaker": "1",
+			"text": "Yeah so when do you think I could finish graduating with?",
+			"start": "484.9",
+			"end": "487.8"
+		}, {
+			"id": [126],
+			"speaker": "1",
+			"text": "Like all said and done.",
+			"start": "487.8",
+			"end": "488.7"
+		}, {
+			"id": [127],
+			"speaker": "1",
+			"text": "So I Room app is late.",
+			"start": "488.7",
+			"end": "489.7"
+		}, {
+			"id": [128],
+			"speaker": "1",
+			"text": "The summary get something out of this fall.",
+			"start": "489.7",
+			"end": "491.2"
+		}, {
+			"id": [129],
+			"speaker": "1",
+			"text": "We can get something else out like fall January,.",
+			"start": "491.2",
+			"end": "493.7"
+		}, {
+			"id": [130],
+			"speaker": "0",
+			"text": "Yeah, then definitely a year from now spring.",
+			"start": "495.9",
+			"end": "499.2"
+		}, {
+			"id": [131],
+			"speaker": "0",
+			"text": "I mean, you could defend mid-spring if you wanted to.",
+			"start": "499.2",
+			"end": "503.3"
+		}, {
+			"id": [132],
+			"speaker": "0",
+			"text": "But definitely, by next spring, look at your from now, because we're at the end of the semester, right?",
+			"start": "503.3",
+			"end": "509.0"
+		}, {
+			"id": [133],
+			"speaker": "0",
+			"text": "Yeah, yeah, I think it's very.",
+			"start": "509.0",
+			"end": "511.6"
+		}, {
+			"id": [134],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "512.6",
+			"end": "512.7"
+		}, {
+			"id": [135],
+			"speaker": "1",
+			"text": "Yeah, we're cases.",
+			"start": "512.7",
+			"end": "513.8"
+		}, {
+			"id": [136],
+			"speaker": "1",
+			"text": "Like, I could even like pushed it to send or next year but if we can do.",
+			"start": "513.8",
+			"end": "516.7"
+		}, {
+			"id": [137],
+			"speaker": "0",
+			"text": "that's Let's make that the goal, you know, as research you can never quite tell what can happen but you've done candidacy.",
+			"start": "517.0",
+			"end": "527.1"
+		}, {
+			"id": [138],
+			"speaker": "0",
+			"text": "So you would just have to do a thesis proposal sometime in the fall and then defense a defense.",
+			"start": "527.6",
+			"end": "534.7"
+		}, {
+			"id": [139],
+			"speaker": "0",
+			"text": "Usually, you want to do that before the end of the semester so that you can get, you know, comments and stuff will have to You know, get a committee as people that does not include your candidacy,.",
+			"start": "535.5",
+			"end": "552.0"
+		}, {
+			"id": [140],
+			"speaker": "1",
+			"text": "should be easy, right?",
+			"start": "553.8",
+			"end": "554.6"
+		}, {
+			"id": [141],
+			"speaker": "1",
+			"text": "Because like my candy, so you can vary, it was just straight bio people in machine like ml.",
+			"start": "554.6",
+			"end": "558.4"
+		}, {
+			"id": [142],
+			"speaker": "0",
+			"text": "people.",
+			"start": "558.7",
+			"end": "559.2"
+		}, {
+			"id": [143],
+			"speaker": "0",
+			"text": "Yeah, so hopefully, Joe me, I can't remember.",
+			"start": "559.7",
+			"end": "564.6"
+		}, {
+			"id": [144],
+			"speaker": "0",
+			"text": "It's three or four people.",
+			"start": "564.6",
+			"end": "566.0"
+		}, {
+			"id": [145],
+			"speaker": "0",
+			"text": "I think it's only three.",
+			"start": "566.0",
+			"end": "567.1"
+		}, {
+			"id": [146],
+			"speaker": "0",
+			"text": "I had to have five.",
+			"start": "567.6",
+			"end": "568.9"
+		}, {
+			"id": [147],
+			"speaker": "0",
+			"text": "It was annoying.",
+			"start": "568.9",
+			"end": "570.6"
+		}, {
+			"id": [148],
+			"speaker": "0",
+			"text": "I don't know, maybe Brian or somebody.",
+			"start": "571.9",
+			"end": "574.3"
+		}, {
+			"id": [149],
+			"speaker": "0",
+			"text": "Oh, you know what?",
+			"start": "575.4",
+			"end": "575.9"
+		}, {
+			"id": [150],
+			"speaker": "0",
+			"text": "Julia does spoken dialogue.",
+			"start": "575.9",
+			"end": "578.1"
+		}, {
+			"id": [151],
+			"speaker": "0",
+			"text": "It's just definitely, you know, at least tell her what we do at some point.",
+			"start": "578.9",
+			"end": "584.6"
+		}, {
+			"id": [152],
+			"speaker": "0",
+			"text": "So there is that okay.",
+			"start": "585.2",
+			"end": "588.8"
+		}, {
+			"id": [153],
+			"speaker": "0",
+			"text": "Okay, good,.",
+			"start": "589.9",
+			"end": "590.3"
+		}, {
+			"id": [154],
+			"speaker": "1",
+			"text": "So I checked my mice think and said they finally updated this shit.",
+			"start": "591.0",
+			"end": "594.7"
+		}, {
+			"id": [155],
+			"speaker": "1",
+			"text": "Oh my God.",
+			"start": "594.7",
+			"end": "595.3"
+		}, {
+			"id": [156],
+			"speaker": "1",
+			"text": "Like I actually prepared a folder of all my old classes plus syllabi and like, all this shit's like it's actually like 20 megabytes of documents because they would just fuck it up every single time and I just read email them the whole folder, but they finally added an almost up.",
+			"start": "595.3",
+			"end": "609.9"
+		}, {
+			"id": [157],
+			"speaker": "1",
+			"text": "And I see now that they said everything is done except proposal.",
+			"start": "610.1",
+			"end": "615.7"
+		}, {
+			"id": [158],
+			"speaker": "0",
+			"text": "defense Awesome.",
+			"start": "615.9",
+			"end": "618.0"
+		}, {
+			"id": [159],
+			"speaker": "0",
+			"text": "It's a good place to be.",
+			"start": "618.6",
+			"end": "619.7"
+		}, {
+			"id": [160],
+			"speaker": "0",
+			"text": "Oh no.",
+			"start": "620.9",
+			"end": "621.6"
+		}, {
+			"id": [161],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "624.3",
+			"end": "624.9"
+		}, {
+			"id": [162],
+			"speaker": "0",
+			"text": "Okay, one thing you said briefly last time was something about mixing the kind of stuff that we did Summers ition.",
+			"start": "625.0",
+			"end": "634.1"
+		}, {
+			"id": [163],
+			"speaker": "0",
+			"text": "Long-form speech with translation and I can't remember how much you said, but I wasn't listening very carefully.",
+			"start": "634.1",
+			"end": "643.0"
+		}, {
+			"id": [164],
+			"speaker": "0",
+			"text": "Did you have a concrete thought in or even on concrete thoughts in that.",
+			"start": "643.2",
+			"end": "647.2"
+		}, {
+			"id": [165],
+			"speaker": "1",
+			"text": "Yeah, I mean, like summarization it's, you don't have to prove, it's useful.",
+			"start": "648.0",
+			"end": "651.4"
+		}, {
+			"id": [166],
+			"speaker": "1",
+			"text": "It's literally useful by definition, right?",
+			"start": "651.4",
+			"end": "653.1"
+		}, {
+			"id": [167],
+			"speaker": "1",
+			"text": "So it's Was that if other people, you know that aren't first language in English Etc and they want to consume other content and their own native language, right?",
+			"start": "653.1",
+			"end": "663.3"
+		}, {
+			"id": [168],
+			"speaker": "1",
+			"text": "That's a pretty challenging problem because the more layers remember our pipeline image, the more layers you add like you know let's say it's an English.",
+			"start": "663.7",
+			"end": "670.6"
+		}, {
+			"id": [169],
+			"speaker": "1",
+			"text": "I summarized at that translate to another language, right?",
+			"start": "671.3",
+			"end": "673.8"
+		}, {
+			"id": [170],
+			"speaker": "1",
+			"text": "The summer is on perfect already and then if I translate against can get like double confused, right?",
+			"start": "673.8",
+			"end": "678.2"
+		}, {
+			"id": [171],
+			"speaker": "1",
+			"text": "So so at every stage we introduce more complexities, you get shittier and shittier output bus.",
+			"start": "678.2",
+			"end": "684.0"
+		}, {
+			"id": [172],
+			"speaker": "1",
+			"text": "Like a known problem.",
+			"start": "684.1",
+			"end": "684.7"
+		}, {
+			"id": [173],
+			"speaker": "1",
+			"text": "That's like a pretty language heavy, kind of a problem, but if you were to figure that out that, you know, find a users in another language.",
+			"start": "684.7",
+			"end": "692.0"
+		}, {
+			"id": [174],
+			"speaker": "1",
+			"text": "That's also a little more time-consuming.",
+			"start": "692.0",
+			"end": "694.0"
+		}, {
+			"id": [175],
+			"speaker": "1",
+			"text": "Like, I can't push my friends through those like, hey, learn French.",
+			"start": "694.0",
+			"end": "696.7"
+		}, {
+			"id": [176],
+			"speaker": "1",
+			"text": "So we like.",
+			"start": "697.4",
+			"end": "697.9"
+		}, {
+			"id": [177],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "699.0",
+			"end": "699.6"
+		}, {
+			"id": [178],
+			"speaker": "0",
+			"text": "Your ideal way of doing this is having a DARPA Grant where they're like, we want to summarize an access.",
+			"start": "699.6",
+			"end": "706.4"
+		}, {
+			"id": [179],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "706.5",
+			"end": "706.9"
+		}, {
+			"id": [180],
+			"speaker": "0",
+			"text": "Arabic Chinese.",
+			"start": "706.9",
+			"end": "708.3"
+		}, {
+			"id": [181],
+			"speaker": "0",
+			"text": "Whoever it whoever's the the you know, the bad guy of the day and then they give you the.",
+			"start": "708.3",
+			"end": "713.8"
+		}, {
+			"id": [182],
+			"speaker": "1",
+			"text": "Bowl.",
+			"start": "714.1",
+			"end": "714.5"
+		}, {
+			"id": [183],
+			"speaker": "1",
+			"text": "Yeah, that sounds that sounds like, oh, so interesting to especially cuz like, Arabic, what's kind of consider like a load resource language, where there's not a lot of training data for that, so that's a technical challenge to.",
+			"start": "714.9",
+			"end": "725.8"
+		}, {
+			"id": [184],
+			"speaker": "1",
+			"text": "Yeah, the thing.",
+			"start": "726.0",
+			"end": "727.3"
+		}, {
+			"id": [185],
+			"speaker": "0",
+			"text": "it's not hard to Pilot it because you need pretty much.",
+			"start": "727.4",
+			"end": "730.9"
+		}, {
+			"id": [186],
+			"speaker": "0",
+			"text": "You have the way Julia does.",
+			"start": "730.9",
+			"end": "732.4"
+		}, {
+			"id": [187],
+			"speaker": "0",
+			"text": "Is she finds a student who's a native speaker of that language?",
+			"start": "732.4",
+			"end": "736.5"
+		}, {
+			"id": [188],
+			"speaker": "0",
+			"text": "And then they have friends who are speakers of that language.",
+			"start": "736.5",
+			"end": "739.4"
+		}, {
+			"id": [189],
+			"speaker": "0",
+			"text": "So you can you have someone who already has some good heuristic because otherwise, it's a blind Leading the blind like yeah either was nobody.",
+			"start": "739.4",
+			"end": "746.2"
+		}, {
+			"id": [190],
+			"speaker": "1",
+			"text": "We were doing that with like German for last summer and like we just shit ass like my friend, spoke driven but you know I can't give them our stuff because that's IP stuff or whatever.",
+			"start": "748.2",
+			"end": "757.2"
+		}, {
+			"id": [191],
+			"speaker": "1",
+			"text": "So then we just kept like that translating Google translate.",
+			"start": "757.4",
+			"end": "759.9"
+		}, {
+			"id": [192],
+			"speaker": "1",
+			"text": "I'm like, you know, those those memes on YouTube where the back, translate a scene from a movie left and right left and.",
+			"start": "759.9",
+			"end": "764.0"
+		}, {
+			"id": [193],
+			"speaker": "0",
+			"text": "and give them work for.",
+			"start": "764.6",
+			"end": "765.3"
+		}, {
+			"id": [194],
+			"speaker": "1",
+			"text": "So, you know, like you get that kind of stuff which is no boy do.",
+			"start": "768.3",
+			"end": "771.4"
+		}, {
+			"id": [195],
+			"speaker": "1",
+			"text": "But yeah, like if we do a different language, that's awesome.",
+			"start": "771.4",
+			"end": "773.9"
+		}, {
+			"id": [196],
+			"speaker": "1",
+			"text": "Record because there's plenty of usability constraints within translation, right?",
+			"start": "774.1",
+			"end": "777.8"
+		}, {
+			"id": [197],
+			"speaker": "1",
+			"text": "And you know, that's always interesting.",
+			"start": "778.1",
+			"end": "779.8"
+		}, {
+			"id": [198],
+			"speaker": "1",
+			"text": "It's like what actually works and.",
+			"start": "779.8",
+			"end": "781.5"
+		}, {
+			"id": [199],
+			"speaker": "0",
+			"text": "doesn't?",
+			"start": "781.6",
+			"end": "782.2"
+		}, {
+			"id": [200],
+			"speaker": "0",
+			"text": "Yeah, I mean in between translation is English as a second language like maybe that's a in between, I don't know, I feel like most people who want to read something on another language, have some familiarity with that language.",
+			"start": "782.5",
+			"end": "803.8"
+		}, {
+			"id": [201],
+			"speaker": "0",
+			"text": "Mmm, right?",
+			"start": "804.1",
+			"end": "805.0"
+		}, {
+			"id": [202],
+			"speaker": "0",
+			"text": "Like how often do people like want to?",
+			"start": "805.0",
+			"end": "807.3"
+		}, {
+			"id": [203],
+			"speaker": "0",
+			"text": "Well I don't know, maybe that's what the state department does is they don't got some guy who speaks 0 Chinese and you know, Wants to read all the emails that we steal from them.",
+			"start": "807.9",
+			"end": "818.5"
+		}, {
+			"id": [204],
+			"speaker": "0",
+			"text": "You think if you were doing that you well, whatever.",
+			"start": "820.5",
+			"end": "823.1"
+		}, {
+			"id": [205],
+			"speaker": "0",
+			"text": "What is my point?",
+			"start": "827.9",
+			"end": "828.9"
+		}, {
+			"id": [206],
+			"speaker": "0",
+			"text": "But yes, I think a brainstorm would be good.",
+			"start": "828.9",
+			"end": "832.7"
+		}, {
+			"id": [207],
+			"speaker": "0",
+			"text": "I think that's a great thing to spend however long it takes on Bo definitely before you disappear to Google because then they'll give you stuff.",
+			"start": "832.9",
+			"end": "840.7"
+		}, {
+			"id": [208],
+			"speaker": "0",
+			"text": "And you know a brainstorm you can kind of do you just want to give it time and talk to other people and you know run little experiments like not real experiments like shit like a let's put the let's record this and put it through the system.",
+			"start": "840.7",
+			"end": "856.5"
+		}, {
+			"id": [209],
+			"speaker": "0",
+			"text": "I still do think that we could do.",
+			"start": "858.5",
+			"end": "860.2"
+		}, {
+			"id": [210],
+			"speaker": "0",
+			"text": "We could Target meetings as like a different, you like similar but different use case.",
+			"start": "860.2",
+			"end": "866.6"
+		}, {
+			"id": [211],
+			"speaker": "0",
+			"text": "I don't know if the ASR if the ASR doesn't work what kind of fucked.",
+			"start": "866.6",
+			"end": "870.2"
+		}, {
+			"id": [212],
+			"speaker": "0",
+			"text": "Yeah and I'm worried that the ASR but the ASR works pretty well for the the Google meets.",
+			"start": "870.2",
+			"end": "877.8"
+		}, {
+			"id": [213],
+			"speaker": "0",
+			"text": "So you.",
+			"start": "877.8",
+			"end": "879.3"
+		}, {
+			"id": [214],
+			"speaker": "1",
+			"text": "I think for like one big issue is figure out the coreference stuff.",
+			"start": "880.6",
+			"end": "886.2"
+		}, {
+			"id": [215],
+			"speaker": "1",
+			"text": "It's like if.",
+			"start": "886.4",
+			"end": "887.1"
+		}, {
+			"id": [216],
+			"speaker": "1",
+			"text": "figure out how to impute that back into the faint before you summarize, I give it an understanding that's going to be very, very, very useful.",
+			"start": "887.4",
+			"end": "894.1"
+		}, {
+			"id": [217],
+			"speaker": "1",
+			"text": "And I didn't see anyone doing that because it also sounds like a super fucking heart.",
+			"start": "894.2",
+			"end": "897.6"
+		}, {
+			"id": [218],
+			"speaker": "0",
+			"text": "I think we should try it, they just try to see if it helps like I think it will.",
+			"start": "899.2",
+			"end": "904.4"
+		}, {
+			"id": [219],
+			"speaker": "0",
+			"text": "In addition to coreference, you can diagram the whole sentence to figure out like the subject, the object, the vert, and like that's got to help in.",
+			"start": "905.2",
+			"end": "913.0"
+		}, {
+			"id": [220],
+			"speaker": "1",
+			"text": "Yeah, we did try that because we talked about it.",
+			"start": "914.3",
+			"end": "917.1"
+		}, {
+			"id": [221],
+			"speaker": "1",
+			"text": "Yeah, mid-march, we have something implemented for it, but it's very noisy.",
+			"start": "917.2",
+			"end": "921.6"
+		}, {
+			"id": [222],
+			"speaker": "1",
+			"text": "I mean, I guess like you can abstract it away and say like, you know, you and I first plugging it in and see how it affects, like, what we would determine because then, you know, you can figure out the actual process of extracting it.",
+			"start": "922.0",
+			"end": "930.9"
+		}, {
+			"id": [223],
+			"speaker": "1",
+			"text": "And if that helps and it's worth investigating, it doesn't whole shit shit out of luck,.",
+			"start": "931.1",
+			"end": "934.3"
+		}, {
+			"id": [224],
+			"speaker": "0",
+			"text": "For ya.",
+			"start": "934.6",
+			"end": "935.9"
+		}, {
+			"id": [225],
+			"speaker": "0",
+			"text": "Did we do it on the raw,.",
+			"start": "936.2",
+			"end": "937.6"
+		}, {
+			"id": [226],
+			"speaker": "1",
+			"text": "Yeah, so we might.",
+			"start": "938.8",
+			"end": "940.5"
+		}, {
+			"id": [227],
+			"speaker": "0",
+			"text": "to do it on the long.",
+			"start": "940.7",
+			"end": "942.0"
+		}, {
+			"id": [228],
+			"speaker": "1",
+			"text": "Yeah, that's what I'm thinking.",
+			"start": "943.2",
+			"end": "944.3"
+		}, {
+			"id": [229],
+			"speaker": "1",
+			"text": "Is that?",
+			"start": "944.3",
+			"end": "944.7"
+		}, {
+			"id": [230],
+			"speaker": "1",
+			"text": "Look at other stages when you impute it, right?",
+			"start": "944.7",
+			"end": "947.1"
+		}, {
+			"id": [231],
+			"speaker": "1",
+			"text": "Want to give it like you don't want to say she.",
+			"start": "947.3",
+			"end": "949.7"
+		}, {
+			"id": [232],
+			"speaker": "1",
+			"text": "You want to say like my mother's friend.",
+			"start": "949.7",
+			"end": "952.5"
+		}, {
+			"id": [233],
+			"speaker": "1",
+			"text": "If that's what they actually said, right.",
+			"start": "952.6",
+			"end": "954.7"
+		}, {
+			"id": [234],
+			"speaker": "1",
+			"text": "You can't just say friend.",
+			"start": "955.5",
+			"end": "956.4"
+		}, {
+			"id": [235],
+			"speaker": "1",
+			"text": "You have to have like all the modifiers, you have to like present it in a cohesive format because it's like, let's say you have my mother's friend, did this, you know, I did X or whatever but then let's say it's missing did.",
+			"start": "956.4",
+			"end": "967.4"
+		}, {
+			"id": [236],
+			"speaker": "1",
+			"text": "So my mother's friend X, that's so.",
+			"start": "967.4",
+			"end": "969.6"
+		}, {
+			"id": [237],
+			"speaker": "1",
+			"text": "So gonna confuse the shit out of it, right?",
+			"start": "969.6",
+			"end": "972.0"
+		}, {
+			"id": [238],
+			"speaker": "1",
+			"text": "So there's like, 20 modeling challenges there.",
+			"start": "972.1",
+			"end": "974.3"
+		}, {
+			"id": [239],
+			"speaker": "1",
+			"text": "So, I mean, it's an interesting and up, bro.",
+			"start": "974.8",
+			"end": "977.1"
+		}, {
+			"id": [240],
+			"speaker": "1",
+			"text": "Um, where I wouldn't mind working on it for like language-wise.",
+			"start": "977.2",
+			"end": "980.1"
+		}, {
+			"id": [241],
+			"speaker": "1",
+			"text": "It's just I have no scope of how deep this Rabbit Hole can be for something.",
+			"start": "980.2",
+			"end": "985.9"
+		}, {
+			"id": [242],
+			"speaker": "0",
+			"text": "that.",
+			"start": "986.1",
+			"end": "986.5"
+		}, {
+			"id": [243],
+			"speaker": "0",
+			"text": "Yeah, I know what you mean.",
+			"start": "987.2",
+			"end": "988.7"
+		}, {
+			"id": [244],
+			"speaker": "0",
+			"text": "It's the kind of thing that I would be like I would personally give it two weeks.",
+			"start": "989.7",
+			"end": "993.7"
+		}, {
+			"id": [245],
+			"speaker": "0",
+			"text": "See how far I could get see, like a my understanding this problem more because right now we just we sort of an inkling for this Problem, and sometimes I go really deep and sometimes you're like, oh no, I'm this, this might be tractable.",
+			"start": "993.7",
+			"end": "1009.6"
+		}, {
+			"id": [246],
+			"speaker": "0",
+			"text": "So I gots a good concrete thing we should do as we keep brainstorming and after you finish your post or whatever the.",
+			"start": "1009.8",
+			"end": "1018.5"
+		}, {
+			"id": [247],
+			"speaker": "1",
+			"text": "So Friday I could like, you know, that thing where you teach people in 160 where it's like, come up with a list of like 25 things.",
+			"start": "1019.8",
+			"end": "1025.8"
+		}, {
+			"id": [248],
+			"speaker": "1",
+			"text": "It doesn't matter how fast or whatever.",
+			"start": "1025.8",
+			"end": "1027.5"
+		}, {
+			"id": [249],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1027.5",
+			"end": "1027.7"
+		}, {
+			"id": [250],
+			"speaker": "1",
+			"text": "Like just some way I can do that for Friday is just like right up.",
+			"start": "1027.7",
+			"end": "1030.5"
+		}, {
+			"id": [251],
+			"speaker": "1",
+			"text": "Thomas cat and see what's.",
+			"start": "1031.1",
+			"end": "1032.5"
+		}, {
+			"id": [252],
+			"speaker": "0",
+			"text": "Yeah, let's do.",
+			"start": "1033.4",
+			"end": "1034.4"
+		}, {
+			"id": [253],
+			"speaker": "1",
+			"text": "That's a still, the most beautiful clouds like when people ask me.",
+			"start": "1038.2",
+			"end": "1041.2"
+		}, {
+			"id": [254],
+			"speaker": "1",
+			"text": "What's your blessings?",
+			"start": "1041.3",
+			"end": "1042.0"
+		}, {
+			"id": [255],
+			"speaker": "1",
+			"text": "Look Lassie, think it's like, it's and I'll know it's 160 or like you.",
+			"start": "1042.0",
+			"end": "1045.8"
+		}, {
+			"id": [256],
+			"speaker": "0",
+			"text": "yeah, sorry in the back of my, let me take, two children, are expensive, New York, it's expensive children, Crossing York are doubly expensive, and so I'm now constantly thinking of ways to make real like before I had a kid, I like, whatever.",
+			"start": "1046.8",
+			"end": "1061.0"
+		}, {
+			"id": [257],
+			"speaker": "0",
+			"text": "I'll be fine on a professor's salary, you know, because I have few needs now.",
+			"start": "1061.0",
+			"end": "1066.6"
+		}, {
+			"id": [258],
+			"speaker": "0",
+			"text": "I'm like It would be much nicer to have a real place to live and system of my problems but I feel like given that I feel like I teach kind of the only useful class and all of Colombia.",
+			"start": "1066.6",
+			"end": "1080.7"
+		}, {
+			"id": [259],
+			"speaker": "0",
+			"text": "Why can't I turn that into money?",
+			"start": "1080.7",
+			"end": "1082.9"
+		}, {
+			"id": [260],
+			"speaker": "0",
+			"text": "Like I feel like every one of the universe needs to take this class and learn some basic fucking principles of, this is how you get shit done.",
+			"start": "1083.3",
+			"end": "1090.5"
+		}, {
+			"id": [261],
+			"speaker": "0",
+			"text": "That's just how he that's my ideas.",
+			"start": "1090.6",
+			"end": "1092.7"
+		}, {
+			"id": [262],
+			"speaker": "0",
+			"text": "This is how you, I don't know.",
+			"start": "1092.7",
+			"end": "1094.9"
+		}, {
+			"id": [263],
+			"speaker": "0",
+			"text": "People get all this fucking money from being inspirational.",
+			"start": "1094.9",
+			"end": "1097.5"
+		}, {
+			"id": [264],
+			"speaker": "0",
+			"text": "Optional speakers and for peddling horseshit and this stuff actually works and is not that hard but not that he's not so easy.",
+			"start": "1097.6",
+			"end": "1106.5"
+		}, {
+			"id": [265],
+			"speaker": "1",
+			"text": "someone got to tell people it, right?",
+			"start": "1106.7",
+			"end": "1108.3"
+		}, {
+			"id": [266],
+			"speaker": "1",
+			"text": "Like it he's really spin like, you know, a couple days think about it, you might be able to arrive at like some half like, you know, framework of how to make a decision process, right.",
+			"start": "1108.3",
+			"end": "1118.0"
+		}, {
+			"id": [267],
+			"speaker": "1",
+			"text": "But you know, one someone tells you it's like, oh yes this makes.",
+			"start": "1118.0",
+			"end": "1120.5"
+		}, {
+			"id": [268],
+			"speaker": "0",
+			"text": "Yeah, and then the hard part is not.",
+			"start": "1121.4",
+			"end": "1123.9"
+		}, {
+			"id": [269],
+			"speaker": "0",
+			"text": "It is having the I don't know.",
+			"start": "1124.5",
+			"end": "1127.2"
+		}, {
+			"id": [270],
+			"speaker": "0",
+			"text": "It's sticking to it.",
+			"start": "1127.9",
+			"end": "1129.1"
+		}, {
+			"id": [271],
+			"speaker": "0",
+			"text": "It's like you know everyone knows how to lose weight, a heart, that's this I really doing it.",
+			"start": "1129.3",
+			"end": "1135.5"
+		}, {
+			"id": [272],
+			"speaker": "0",
+			"text": "Oh, eat less calories, got it.",
+			"start": "1135.6",
+			"end": "1137.8"
+		}, {
+			"id": [273],
+			"speaker": "1",
+			"text": "Yeah, I think you definitely missed the boat where you could charge, hello money by like a couple of years, but there's a new thing where people are doing where, you know, if you get like, companies to sponsor your class and then you can funnel your top students to those companies.",
+			"start": "1139.4",
+			"end": "1152.1"
+		}, {
+			"id": [274],
+			"speaker": "1",
+			"text": "They might give you like a kickback, if they hire people, so that's like another thing.",
+			"start": "1152.1",
+			"end": "1156.5"
+		}, {
+			"id": [275],
+			"speaker": "1",
+			"text": "And then on top of that.",
+			"start": "1156.5",
+			"end": "1157.5"
+		}, {
+			"id": [276],
+			"speaker": "1",
+			"text": "Is like a lot of companies want to prototype shit, right?",
+			"start": "1157.6",
+			"end": "1160.3"
+		}, {
+			"id": [277],
+			"speaker": "1",
+			"text": "And that's very expensive if you want to do that, on a wide scale for companies so you can like let companies test shit on your students and then the to pay you hello bunny.",
+			"start": "1160.3",
+			"end": "1169.4"
+		}, {
+			"id": [278],
+			"speaker": "1",
+			"text": "Like yeah like figma did that for Paula's.",
+			"start": "1170.3",
+			"end": "1172.6"
+		}, {
+			"id": [279],
+			"speaker": "1",
+			"text": "Other figments broke at the time but they probably get policy Equity or something and now he's rolling.",
+			"start": "1172.6",
+			"end": "1176.9"
+		}, {
+			"id": [280],
+			"speaker": "1",
+			"text": "Another this plenty of things for for this, there was like that joke at Stanford, where Stanford professors are like, wait, this is not enough money to live in Palo Alto and like, if your CSS then it becomes like.",
+			"start": "1180.0",
+			"end": "1189.5"
+		}, {
+			"id": [281],
+			"speaker": "1",
+			"text": "Yeah, that's just like your side thing, right?",
+			"start": "1189.5",
+			"end": "1191.0"
+		}, {
+			"id": [282],
+			"speaker": "1",
+			"text": "The real thing is, if you just become a consultant, whatever for companies, that's what you make the real.",
+			"start": "1191.0",
+			"end": "1195.0"
+		}, {
+			"id": [283],
+			"speaker": "0",
+			"text": "That's true.",
+			"start": "1195.5",
+			"end": "1196.4"
+		}, {
+			"id": [284],
+			"speaker": "0",
+			"text": "And that's why all their, like, good faculty.",
+			"start": "1196.6",
+			"end": "1199.6"
+		}, {
+			"id": [285],
+			"speaker": "0",
+			"text": "Other than Theory, People series are useless.",
+			"start": "1199.6",
+			"end": "1202.9"
+		}, {
+			"id": [286],
+			"speaker": "0",
+			"text": "They're stuck being professors, but yeah, and doing things like Like see us Daphne Koller?",
+			"start": "1204.5",
+			"end": "1213.3"
+		}, {
+			"id": [287],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1213.3",
+			"end": "1213.5"
+		}, {
+			"id": [288],
+			"speaker": "0",
+			"text": "All the useful folks.",
+			"start": "1213.5",
+			"end": "1214.8"
+		}, {
+			"id": [289],
+			"speaker": "0",
+			"text": "Yeah, right.",
+			"start": "1220.2",
+			"end": "1221.0"
+		}, {
+			"id": [290],
+			"speaker": "0",
+			"text": "Okay, so we have, you know, a couple ideas, a follow-up stuff, which is.",
+			"start": "1221.0",
+			"end": "1225.5"
+		}, {
+			"id": [291],
+			"speaker": "1",
+			"text": "Should we still contact Amazon about like that stuff?",
+			"start": "1228.2",
+			"end": "1231.2"
+		}, {
+			"id": [292],
+			"speaker": "1",
+			"text": "I don't know if we need or should like do we want to do that?",
+			"start": "1231.2",
+			"end": "1234.7"
+		}, {
+			"id": [293],
+			"speaker": "1",
+			"text": "Like, we put a non-trivial effort, but those are also like super hardcore language problems, which I don't know, the scope of and I don't know how easy it would be to.",
+			"start": "1234.7",
+			"end": "1243.2"
+		}, {
+			"id": [294],
+			"speaker": "0",
+			"text": "Let's keep on this track because I think your priority one of those projects could Take a lot longer to get you.",
+			"start": "1244.7",
+			"end": "1251.2"
+		}, {
+			"id": [295],
+			"speaker": "0",
+			"text": "thinking those are seem like 6-month projects to me and you sort of want a couple three-month projects in the same vein and reuse a lot of that work and kind of tech infrastructure.",
+			"start": "1253.0",
+			"end": "1265.8"
+		}, {
+			"id": [296],
+			"speaker": "0",
+			"text": "That we.",
+			"start": "1269.4",
+			"end": "1269.8"
+		}, {
+			"id": [297],
+			"speaker": "1",
+			"text": "Yes, I think it's definitely right.",
+			"start": "1276.8",
+			"end": "1278.3"
+		}, {
+			"id": [298],
+			"speaker": "1",
+			"text": "Well, we should hold off.",
+			"start": "1278.3",
+			"end": "1279.2"
+		}, {
+			"id": [299],
+			"speaker": "0",
+			"text": "ya.",
+			"start": "1280.2",
+			"end": "1280.8"
+		}, {
+			"id": [300],
+			"speaker": "0",
+			"text": "So it's a very likely that well I do.",
+			"start": "1281.0",
+			"end": "1284.3"
+		}, {
+			"id": [301],
+			"speaker": "0",
+			"text": "It will figure out funding, but you, I'm almost certainly convinced that you have to be a registered student.",
+			"start": "1284.3",
+			"end": "1293.1"
+		}, {
+			"id": [302],
+			"speaker": "0",
+			"text": "This semester, you graduate, right?",
+			"start": "1293.1",
+			"end": "1295.6"
+		}, {
+			"id": [303],
+			"speaker": "0",
+			"text": "Like that would be bullshit of this being met, so you'll definitely have to be a student in the spring.",
+			"start": "1295.6",
+			"end": "1300.9"
+		}, {
+			"id": [304],
+			"speaker": "0",
+			"text": "You're graduating in the spring.",
+			"start": "1301.0",
+			"end": "1303.2"
+		}, {
+			"id": [305],
+			"speaker": "0",
+			"text": "So then we'll have Figure out fall.",
+			"start": "1303.7",
+			"end": "1307.0"
+		}, {
+			"id": [306],
+			"speaker": "0",
+			"text": "So we you have that free semester, right?",
+			"start": "1307.4",
+			"end": "1310.2"
+		}, {
+			"id": [307],
+			"speaker": "0",
+			"text": "Presuming that's still on the books.",
+			"start": "1310.8",
+			"end": "1313.0"
+		}, {
+			"id": [308],
+			"speaker": "0",
+			"text": "Anyway, so we may or may not want to use that in.",
+			"start": "1316.8",
+			"end": "1319.6"
+		}, {
+			"id": [309],
+			"speaker": "1",
+			"text": "Also for the registration wise, like, I'm supposed to do another register unit thing.",
+			"start": "1320.6",
+			"end": "1325.3"
+		}, {
+			"id": [310],
+			"speaker": "1",
+			"text": "So you're going to be my advisor for this.",
+			"start": "1325.3",
+			"end": "1327.4"
+		}, {
+			"id": [311],
+			"speaker": "1",
+			"text": "Like, should I put your thing for this or what should I.",
+			"start": "1327.4",
+			"end": "1330.4"
+		}, {
+			"id": [312],
+			"speaker": "1",
+			"text": "what.",
+			"start": "1332.2",
+			"end": "1332.9"
+		}, {
+			"id": [313],
+			"speaker": "1",
+			"text": "like, we have to do the residence unit, like they kept hounding us like got register for this or something like.",
+			"start": "1332.9",
+			"end": "1337.7"
+		}, {
+			"id": [314],
+			"speaker": "0",
+			"text": "Like, no, really.",
+			"start": "1338.6",
+			"end": "1339.9"
+		}, {
+			"id": [315],
+			"speaker": "0",
+			"text": "Okay.",
+			"start": "1340.4",
+			"end": "1340.9"
+		}, {
+			"id": [316],
+			"speaker": "0",
+			"text": "I'm I just let my students deal with that.",
+			"start": "1341.0",
+			"end": "1343.4"
+		}, {
+			"id": [317],
+			"speaker": "1",
+			"text": "Like, should I register for yours or it's, or what should I do for.",
+			"start": "1346.2",
+			"end": "1349.3"
+		}, {
+			"id": [318],
+			"speaker": "0",
+			"text": "I would talk to him first because if you register for mine at son, somebody sees that they're going to go straight to the right like.",
+			"start": "1352.2",
+			"end": "1361.1"
+		}, {
+			"id": [319],
+			"speaker": "0",
+			"text": "I'm sure some.",
+			"start": "1361.1",
+			"end": "1362.0"
+		}, {
+			"id": [320],
+			"speaker": "0",
+			"text": "Well, I'm not sure but it's possible that somebody like Cindy looks over all this stuff or could see it.",
+			"start": "1362.0",
+			"end": "1368.9"
+		}, {
+			"id": [321],
+			"speaker": "0",
+			"text": "So yeah.",
+			"start": "1368.9",
+			"end": "1372.0"
+		}, {
+			"id": [322],
+			"speaker": "0",
+			"text": "but, you know, presuming that you know, like what until you've broken up with him, I would do his So but you can usually pump that's not until the fall.",
+			"start": "1374.1",
+			"end": "1387.9"
+		}, {
+			"id": [323],
+			"speaker": "0",
+			"text": "You don't need to register until like the day.",
+			"start": "1388.0",
+			"end": "1389.6"
+		}, {
+			"id": [324],
+			"speaker": "0",
+			"text": "they pressure you to do all this shit early but they don't.",
+			"start": "1392.3",
+			"end": "1395.5"
+		}, {
+			"id": [325],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "1396.2",
+			"end": "1396.6"
+		}, {
+			"id": [326],
+			"speaker": "1",
+			"text": "Yeah we can leave that be.",
+			"start": "1396.6",
+			"end": "1397.8"
+		}, {
+			"id": [327],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1399.0",
+			"end": "1399.3"
+		}, {
+			"id": [328],
+			"speaker": "1",
+			"text": "So okay.",
+			"start": "1399.3",
+			"end": "1400.8"
+		}, {
+			"id": [329],
+			"speaker": "1",
+			"text": "We have action plans figured okay.",
+			"start": "1400.8",
+			"end": "1403.4"
+		}, {
+			"id": [330],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1403.4",
+			"end": "1403.7"
+		}, {
+			"id": [331],
+			"speaker": "1",
+			"text": "Oh and then and mice.",
+			"start": "1406.5",
+			"end": "1407.6"
+		}, {
+			"id": [332],
+			"speaker": "1",
+			"text": "Should I list our paper because they want us to do that?",
+			"start": "1407.6",
+			"end": "1411.5"
+		}, {
+			"id": [333],
+			"speaker": "1",
+			"text": "But at the same time, not sure if.",
+			"start": "1411.5",
+			"end": "1412.7"
+		}, {
+			"id": [334],
+			"speaker": "0",
+			"text": "should I do that quite.",
+			"start": "1412.7",
+			"end": "1415.7"
+		}, {
+			"id": [335],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "1416.5",
+			"end": "1417.0"
+		}, {
+			"id": [336],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1417.8",
+			"end": "1418.1"
+		}, {
+			"id": [337],
+			"speaker": "1",
+			"text": "So, it seems like that I didn't do much all this semester, but I did.",
+			"start": "1418.1",
+			"end": "1423.8"
+		}, {
+			"id": [338],
+			"speaker": "1",
+			"text": "So.",
+			"start": "1424.0",
+			"end": "1424.6"
+		}, {
+			"id": [339],
+			"speaker": "0",
+			"text": "right.",
+			"start": "1426.3",
+			"end": "1426.9"
+		}, {
+			"id": [340],
+			"speaker": "0",
+			"text": "I don't know what the groupings for Black Friday are, but I believe it's the 29th.",
+			"start": "1426.9",
+			"end": "1433.1"
+		}, {
+			"id": [341],
+			"speaker": "0",
+			"text": "It is the 29th so far.",
+			"start": "1433.1",
+			"end": "1437.1"
+		}, {
+			"id": [342],
+			"speaker": "0",
+			"text": "We have, it's like, and I've always been in the same one.",
+			"start": "1437.1",
+			"end": "1441.2"
+		}, {
+			"id": [343],
+			"speaker": "0",
+			"text": "I would talk to him before the 29th.",
+			"start": "1443.8",
+			"end": "1445.9"
+		}, {
+			"id": [344],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1446.2",
+			"end": "1446.7"
+		}, {
+			"id": [345],
+			"speaker": "0",
+			"text": "If that's a.",
+			"start": "1447.2",
+			"end": "1448.0"
+		}, {
+			"id": [346],
+			"speaker": "1",
+			"text": "Okay.",
+			"start": "1450.8",
+			"end": "1451.2"
+		}, {
+			"id": [347],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1451.2",
+			"end": "1451.5"
+		}, {
+			"id": [348],
+			"speaker": "1",
+			"text": "So we should figure out like what?",
+			"start": "1451.5",
+			"end": "1453.6"
+		}, {
+			"id": [349],
+			"speaker": "1",
+			"text": "What this game plan is or something.",
+			"start": "1453.9",
+			"end": "1457.8"
+		}, {
+			"id": [350],
+			"speaker": "0",
+			"text": "that?",
+			"start": "1458.1",
+			"end": "1458.7"
+		}, {
+			"id": [351],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1459.3",
+			"end": "1459.9"
+		}, {
+			"id": [352],
+			"speaker": "0",
+			"text": "Do you have like a meeting?",
+			"start": "1460.5",
+			"end": "1461.8"
+		}, {
+			"id": [353],
+			"speaker": "0",
+			"text": "I know part of the problem is, he never meets with you.",
+			"start": "1461.8",
+			"end": "1464.3"
+		}, {
+			"id": [354],
+			"speaker": "0",
+			"text": "Do you have any meetings with him on.",
+			"start": "1465.4",
+			"end": "1466.9"
+		}, {
+			"id": [355],
+			"speaker": "1",
+			"text": "books?",
+			"start": "1467.0",
+			"end": "1467.6"
+		}, {
+			"id": [356],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1467.8",
+			"end": "1468.2"
+		}, {
+			"id": [357],
+			"speaker": "1",
+			"text": "So maybe like once a week for like 30 minutes but it ends up being like, fuck.",
+			"start": "1468.2",
+			"end": "1471.8"
+		}, {
+			"id": [358],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "1474.2",
+			"end": "1474.4"
+		}, {
+			"id": [359],
+			"speaker": "1",
+			"text": "So it's not be with them tomorrow.",
+			"start": "1474.4",
+			"end": "1475.9"
+		}, {
+			"id": [360],
+			"speaker": "1",
+			"text": "And then every Thursday, like around noon,.",
+			"start": "1476.0",
+			"end": "1478.2"
+		}, {
+			"id": [361],
+			"speaker": "0",
+			"text": "know, what do you actually?",
+			"start": "1479.7",
+			"end": "1480.5"
+		}, {
+			"id": [362],
+			"speaker": "0",
+			"text": "I do in those meetings.",
+			"start": "1480.7",
+			"end": "1482.0"
+		}, {
+			"id": [363],
+			"speaker": "1",
+			"text": "like he tells me like this bio stuff.",
+			"start": "1482.7",
+			"end": "1485.6"
+		}, {
+			"id": [364],
+			"speaker": "1",
+			"text": "I'm like, okay, that's not actually how it works.",
+			"start": "1485.6",
+			"end": "1487.8"
+		}, {
+			"id": [365],
+			"speaker": "1",
+			"text": "I just like not on my head and then I just end up doing it.",
+			"start": "1487.8",
+			"end": "1490.2"
+		}, {
+			"id": [366],
+			"speaker": "1",
+			"text": "Like not what he says because it's just factually incorrect.",
+			"start": "1490.2",
+			"end": "1494.3"
+		}, {
+			"id": [367],
+			"speaker": "1",
+			"text": "Like I mean into abstracted away, right?",
+			"start": "1494.3",
+			"end": "1497.0"
+		}, {
+			"id": [368],
+			"speaker": "1",
+			"text": "No matter how you force a one plus one cannot equal 4, like you just can't do it right?",
+			"start": "1497.0",
+			"end": "1501.2"
+		}, {
+			"id": [369],
+			"speaker": "1",
+			"text": "Like and then the same thing here, it's like if you don't have enough pixels, you literally cannot run model X on it because now people literally can't do it, but he doesn't get that I.",
+			"start": "1501.2",
+			"end": "1509.8"
+		}, {
+			"id": [370],
+			"speaker": "0",
+			"text": "I mean, if it were me the approach that seems most combination of honest and we'll get you, what you want is like, you know, the biology stuff, you're just not, you know, you could definitely do the machine learning and that's a really hot thing right now and the bio just isn't working out for you.",
+			"start": "1511.5",
+			"end": "1531.0"
+		}, {
+			"id": [371],
+			"speaker": "0",
+			"text": "Don't have the tuitions for it and you know, whatever.",
+			"start": "1531.0",
+			"end": "1535.2"
+		}, {
+			"id": [372],
+			"speaker": "0",
+			"text": "And so you know, you really want to see if you can get out as quickly as possible.",
+			"start": "1535.2",
+			"end": "1540.2"
+		}, {
+			"id": [373],
+			"speaker": "0",
+			"text": "by doing something more ml less bio, When see what he.",
+			"start": "1541.0",
+			"end": "1549.6"
+		}, {
+			"id": [374],
+			"speaker": "1",
+			"text": "All right, this is gonna be interesting.",
+			"start": "1550.5",
+			"end": "1552.4"
+		}, {
+			"id": [375],
+			"speaker": "1",
+			"text": "Yeah, I can do that.",
+			"start": "1552.5",
+			"end": "1553.4"
+		}, {
+			"id": [376],
+			"speaker": "1",
+			"text": "I guess I won't do that tomorrow.",
+			"start": "1553.8",
+			"end": "1554.9"
+		}, {
+			"id": [377],
+			"speaker": "1",
+			"text": "I'll do the next.",
+			"start": "1554.9",
+			"end": "1555.8"
+		}, {
+			"id": [378],
+			"speaker": "0",
+			"text": "for.",
+			"start": "1556.3",
+			"end": "1556.5"
+		}, {
+			"id": [379],
+			"speaker": "0",
+			"text": "Yeah, I might, you know, warm up for it.",
+			"start": "1556.6",
+			"end": "1559.1"
+		}, {
+			"id": [380],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "1559.1",
+			"end": "1559.6"
+		}, {
+			"id": [381],
+			"speaker": "0",
+			"text": "I, he's not the kind of person who like me, like I can't imagine like the fact that he doesn't sense that you're unhappy.",
+			"start": "1559.6",
+			"end": "1567.3"
+		}, {
+			"id": [382],
+			"speaker": "0",
+			"text": "Like, I kind of model, this is any kind of break up with, you know, like they're all the same, right?",
+			"start": "1568.7",
+			"end": "1575.8"
+		}, {
+			"id": [383],
+			"speaker": "0",
+			"text": "You have someone who you have inner.",
+			"start": "1575.8",
+			"end": "1577.9"
+		}, {
+			"id": [384],
+			"speaker": "0",
+			"text": "Like needs and dependencies.",
+			"start": "1579.2",
+			"end": "1581.3"
+		}, {
+			"id": [385],
+			"speaker": "0",
+			"text": "And those are going to break and people are going to be upset.",
+			"start": "1581.3",
+			"end": "1585.2"
+		}, {
+			"id": [386],
+			"speaker": "0",
+			"text": "Like that's just how it is and less like, oh, I wanted to break up with your tune with his everyone's relieved.",
+			"start": "1585.3",
+			"end": "1591.8"
+		}, {
+			"id": [387],
+			"speaker": "0",
+			"text": "Yes.",
+			"start": "1591.9",
+			"end": "1592.1"
+		}, {
+			"id": [388],
+			"speaker": "0",
+			"text": "You never know that until you try, you know.",
+			"start": "1592.1",
+			"end": "1596.5"
+		}, {
+			"id": [389],
+			"speaker": "0",
+			"text": "So but I'm not sure, I'm not sure.",
+			"start": "1596.7",
+			"end": "1600.5"
+		}, {
+			"id": [390],
+			"speaker": "0",
+			"text": "He has any feelings in this?",
+			"start": "1600.5",
+			"end": "1602.2"
+		}, {
+			"id": [391],
+			"speaker": "0",
+			"text": "I can't imagine him being upset.",
+			"start": "1602.2",
+			"end": "1603.9"
+		}, {
+			"id": [392],
+			"speaker": "0",
+			"text": "I can't imagine being anything.",
+			"start": "1603.9",
+			"end": "1606.2"
+		}, {
+			"id": [393],
+			"speaker": "1",
+			"text": "I have no idea what's going on like Mike.",
+			"start": "1606.8",
+			"end": "1608.6"
+		}, {
+			"id": [394],
+			"speaker": "1",
+			"text": "Undergraduate and Master's student.",
+			"start": "1608.7",
+			"end": "1610.2"
+		}, {
+			"id": [395],
+			"speaker": "1",
+			"text": "Now that's working with me on this project like she was maulding.",
+			"start": "1610.2",
+			"end": "1613.1"
+		}, {
+			"id": [396],
+			"speaker": "1",
+			"text": "Like I guess like white balding plus mad molding, I don't know if you heard that, I don't lose what.",
+			"start": "1613.1",
+			"end": "1621.4"
+		}, {
+			"id": [397],
+			"speaker": "1",
+			"text": "Yeah, just just don't get so invest in this because I've been dealing with this lightning, you know, nine months.",
+			"start": "1621.4",
+			"end": "1625.5"
+		}, {
+			"id": [398],
+			"speaker": "1",
+			"text": "And I know it's just like when she actually realize, like, all the fuck.",
+			"start": "1625.5",
+			"end": "1628.3"
+		}, {
+			"id": [399],
+			"speaker": "1",
+			"text": "Are you guys going on?",
+			"start": "1628.3",
+			"end": "1629.0"
+		}, {
+			"id": [400],
+			"speaker": "1",
+			"text": "She was like, losing her shit but it's, yeah, it's not good.",
+			"start": "1629.0",
+			"end": "1633.9"
+		}, {
+			"id": [401],
+			"speaker": "1",
+			"text": "So, it's not just me.",
+			"start": "1633.9",
+			"end": "1634.8"
+		}, {
+			"id": [402],
+			"speaker": "1",
+			"text": "I'd like the other students do, it was a very unhappy.",
+			"start": "1634.8",
+			"end": "1636.9"
+		}, {
+			"id": [403],
+			"speaker": "1",
+			"text": "They found their own workarounds One just ignores it.",
+			"start": "1637.0",
+			"end": "1639.9"
+		}, {
+			"id": [404],
+			"speaker": "1",
+			"text": "The other is like working with another postdoc that just became a professor at UW which that's basically her like she's not a dude but.",
+			"start": "1640.6",
+			"end": "1649.5"
+		}, {
+			"id": [405],
+			"speaker": "0",
+			"text": "right.",
+			"start": "1649.8",
+			"end": "1650.2"
+		}, {
+			"id": [406],
+			"speaker": "0",
+			"text": "But that's going to work like that is a path to a PhD ignoring him as a past and like doing some like if you can advise yourself some good stuff now but we'll get you in trouble at some critical points.",
+			"start": "1650.2",
+			"end": "1660.7"
+		}, {
+			"id": [407],
+			"speaker": "0",
+			"text": "Because it's not great.",
+			"start": "1663.2",
+			"end": "1664.7"
+		}, {
+			"id": [408],
+			"speaker": "0",
+			"text": "Yeah you pretty much.",
+			"start": "1664.8",
+			"end": "1665.8"
+		}, {
+			"id": [409],
+			"speaker": "0",
+			"text": "Don't need an advisor until the day you get you, they need to admit you and they need to kick you out everything in between you're kind of on your own.",
+			"start": "1665.8",
+			"end": "1673.0"
+		}, {
+			"id": [410],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1675.7",
+			"end": "1676.0"
+		}, {
+			"id": [411],
+			"speaker": "0",
+			"text": "Academia.",
+			"start": "1676.0",
+			"end": "1676.9"
+		}, {
+			"id": [412],
+			"speaker": "0",
+			"text": "We.",
+			"start": "1678.6",
+			"end": "1678.7"
+		}, {
+			"id": [413],
+			"speaker": "1",
+			"text": "like the goal has always been to do like four years for this so I can do four years.",
+			"start": "1679.5",
+			"end": "1683.3"
+		}, {
+			"id": [414],
+			"speaker": "1",
+			"text": "I'll be very happy.",
+			"start": "1683.3",
+			"end": "1684.2"
+		}, {
+			"id": [415],
+			"speaker": "1",
+			"text": "I don't want to be in school.",
+			"start": "1684.2",
+			"end": "1685.9"
+		}, {
+			"id": [416],
+			"speaker": "0",
+			"text": "Yeah, one thing I don't know if this is a good idea but you could ask him like a Black Friday is coming up.",
+			"start": "1687.8",
+			"end": "1694.5"
+		}, {
+			"id": [417],
+			"speaker": "0",
+			"text": "How do you think this is going and see what he.",
+			"start": "1694.6",
+			"end": "1697.8"
+		}, {
+			"id": [418],
+			"speaker": "1",
+			"text": "Oh, we are supposed to have like a pre-black.",
+			"start": "1699.2",
+			"end": "1701.2"
+		}, {
+			"id": [419],
+			"speaker": "1",
+			"text": "Friday meeting with this glue.",
+			"start": "1701.2",
+			"end": "1702.2"
+		}, {
+			"id": [420],
+			"speaker": "1",
+			"text": "Tell you that?",
+			"start": "1702.2",
+			"end": "1702.9"
+		}, {
+			"id": [421],
+			"speaker": "1",
+			"text": "That might be a next time,.",
+			"start": "1702.9",
+			"end": "1704.0"
+		}, {
+			"id": [422],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1705.2",
+			"end": "1705.8"
+		}, {
+			"id": [423],
+			"speaker": "0",
+			"text": "I mean, I don't do that with my students.",
+			"start": "1706.1",
+			"end": "1708.1"
+		}, {
+			"id": [424],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "1708.1",
+			"end": "1708.6"
+		}, {
+			"id": [425],
+			"speaker": "0",
+			"text": "We're all doing fine.",
+			"start": "1708.6",
+			"end": "1710.2"
+		}, {
+			"id": [426],
+			"speaker": "0",
+			"text": "Whatever up until now they were actually kind of too young to be doing either well or not well or just you know doing things.",
+			"start": "1710.4",
+			"end": "1718.4"
+		}, {
+			"id": [427],
+			"speaker": "0",
+			"text": "But yeah.",
+			"start": "1719.2",
+			"end": "1720.0"
+		}, {
+			"id": [428],
+			"speaker": "0",
+			"text": "Yeah I guess that.",
+			"start": "1720.0",
+			"end": "1720.6"
+		}, {
+			"id": [429],
+			"speaker": "0",
+			"text": "Wow.",
+			"start": "1720.6",
+			"end": "1720.9"
+		}, {
+			"id": [430],
+			"speaker": "0",
+			"text": "I have to start thinking of when and how and where they're going to graduate.",
+			"start": "1720.9",
+			"end": "1724.6"
+		}, {
+			"id": [431],
+			"speaker": "0",
+			"text": "Okay.",
+			"start": "1724.6",
+			"end": "1724.9"
+		}, {
+			"id": [432],
+			"speaker": "0",
+			"text": "Where I know.",
+			"start": "1724.9",
+			"end": "1725.6"
+		}, {
+			"id": [433],
+			"speaker": "0",
+			"text": "Anyway.",
+			"start": "1726.8",
+			"end": "1727.2"
+		}, {
+			"id": [434],
+			"speaker": "0",
+			"text": "Okay, sorry, I'm distracted.",
+			"start": "1727.2",
+			"end": "1729.4"
+		}, {
+			"id": [435],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1730.4",
+			"end": "1730.8"
+		}, {
+			"id": [436],
+			"speaker": "0",
+			"text": "Anyway so April 29th is sort of a date to keep in mind and I would be nice too.",
+			"start": "1730.8",
+			"end": "1738.3"
+		}, {
+			"id": [437],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "1742.3",
+			"end": "1742.7"
+		}, {
+			"id": [438],
+			"speaker": "0",
+			"text": "What am I trying to say?",
+			"start": "1742.7",
+			"end": "1743.9"
+		}, {
+			"id": [439],
+			"speaker": "0",
+			"text": "You know, like stop sneaking around, you know?",
+			"start": "1743.9",
+			"end": "1746.1"
+		}, {
+			"id": [440],
+			"speaker": "0",
+			"text": "So we can do things like, put the paper online, put the you know, the work.",
+			"start": "1746.1",
+			"end": "1750.7"
+		}, {
+			"id": [441],
+			"speaker": "1",
+			"text": "Oh what's it?",
+			"start": "1753.8",
+			"end": "1754.4"
+		}, {
+			"id": [442],
+			"speaker": "1",
+			"text": "Your husband think of our.",
+			"start": "1755.0",
+			"end": "1755.9"
+		}, {
+			"id": [443],
+			"speaker": "0",
+			"text": "Oh he loved it.",
+			"start": "1757.5",
+			"end": "1758.7"
+		}, {
+			"id": [444],
+			"speaker": "0",
+			"text": "He is very excited.",
+			"start": "1759.2",
+			"end": "1760.9"
+		}, {
+			"id": [445],
+			"speaker": "0",
+			"text": "Yeah yeah I mean he He loved it this.",
+			"start": "1761.3",
+			"end": "1767.2"
+		}, {
+			"id": [446],
+			"speaker": "0",
+			"text": "I mean, he loved the tool that the system itself, too.",
+			"start": "1767.2",
+			"end": "1772.0"
+		}, {
+			"id": [447],
+			"speaker": "0",
+			"text": "So that helps like that's what it's but videos.",
+			"start": "1772.0",
+			"end": "1775.5"
+		}, {
+			"id": [448],
+			"speaker": "1",
+			"text": "Did it come out as like, what you expected it to.",
+			"start": "1777.3",
+			"end": "1779.7"
+		}, {
+			"id": [449],
+			"speaker": "0",
+			"text": "I don't like 10 times.",
+			"start": "1780.5",
+			"end": "1781.5"
+		}, {
+			"id": [450],
+			"speaker": "1",
+			"text": "okay?",
+			"start": "1782.2",
+			"end": "1782.6"
+		}, {
+			"id": [451],
+			"speaker": "1",
+			"text": "That's always good.",
+			"start": "1782.6",
+			"end": "1783.3"
+		}, {
+			"id": [452],
+			"speaker": "1",
+			"text": "It's like set expectations there and then once you exceed, it's always.",
+			"start": "1783.3",
+			"end": "1786.0"
+		}, {
+			"id": [453],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "1787.1",
+			"end": "1787.5"
+		}, {
+			"id": [454],
+			"speaker": "0",
+			"text": "Well, so what every faculty member uses as like, as their expectations is, how good could I do?",
+			"start": "1787.6",
+			"end": "1794.6"
+		}, {
+			"id": [455],
+			"speaker": "0",
+			"text": "This is this is the problem, right?",
+			"start": "1795.0",
+			"end": "1796.7"
+		}, {
+			"id": [456],
+			"speaker": "0",
+			"text": "That's, this is why when you work with something, somebody you have to be better than them at something, otherwise you're always going to be a disappointment to them, right?",
+			"start": "1796.7",
+			"end": "1806.7"
+		}, {
+			"id": [457],
+			"speaker": "0",
+			"text": "So you're so some things, you're going to be worse.",
+			"start": "1806.7",
+			"end": "1808.8"
+		}, {
+			"id": [458],
+			"speaker": "0",
+			"text": "That's the reason they're faculty.",
+			"start": "1808.8",
+			"end": "1810.3"
+		}, {
+			"id": [459],
+			"speaker": "0",
+			"text": "You're like, they just got it before.",
+			"start": "1810.3",
+			"end": "1811.9"
+		}, {
+			"id": [460],
+			"speaker": "0",
+			"text": "Okay.",
+			"start": "1811.9",
+			"end": "1812.2"
+		}, {
+			"id": [461],
+			"speaker": "0",
+			"text": "But you have something in your pocket like you have some technology that you know, better than them or some skill that, you know, better than them and it's bizarre.",
+			"start": "1812.3",
+			"end": "1823.7"
+		}, {
+			"id": [462],
+			"speaker": "0",
+			"text": "But I learned this Because my of the people who have appreciated me and my talents in life, I look at the people who do appreciate me and people who just like think I'm very average and not worth talking to.",
+			"start": "1823.7",
+			"end": "1837.3"
+		}, {
+			"id": [463],
+			"speaker": "0",
+			"text": "It's the people that I have a skill that they really, really lack that think I'm amazing.",
+			"start": "1837.7",
+			"end": "1842.7"
+		}, {
+			"id": [464],
+			"speaker": "0",
+			"text": "So like, Dan weld is really not so great at giving talks and stuff like.",
+			"start": "1845.1",
+			"end": "1851.5"
+		}, {
+			"id": [465],
+			"speaker": "1",
+			"text": "Right recently.",
+			"start": "1852.7",
+			"end": "1853.7"
+		}, {
+			"id": [466],
+			"speaker": "1",
+			"text": "See partner.",
+			"start": "1853.7",
+			"end": "1854.4"
+		}, {
+			"id": [467],
+			"speaker": "0",
+			"text": "butt.",
+			"start": "1858.1",
+			"end": "1858.5"
+		}, {
+			"id": [468],
+			"speaker": "0",
+			"text": "He just sits there and judges people.",
+			"start": "1859.6",
+			"end": "1861.5"
+		}, {
+			"id": [469],
+			"speaker": "0",
+			"text": "That's his.",
+			"start": "1861.5",
+			"end": "1862.1"
+		}, {
+			"id": [470],
+			"speaker": "1",
+			"text": "He's making like, at least three to five million a year doing that.",
+			"start": "1863.3",
+			"end": "1866.1"
+		}, {
+			"id": [471],
+			"speaker": "1",
+			"text": "It's.",
+			"start": "1866.1",
+			"end": "1866.5"
+		}, {
+			"id": [472],
+			"speaker": "0",
+			"text": "nuts.",
+			"start": "1866.7",
+			"end": "1867.2"
+		}, {
+			"id": [473],
+			"speaker": "0",
+			"text": "Yeah, he has a nice ass house and he sold his first company in like 2004.",
+			"start": "1867.5",
+			"end": "1873.4"
+		}, {
+			"id": [474],
+			"speaker": "0",
+			"text": "I don't know, like 35 million so he has a lot to that.",
+			"start": "1873.4",
+			"end": "1877.6"
+		}, {
+			"id": [475],
+			"speaker": "0",
+			"text": "He invested.",
+			"start": "1877.6",
+			"end": "1878.5"
+		}, {
+			"id": [476],
+			"speaker": "1",
+			"text": "Oh, you should get in on legs some VC as well.",
+			"start": "1880.0",
+			"end": "1882.4"
+		}, {
+			"id": [477],
+			"speaker": "1",
+			"text": "It's not hard for professors to do.",
+			"start": "1882.4",
+			"end": "1884.2"
+		}, {
+			"id": [478],
+			"speaker": "0",
+			"text": "I have a friend who's a PC.",
+			"start": "1885.4",
+			"end": "1887.2"
+		}, {
+			"id": [479],
+			"speaker": "0",
+			"text": "To do with that though, but I liked her array Ventures.",
+			"start": "1888.8",
+			"end": "1893.8"
+		}, {
+			"id": [480],
+			"speaker": "0",
+			"text": "Shruti Gandhi.",
+			"start": "1893.8",
+			"end": "1894.7"
+		}, {
+			"id": [481],
+			"speaker": "0",
+			"text": "Is her name.",
+			"start": "1894.7",
+			"end": "1895.5"
+		}, {
+			"id": [482],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "1896.1",
+			"end": "1896.6"
+		}, {
+			"id": [483],
+			"speaker": "0",
+			"text": "RBC is a dime, a dozen,.",
+			"start": "1896.9",
+			"end": "1898.6"
+		}, {
+			"id": [484],
+			"speaker": "1",
+			"text": "sorta.",
+			"start": "1900.2",
+			"end": "1900.8"
+		}, {
+			"id": [485],
+			"speaker": "1",
+			"text": "I mean like the one I meant like, they raised like, not too much like their 25-ish million back in 2018 now because everything blew up right there like 75 maybe at this point, but it's because of 160 that I knew basic shit from like go-to-market strategy valuation competitive analysis.",
+			"start": "1900.8",
+			"end": "1917.3"
+		}, {
+			"id": [486],
+			"speaker": "1",
+			"text": "That wasn't rich, like I wasn't But, you know, going into the sort of stuff and that's why I imagine it's like, you know, HCI people, they understand this process very well.",
+			"start": "1917.5",
+			"end": "1925.1"
+		}, {
+			"id": [487],
+			"speaker": "1",
+			"text": "Like, you know, what's his face?",
+			"start": "1925.1",
+			"end": "1926.7"
+		}, {
+			"id": [488],
+			"speaker": "1",
+			"text": "John Tang teaching, ideation and like all this other kind of stuff, right?",
+			"start": "1926.8",
+			"end": "1930.7"
+		}, {
+			"id": [489],
+			"speaker": "1",
+			"text": "It's literally this, yeah, yeah, that's why it's valuable for VCS to have like, you know, you don't have to be like a GP or like a, you know, LP for not investing but just being all like the board or something like that, and they give you any X percent and you just do that for like one or two different ones.",
+			"start": "1930.7",
+			"end": "1946.2"
+		}, {
+			"id": [490],
+			"speaker": "1",
+			"text": "I don't know.",
+			"start": "1946.4",
+			"end": "1946.8"
+		}, {
+			"id": [491],
+			"speaker": "1",
+			"text": "Are you competing interests?",
+			"start": "1946.9",
+			"end": "1947.8"
+		}, {
+			"id": [492],
+			"speaker": "1",
+			"text": "But yeah.",
+			"start": "1947.8",
+			"end": "1948.6"
+		}, {
+			"id": [493],
+			"speaker": "1",
+			"text": "Is that you can definitely get like non trivial amounts of money.",
+			"start": "1949.2",
+			"end": "1952.0"
+		}, {
+			"id": [494],
+			"speaker": "0",
+			"text": "doing this.",
+			"start": "1952.2",
+			"end": "1952.9"
+		}, {
+			"id": [495],
+			"speaker": "0",
+			"text": "Why do I sent you a link to the VC?",
+			"start": "1955.6",
+			"end": "1959.6"
+		}, {
+			"id": [496],
+			"speaker": "0",
+			"text": "The but like I don't know if it's bullshit or not, I think she was heading student.",
+			"start": "1961.8",
+			"end": "1967.0"
+		}, {
+			"id": [497],
+			"speaker": "0",
+			"text": "She definitely has like an impressive person to talk to like she's just like it.",
+			"start": "1970.6",
+			"end": "1974.7"
+		}, {
+			"id": [498],
+			"speaker": "0",
+			"text": "She sounds like she has an MBA.",
+			"start": "1974.7",
+			"end": "1976.5"
+		}, {
+			"id": [499],
+			"speaker": "0",
+			"text": "She may or may not, I don't know, but like confident leather jacket like does not wear a hoodie like I do like real person but she would teach she taught a class here at Columbia.",
+			"start": "1976.5",
+			"end": "1989.7"
+		}, {
+			"id": [500],
+			"speaker": "0",
+			"text": "That was, she actually taught it remotely and the students fucking hated it because she lives in California, right?",
+			"start": "1990.9",
+			"end": "1997.2"
+		}, {
+			"id": [501],
+			"speaker": "0",
+			"text": "Like, what the fuck.",
+			"start": "1997.2",
+			"end": "1998.1"
+		}, {
+			"id": [502],
+			"speaker": "0",
+			"text": "And so, but it was It's like she would just put them through her, you know, her kind of YC, kind of a yeah, put through their process and I went to their final showcase and I thought at least some of the companies were pretty cool, right.",
+			"start": "1998.8",
+			"end": "2013.2"
+		}, {
+			"id": [503],
+			"speaker": "0",
+			"text": "But the first three really good and then the rest are like f, you know, the kind of horseshit students always come up with.",
+			"start": "2013.6",
+			"end": "2019.4"
+		}, {
+			"id": [504],
+			"speaker": "0",
+			"text": "But there was one about what he called vertical farming, which I thought you'd like how they grow plants in cities like to Japan's really into this.",
+			"start": "2019.4",
+			"end": "2030.1"
+		}, {
+			"id": [505],
+			"speaker": "0",
+			"text": "So, whatever and I was like, well, that's pretty impressive, I would do that.",
+			"start": "2030.3",
+			"end": "2035.8"
+		}, {
+			"id": [506],
+			"speaker": "0",
+			"text": "I would be interested in any.",
+			"start": "2035.8",
+			"end": "2037.9"
+		}, {
+			"id": [507],
+			"speaker": "1",
+			"text": "you should make.",
+			"start": "2038.9",
+			"end": "2039.3"
+		}, {
+			"id": [508],
+			"speaker": "1",
+			"text": "Like, your next 4170 sort of like that like paulus is 160 was basically like, you know, go through the entire process right competitive analysis.",
+			"start": "2039.3",
+			"end": "2046.2"
+		}, {
+			"id": [509],
+			"speaker": "1",
+			"text": "I have your prototype, you know, tests on people, Etc.",
+			"start": "2046.3",
+			"end": "2048.9"
+		}, {
+			"id": [510],
+			"speaker": "1",
+			"text": "Like, our thing was actually a fucking pregnancy app or some shit and we were like camping outside a toy like Babies R Us.",
+			"start": "2049.1",
+			"end": "2054.7"
+		}, {
+			"id": [511],
+			"speaker": "1",
+			"text": "It was so awkward for me.",
+			"start": "2054.7",
+			"end": "2055.8"
+		}, {
+			"id": [512],
+			"speaker": "1",
+			"text": "Like you got to be like who's pregnant who's not to interview.",
+			"start": "2055.8",
+			"end": "2058.2"
+		}, {
+			"id": [513],
+			"speaker": "0",
+			"text": "Wait, wait, but how did you do?",
+			"start": "2061.0",
+			"end": "2062.3"
+		}, {
+			"id": [514],
+			"speaker": "0",
+			"text": "Were you given that topic?",
+			"start": "2062.4",
+			"end": "2063.9"
+		}, {
+			"id": [515],
+			"speaker": "1",
+			"text": "for V1 is like, you know, they were, they were they wanted to do that as it is like, prepare for a pregnancy like, still PE.",
+			"start": "2065.9",
+			"end": "2071.8"
+		}, {
+			"id": [516],
+			"speaker": "0",
+			"text": "way.",
+			"start": "2073.0",
+			"end": "2073.2"
+		}, {
+			"id": [517],
+			"speaker": "0",
+			"text": "But where did this idea come from?",
+			"start": "2073.2",
+			"end": "2075.3"
+		}, {
+			"id": [518],
+			"speaker": "0",
+			"text": "So those are gonna talk.",
+			"start": "2075.4",
+			"end": "2076.6"
+		}, {
+			"id": [519],
+			"speaker": "1",
+			"text": "Yeah, this is one of the students in my group like the topic was you know, the Android watch when it first came out.",
+			"start": "2077.4",
+			"end": "2082.3"
+		}, {
+			"id": [520],
+			"speaker": "1",
+			"text": "So you have to design around that and then the topic was health care if.",
+			"start": "2082.3",
+			"end": "2086.6"
+		}, {
+			"id": [521],
+			"speaker": "1",
+			"text": "But yeah, like how they did is, like they said a theme, they said like a technology, underlying technology and then shove you through the process and I learned actually so much from that, that's how I learned how to make not.",
+			"start": "2089.4",
+			"end": "2099.2"
+		}, {
+			"id": [522],
+			"speaker": "0",
+			"text": "slides as well.",
+			"start": "2099.5",
+			"end": "2100.2"
+		}, {
+			"id": [523],
+			"speaker": "0",
+			"text": "That's okay, for my advanced class.",
+			"start": "2101.4",
+			"end": "2104.0"
+		}, {
+			"id": [524],
+			"speaker": "0",
+			"text": "That is what I'm trying to make it into for the intro class.",
+			"start": "2104.4",
+			"end": "2108.3"
+		}, {
+			"id": [525],
+			"speaker": "0",
+			"text": "I feel like I have to spend a long time as like, teaching basic web technology but for the advanced class, like I told you I got Some money from Amazon.",
+			"start": "2108.3",
+			"end": "2119.2"
+		}, {
+			"id": [526],
+			"speaker": "0",
+			"text": "So I'm thinking of making the technology that Echo, you know, the voice thing, because I've got big problems, like, they don't really know.",
+			"start": "2119.2",
+			"end": "2126.3"
+		}, {
+			"id": [527],
+			"speaker": "0",
+			"text": "How to get people to engage with that on more than a trivial level.",
+			"start": "2127.5",
+			"end": "2131.6"
+		}, {
+			"id": [528],
+			"speaker": "1",
+			"text": "yeah, like our thing to a little bit with spoken.",
+			"start": "2133.8",
+			"end": "2136.1"
+		}, {
+			"id": [529],
+			"speaker": "0",
+			"text": "Yeah, that happens.",
+			"start": "2139.2",
+			"end": "2142.2"
+		}, {
+			"id": [530],
+			"speaker": "0",
+			"text": "You sometimes have a technology waiting for its critical.",
+			"start": "2143.3",
+			"end": "2148.2"
+		}, {
+			"id": [531],
+			"speaker": "0",
+			"text": "Killer app.",
+			"start": "2150.0",
+			"end": "2150.9"
+		}, {
+			"id": [532],
+			"speaker": "0",
+			"text": "Yeah, it is anyway.",
+			"start": "2150.9",
+			"end": "2154.3"
+		}, {
+			"id": [533],
+			"speaker": "0",
+			"text": "Yeah I also I was also I was going to do that.",
+			"start": "2154.3",
+			"end": "2156.8"
+		}, {
+			"id": [534],
+			"speaker": "0",
+			"text": "I can't decide if I want to do one or two, I might want to do a short one in the beginning about What do you call what twilio does like text messaging services.",
+			"start": "2157.6",
+			"end": "2168.7"
+		}, {
+			"id": [535],
+			"speaker": "0",
+			"text": "Those are kind of interesting.",
+			"start": "2169.9",
+			"end": "2171.3"
+		}, {
+			"id": [536],
+			"speaker": "0",
+			"text": "You can do kind of cool shit there so maybe do a warm-up round on that and.",
+			"start": "2171.4",
+			"end": "2177.7"
+		}, {
+			"id": [537],
+			"speaker": "1",
+			"text": "I think that one was pretty good.",
+			"start": "2178.6",
+			"end": "2179.9"
+		}, {
+			"id": [538],
+			"speaker": "1",
+			"text": "Like they threw us through the gauntlet, for figure out how to like, I didn't know Android starting the class and after, like week three or four.",
+			"start": "2179.9",
+			"end": "2186.1"
+		}, {
+			"id": [539],
+			"speaker": "1",
+			"text": "I would just, I knew how to like, actually make an app start to finish.",
+			"start": "2186.4",
+			"end": "2190.6"
+		}, {
+			"id": [540],
+			"speaker": "1",
+			"text": "Like.",
+			"start": "2190.6",
+			"end": "2190.8"
+		}, {
+			"id": [541],
+			"speaker": "0",
+			"text": "definitely own us, wait, to, or did they just throw you in, like figure it.",
+			"start": "2191.0",
+			"end": "2195.7"
+		}, {
+			"id": [542],
+			"speaker": "1",
+			"text": "That quite good resources?",
+			"start": "2196.0",
+			"end": "2197.4"
+		}, {
+			"id": [543],
+			"speaker": "1",
+			"text": "But Android Dev is already asked no matter.",
+			"start": "2197.4",
+			"end": "2199.6"
+		}, {
+			"id": [544],
+			"speaker": "1",
+			"text": "How are you?",
+			"start": "2199.7",
+			"end": "2200.7"
+		}, {
+			"id": [545],
+			"speaker": "1",
+			"text": "Try not.",
+			"start": "2200.7",
+			"end": "2201.3"
+		}, {
+			"id": [546],
+			"speaker": "1",
+			"text": "I think my ts were excellent.",
+			"start": "2201.9",
+			"end": "2203.1"
+		}, {
+			"id": [547],
+			"speaker": "1",
+			"text": "I don't know if you know like Shana who Jasper like that.",
+			"start": "2203.1",
+			"end": "2207.2"
+		}, {
+			"id": [548],
+			"speaker": "1",
+			"text": "There are great people.",
+			"start": "2207.2",
+			"end": "2208.0"
+		}, {
+			"id": [549],
+			"speaker": "1",
+			"text": "Like they definitely were suffering and soda with us.",
+			"start": "2208.0",
+			"end": "2210.6"
+		}, {
+			"id": [550],
+			"speaker": "1",
+			"text": "16 hours a.",
+			"start": "2211.9",
+			"end": "2212.7"
+		}, {
+			"id": [551],
+			"speaker": "0",
+			"text": "You can't ask that normal to you guys though, right?",
+			"start": "2213.6",
+			"end": "2215.8"
+		}, {
+			"id": [552],
+			"speaker": "0",
+			"text": "Yeah, you need an Exquisite team of Tas and I fucking and they were they grad.",
+			"start": "2215.8",
+			"end": "2221.8"
+		}, {
+			"id": [553],
+			"speaker": "0",
+			"text": "undergrads.",
+			"start": "2223.4",
+			"end": "2224.1"
+		}, {
+			"id": [554],
+			"speaker": "0",
+			"text": "Wow, I have a hard time getting undergrad ta has to, like really rock it, but do you know what?",
+			"start": "2224.2",
+			"end": "2235.5"
+		}, {
+			"id": [555],
+			"speaker": "0",
+			"text": "That's not true.",
+			"start": "2235.5",
+			"end": "2236.4"
+		}, {
+			"id": [556],
+			"speaker": "0",
+			"text": "The, I have to be here long enough to keep a pipeline going.",
+			"start": "2236.8",
+			"end": "2240.4"
+		}, {
+			"id": [557],
+			"speaker": "0",
+			"text": "Yeah, it's gotten better.",
+			"start": "2240.5",
+			"end": "2241.5"
+		}, {
+			"id": [558],
+			"speaker": "0",
+			"text": "But the advanced class was hard because most people take it in their senior year and then they disappear.",
+			"start": "2241.6",
+			"end": "2246.5"
+		}, {
+			"id": [559],
+			"speaker": "0",
+			"text": "So, Fucking sucks.",
+			"start": "2247.4",
+			"end": "2251.2"
+		}, {
+			"id": [560],
+			"speaker": "0",
+			"text": "But yeah, I need someone who can really like, technically, sit down with them and help them debug everything, and do that.",
+			"start": "2252.0",
+			"end": "2258.2"
+		}, {
+			"id": [561],
+			"speaker": "0",
+			"text": "Hands-On.",
+			"start": "2258.2",
+			"end": "2258.9"
+		}, {
+			"id": [562],
+			"speaker": "1",
+			"text": "this little section to write, like, we don't really like we did it.",
+			"start": "2260.2",
+			"end": "2263.6"
+		}, {
+			"id": [563],
+			"speaker": "1",
+			"text": "When I was too young to know, we kind of janked.",
+			"start": "2263.6",
+			"end": "2266.1"
+		}, {
+			"id": [564],
+			"speaker": "1",
+			"text": "It's, again this sense, because it was still during class.",
+			"start": "2266.1",
+			"end": "2267.8"
+		}, {
+			"id": [565],
+			"speaker": "1",
+			"text": "like, yeah, I don't know why we don't section here thing.",
+			"start": "2270.4",
+			"end": "2272.1"
+		}, {
+			"id": [566],
+			"speaker": "1",
+			"text": "I've brought this up like many,.",
+			"start": "2272.1",
+			"end": "2273.6"
+		}, {
+			"id": [567],
+			"speaker": "0",
+			"text": "times.",
+			"start": "2273.9",
+			"end": "2274.5"
+		}, {
+			"id": [568],
+			"speaker": "0",
+			"text": "I agree.",
+			"start": "2274.9",
+			"end": "2275.5"
+		}, {
+			"id": [569],
+			"speaker": "0",
+			"text": "That's weird.",
+			"start": "2275.5",
+			"end": "2276.5"
+		}, {
+			"id": [570],
+			"speaker": "0",
+			"text": "Every computer science class should have suction Topside departments, do it differently.",
+			"start": "2276.6",
+			"end": "2283.2"
+		}, {
+			"id": [571],
+			"speaker": "0",
+			"text": "It's definitely a money thing at MIT all computer science classes had section.",
+			"start": "2283.2",
+			"end": "2288.4"
+		}, {
+			"id": [572],
+			"speaker": "0",
+			"text": "But the, but none of the math classes.",
+			"start": "2288.4",
+			"end": "2291.3"
+		}, {
+			"id": [573],
+			"speaker": "0",
+			"text": "Did there just like we lectured at you twice now.",
+			"start": "2291.3",
+			"end": "2294.6"
+		}, {
+			"id": [574],
+			"speaker": "0",
+			"text": "Go do like they just did not give a shit about.",
+			"start": "2294.6",
+			"end": "2296.7"
+		}, {
+			"id": [575],
+			"speaker": "1",
+			"text": "Yeah, it's also important to for like this, if you plan on doing like the process thing or whatever because you gotta know, you gotta have your students like know the TA that and they have to be like familiar with their thing from start to finish.",
+			"start": "2297.4",
+			"end": "2308.5"
+		}, {
+			"id": [576],
+			"speaker": "1",
+			"text": "Yeah, to get Like good feedback and like all that kind of stuff.",
+			"start": "2308.6",
+			"end": "2311.5"
+		}, {
+			"id": [577],
+			"speaker": "1",
+			"text": "It's like, it's one team falls through the cracks like, you know, halfway early on through there just fucked.",
+			"start": "2311.5",
+			"end": "2317.1"
+		}, {
+			"id": [578],
+			"speaker": "1",
+			"text": "So the, you know, it's not, they're not gonna have a good time, you're not going to get time.",
+			"start": "2317.2",
+			"end": "2320.7"
+		}, {
+			"id": [579],
+			"speaker": "1",
+			"text": "And then you get a lot of emails about this.",
+			"start": "2320.7",
+			"end": "2322.8"
+		}, {
+			"id": [580],
+			"speaker": "1",
+			"text": "Like start blaming each other blah blah.",
+			"start": "2322.8",
+			"end": "2324.8"
+		}, {
+			"id": [581],
+			"speaker": "0",
+			"text": "Yep.",
+			"start": "2326.8",
+			"end": "2327.5"
+		}, {
+			"id": [582],
+			"speaker": "0",
+			"text": "Do you have any of these.",
+			"start": "2330.1",
+			"end": "2331.0"
+		}, {
+			"id": [583],
+			"speaker": "1",
+			"text": "Like I have.",
+			"start": "2333.5",
+			"end": "2333.8"
+		}, {
+			"id": [584],
+			"speaker": "0",
+			"text": "couple of drinks.",
+			"start": "2333.9",
+			"end": "2334.3"
+		}, {
+			"id": [585],
+			"speaker": "0",
+			"text": "Yeah, I assume.",
+			"start": "2335.2",
+			"end": "2336.9"
+		}, {
+			"id": [586],
+			"speaker": "0",
+			"text": "It's like the same shit basically do, you know anyone has built an app for.",
+			"start": "2336.9",
+			"end": "2341.1"
+		}, {
+			"id": [587],
+			"speaker": "1",
+			"text": "I don't know if Google.",
+			"start": "2343.3",
+			"end": "2344.1"
+		}, {
+			"id": [588],
+			"speaker": "1",
+			"text": "Like, I don't know, anyone that does like the home kind of Dev stuff like speaker based I just know that like people drink it together with their lights because they all liked early twenties.",
+			"start": "2344.1",
+			"end": "2354.6"
+		}, {
+			"id": [589],
+			"speaker": "0",
+			"text": "I gotta figure that shit.",
+			"start": "2361.1",
+			"end": "2362.2"
+		}, {
+			"id": [590],
+			"speaker": "1",
+			"text": "Are you going to TA?",
+			"start": "2363.8",
+			"end": "2364.7"
+		}, {
+			"id": [591],
+			"speaker": "1",
+			"text": "Sorry, are you going to teach this class in like fall.",
+			"start": "2364.9",
+			"end": "2367.4"
+		}, {
+			"id": [592],
+			"speaker": "0",
+			"text": "spring?",
+			"start": "2367.5",
+			"end": "2368.1"
+		}, {
+			"id": [593],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "2368.1",
+			"end": "2368.4"
+		}, {
+			"id": [594],
+			"speaker": "0",
+			"text": "The I teach the advanced class in the fall.",
+			"start": "2368.5",
+			"end": "2370.7"
+		}, {
+			"id": [595],
+			"speaker": "0",
+			"text": "So yeah, I'm pretty sure I'm going to make it.",
+			"start": "2371.2",
+			"end": "2373.7"
+		}, {
+			"id": [596],
+			"speaker": "0",
+			"text": "I got all this Amazon money, so I got to do something with that.",
+			"start": "2373.7",
+			"end": "2376.6"
+		}, {
+			"id": [597],
+			"speaker": "0",
+			"text": "Hopefully, they'll donate the devices because the good Echoes are $250 each.",
+			"start": "2376.8",
+			"end": "2381.8"
+		}, {
+			"id": [598],
+			"speaker": "0",
+			"text": "So the shitty ones are like, I don't know, 50 bucks or whatever,.",
+			"start": "2382.6",
+			"end": "2387.4"
+		}, {
+			"id": [599],
+			"speaker": "1",
+			"text": "think they do donate.",
+			"start": "2387.7",
+			"end": "2388.6"
+		}, {
+			"id": [600],
+			"speaker": "1",
+			"text": "It at least like when I was taking the class, they just let the instructor keep it off and then you can, now you can incentivize your students.",
+			"start": "2388.8",
+			"end": "2394.7"
+		}, {
+			"id": [601],
+			"speaker": "1",
+			"text": "It's like, yeah, once you figure out that you can't keep it be like, hey, you know, suck you to keep.",
+			"start": "2394.7",
+			"end": "2398.1"
+		}, {
+			"id": [602],
+			"speaker": "0",
+			"text": "actually writes way, if I had 25 students times, 250 dollars, that's $2,500 6,000 books.",
+			"start": "2400.3",
+			"end": "2409.2"
+		}, {
+			"id": [603],
+			"speaker": "0",
+			"text": "Sorry, I can't do math.",
+			"start": "2409.2",
+			"end": "2410.5"
+		}, {
+			"id": [604],
+			"speaker": "0",
+			"text": "That's not bad.",
+			"start": "2411.5",
+			"end": "2412.6"
+		}, {
+			"id": [605],
+			"speaker": "0",
+			"text": "I got them, the shitty ones by powerful to use the belt, like why would I would I ask them to develop on the bad ones.",
+			"start": "2414.5",
+			"end": "2420.9"
+		}, {
+			"id": [606],
+			"speaker": "0",
+			"text": "Yeah, maybe I will just straight-up pick Health as a domain.",
+			"start": "2423.3",
+			"end": "2427.6"
+		}, {
+			"id": [607],
+			"speaker": "0",
+			"text": "I always frustrated with the problems students, pick to solve their like a recipe.",
+			"start": "2428.1",
+			"end": "2434.1"
+		}, {
+			"id": [608],
+			"speaker": "0",
+			"text": "Finder, nobody.",
+			"start": "2434.2",
+			"end": "2436.3"
+		}, {
+			"id": [609],
+			"speaker": "1",
+			"text": "You got to make it like very specific and tail.",
+			"start": "2437.2",
+			"end": "2439.2"
+		}, {
+			"id": [610],
+			"speaker": "1",
+			"text": "So you already got the tech down because it's the echo stuff and then you had to like, within Healthcare, you got to stress like the sub domains that are allowable, and then you got caught like scope it out in advance, a little cheese on any.",
+			"start": "2439.2",
+			"end": "2449.1"
+		}, {
+			"id": [611],
+			"speaker": "0",
+			"text": "stupid.",
+			"start": "2449.5",
+			"end": "2450.1"
+		}, {
+			"id": [612],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "2450.5",
+			"end": "2451.2"
+		}, {
+			"id": [613],
+			"speaker": "0",
+			"text": "We did that.",
+			"start": "2453.0",
+			"end": "2453.7"
+		}, {
+			"id": [614],
+			"speaker": "0",
+			"text": "Well the last time when I had someone co-teach with me, we did.",
+			"start": "2453.7",
+			"end": "2457.7"
+		}, {
+			"id": [615],
+			"speaker": "0",
+			"text": "We made it.",
+			"start": "2457.7",
+			"end": "2458.2"
+		}, {
+			"id": [616],
+			"speaker": "0",
+			"text": "You have to make something for public libraries.",
+			"start": "2458.2",
+			"end": "2461.2"
+		}, {
+			"id": [617],
+			"speaker": "0",
+			"text": "Now happened during covid.",
+			"start": "2461.9",
+			"end": "2463.3"
+		}, {
+			"id": [618],
+			"speaker": "0",
+			"text": "So you couldn't do the like camp out in front of a library, would have been a hundred percent better if people could have done that and that do that again, covid will hopefully be over by.",
+			"start": "2463.3",
+			"end": "2474.8"
+		}, {
+			"id": [619],
+			"speaker": "1",
+			"text": "Yeah, I saw like, like people doing price.",
+			"start": "2475.3",
+			"end": "2479.2"
+		}, {
+			"id": [620],
+			"speaker": "1",
+			"text": "They're only like All That Wall Street stuff.",
+			"start": "2479.2",
+			"end": "2480.7"
+		}, {
+			"id": [621],
+			"speaker": "1",
+			"text": "They don't think of it's an issue.",
+			"start": "2480.7",
+			"end": "2481.7"
+		}, {
+			"id": [622],
+			"speaker": "0",
+			"text": "It.",
+			"start": "2483.4",
+			"end": "2483.5"
+		}, {
+			"id": [623],
+			"speaker": "0",
+			"text": "Well, I got that from.",
+			"start": "2483.5",
+			"end": "2485.0"
+		}, {
+			"id": [624],
+			"speaker": "0",
+			"text": "I can't remember.",
+			"start": "2485.2",
+			"end": "2485.7"
+		}, {
+			"id": [625],
+			"speaker": "0",
+			"text": "It was real.",
+			"start": "2485.7",
+			"end": "2486.4"
+		}, {
+			"id": [626],
+			"speaker": "0",
+			"text": "No, it was Altman's Altman's.",
+			"start": "2486.4",
+			"end": "2488.9"
+		}, {
+			"id": [627],
+			"speaker": "0",
+			"text": "That is named, the not Ray dalio, the other guy Ackman Pershing Ackerman.",
+			"start": "2488.9",
+			"end": "2494.2"
+		}, {
+			"id": [628],
+			"speaker": "0",
+			"text": "Yeah, that's a good one thing I remember from his interview, it'll it'll be over by.",
+			"start": "2494.2",
+			"end": "2501.2"
+		}, {
+			"id": [629],
+			"speaker": "1",
+			"text": "Hopefully, like right now.",
+			"start": "2503.3",
+			"end": "2505.2"
+		}, {
+			"id": [630],
+			"speaker": "1",
+			"text": "India is at 10% every day.",
+			"start": "2505.2",
+			"end": "2506.7"
+		}, {
+			"id": [631],
+			"speaker": "1",
+			"text": "It's fucking.",
+			"start": "2506.7",
+			"end": "2507.4"
+		}, {
+			"id": [632],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "2508.8",
+			"end": "2509.2"
+		}, {
+			"id": [633],
+			"speaker": "0",
+			"text": "Well, India is kind of a.",
+			"start": "2509.2",
+			"end": "2510.2"
+		}, {
+			"id": [634],
+			"speaker": "1",
+			"text": "show.",
+			"start": "2510.6",
+			"end": "2511.1"
+		}, {
+			"id": [635],
+			"speaker": "1",
+			"text": "No one cares anymore to which is double bed like there's no publicity and then everyone thinks it's gone.",
+			"start": "2511.1",
+			"end": "2516.6"
+		}, {
+			"id": [636],
+			"speaker": "1",
+			"text": "Fuck.",
+			"start": "2516.9",
+			"end": "2517.4"
+		}, {
+			"id": [637],
+			"speaker": "1",
+			"text": "I hope it's going to be okay, I'm sick of staying home.",
+			"start": "2519.0",
+			"end": "2521.7"
+		}, {
+			"id": [638],
+			"speaker": "0",
+			"text": "every day.",
+			"start": "2522.6",
+			"end": "2523.2"
+		}, {
+			"id": [639],
+			"speaker": "0",
+			"text": "We're okay.",
+			"start": "2525.3",
+			"end": "2527.6"
+		}, {
+			"id": [640],
+			"speaker": "0",
+			"text": "Good actually is Eric's class.",
+			"start": "2532.7",
+			"end": "2535.2"
+		}, {
+			"id": [641],
+			"speaker": "0",
+			"text": "Yes, 160.",
+			"start": "2535.3",
+			"end": "2537.6"
+		}, {
+			"id": [642],
+			"speaker": "0",
+			"text": "Are.",
+			"start": "2537.6",
+			"end": "2537.7"
+		}, {
+			"id": [643],
+			"speaker": "1",
+			"text": "going to see a star?",
+			"start": "2537.8",
+			"end": "2538.7"
+		}, {
+			"id": [644],
+			"speaker": "1",
+			"text": "See, it's 160.",
+			"start": "2538.9",
+			"end": "2539.7"
+		}, {
+			"id": [645],
+			"speaker": "1",
+			"text": "Got ninja, how we got the cool domain?",
+			"start": "2539.7",
+			"end": "2542.1"
+		}, {
+			"id": [646],
+			"speaker": "1",
+			"text": "That's what I teared it, like, with John tang and then you could see like what we did.",
+			"start": "2542.1",
+			"end": "2546.5"
+		}, {
+			"id": [647],
+			"speaker": "1",
+			"text": "Is it this?",
+			"start": "2548.3",
+			"end": "2549.2"
+		}, {
+			"id": [648],
+			"speaker": "1",
+			"text": "That's pollicis.",
+			"start": "2549.9",
+			"end": "2551.6"
+		}, {
+			"id": [649],
+			"speaker": "1",
+			"text": "I'll send the one that.",
+			"start": "2551.6",
+			"end": "2552.9"
+		}, {
+			"id": [650],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "2553.0",
+			"end": "2553.5"
+		}, {
+			"id": [651],
+			"speaker": "1",
+			"text": "If a cool to me and I John chose a good one to actually is bursting, Echo Chambers and social media like because like this time I guess we'll even more.",
+			"start": "2555.8",
+			"end": "2566.4"
+		}, {
+			"id": [652],
+			"speaker": "1",
+			"text": "So now with people in Echo Chambers and then extremism and like all that kind of stuff.",
+			"start": "2566.4",
+			"end": "2571.1"
+		}, {
+			"id": [653],
+			"speaker": "1",
+			"text": "But he chose a good to me, who is.",
+			"start": "2571.1",
+			"end": "2572.3"
+		}, {
+			"id": [654],
+			"speaker": "0",
+			"text": "So What did how did that work?",
+			"start": "2573.6",
+			"end": "2582.5"
+		}, {
+			"id": [655],
+			"speaker": "0",
+			"text": "I okay.",
+			"start": "2582.5",
+			"end": "2583.3"
+		}, {
+			"id": [656],
+			"speaker": "0",
+			"text": "So um Paul Blair teaches a kind of similar class called hacking for defense or he gets defense people to come and give pitch projects and then students.",
+			"start": "2583.3",
+			"end": "2593.4"
+		}, {
+			"id": [657],
+			"speaker": "0",
+			"text": "Do you know exactly this process?",
+			"start": "2593.4",
+			"end": "2595.3"
+		}, {
+			"id": [658],
+			"speaker": "0",
+			"text": "And every year I look at the projects and every year, I feel like the solutions Arliss like really fucking basic man, like just not imaginative, so like, You know, they have.",
+			"start": "2597.0",
+			"end": "2609.5"
+		}, {
+			"id": [659],
+			"speaker": "0",
+			"text": "So someone have the fake news thing is like it's a plugin for Chrome to help people identify I don't know.",
+			"start": "2609.5",
+			"end": "2618.5"
+		}, {
+			"id": [660],
+			"speaker": "0",
+			"text": "Like that kind of thing.",
+			"start": "2618.5",
+			"end": "2619.7"
+		}, {
+			"id": [661],
+			"speaker": "0",
+			"text": "I was like this is so undergrad.",
+			"start": "2619.7",
+			"end": "2623.6"
+		}, {
+			"id": [662],
+			"speaker": "0",
+			"text": "Yeah you are very similar to.",
+			"start": "2623.6",
+			"end": "2626.2"
+		}, {
+			"id": [663],
+			"speaker": "0",
+			"text": "I did you get the assume you always get some of those like, half.",
+			"start": "2626.2",
+			"end": "2629.9"
+		}, {
+			"id": [664],
+			"speaker": "0",
+			"text": "The class is always going to be just like Pretty mediocre stuff.",
+			"start": "2629.9",
+			"end": "2634.6"
+		}, {
+			"id": [665],
+			"speaker": "0",
+			"text": "But did you get anything?",
+			"start": "2634.6",
+			"end": "2635.5"
+		}, {
+			"id": [666],
+			"speaker": "0",
+			"text": "I just never get anything.",
+			"start": "2635.5",
+			"end": "2636.8"
+		}, {
+			"id": [667],
+			"speaker": "1",
+			"text": "So we got when I was staying with for John.",
+			"start": "2638.3",
+			"end": "2640.9"
+		}, {
+			"id": [668],
+			"speaker": "1",
+			"text": "We got like maybe a third were pretty solid.",
+			"start": "2640.9",
+			"end": "2642.9"
+		}, {
+			"id": [669],
+			"speaker": "1",
+			"text": "I was definitely like, oh shit, they actually did something and like it's not a super high bar but it's like they definitely one third of the class was the quality when I took it or better and you know, like I was still a noob then but like we didn't suck too bad.",
+			"start": "2642.9",
+			"end": "2658.1"
+		}, {
+			"id": [670],
+			"speaker": "1",
+			"text": "They definitely had some like pretty interesting stuff I think here.",
+			"start": "2659.7",
+			"end": "2663.2"
+		}, {
+			"id": [671],
+			"speaker": "1",
+			"text": "If Go to the Showcase, you can kind of see ya.",
+			"start": "2663.2",
+			"end": "2665.8"
+		}, {
+			"id": [672],
+			"speaker": "1",
+			"text": "Jeremy designed this.",
+			"start": "2666.4",
+			"end": "2667.6"
+		}, {
+			"id": [673],
+			"speaker": "1",
+			"text": "I don't know what he did for his lips, like this looks so bad.",
+			"start": "2667.6",
+			"end": "2672.0"
+		}, {
+			"id": [674],
+			"speaker": "1",
+			"text": "But they actually have like, you know, their mock ups were.",
+			"start": "2675.7",
+			"end": "2677.8"
+		}, {
+			"id": [675],
+			"speaker": "1",
+			"text": "We're - is High Fidelity were great.",
+			"start": "2677.8",
+			"end": "2680.0"
+		}, {
+			"id": [676],
+			"speaker": "1",
+			"text": "They actually have like a underlying core concept was pretty good too.",
+			"start": "2680.1",
+			"end": "2684.2"
+		}, {
+			"id": [677],
+			"speaker": "1",
+			"text": "I still remember one.",
+			"start": "2684.6",
+			"end": "2685.6"
+		}, {
+			"id": [678],
+			"speaker": "1",
+			"text": "It was like something to do with like Uber or something like that.",
+			"start": "2685.6",
+			"end": "2688.5"
+		}, {
+			"id": [679],
+			"speaker": "1",
+			"text": "I forget what it.",
+			"start": "2688.6",
+			"end": "2689.8"
+		}, {
+			"id": [680],
+			"speaker": "0",
+			"text": "It's not on.",
+			"start": "2692.1",
+			"end": "2692.8"
+		}, {
+			"id": [681],
+			"speaker": "1",
+			"text": "might have been a different semester.",
+			"start": "2693.7",
+			"end": "2694.8"
+		}, {
+			"id": [682],
+			"speaker": "1",
+			"text": "Then by remember, like, you know, if I could still remember it, like now then it's like it obviously didn't suck and something like, three, four years.",
+			"start": "2694.8",
+			"end": "2701.0"
+		}, {
+			"id": [683],
+			"speaker": "1",
+			"text": "That's why.",
+			"start": "2707.6",
+			"end": "2708.0"
+		}, {
+			"id": [684],
+			"speaker": "1",
+			"text": "Okay, the other time I teared it.",
+			"start": "2708.0",
+			"end": "2709.9"
+		}, {
+			"id": [685],
+			"speaker": "1",
+			"text": "Who do I talk to you for Bjorn?",
+			"start": "2710.3",
+			"end": "2711.9"
+		}, {
+			"id": [686],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "2711.9",
+			"end": "2712.3"
+		}, {
+			"id": [687],
+			"speaker": "1",
+			"text": "Okay so be honest, honorable public website but the only Sinister like they had.",
+			"start": "2712.4",
+			"end": "2716.5"
+		}, {
+			"id": [688],
+			"speaker": "1",
+			"text": "They also had about like one-third that we're pretty solid to the owns, an excellent structure to.",
+			"start": "2716.9",
+			"end": "2720.8"
+		}, {
+			"id": [689],
+			"speaker": "1",
+			"text": "So there's.",
+			"start": "2720.8",
+			"end": "2721.2"
+		}, {
+			"id": [690],
+			"speaker": "0",
+			"text": "Yeah, he is my hero.",
+			"start": "2722.9",
+			"end": "2724.2"
+		}, {
+			"id": [691],
+			"speaker": "0",
+			"text": "I.",
+			"start": "2724.2",
+			"end": "2724.3"
+		}, {
+			"id": [692],
+			"speaker": "1",
+			"text": "It's very serious.",
+			"start": "2726.3",
+			"end": "2727.2"
+		}, {
+			"id": [693],
+			"speaker": "1",
+			"text": "I was just like German or something like on top of that.",
+			"start": "2727.4",
+			"end": "2731.1"
+		}, {
+			"id": [694],
+			"speaker": "0",
+			"text": "doesn't like a born in.",
+			"start": "2731.4",
+			"end": "2732.7"
+		}, {
+			"id": [695],
+			"speaker": "1",
+			"text": "German.",
+			"start": "2733.2",
+			"end": "2733.9"
+		}, {
+			"id": [696],
+			"speaker": "1",
+			"text": "I don't know.",
+			"start": "2734.4",
+			"end": "2735.1"
+		}, {
+			"id": [697],
+			"speaker": "1",
+			"text": "He doesn't.",
+			"start": "2736.1",
+			"end": "2736.5"
+		}, {
+			"id": [698],
+			"speaker": "1",
+			"text": "He doesn't have an accident though, but.",
+			"start": "2736.5",
+			"end": "2738.4"
+		}, {
+			"id": [699],
+			"speaker": "0",
+			"text": "talks a little bit funny, but it's not an accent.",
+			"start": "2739.3",
+			"end": "2741.8"
+		}, {
+			"id": [700],
+			"speaker": "0",
+			"text": "Yeah, like a person but he doesn't act German as the thing like he laughs.",
+			"start": "2741.8",
+			"end": "2746.7"
+		}, {
+			"id": [701],
+			"speaker": "0",
+			"text": "He has a sense of humor and he, I don't.",
+			"start": "2746.9",
+			"end": "2750.6"
+		}, {
+			"id": [702],
+			"speaker": "1",
+			"text": "It's office is very, very, very Like it's not it's not sanitary like just like you know live sanitary but like it's very European.",
+			"start": "2751.2",
+			"end": "2761.4"
+		}, {
+			"id": [703],
+			"speaker": "1",
+			"text": "It's not so yes that's nicely.",
+			"start": "2765.4",
+			"end": "2768.1"
+		}, {
+			"id": [704],
+			"speaker": "1",
+			"text": "He doesn't have like five monitors and like all that kind of stuff you just as like on one I Mac and like a little trinkets on his desk.",
+			"start": "2768.8",
+			"end": "2774.0"
+		}, {
+			"id": [705],
+			"speaker": "1",
+			"text": "Very looks very comfortable.",
+			"start": "2774.0",
+			"end": "2775.2"
+		}, {
+			"id": [706],
+			"speaker": "1",
+			"text": "And plus the the Jacobs building is super nice to like the All Glass.",
+			"start": "2776.8",
+			"end": "2780.8"
+		}, {
+			"id": [707],
+			"speaker": "0",
+			"text": "everything.",
+			"start": "2780.9",
+			"end": "2781.5"
+		}, {
+			"id": [708],
+			"speaker": "0",
+			"text": "Yeah, well though, every building has a nicer.",
+			"start": "2782.6",
+			"end": "2786.5"
+		}, {
+			"id": [709],
+			"speaker": "0",
+			"text": "See us building than Columbia, man?",
+			"start": "2786.5",
+			"end": "2790.2"
+		}, {
+			"id": [710],
+			"speaker": "0",
+			"text": "Why didn't we get the northwest.",
+			"start": "2790.2",
+			"end": "2791.6"
+		}, {
+			"id": [711],
+			"speaker": "1",
+			"text": "building?",
+			"start": "2792.0",
+			"end": "2792.6"
+		}, {
+			"id": [712],
+			"speaker": "1",
+			"text": "Yes, I ask every day like from day one.",
+			"start": "2792.6",
+			"end": "2794.8"
+		}, {
+			"id": [713],
+			"speaker": "1",
+			"text": "That's the same as if I've ever.",
+			"start": "2794.9",
+			"end": "2796.3"
+		}, {
+			"id": [714],
+			"speaker": "0",
+			"text": "one.",
+			"start": "2796.5",
+			"end": "2796.8"
+		}, {
+			"id": [715],
+			"speaker": "0",
+			"text": "I do Florida and I guess it's data science and a little bit of some other.",
+			"start": "2797.0",
+			"end": "2800.5"
+		}, {
+			"id": [716],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "2805.2",
+			"end": "2805.6"
+		}, {
+			"id": [717],
+			"speaker": "1",
+			"text": "I mean like all these classes to I think I don't know how useful are going to find all of your team like stuff.",
+			"start": "2805.6",
+			"end": "2812.4"
+		}, {
+			"id": [718],
+			"speaker": "1",
+			"text": "Like the back of your hand, but from our schedule like you can see, like the progression, how quickly?",
+			"start": "2812.4",
+			"end": "2818.1"
+		}, {
+			"id": [719],
+			"speaker": "1",
+			"text": "We went through certain things and this is still an undergrad version, right?",
+			"start": "2818.1",
+			"end": "2821.4"
+		}, {
+			"id": [720],
+			"speaker": "1",
+			"text": "I think Paula schedule.",
+			"start": "2821.4",
+			"end": "2823.1"
+		}, {
+			"id": [721],
+			"speaker": "1",
+			"text": "Yeah it's scheduled Impalas teaches like so one 16 to 60 is cross-listed.",
+			"start": "2823.4",
+			"end": "2828.7"
+		}, {
+			"id": [722],
+			"speaker": "1",
+			"text": "So like 262 gracias take the same shit but then this is 260 be And I never took that and that pops up every every so often.",
+			"start": "2828.9",
+			"end": "2837.7"
+		}, {
+			"id": [723],
+			"speaker": "1",
+			"text": "But Paul is teaches CST 60p.",
+			"start": "2837.7",
+			"end": "2839.7"
+		}, {
+			"id": [724],
+			"speaker": "0",
+			"text": "So do students come in knowing web programming to this class.",
+			"start": "2842.3",
+			"end": "2847.3"
+		}, {
+			"id": [725],
+			"speaker": "0",
+			"text": "Nope.",
+			"start": "2847.5",
+			"end": "2848.1"
+		}, {
+			"id": [726],
+			"speaker": "0",
+			"text": "So, where do they learn that?",
+			"start": "2848.8",
+			"end": "2850.5"
+		}, {
+			"id": [727],
+			"speaker": "0",
+			"text": "Cuz I see one lecture on programming tools and social media, and then working with apis as the assignment.",
+			"start": "2855.6",
+			"end": "2863.4"
+		}, {
+			"id": [728],
+			"speaker": "0",
+			"text": "But yeah, that's not.",
+			"start": "2863.4",
+			"end": "2864.6"
+		}, {
+			"id": [729],
+			"speaker": "1",
+			"text": "Other the API one was pretty involved it.",
+			"start": "2872.1",
+			"end": "2875.2"
+		}, {
+			"id": [730],
+			"speaker": "1",
+			"text": "We had to host like extra section for that like last minute, but that was like, more or less.",
+			"start": "2875.3",
+			"end": "2879.7"
+		}, {
+			"id": [731],
+			"speaker": "1",
+			"text": "The only thing that they needed.",
+			"start": "2879.7",
+			"end": "2880.9"
+		}, {
+			"id": [732],
+			"speaker": "1",
+			"text": "So John was like, I want this class to be very, not programming heavy but they start to make something so you had to make it like, you know, not zero program.",
+			"start": "2880.9",
+			"end": "2888.9"
+		}, {
+			"id": [733],
+			"speaker": "1",
+			"text": "So that kind of owned us, I could check with Bueller, did I still might.",
+			"start": "2889.1",
+			"end": "2892.2"
+		}, {
+			"id": [734],
+			"speaker": "1",
+			"text": "But you can see how it went like kind of fast and all that.",
+			"start": "2899.2",
+			"end": "2903.7"
+		}, {
+			"id": [735],
+			"speaker": "1",
+			"text": "Because every book might be.",
+			"start": "2905.3",
+			"end": "2906.4"
+		}, {
+			"id": [736],
+			"speaker": "1",
+			"text": "Huh, it could be just down or something you can evolve you and I'm sure he'll send it to.",
+			"start": "2925.2",
+			"end": "2929.6"
+		}, {
+			"id": [737],
+			"speaker": "0",
+			"text": "Well, that's a good idea.",
+			"start": "2932.5",
+			"end": "2933.7"
+		}, {
+			"id": [738],
+			"speaker": "1",
+			"text": "think is probably more indicative of like, a normal semester because, you know, John was also a guest lecturer, guess instructor from.",
+			"start": "2935.3",
+			"end": "2942.4"
+		}, {
+			"id": [739],
+			"speaker": "0",
+			"text": "Yeah, I always thought that I would have a very similar class so my class is based on clamors and I assume that Buren's was too slow.",
+			"start": "2947.8",
+			"end": "2958.5"
+		}, {
+			"id": [740],
+			"speaker": "0",
+			"text": "If I stole it from, well I modified it from the Stanford deck and I cut out all the bullshit.",
+			"start": "2960.4",
+			"end": "2965.5"
+		}, {
+			"id": [741],
+			"speaker": "0",
+			"text": "Isn't there.",
+			"start": "2965.8",
+			"end": "2966.1"
+		}, {
+			"id": [742],
+			"speaker": "0",
+			"text": "Studio.",
+			"start": "2970.7",
+			"end": "2971.4"
+		}, {
+			"id": [743],
+			"speaker": "0",
+			"text": "Yes, that was.",
+			"start": "2971.5",
+			"end": "2972.7"
+		}, {
+			"id": [744],
+			"speaker": "0",
+			"text": "And that's my advanced class, like, I stole their website.",
+			"start": "2972.8",
+			"end": "2975.5"
+		}, {
+			"id": [745],
+			"speaker": "0",
+			"text": "I still fucking everything, although I could thought it with Manish and that class was kind of terrible with Manish at Berkeley when you were.",
+			"start": "2975.5",
+			"end": "2983.5"
+		}, {
+			"id": [746],
+			"speaker": "1",
+			"text": "Yeah, I mean, John took us to 47 as well.",
+			"start": "2987.7",
+			"end": "2989.8"
+		}, {
+			"id": [747],
+			"speaker": "1",
+			"text": "Like sometimes we would see 247 and slides as opposed to 160, but they learned a lot though.",
+			"start": "2989.8",
+			"end": "2998.6"
+		}, {
+			"id": [748],
+			"speaker": "1",
+			"text": "You know, like at the end, like a nonzero proportion of the class ended up into like companies sort of like figma and this kind of stuff which I, you know II a hundred percent believe, had it not been for this class.",
+			"start": "2998.8",
+			"end": "3010.2"
+		}, {
+			"id": [749],
+			"speaker": "1",
+			"text": "They would have gone to like, fuck can you imagine work at Salesforce like oh my gosh.",
+			"start": "3010.2",
+			"end": "3014.1"
+		}, {
+			"id": [750],
+			"speaker": "1",
+			"text": "That's.",
+			"start": "3014.1",
+			"end": "3014.3"
+		}, {
+			"id": [751],
+			"speaker": "0",
+			"text": "Yeah, that's my not.",
+			"start": "3015.4",
+			"end": "3018.9"
+		}, {
+			"id": [752],
+			"speaker": "1",
+			"text": "Yeah so so it worked out right if you know I checked on, you know what, my other students were like, and on LinkedIn and I kind of stuff and they're doing like designing stuff.",
+			"start": "3019.6",
+			"end": "3028.5"
+		}, {
+			"id": [753],
+			"speaker": "1",
+			"text": "But they enjoy.",
+			"start": "3028.7",
+			"end": "3029.3"
+		}, {
+			"id": [754],
+			"speaker": "1",
+			"text": "So,.",
+			"start": "3029.3",
+			"end": "3029.6"
+		}, {
+			"id": [755],
+			"speaker": "0",
+			"text": "worked out.",
+			"start": "3030.7",
+			"end": "3031.1"
+		}, {
+			"id": [756],
+			"speaker": "0",
+			"text": "Yeah, I have a list of companies that like, I'd rather work at McDonald's or work at those companies.",
+			"start": "3031.1",
+			"end": "3035.9"
+		}, {
+			"id": [757],
+			"speaker": "0",
+			"text": "So force is one of them for some reason, Oracle is also one of those.",
+			"start": "3036.2",
+			"end": "3039.7"
+		}, {
+			"id": [758],
+			"speaker": "0",
+			"text": "I only know one person there, but something about it just seems really boring.",
+			"start": "3039.7",
+			"end": "3043.6"
+		}, {
+			"id": [759],
+			"speaker": "0",
+			"text": "I could be totally wrong, Amazon used to be on that list, but I think that they're kind of running the world.",
+			"start": "3043.6",
+			"end": "3053.2"
+		}, {
+			"id": [760],
+			"speaker": "1",
+			"text": "So, yeah, you just can't fight with AWS.",
+			"start": "3053.6",
+			"end": "3057.1"
+		}, {
+			"id": [761],
+			"speaker": "1",
+			"text": "Let It Bleed.",
+			"start": "3057.1",
+			"end": "3057.8"
+		}, {
+			"id": [762],
+			"speaker": "1",
+			"text": "Everyone else out.",
+			"start": "3057.8",
+			"end": "3058.5"
+		}, {
+			"id": [763],
+			"speaker": "1",
+			"text": "Because they make so much money with no overhead that they just dump all that money to like other domains that they need money growing.",
+			"start": "3058.7",
+			"end": "3064.7"
+		}, {
+			"id": [764],
+			"speaker": "1",
+			"text": "It's.",
+			"start": "3064.7",
+			"end": "3064.9"
+		}, {
+			"id": [765],
+			"speaker": "0",
+			"text": "dude.",
+			"start": "3066.3",
+			"end": "3066.7"
+		}, {
+			"id": [766],
+			"speaker": "0",
+			"text": "Like imagine if Amazon went away tomorrow.",
+			"start": "3066.7",
+			"end": "3069.3"
+		}, {
+			"id": [767],
+			"speaker": "0",
+			"text": "Like I wouldn't know how to feed myself like.",
+			"start": "3069.3",
+			"end": "3072.0"
+		}, {
+			"id": [768],
+			"speaker": "1",
+			"text": "yeah, but I remember like the slides, I can also like, look at the slides that we made as Tas do to show.",
+			"start": "3076.4",
+			"end": "3081.1"
+		}, {
+			"id": [769],
+			"speaker": "1",
+			"text": "Like, you know, like what to expect from section is we, we spent a non-trivial amount of time making our own slides.",
+			"start": "3081.1",
+			"end": "3087.0"
+		}, {
+			"id": [770],
+			"speaker": "1",
+			"text": "In addition to what was presented from lecture.",
+			"start": "3087.0",
+			"end": "3089.2"
+		}, {
+			"id": [771],
+			"speaker": "1",
+			"text": "So a, you reinforce the stuff obviously, but, you know, you also had to teach like the low-level programmatic details as well in your own.",
+			"start": "3089.8",
+			"end": "3096.6"
+		}, {
+			"id": [772],
+			"speaker": "0",
+			"text": "Yeah.",
+			"start": "3097.8",
+			"end": "3098.2"
+		}, {
+			"id": [773],
+			"speaker": "0",
+			"text": "And the other one is kind of asked.",
+			"start": "3099.2",
+			"end": "3100.5"
+		}, {
+			"id": [774],
+			"speaker": "0",
+			"text": "Yeah, I think I need to have a lecture early on in like the brainstorming interview where I force people to get out of the classroom and go talk to people outside of their comfort zone.",
+			"start": "3100.5",
+			"end": "3112.2"
+		}, {
+			"id": [775],
+			"speaker": "0",
+			"text": "I think that's one reason the clock people are just too comfortable, doing the same useless shit that they always do by introspecting.",
+			"start": "3112.2",
+			"end": "3119.9"
+		}, {
+			"id": [776],
+			"speaker": "0",
+			"text": "And I do not need you to introspect, like this is about going out and discovering things, you don't always.",
+			"start": "3119.9",
+			"end": "3125.2"
+		}, {
+			"id": [777],
+			"speaker": "0",
+			"text": "If you already knew the answer you already be doing it.",
+			"start": "3125.2",
+			"end": "3127.8"
+		}, {
+			"id": [778],
+			"speaker": "1",
+			"text": "yeah, one of the classes we had had like a fucking distance limit from Berkeley, in which you had to travel outside of Buffalo New.",
+			"start": "3129.4",
+			"end": "3138.9"
+		}, {
+			"id": [779],
+			"speaker": "1",
+			"text": "yeah.",
+			"start": "3142.7",
+			"end": "3143.2"
+		}, {
+			"id": [780],
+			"speaker": "1",
+			"text": "Like I said, just like a strip distance limit and then forces people to go outside.",
+			"start": "3143.3",
+			"end": "3147.4"
+		}, {
+			"id": [781],
+			"speaker": "1",
+			"text": "Yeah.",
+			"start": "3148.3",
+			"end": "3148.5"
+		}, {
+			"id": [782],
+			"speaker": "1",
+			"text": "It's good for CS kids too, because they don't go outside and.",
+			"start": "3148.5",
+			"end": "3150.9"
+		}, {
+			"id": [783],
+			"speaker": "0",
+			"text": "that, and it's, they're terrified of the sometimes go outside.",
+			"start": "3151.1",
+			"end": "3154.8"
+		}, {
+			"id": [784],
+			"speaker": "0",
+			"text": "But when they do, they do not talk to people.",
+			"start": "3154.8",
+			"end": "3156.7"
+		}, {
+			"id": [785],
+			"speaker": "0",
+			"text": "That is got to talk to people, that is, you can't learn from books.",
+			"start": "3157.6",
+			"end": "3161.2"
+		}, {
+			"id": [786],
+			"speaker": "0",
+			"text": "Books are.",
+			"start": "3161.2",
+			"end": "3161.6"
+		}, {
+			"id": [787],
+			"speaker": "1",
+			"text": "after I pay for deadline.",
+			"start": "3163.4",
+			"end": "3164.4"
+		}, {
+			"id": [788],
+			"speaker": "1",
+			"text": "I went outside for like the first time in a long time as like the sun hurts my.",
+			"start": "3164.4",
+			"end": "3167.5"
+		}, {
+			"id": [789],
+			"speaker": "0",
+			"text": "Yeah well we have like a couple nice days early.",
+			"start": "3171.2",
+			"end": "3174.2"
+		}, {
+			"id": [790],
+			"speaker": "0",
+			"text": "The next day was really nice and it.",
+			"start": "3174.2",
+			"end": "3176.5"
+		}, {
+			"id": [791],
+			"speaker": "1",
+			"text": "Oh this meteor shit!",
+			"start": "3177.8",
+			"end": "3179.5"
+		}, {
+			"id": [792],
+			"speaker": "1",
+			"text": "Oh my God!",
+			"start": "3179.5",
+			"end": "3180.1"
+		}, {
+			"id": [793],
+			"speaker": "1",
+			"text": "That was so terrible.",
+			"start": "3180.1",
+			"end": "3180.9"
+		}, {
+			"id": [794],
+			"speaker": "1",
+			"text": "I don't like we did a cloud nine server or something and like debugging students meteor it was oh Entrance gate triggered thinking of this.",
+			"start": "3180.9",
+			"end": "3188.2"
+		}, {
+			"id": [795],
+			"speaker": "1",
+			"text": "So our A3 which, you know, we only had like two a week and a half two weeks to do.",
+			"start": "3188.2",
+			"end": "3194.0"
+		}, {
+			"id": [796],
+			"speaker": "1",
+			"text": "It was straight up built like a full on Twitter visualization thing like that.",
+			"start": "3194.0",
+			"end": "3199.1"
+		}, {
+			"id": [797],
+			"speaker": "1",
+			"text": "That's like maybe a Columbia final project for another class or something but we only had like gave him a week and a half or two.",
+			"start": "3199.1",
+			"end": "3205.6"
+		}, {
+			"id": [798],
+			"speaker": "0",
+			"text": "Yeah, General.",
+			"start": "3207.6",
+			"end": "3209.2"
+		}, {
+			"id": [799],
+			"speaker": "0",
+			"text": "I don't know.",
+			"start": "3210.4",
+			"end": "3211.1"
+		}, {
+			"id": [800],
+			"speaker": "0",
+			"text": "The Columbia undergrad classes, the classes that are the stupidest and most useful.",
+			"start": "3212.2",
+			"end": "3218.7"
+		}, {
+			"id": [801],
+			"speaker": "0",
+			"text": "Make you work the hardest and that should be reversed we should take classes that are fucking not useful like compilers and make that zero work and take classes that are useful and well taught like Advanced programming is pretty useful although anyway, think that's Justified and being 20 hours a week, I wish I could get people to work.",
+			"start": "3218.7",
+			"end": "3241.4"
+		}, {
+			"id": [802],
+			"speaker": "0",
+			"text": "Either in my class, like, that would be.",
+			"start": "3241.5",
+			"end": "3244.3"
+		}, {
+			"id": [803],
+			"speaker": "1",
+			"text": "Are you think your petition like a UI to count as a systems?",
+			"start": "3245.1",
+			"end": "3248.4"
+		}, {
+			"id": [804],
+			"speaker": "1",
+			"text": "Design course?",
+			"start": "3248.4",
+			"end": "3249.1"
+		}, {
+			"id": [805],
+			"speaker": "1",
+			"text": "Because I've Berkeley somehow accounted a system.",
+			"start": "3249.1",
+			"end": "3251.5"
+		}, {
+			"id": [806],
+			"speaker": "1",
+			"text": "Sounds like fucking pile is fuck OS.",
+			"start": "3251.5",
+			"end": "3253.5"
+		}, {
+			"id": [807],
+			"speaker": "1",
+			"text": "So I never took any of that in undergrad actually, and I was able to get 162 count as my systems.",
+			"start": "3253.5",
+			"end": "3258.0"
+		}, {
+			"id": [808],
+			"speaker": "0",
+			"text": "So I did the same.",
+			"start": "3259.1",
+			"end": "3260.3"
+		}, {
+			"id": [809],
+			"speaker": "0",
+			"text": "Well, it wasn't like a basic software engineering class was the only like lab.",
+			"start": "3260.6",
+			"end": "3265.8"
+		}, {
+			"id": [810],
+			"speaker": "0",
+			"text": "I needed to take.",
+			"start": "3265.8",
+			"end": "3266.9"
+		}, {
+			"id": [811],
+			"speaker": "0",
+			"text": "I've been wanting to change the Columbia requirements for fucking ever because I think they're done.",
+			"start": "3267.3",
+			"end": "3271.4"
+		}, {
+			"id": [812],
+			"speaker": "0",
+			"text": "And outdated and but there are people who are guarding them like that.",
+			"start": "3271.7",
+			"end": "3277.7"
+		}, {
+			"id": [813],
+			"speaker": "0",
+			"text": "Yeah, absolutely.",
+			"start": "3277.7",
+			"end": "3278.7"
+		}, {
+			"id": [814],
+			"speaker": "0",
+			"text": "That teach them want them to be these hard classes that torture everyone because that's what makes you a see, a student.",
+			"start": "3278.7",
+			"end": "3285.2"
+		}, {
+			"id": [815],
+			"speaker": "0",
+			"text": "I don't like, not really man, like not really at all.",
+			"start": "3285.2",
+			"end": "3289.0"
+		}, {
+			"id": [816],
+			"speaker": "0",
+			"text": "That's why most of the people who do well in CS dropped out because I work spending all my time, taking.",
+			"start": "3289.0",
+			"end": "3294.2"
+		}, {
+			"id": [817],
+			"speaker": "1",
+			"text": "horseshit but also Boomers to like in that regard.",
+			"start": "3294.3",
+			"end": "3297.6"
+		}, {
+			"id": [818],
+			"speaker": "1",
+			"text": "So it's, you know, are you gonna fight that?",
+			"start": "3297.6",
+			"end": "3301.3"
+		}, {
+			"id": [819],
+			"speaker": "1",
+			"text": "At yeah, Okay, cool.",
+			"start": "3301.5",
+			"end": "3304.4"
+		}, {
+			"id": [820],
+			"speaker": "1",
+			"text": "So I'll get like a list of like, 25 things that we can go through on Friday.",
+			"start": "3304.6",
+			"end": "3308.1"
+		}, {
+			"id": [821],
+			"speaker": "1",
+			"text": "And then I'll also like way out what I'm going to tell its next week as well.",
+			"start": "3308.1",
+			"end": "3312.0"
+		}, {
+			"id": [822],
+			"speaker": "1",
+			"text": "It's gonna.",
+			"start": "3312.0",
+			"end": "3312.2"
+		}]
+	},
+	"low": {
+		"segments": [{
+			"text": "I think there is a lot of potential for that like use case, but the hardest thing for me to find is recording.",
+			"id": [0, 1, 2, 3, 4, 5, 6],
+			"speaker": "0"
+		}, {
+			"text": "You should make a name for yourself if you have a brilliant idea.",
+			"id": [10],
+			"speaker": "0"
+		}, {
+			"text": "The thesis should be at least semi coherent.",
+			"id": [11],
+			"speaker": "0"
+		}, {
+			"text": "Back in November, I came up with three proposals, but they were kind of flushed out, so maybe I can do that again.",
+			"id": [12, 13],
+			"speaker": "1"
+		}, {
+			"text": "Let's talk through some things together.",
+			"id": [14, 15],
+			"speaker": "0"
+		}, {
+			"text": "The last time we saw her, it was about translation.",
+			"id": [16],
+			"speaker": "0"
+		}, {
+			"text": "It changes when we see what they stood for later.",
+			"id": [17, 18, 19],
+			"speaker": "1"
+		}, {
+			"text": "I gave her no information about the project, but she was interested in it, so she decided not to take the internship.",
+			"id": [20, 21, 22, 23],
+			"speaker": "0"
+		}, {
+			"text": "The most important thing is if they are going to stick your ass on like describing infrastructure code, no one wants to do it right now.",
+			"id": [28, 29, 30, 31, 32, 33],
+			"speaker": "1"
+		}, {
+			"text": "This is an automatic evaluation system for translation quality, which is similar to how we evaluated summarization accuracy in the past.",
+			"id": [34, 35, 36, 37, 38, 39, 40, 41],
+			"speaker": "1"
+		}, {
+			"text": "We don't need super great translation in the sense that it's just going to be good enough for me and I can get what I want.",
+			"id": [42, 43],
+			"speaker": "1"
+		}, {
+			"text": "At the end of the day, what does the percentage mean?",
+			"id": [54, 55, 56],
+			"speaker": "0"
+		}, {
+			"text": "It's not surprising at all, but I'm working on it.",
+			"id": [58],
+			"speaker": "1"
+		}, {
+			"text": "I like all language stuff, it's interesting.",
+			"id": [62],
+			"speaker": "1"
+		}, {
+			"text": "As long as it's not by, I think.",
+			"id": [64, 65, 66],
+			"speaker": "0"
+		}, {
+			"text": "I don't think ill go to career and see us.",
+			"id": [68],
+			"speaker": "1"
+		}, {
+			"text": "It's hard to raise 25 million dollars, so I'm going to have to work for a while.",
+			"id": [72],
+			"speaker": "1"
+		}, {
+			"text": "I didn't do it again after I used the internet.",
+			"id": [73],
+			"speaker": "1"
+		}, {
+			"text": "I can do decent quality work but I am not very good at it.",
+			"id": [76],
+			"speaker": "1"
+		}, {
+			"text": "ivy league schools are supposed to give out people who know a lot of things to be dangerous and they can always put together the talent you want.",
+			"id": [79, 80, 81],
+			"speaker": "0"
+		}, {
+			"text": "The guy can write a lot of code.",
+			"id": [82],
+			"speaker": "0"
+		}, {
+			"text": "It takes a lot to get a project together.",
+			"id": [83],
+			"speaker": "0"
+		}, {
+			"text": "I don't want to do this kind of stuff and I'm not sure why you did it.",
+			"id": [86, 87, 88, 89],
+			"speaker": "1"
+		}, {
+			"text": "Poor life decisions are made once in awhile.",
+			"id": [92, 93],
+			"speaker": "1"
+		}, {
+			"text": "I did it and I will get sucked out, but there are many things I hate about companies that are true academia.",
+			"id": [94, 95],
+			"speaker": "0"
+		}, {
+			"text": "It was like a company could give you a fixed percentage of equity just to make you look good.",
+			"id": [97, 98],
+			"speaker": "1"
+		}, {
+			"text": "You have a sea turtle analogy right now.",
+			"id": [101],
+			"speaker": "1"
+		}, {
+			"text": "A couple of them make enough to see a lot.",
+			"id": [102],
+			"speaker": "1"
+		}, {
+			"text": "I think that's the way to make a lot of money without doing anything, because you can get big speaker fees if you talk for an hour.",
+			"id": [103, 104, 105, 106, 107],
+			"speaker": "0"
+		}, {
+			"text": "You can get one of the 10 grand.",
+			"id": [112],
+			"speaker": "1"
+		}, {
+			"text": "The white fragility thing was there six months ago.",
+			"id": [113],
+			"speaker": "1"
+		}, {
+			"text": "There was no burden of proof in the humanities and I hated that book.",
+			"id": [116, 117, 118, 119, 120],
+			"speaker": "0"
+		}, {
+			"text": "She knows what she is doing when she builds companies.",
+			"id": [122],
+			"speaker": "1"
+		}, {
+			"text": "It's just jealousy and I'm just jealous.",
+			"id": [124],
+			"speaker": "0"
+		}, {
+			"text": "When do you think I could finish my degree?",
+			"id": [125, 126, 127],
+			"speaker": "1"
+		}, {
+			"text": "If you wanted to, you could defend mid spring, but you have to look at your from now.",
+			"id": [130, 131, 132, 133],
+			"speaker": "0"
+		}, {
+			"text": "I would like to push it to send next year.",
+			"id": [136],
+			"speaker": "1"
+		}, {
+			"text": "You can't tell what can happen when you're researching, so you have to do a thesis proposal in the fall and then defend it before the semester ends.",
+			"id": [137, 138, 139],
+			"speaker": "0"
+		}, {
+			"text": "It was just straight bio people in machine.",
+			"id": [141],
+			"speaker": "1"
+		}, {
+			"text": "I can't remember the number of people.",
+			"id": [142, 143, 144, 145],
+			"speaker": "0"
+		}, {
+			"text": "Tell her what we do at some point.",
+			"id": [150, 151],
+			"speaker": "0"
+		}, {
+			"text": "I checked my mice and they said that they had updated this shit and that I had prepared a folder of all my old classes and syllabus, which was 20 megabytes of documents.",
+			"id": [154, 155, 156],
+			"speaker": "1"
+		}, {
+			"text": "You said last time that we did summers long form speech with translation but I can't remember how much it was.",
+			"id": [158, 159, 160, 161, 162, 163],
+			"speaker": "0"
+		}, {
+			"text": "You don't have to prove it's useful by definition, but if other people want to consume other content and their own native language, thats a pretty challenging problem.",
+			"id": [165, 166, 167, 168],
+			"speaker": "1"
+		}, {
+			"text": "The summer is on perfect already and if I translate against can get confused, so at every stage we introduce more complexity, like a known problem.",
+			"id": [169, 170, 171, 172, 173],
+			"speaker": "1"
+		}, {
+			"text": "You can get a darpa grant if you know the bad guy.",
+			"id": [177, 178, 179, 180, 181],
+			"speaker": "0"
+		}, {
+			"text": "That sounds interesting since arabic is a load resource language.",
+			"id": [183],
+			"speaker": "1"
+		}, {
+			"text": "It's easy to pilot it because you need a lot of things and julia befriends them.",
+			"id": [185, 186, 187, 188],
+			"speaker": "0"
+		}, {
+			"text": "If you have someone with a good idea, you can have a blind leader.",
+			"id": [189],
+			"speaker": "0"
+		}, {
+			"text": "We did that last summer with german but I can't give them our stuff because of that.",
+			"id": [190, 191],
+			"speaker": "1"
+		}, {
+			"text": "The movie is left and right on the internet.",
+			"id": [192],
+			"speaker": "1"
+		}, {
+			"text": "That's awesome if we do a different language.",
+			"id": [195],
+			"speaker": "1"
+		}, {
+			"text": "I think most people who want to read something in another language have some familiarity with that language, but I don't know.",
+			"id": [199, 200, 201, 202],
+			"speaker": "0"
+		}, {
+			"text": "I don't know if that is what the state department does, but if you were doing that you would think that it would be a good idea.",
+			"id": [203, 204, 205, 206],
+			"speaker": "0"
+		}, {
+			"text": "Do you just want to talk to other people or do you conduct small experiments?",
+			"id": [208],
+			"speaker": "0"
+		}, {
+			"text": "We could target meetings in a different way.",
+			"id": [210],
+			"speaker": "0"
+		}, {
+			"text": "I don't know if the asr works or not.",
+			"id": [211],
+			"speaker": "0"
+		}, {
+			"text": "I am worried that the asr doesn't work.",
+			"id": [212],
+			"speaker": "0"
+		}, {
+			"text": "If you figure out how to impute that back into the faint before you summarize, it will be very useful and I didn't see anyone doing that.",
+			"id": [214, 215, 216, 217],
+			"speaker": "1"
+		}, {
+			"text": "They just try to see if it helps.",
+			"id": [218],
+			"speaker": "0"
+		}, {
+			"text": "You can diagram the whole sentence to figure out what the object is.",
+			"id": [219],
+			"speaker": "0"
+		}, {
+			"text": "Plug it in and see how it affects you, then figure out the process of getting it.",
+			"id": [222],
+			"speaker": "1"
+		}, {
+			"text": "It's worth investigating if that helps.",
+			"id": [223],
+			"speaker": "1"
+		}, {
+			"text": "We might have done it on the raw.",
+			"id": [224, 225, 226],
+			"speaker": "0"
+		}, {
+			"text": "When you impute it, look at other stages, you can't just say she is my mother's friend.",
+			"id": [228, 229, 230, 231, 232, 233, 234, 235],
+			"speaker": "1"
+		}, {
+			"text": "I wouldn't mind working on it in that location.",
+			"id": [240],
+			"speaker": "1"
+		}, {
+			"text": "I have no idea how deep this hole can be.",
+			"id": [241],
+			"speaker": "1"
+		}, {
+			"text": "I would personally give it two weeks to see how far I could go in order to understand the problem more.",
+			"id": [242, 243, 244, 245],
+			"speaker": "0"
+		}, {
+			"text": "I can do that on Friday, but I have to teach people in 160 and come up with a list of 25 things.",
+			"id": [247, 248, 249, 250],
+			"speaker": "1"
+		}, {
+			"text": "People ask me about the most beautiful clouds.",
+			"id": [253],
+			"speaker": "1"
+		}, {
+			"text": "Lassie thinks it's like its 160 or like you.",
+			"id": [255],
+			"speaker": "1"
+		}, {
+			"text": "I think of ways to make real like before I had a kid but I have few needs now so I'm always thinking about how I can.",
+			"id": [256, 257],
+			"speaker": "0"
+		}, {
+			"text": "It would be nicer to have a real place to live and system of my problems, but I feel like I teach the only useful class in colombia, so why can't I.",
+			"id": [258, 259, 260],
+			"speaker": "0"
+		}, {
+			"text": "The speakers and peddling horseshit are optional, but they work.",
+			"id": [264],
+			"speaker": "0"
+		}, {
+			"text": "If someone tells people how to make a decision, you might be able to come up with a framework.",
+			"id": [265, 266],
+			"speaker": "1"
+		}, {
+			"text": "One person tells you that this makes sense.",
+			"id": [267],
+			"speaker": "1"
+		}, {
+			"text": "The hard part is not having the will to lose weight, but sticking to it.",
+			"id": [268, 269, 270, 271],
+			"speaker": "0"
+		}, {
+			"text": "You missed out on the time when you could charge money and now you can get companies to sponsor your class and send your top students to school.",
+			"id": [273],
+			"speaker": "1"
+		}, {
+			"text": "It's very expensive to allow companies to test on your students, but you can use that as an excuse to pay you.",
+			"id": [276, 277],
+			"speaker": "1"
+		}, {
+			"text": "He is rolling after the other figments broke.",
+			"id": [279],
+			"speaker": "1"
+		}, {
+			"text": "At stanford, professors used to joke that if you have a computer, you can live in palo alto.",
+			"id": [280],
+			"speaker": "1"
+		}, {
+			"text": "If you become a consultant, the real thing is.",
+			"id": [282],
+			"speaker": "1"
+		}, {
+			"text": "It's true that all their good faculty other than theory are useless because they're stuck being professors.",
+			"id": [283, 284, 285, 286, 287, 288],
+			"speaker": "0"
+		}, {
+			"text": "There are a couple ideas for a follow up.",
+			"id": [290],
+			"speaker": "0"
+		}, {
+			"text": "I don't know if we need that stuff or not, but I do know that those are super hardcore language problems, so I would like to do that.",
+			"id": [291, 292, 293],
+			"speaker": "1"
+		}, {
+			"text": "If you want a couple three month projects in the same vein and reuse a lot of that work, you should keep on this track.",
+			"id": [294, 295],
+			"speaker": "0"
+		}, {
+			"text": "I'm pretty sure that you have to be a registered student this semester in order to get funding, but I think you're right about graduating in the spring.",
+			"id": [299, 300, 301, 302, 303, 304],
+			"speaker": "0"
+		}, {
+			"text": "We have a free semester so we may or may not use it.",
+			"id": [306, 307, 308],
+			"speaker": "0"
+		}, {
+			"text": "I'm supposed to do another register unit thing and you're going to be my advisor.",
+			"id": [309, 310, 311],
+			"speaker": "1"
+		}, {
+			"text": "Do we have to register for the residence unit?",
+			"id": [312],
+			"speaker": "1"
+		}, {
+			"text": "Should I register for yours or not?",
+			"id": [317],
+			"speaker": "1"
+		}, {
+			"text": "They don't pressure you to do it early.",
+			"id": [324],
+			"speaker": "0"
+		}, {
+			"text": "We have action plans and mice want us to do that.",
+			"id": [325, 326, 327, 328, 329, 330, 331, 332],
+			"speaker": "1"
+		}, {
+			"text": "I didn't do much this semester but I did.",
+			"id": [337],
+			"speaker": "1"
+		}, {
+			"text": "I would talk to him before the 29th if I knew what the groupings were for black friday.",
+			"id": [339, 340, 341, 342, 343],
+			"speaker": "0"
+		}, {
+			"text": "He never meets with you, that's part of the problem.",
+			"id": [350, 351, 352, 353, 354],
+			"speaker": "0"
+		}, {
+			"text": "It ends up being like 30 minutes a week.",
+			"id": [357],
+			"speaker": "1"
+		}, {
+			"text": "He tells me how it works but I just end up doing it.",
+			"id": [363, 364, 365],
+			"speaker": "1"
+		}, {
+			"text": "You can't do it if you force it.",
+			"id": [368],
+			"speaker": "1"
+		}, {
+			"text": "If you don't have enough pixels, you cannot run model x on it, and he doesnt get that.",
+			"id": [369],
+			"speaker": "1"
+		}, {
+			"text": "If I were you, the approach would be honest and get you what you want, but not machine learning, which is a really hot thing right now.",
+			"id": [370],
+			"speaker": "0"
+		}, {
+			"text": "You want to see if you can get out quickly.",
+			"id": [372],
+			"speaker": "0"
+		}, {
+			"text": "When see what he does by doing something more.",
+			"id": [373],
+			"speaker": "0"
+		}, {
+			"text": "I can do that but not tomorrow or the next.",
+			"id": [374, 375, 376, 377],
+			"speaker": "1"
+		}, {
+			"text": "I think you should warm up for it because I don't think he's the kind of person who would like me like I am.",
+			"id": [378, 379, 380, 381, 382],
+			"speaker": "0"
+		}, {
+			"text": "I wanted to break up with him and everyone was relieved.",
+			"id": [386],
+			"speaker": "0"
+		}, {
+			"text": "I don't know what's going on with mike undergraduate and masters student now that they're working with me on this project, I just want to invest in it.",
+			"id": [393, 394, 395, 396],
+			"speaker": "1"
+		}, {
+			"text": "I know it's not good, but the other students do it too, they find their own ways to get around it.",
+			"id": [397, 398, 399, 400, 401, 402],
+			"speaker": "1"
+		}, {
+			"text": "The other is similar to working with a professor.",
+			"id": [404],
+			"speaker": "1"
+		}, {
+			"text": "If you ignore him and advise yourself some good stuff, you will get in trouble at some critical points.",
+			"id": [405, 406, 407, 408],
+			"speaker": "0"
+		}, {
+			"text": "The goal has always been to do four years so I can go to college.",
+			"id": [413, 414, 415],
+			"speaker": "1"
+		}, {
+			"text": "You could ask him how he thinks this will go and see what he says.",
+			"id": [416, 417],
+			"speaker": "0"
+		}, {
+			"text": "We are going to meet with this glue.",
+			"id": [418, 419, 420],
+			"speaker": "1"
+		}, {
+			"text": "I don't do that with my students, they are too young to be doing well or just doing things, so I have to start thinking of when and how.",
+			"id": [422, 423, 424, 425, 426, 427, 428, 429, 430],
+			"speaker": "0"
+		}, {
+			"text": "April 29th is a good date to keep in mind.",
+			"id": [436],
+			"speaker": "0"
+		}, {
+			"text": "We can do things like put the paper online.",
+			"id": [440],
+			"speaker": "0"
+		}, {
+			"text": "He loved the tool that the system itself had.",
+			"id": [443, 444, 445, 446],
+			"speaker": "0"
+		}, {
+			"text": "Did it come out the way you expected?",
+			"id": [448],
+			"speaker": "1"
+		}, {
+			"text": "Set expectations there and then you exceed them.",
+			"id": [452],
+			"speaker": "1"
+		}, {
+			"text": "When you work with someone you have to be better than them at something otherwise you will be a disappointment to them.",
+			"id": [453, 454, 455, 456],
+			"speaker": "0"
+		}, {
+			"text": "You have something in your pocket that you know is better than what they have.",
+			"id": [461],
+			"speaker": "0"
+		}, {
+			"text": "I learned this because I look at people who don't appreciate me or think I'm not worth talking to.",
+			"id": [462],
+			"speaker": "0"
+		}, {
+			"text": "I have a skill that the people don't have.",
+			"id": [463],
+			"speaker": "0"
+		}, {
+			"text": "Dan weld is not very good at giving talks.",
+			"id": [464],
+			"speaker": "0"
+		}, {
+			"text": "He makes three to five million a year doing that.",
+			"id": [470],
+			"speaker": "1"
+		}, {
+			"text": "He has a nice house and sold his first company in 2004 for 35 million.",
+			"id": [472, 473, 474, 475],
+			"speaker": "0"
+		}, {
+			"text": "You should get in on the legs as well.",
+			"id": [476],
+			"speaker": "1"
+		}, {
+			"text": "The name of my friend is shruti gandhi.",
+			"id": [478, 479, 480, 481],
+			"speaker": "0"
+		}, {
+			"text": "The one I meant was the one that raised 25 million back in 2018, but everything blew up at this point, so I knew basic shit from that.",
+			"id": [484, 485],
+			"speaker": "1"
+		}, {
+			"text": "I don't think I'm rich, but I think people understand the process of going into the sort of stuff, like what's his face like?",
+			"id": [486, 487, 488],
+			"speaker": "1"
+		}, {
+			"text": "It's important for vcs to be like the board and not invest because you don't have to.",
+			"id": [489],
+			"speaker": "1"
+		}, {
+			"text": "Is it possible to get small amounts of money?",
+			"id": [493],
+			"speaker": "1"
+		}, {
+			"text": "I sent you a link to the vc but I don't know if she has an impressive person to talk to.",
+			"id": [494, 495, 496, 497, 498],
+			"speaker": "0"
+		}, {
+			"text": "I don't know if she is or is not, but she taught a class here at Columbia that the students hated because she lives in California.",
+			"id": [499, 500],
+			"speaker": "0"
+		}, {
+			"text": "It was like she would just put them through her and I thought some of the companies were pretty cool.",
+			"id": [501, 502],
+			"speaker": "0"
+		}, {
+			"text": "The first three are really good and the rest are horseshit.",
+			"id": [503],
+			"speaker": "0"
+		}, {
+			"text": "I thought it was cool that they grow plants in cities.",
+			"id": [504],
+			"speaker": "0"
+		}, {
+			"text": "I would do that and it was pretty impressive.",
+			"id": [505],
+			"speaker": "0"
+		}, {
+			"text": "You should make like your next 4170, like paulus is 160, it's basically like you go through the entire process, right competitive analysis, and you have your prototype, you.",
+			"id": [507, 508, 509, 510],
+			"speaker": "1"
+		}, {
+			"text": "You have to be like whos pregnant who doesn't interview?",
+			"id": [512],
+			"speaker": "1"
+		}, {
+			"text": "Wait but how did you handle that topic?",
+			"id": [513, 514],
+			"speaker": "0"
+		}, {
+			"text": "It's like preparing for a baby as they were wanted to do that.",
+			"id": [515],
+			"speaker": "1"
+		}, {
+			"text": "The topic was health care and how they did it was like a technology underlying technology.",
+			"id": [519, 520, 521],
+			"speaker": "1"
+		}, {
+			"text": "I'm trying to make it into the advanced class because I feel like I have to spend a long time teaching basic web technology, but I got some money from Amazon.",
+			"id": [522, 523, 524, 525],
+			"speaker": "0"
+		}, {
+			"text": "How can we get people to engage with that?",
+			"id": [527],
+			"speaker": "0"
+		}, {
+			"text": "Sometimes a technology is waiting for a critical killer app.",
+			"id": [529, 530, 531, 532],
+			"speaker": "0"
+		}, {
+			"text": "I was going to do that as well.",
+			"id": [533],
+			"speaker": "0"
+		}, {
+			"text": "I would like to know what twilio likes about texting.",
+			"id": [534],
+			"speaker": "0"
+		}, {
+			"text": "You can do kind of cool shit there.",
+			"id": [536],
+			"speaker": "0"
+		}, {
+			"text": "After a week or two, I would be able to make an app start to finish.",
+			"id": [537, 538, 539],
+			"speaker": "1"
+		}, {
+			"text": "Did they just throw you in or did they own us?",
+			"id": [541],
+			"speaker": "0"
+		}, {
+			"text": "I think my ts were excellent, but I don't know if she likes that.",
+			"id": [542, 543, 544, 545, 546, 547],
+			"speaker": "1"
+		}, {
+			"text": "I have a hard time getting undergrad because I need an exquisite team of tas, but do you know what that is?",
+			"id": [551, 552, 553, 554, 555, 556],
+			"speaker": "0"
+		}, {
+			"text": "Most people disappear after taking the advanced class.",
+			"id": [558],
+			"speaker": "0"
+		}, {
+			"text": "I need someone who can help them with everything.",
+			"id": [560],
+			"speaker": "0"
+		}, {
+			"text": "I brought this up because it was still during class and I was too young to know why we didn't section here.",
+			"id": [562, 563, 564, 565, 566],
+			"speaker": "1"
+		}, {
+			"text": "It's weird that every computer science class has a section, but the math classes don't have it.",
+			"id": [567, 568, 569, 570, 571, 572, 573],
+			"speaker": "0"
+		}, {
+			"text": "They didn't give a shit about it.",
+			"id": [574],
+			"speaker": "0"
+		}, {
+			"text": "You have to have your students know how to do the process from the beginning.",
+			"id": [575],
+			"speaker": "1"
+		}, {
+			"text": "It's good to get good feedback.",
+			"id": [576],
+			"speaker": "1"
+		}, {
+			"text": "It's like the only team that falls through the cracks is the one that doesn't have a good time.",
+			"id": [577, 578],
+			"speaker": "1"
+		}, {
+			"text": "Do you know if anyone has built an app?",
+			"id": [586],
+			"speaker": "0"
+		}, {
+			"text": "I don't know if it's a thing, but I know that people drink it with their lights.",
+			"id": [587, 588],
+			"speaker": "1"
+		}, {
+			"text": "Are you going to teach this class in the fall?",
+			"id": [590, 591],
+			"speaker": "1"
+		}, {
+			"text": "I teach the advanced class in the fall and I will make it because I have all the money from Amazon.",
+			"id": [592, 593, 594, 595, 596, 597],
+			"speaker": "0"
+		}, {
+			"text": "I don't know 50 bucks, the shitty ones.",
+			"id": [598],
+			"speaker": "0"
+		}, {
+			"text": "The instructor kept it off when I took the class.",
+			"id": [600],
+			"speaker": "1"
+		}, {
+			"text": "You can't keep it over once you figure that out.",
+			"id": [601],
+			"speaker": "1"
+		}, {
+			"text": "If I had 25 students, I would have 2 500 6 000 books, but I can't do math because I have the bad ones.",
+			"id": [602, 603, 604, 605],
+			"speaker": "0"
+		}, {
+			"text": "You already got the tech down because of the echo stuff, so you scope it out in advance.",
+			"id": [610],
+			"speaker": "1"
+		}, {
+			"text": "It was the last time I had someone teach with me.",
+			"id": [611, 612, 613, 614, 615],
+			"speaker": "0"
+		}, {
+			"text": "The camp out in front of the library would have been better.",
+			"id": [617, 618],
+			"speaker": "0"
+		}, {
+			"text": "They don't think of price as an issue.",
+			"id": [619, 620, 621],
+			"speaker": "1"
+		}, {
+			"text": "I remember that from his interview, but I can't remember if it was real or not.",
+			"id": [622, 623, 624, 625, 626, 627, 628],
+			"speaker": "0"
+		}, {
+			"text": "Everyone thinks double bed is gone because there is no publicity.",
+			"id": [635],
+			"speaker": "1"
+		}, {
+			"text": "I'm sick of staying at home.",
+			"id": [637],
+			"speaker": "1"
+		}, {
+			"text": "Going to see a star see its 160 got ninja how we got the cool domain thats what I teared it like with john and then you could see that we did it.",
+			"id": [643, 644, 645, 646, 647, 648, 649, 650, 651],
+			"speaker": "1"
+		}, {
+			"text": "How did that work, how did paul blair teach a kind of class called hacking for defense, where he gets defense people to come and give pitch projects, and then students do you know.",
+			"id": [654, 655, 656, 657, 658],
+			"speaker": "0"
+		}, {
+			"text": "The fake news thing is a chrome extension.",
+			"id": [659],
+			"speaker": "0"
+		}, {
+			"text": "I assume you always get some of those.",
+			"id": [663],
+			"speaker": "0"
+		}, {
+			"text": "The class is always going to be mediocre.",
+			"id": [664],
+			"speaker": "0"
+		}, {
+			"text": "When I was staying with john, we got maybe a third of the class that was solid, but they were not as good as I would have liked.",
+			"id": [667, 668, 669],
+			"speaker": "1"
+		}, {
+			"text": "They have mock ups, like you know.",
+			"id": [674],
+			"speaker": "1"
+		}, {
+			"text": "The underlying core concept they have is pretty good.",
+			"id": [676],
+			"speaker": "1"
+		}, {
+			"text": "I remember one, but I don't remember what it was, so I'm not sure if I could remember it now.",
+			"id": [677, 678, 679, 680, 681, 682],
+			"speaker": "1"
+		}, {
+			"text": "They had a website that was only sinister.",
+			"id": [687],
+			"speaker": "1"
+		}, {
+			"text": "About one third of the structure was solid.",
+			"id": [688],
+			"speaker": "1"
+		}, {
+			"text": "I was like german or something like that.",
+			"id": [693],
+			"speaker": "1"
+		}, {
+			"text": "He has a sense of humor but he doesn't act like he is german.",
+			"id": [699, 700, 701],
+			"speaker": "0"
+		}, {
+			"text": "Its not sanitary like live sanitary but like european.",
+			"id": [702],
+			"speaker": "1"
+		}, {
+			"text": "He has a small trinket on his desk, but he doesn't have five monitors.",
+			"id": [704],
+			"speaker": "1"
+		}, {
+			"text": "The all glass jacobs building is nice.",
+			"id": [706],
+			"speaker": "1"
+		}, {
+			"text": "Every building has a nicer view than columbia man.",
+			"id": [707, 708, 709, 710],
+			"speaker": "0"
+		}, {
+			"text": "I ask every day if it's the same as before.",
+			"id": [711, 712, 713],
+			"speaker": "1"
+		}, {
+			"text": "I guess it's data science and some other things.",
+			"id": [715],
+			"speaker": "0"
+		}, {
+			"text": "I don't know how useful these classes are but from our schedule, you can see how quickly we went through certain things.",
+			"id": [716, 717, 718, 719],
+			"speaker": "1"
+		}, {
+			"text": "One 16 to 60 is cross listed so like 262 gracias take the same shit, but then this is 260 and I never took that.",
+			"id": [720, 721, 722, 723],
+			"speaker": "1"
+		}, {
+			"text": "I work with apis on an assignment after watching a lecture on programming tools.",
+			"id": [727],
+			"speaker": "0"
+		}, {
+			"text": "The only thing that they needed was an extra section for the last minute, so we had to host it.",
+			"id": [729, 730, 731, 732],
+			"speaker": "1"
+		}, {
+			"text": "Did I still have that kind of ownership?",
+			"id": [733],
+			"speaker": "1"
+		}, {
+			"text": "You can see how fast it went and all that.",
+			"id": [734],
+			"speaker": "1"
+		}, {
+			"text": "It could be down or something you can evolve.",
+			"id": [736],
+			"speaker": "1"
+		}, {
+			"text": "John was a guest lecturer in a normal semester.",
+			"id": [738],
+			"speaker": "1"
+		}, {
+			"text": "I assumed that my class was based on clamors and that burens was too slow if I stole it, so I modified it from the stanford deck.",
+			"id": [739, 740, 741, 742, 743, 744],
+			"speaker": "0"
+		}, {
+			"text": "I still do everything, even though that class at berkeley was terrible.",
+			"id": [745],
+			"speaker": "0"
+		}, {
+			"text": "They learned a lot when john took them to 47.",
+			"id": [746, 747],
+			"speaker": "1"
+		}, {
+			"text": "Had it not been for this class, a lot of the class would have ended up in companies like figma.",
+			"id": [748],
+			"speaker": "1"
+		}, {
+			"text": "They would have gone to work at salesforce.",
+			"id": [749],
+			"speaker": "1"
+		}, {
+			"text": "If I checked on what my other students were doing, it worked out.",
+			"id": [752],
+			"speaker": "1"
+		}, {
+			"text": "I have a list of companies that I like to work at but force is one of them and I only know one person there.",
+			"id": [755, 756, 757, 758],
+			"speaker": "0"
+		}, {
+			"text": "They make a lot of money with no overhead.",
+			"id": [763],
+			"speaker": "1"
+		}, {
+			"text": "We spent a lot of time making our own slides so I like to look at the slides that we made to show what to expect.",
+			"id": [768, 769],
+			"speaker": "1"
+		}, {
+			"text": "You have to teach the low level programmatic details in your own.",
+			"id": [771],
+			"speaker": "1"
+		}, {
+			"text": "I think I need to have a lecture early on in the course where I force people to get out of the classroom and talk to people outside of their comfort zone.",
+			"id": [772, 773, 774, 775],
+			"speaker": "0"
+		}, {
+			"text": "If you already know the answer, you should be doing it.",
+			"id": [777],
+			"speaker": "0"
+		}, {
+			"text": "Its good for the kids because they don't go outside.",
+			"id": [782],
+			"speaker": "1"
+		}, {
+			"text": "They do not talk to people when they go outside.",
+			"id": [783, 784],
+			"speaker": "0"
+		}, {
+			"text": "You can't learn from books if you talk to people.",
+			"id": [785],
+			"speaker": "0"
+		}, {
+			"text": "After paying my deadline, I went outside for the first time.",
+			"id": [787, 788],
+			"speaker": "1"
+		}, {
+			"text": "It was built like a full on visualization.",
+			"id": [796],
+			"speaker": "1"
+		}, {
+			"text": "He was given a week and a half to finish his project.",
+			"id": [797],
+			"speaker": "1"
+		}, {
+			"text": "Make you work the hardest and that should be reversed, we should take classes that are useful and well taught like advanced programming, although I wish I could do that.",
+			"id": [801],
+			"speaker": "0"
+		}, {
+			"text": "I was able to get 162 count because I never took any of that in undergrad.",
+			"id": [803, 804, 805, 806, 807],
+			"speaker": "1"
+		}, {
+			"text": "I did the same thing and it was the only lab I needed to take and there were people guarding them.",
+			"id": [808, 809, 810, 811, 812],
+			"speaker": "0"
+		}, {
+			"text": "I don't like man at all.",
+			"id": [815],
+			"speaker": "0"
+		}, {
+			"text": "People who do well in cs drop out because they work too much.",
+			"id": [816],
+			"speaker": "0"
+		}, {
+			"text": "I'm going to give you a list of 25 things that we can do on Friday, so you can check it out.",
+			"id": [817, 818, 819, 820, 821],
+			"speaker": "1"
+		}]
+	},
+	"med": {
+		"segments": [{
+			"text": "If you have a brilliant idea, recording it is the hardest thing for me to find.",
+			"id": [0, 1, 2, 3, 4, 5, 6, 10],
+			"speaker": "0"
+		}, {
+			"text": "I came up with three proposals in November but they were flushed out.",
+			"id": [12, 13],
+			"speaker": "1"
+		}, {
+			"text": "The last time we saw her, it was about translation.",
+			"id": [14, 15, 16],
+			"speaker": "0"
+		}, {
+			"text": "She didn't take the internship because she was interested in the project.",
+			"id": [20, 21, 22, 23],
+			"speaker": "0"
+		}, {
+			"text": "If they are going to stick your ass on like describing infrastructure code no one wants to do it right now, this is an automatic evaluation system for translation quality which is similar to how we.",
+			"id": [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+			"speaker": "1"
+		}, {
+			"text": "It is hard to raise 25 million dollars.",
+			"id": [72],
+			"speaker": "1"
+		}, {
+			"text": "I can do decent quality work but I am not very good at it.",
+			"id": [76],
+			"speaker": "1"
+		}, {
+			"text": "The guy can write a lot of code.",
+			"id": [82, 83],
+			"speaker": "0"
+		}, {
+			"text": "ivy league schools are supposed to give out people who know a lot of things to be dangerous and they can always put together the talent you want.",
+			"id": [79, 80, 81],
+			"speaker": "0"
+		}, {
+			"text": "I don't want to do this kind of stuff and I'm not sure why you did it.",
+			"id": [86, 87, 88, 89],
+			"speaker": "1"
+		}, {
+			"text": "There are many things that I hate about companies that are true academia.",
+			"id": [94, 95],
+			"speaker": "0"
+		}, {
+			"text": "You could get a fixed percentage of equity from the company.",
+			"id": [97, 98],
+			"speaker": "1"
+		}, {
+			"text": "You can make a lot of money without doing anything if you talk for an hour.",
+			"id": [103, 104, 105, 106, 107],
+			"speaker": "0"
+		}, {
+			"text": "There was no burden of proof in the humanities and I hated that book.",
+			"id": [116, 117, 118, 119, 120],
+			"speaker": "0"
+		}, {
+			"text": "If you wanted to, you could defend mid spring.",
+			"id": [130, 131, 132, 133],
+			"speaker": "0"
+		}, {
+			"text": "You have to defend your thesis proposal before the semester ends.",
+			"id": [137, 138, 139],
+			"speaker": "0"
+		}, {
+			"text": "I checked my mice and they said that I had prepared a folder of 20 megabytes of documents.",
+			"id": [154, 155, 156],
+			"speaker": "1"
+		}, {
+			"text": "I can't remember how much it was.",
+			"id": [158, 159, 160, 161, 162, 163],
+			"speaker": "0"
+		}, {
+			"text": "If other people want to consume other content and their own native language that's a pretty challenging problem the summer is on perfect.",
+			"id": [165, 166, 167, 168, 169, 170, 171, 172, 173],
+			"speaker": "1"
+		}, {
+			"text": "You can get a darpa grant if you know the bad guy.",
+			"id": [177, 178, 179, 180, 181],
+			"speaker": "0"
+		}, {
+			"text": "You need a lot of things to pilot it.",
+			"id": [185, 186, 187, 188],
+			"speaker": "0"
+		}, {
+			"text": "If you have someone with a good idea, you can have a blind leader.",
+			"id": [189],
+			"speaker": "0"
+		}, {
+			"text": "I can't give them our stuff because we did that with german.",
+			"id": [190, 191],
+			"speaker": "1"
+		}, {
+			"text": "I am not sure if the asr works or not.",
+			"id": [211, 212],
+			"speaker": "0"
+		}, {
+			"text": "Most people who want to read something in another language have some familiarity with that language, so it would be a good idea if you were doing that.",
+			"id": [199, 200, 201, 202, 203, 204, 205, 206],
+			"speaker": "0"
+		}, {
+			"text": "If you figure out how to impute that back into the faint, it will be useful.",
+			"id": [214, 215, 216, 217],
+			"speaker": "1"
+		}, {
+			"text": "You can diagram the whole sentence to figure out what the object is.",
+			"id": [219],
+			"speaker": "0"
+		}, {
+			"text": "Plug it in and see how it affects you.",
+			"id": [222],
+			"speaker": "1"
+		}, {
+			"text": "You can't just say she is my mother's friend.",
+			"id": [228, 229, 230, 231, 232, 233, 234, 235],
+			"speaker": "1"
+		}, {
+			"text": "I would take two weeks to see how far I could go.",
+			"id": [242, 243, 244, 245],
+			"speaker": "0"
+		}, {
+			"text": "I have to teach people in 160 and come up with a list of things that are similar.",
+			"id": [247, 248, 249, 250, 255],
+			"speaker": "1"
+		}, {
+			"text": "I feel like I teach the only useful class in colombia because I have few needs now but I think of ways to make real like before I had a kid.",
+			"id": [256, 257, 258, 259, 260],
+			"speaker": "0"
+		}, {
+			"text": "Someone can tell you how to make a decision.",
+			"id": [265, 266],
+			"speaker": "1"
+		}, {
+			"text": "The hard part is not wanting to lose weight.",
+			"id": [268, 269, 270, 271],
+			"speaker": "0"
+		}, {
+			"text": "If you become a consultant, you can use the fact that it's very expensive to allow companies to test on your students as an excuse to pay you, because you missed out on the.",
+			"id": [273, 276, 277, 282],
+			"speaker": "1"
+		}, {
+			"text": "If you have a computer, you can live there.",
+			"id": [280],
+			"speaker": "1"
+		}, {
+			"text": "The good faculty is useless because they are professors.",
+			"id": [283, 284, 285, 286, 287, 288],
+			"speaker": "0"
+		}, {
+			"text": "I know that those are really hardcore language problems so I would like to do that.",
+			"id": [291, 292, 293],
+			"speaker": "1"
+		}, {
+			"text": "If you want a few projects in the same vein, you should keep going.",
+			"id": [294, 295],
+			"speaker": "0"
+		}, {
+			"text": "I'm pretty sure you have to be a registered student this semester in order to get funding, but I think you're right about graduating in the spring.",
+			"id": [299, 300, 301, 302, 303, 304],
+			"speaker": "0"
+		}, {
+			"text": "We have a free semester so we may or may not use it.",
+			"id": [306, 307, 308],
+			"speaker": "0"
+		}, {
+			"text": "You will be my advisor when I do another register unit thing.",
+			"id": [309, 310, 311],
+			"speaker": "1"
+		}, {
+			"text": "We have action plans and mice want us to do that.",
+			"id": [325, 326, 327, 328, 329, 330, 331, 332],
+			"speaker": "1"
+		}, {
+			"text": "If I knew what the groupings were, I would talk to him.",
+			"id": [339, 340, 341, 342, 343],
+			"speaker": "0"
+		}, {
+			"text": "He tells me how it works but I just end up doing it.",
+			"id": [363, 364, 365],
+			"speaker": "1"
+		}, {
+			"text": "If you don't have enough, you cannot run model x on it.",
+			"id": [369],
+			"speaker": "1"
+		}, {
+			"text": "The approach would be honest and get you what you want, but not machine learning.",
+			"id": [370],
+			"speaker": "0"
+		}, {
+			"text": "I think he is the kind of person who would like me.",
+			"id": [378, 379, 380, 381, 382],
+			"speaker": "0"
+		}, {
+			"text": "I wanted to break up with him and everyone was relieved.",
+			"id": [386],
+			"speaker": "0"
+		}, {
+			"text": "I just want to invest in this project because I don't know what's going on with mike undergraduate and masters student.",
+			"id": [393, 394, 395, 396, 397, 398, 399, 400, 401, 402],
+			"speaker": "1"
+		}, {
+			"text": "If you ignore him, you will get in trouble.",
+			"id": [405, 406, 407, 408],
+			"speaker": "0"
+		}, {
+			"text": "I want to go to college for four years.",
+			"id": [413, 414, 415],
+			"speaker": "1"
+		}, {
+			"text": "You can ask him how he thinks this will go.",
+			"id": [416, 417],
+			"speaker": "0"
+		}, {
+			"text": "I don't do that with my students, they are too young to be doing well, so I have to start thinking of when and how.",
+			"id": [422, 423, 424, 425, 426, 427, 428, 429, 430],
+			"speaker": "0"
+		}, {
+			"text": "If you don't work with someone who is better than you, you will be a disappointment to them.",
+			"id": [453, 454, 455, 456, 462, 464],
+			"speaker": "0"
+		}, {
+			"text": "You have something in your pocket that is better than what they have.",
+			"id": [461],
+			"speaker": "0"
+		}, {
+			"text": "He sold his first company for 35 million.",
+			"id": [472, 473, 474, 475],
+			"speaker": "0"
+		}, {
+			"text": "The one I meant was the one that raised 25 million in the year before, but everything blew up at this point, so I don't think I'm rich but I think people.",
+			"id": [484, 485, 486, 487, 488],
+			"speaker": "1"
+		}, {
+			"text": "I sent you a link to the vc, but I don't know if she has an impressive person to talk to, and she taught a class here at Columbia that the students hated.",
+			"id": [494, 495, 496, 497, 498, 499, 500, 501, 502],
+			"speaker": "0"
+		}, {
+			"text": "The first three are really good and the rest are horseshit.",
+			"id": [503],
+			"speaker": "0"
+		}, {
+			"text": "I thought it was cool that they grow plants in cities.",
+			"id": [504],
+			"speaker": "0"
+		}, {
+			"text": "You should make a prototype of your next 4170 like paulus did.",
+			"id": [507, 508, 509, 510],
+			"speaker": "1"
+		}, {
+			"text": "It's like preparing for a baby as they were wanted to do that.",
+			"id": [515],
+			"speaker": "1"
+		}, {
+			"text": "The topic was health care and how they did it.",
+			"id": [519, 520, 521],
+			"speaker": "1"
+		}, {
+			"text": "I'm trying to make it into the advanced class because I feel like I have to spend a long time teaching basic web technology, but I got some money from Amazon.",
+			"id": [522, 523, 524, 525],
+			"speaker": "0"
+		}, {
+			"text": "Sometimes a technology is waiting for a critical killer app.",
+			"id": [529, 530, 531, 532, 536],
+			"speaker": "0"
+		}, {
+			"text": "I could finish the app in a couple of weeks.",
+			"id": [537, 538, 539],
+			"speaker": "1"
+		}, {
+			"text": "I think my ts were excellent, but I don't know if she likes that.",
+			"id": [542, 543, 544, 545, 546, 547],
+			"speaker": "1"
+		}, {
+			"text": "I was too young to know why we didn't section here.",
+			"id": [562, 563, 564, 565, 566],
+			"speaker": "1"
+		}, {
+			"text": "There is no computer science section in the math classes.",
+			"id": [567, 568, 569, 570, 571, 572, 573],
+			"speaker": "0"
+		}, {
+			"text": "Students need to know how to do the process.",
+			"id": [575],
+			"speaker": "1"
+		}, {
+			"text": "The team that has a good time falls through the cracks.",
+			"id": [577, 578],
+			"speaker": "1"
+		}, {
+			"text": "I know that people drink it with their lights.",
+			"id": [587, 588],
+			"speaker": "1"
+		}, {
+			"text": "The advanced class will be taught by me.",
+			"id": [592, 593, 594, 595, 596, 597],
+			"speaker": "0"
+		}, {
+			"text": "I have bad books that I can't do math with.",
+			"id": [602, 603, 604, 605],
+			"speaker": "0"
+		}, {
+			"text": "The tech is down because of the echo stuff.",
+			"id": [610],
+			"speaker": "1"
+		}, {
+			"text": "It was the last time I had someone teach with me.",
+			"id": [611, 612, 613, 614, 615],
+			"speaker": "0"
+		}, {
+			"text": "The camp out in front of the library would have been better.",
+			"id": [617, 618],
+			"speaker": "0"
+		}, {
+			"text": "I remember that from his interview, but I can't remember if it was real or not.",
+			"id": [622, 623, 624, 625, 626, 627, 628],
+			"speaker": "0"
+		}, {
+			"text": "Everyone thinks double bed is gone because there is no publicity.",
+			"id": [635],
+			"speaker": "1"
+		}, {
+			"text": "You could see that we did it after we got the cool domain.",
+			"id": [643, 644, 645, 646, 647, 648, 649, 650, 651],
+			"speaker": "1"
+		}, {
+			"text": "paul blair teaches a class called hacking for defense where he gets defense people to come and give pitch projects and then students.",
+			"id": [654, 655, 656, 657, 658],
+			"speaker": "0"
+		}, {
+			"text": "I remember one but I don't remember what it was.",
+			"id": [677, 678, 679, 680, 681, 682, 688],
+			"speaker": "1"
+		}, {
+			"text": "A third of the class was solid, but not as good as I would have liked.",
+			"id": [667, 668, 669],
+			"speaker": "1"
+		}, {
+			"text": "He has a sense of humor but he doesn't act like he is german.",
+			"id": [699, 700, 701],
+			"speaker": "0"
+		}, {
+			"text": "He has a small trinket on his desk, but he doesn't have five monitors.",
+			"id": [704],
+			"speaker": "1"
+		}, {
+			"text": "I don't know how useful these classes are but from our schedule, you can see how quickly we went through certain things.",
+			"id": [716, 717, 718, 719, 720, 721, 722, 723],
+			"speaker": "1"
+		}, {
+			"text": "I work with apis on an assignment after watching a lecture on programming tools.",
+			"id": [727],
+			"speaker": "0"
+		}, {
+			"text": "They needed an extra section for the last minute.",
+			"id": [729, 730, 731, 732],
+			"speaker": "1"
+		}, {
+			"text": "I modified my class from the stanford deck because I assumed it was based on clamors.",
+			"id": [739, 740, 741, 742, 743, 744],
+			"speaker": "0"
+		}, {
+			"text": "I still do everything, even though that class at berkeley was terrible.",
+			"id": [745],
+			"speaker": "0"
+		}, {
+			"text": "A lot of the class would have ended up in figma.",
+			"id": [748],
+			"speaker": "1"
+		}, {
+			"text": "If I checked on what my other students were doing, it worked out.",
+			"id": [752],
+			"speaker": "1"
+		}, {
+			"text": "I like to work at force, but I only know one person there.",
+			"id": [755, 756, 757, 758],
+			"speaker": "0"
+		}, {
+			"text": "We spent a lot of time making our own slides so I like to look at the slides that we made to show the low level programmatic details in your own.",
+			"id": [768, 769, 771],
+			"speaker": "1"
+		}, {
+			"text": "I think I need to have a lecture early on in the course where I force people to leave the classroom and talk to people outside of their comfort zone.",
+			"id": [772, 773, 774, 775],
+			"speaker": "0"
+		}, {
+			"text": "If you already know the answer, you should be doing it.",
+			"id": [777],
+			"speaker": "0"
+		}, {
+			"text": "You can't learn from books if you talk to people.",
+			"id": [783, 784, 785],
+			"speaker": "0"
+		}, {
+			"text": "After paying my deadline, I went outside for the first time.",
+			"id": [787, 788],
+			"speaker": "1"
+		}, {
+			"text": "He was given a week and a half to finish his project.",
+			"id": [797],
+			"speaker": "1"
+		}, {
+			"text": "Since I wish I could do advanced programming, we should take classes that are useful.",
+			"id": [801],
+			"speaker": "0"
+		}, {
+			"text": "I was able to get the count because I never took that in undergrad.",
+			"id": [803, 804, 805, 806, 807],
+			"speaker": "1"
+		}, {
+			"text": "The only lab I needed to take was there.",
+			"id": [808, 809, 810, 811, 812],
+			"speaker": "0"
+		}, {
+			"text": "People who do well in cs drop out because they work too much.",
+			"id": [816],
+			"speaker": "0"
+		}, {
+			"text": "We can do 25 things on Friday so you can check it out.",
+			"id": [817, 818, 819, 820, 821],
+			"speaker": "1"
+		}]
+	},
+	"high": {
+		"segments": [{
+			"text": "Recording a brilliant idea is the hardest thing to find.",
+			"id": [0, 1, 2, 3, 4, 5, 6, 10]
+		}, {
+			"text": "I came up with three proposals in November but they were flushed out.",
+			"id": [12, 13]
+		}, {
+			"text": "The last time we saw her, it was about translation.",
+			"id": [14, 15, 16]
+		}, {
+			"text": "She didn't take the internship because she was interested in the project.",
+			"id": [20, 21, 22, 23]
+		}, {
+			"text": "This is an automatic evaluation system for translation quality that is similar to how we do it.",
+			"id": [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
+		}, {
+			"text": "I can do decent quality work but I am not very good at it.",
+			"id": [76]
+		}, {
+			"text": "ivy league schools are supposed to give out people who know a lot of things to be dangerous and they can always put together the talent you want.",
+			"id": [79, 80, 81]
+		}, {
+			"text": "I don't want to do this kind of stuff and I'm not sure why you did it.",
+			"id": [86, 87, 88, 89]
+		}, {
+			"text": "There are many things that I hate about companies that are true academia.",
+			"id": [94, 95]
+		}, {
+			"text": "You could get a fixed percentage of equity from the company.",
+			"id": [97, 98]
+		}, {
+			"text": "If you talk for an hour, you can make a lot of money.",
+			"id": [103, 104, 105, 106, 107]
+		}, {
+			"text": "There was no burden of proof in the humanities and I hated that book.",
+			"id": [116, 117, 118, 119, 120]
+		}, {
+			"text": "You have to defend your thesis proposal before the semester ends.",
+			"id": [137, 138, 139]
+		}, {
+			"text": "I checked my mice and they said that I had prepared a folder of 20 megabytes of documents.",
+			"id": [154, 155, 156]
+		}, {
+			"text": "It's a challenge if you want to consume other content.",
+			"id": [165, 166, 167, 168, 169, 170, 171, 172, 173]
+		}, {
+			"text": "You can get a darpa grant if you know the bad guy.",
+			"id": [177, 178, 179, 180, 181]
+		}, {
+			"text": "If you have someone with a good idea, you can have a blind leader.",
+			"id": [189]
+		}, {
+			"text": "I can't give them our stuff because we did that with german.",
+			"id": [190, 191]
+		}, {
+			"text": "I am not sure if the asr works or not.",
+			"id": [211, 212]
+		}, {
+			"text": "If you want to read something in another language, you should know that language.",
+			"id": [199, 200, 201, 202, 203, 204, 205, 206]
+		}, {
+			"text": "It will be useful to figure out how to impute that back into the faint.",
+			"id": [214, 215, 216, 217]
+		}, {
+			"text": "You can diagram the whole sentence to figure out what the object is.",
+			"id": [219]
+		}, {
+			"text": "I would take two weeks to see how far I could go.",
+			"id": [242, 243, 244, 245]
+		}, {
+			"text": "I have to teach people in 160 and come up with a list of things that are similar.",
+			"id": [247, 248, 249, 250, 255]
+		}, {
+			"text": "I feel like I teach the only useful class in colombia because I had a kid.",
+			"id": [256, 257, 258, 259, 260]
+		}, {
+			"text": "If you become a consultant, you can use the fact that it is very expensive to allow companies to test on your students as an excuse to pay you.",
+			"id": [273, 276, 277, 282]
+		}, {
+			"text": "If you want a few projects in the same vein, you should keep going.",
+			"id": [294, 295]
+		}, {
+			"text": "I'm pretty sure you have to be a registered student this semester in order to get funding, but I think you're right about graduating in the spring.",
+			"id": [299, 300, 301, 302, 303, 304]
+		}, {
+			"text": "We have a free semester so we may or may not use it.",
+			"id": [306, 307, 308]
+		}, {
+			"text": "You will be my advisor when I do another register unit thing.",
+			"id": [309, 310, 311]
+		}, {
+			"text": "We have action plans and mice want us to do that.",
+			"id": [325, 326, 327, 328, 329, 330, 331, 332]
+		}, {
+			"text": "If I knew what the groupings were, I would talk to him.",
+			"id": [339, 340, 341, 342, 343]
+		}, {
+			"text": "He tells me how it works but I just end up doing it.",
+			"id": [363, 364, 365]
+		}, {
+			"text": "If you don't have enough, you cannot run model x on it.",
+			"id": [369]
+		}, {
+			"text": "The approach would be honest and get you what you want, but not machine learning.",
+			"id": [370]
+		}, {
+			"text": "Everyone was relieved when I said I wanted to break up with him.",
+			"id": [378, 379, 380, 381, 382, 386]
+		}, {
+			"text": "You can ask him how he thinks this will go.",
+			"id": [416, 417]
+		}, {
+			"text": "I don't do that with my students, they are too young to be doing well, so I have to start thinking of when and how.",
+			"id": [422, 423, 424, 425, 426, 427, 428, 429, 430]
+		}, {
+			"text": "They will be disappointed if you work with someone who is better than you.",
+			"id": [453, 454, 455, 456, 462, 464]
+		}, {
+			"text": "You have something in your pocket that is better than what they have.",
+			"id": [461]
+		}, {
+			"text": "The one that raised 25 million in the year before blew up, so I don't think I'm rich.",
+			"id": [484, 485, 486, 487, 488]
+		}, {
+			"text": "I don't know if she has an impressive person to talk to after she taught a class that the students hated.",
+			"id": [494, 495, 496, 497, 498, 499, 500, 501, 502]
+		}, {
+			"text": "The first three are really good and the rest are horseshit.",
+			"id": [503]
+		}, {
+			"text": "I thought it was cool that they grow plants in cities.",
+			"id": [504]
+		}, {
+			"text": "You should make a prototype of your next 4170 like paulus did.",
+			"id": [507, 508, 509, 510]
+		}, {
+			"text": "It's like preparing for a baby as they were wanted to do that.",
+			"id": [515]
+		}, {
+			"text": "The topic was health care and how they did it.",
+			"id": [519, 520, 521]
+		}, {
+			"text": "I'm trying to make it into the advanced class because I feel like I have to spend a long time teaching basic web technology, but I got some money from Amazon.",
+			"id": [522, 523, 524, 525]
+		}, {
+			"text": "Sometimes a technology is waiting for a critical killer app.",
+			"id": [529, 530, 531, 532, 536]
+		}, {
+			"text": "I could finish the app in a couple of weeks.",
+			"id": [537, 538, 539]
+		}, {
+			"text": "I think my ts were excellent, but I don't know if she likes that.",
+			"id": [542, 543, 544, 545, 546, 547]
+		}, {
+			"text": "I was too young to know why we didn't section here.",
+			"id": [562, 563, 564, 565, 566]
+		}, {
+			"text": "There is no computer science section in the math classes.",
+			"id": [567, 568, 569, 570, 571, 572, 573]
+		}, {
+			"text": "The team that has a good time falls through the cracks.",
+			"id": [577, 578]
+		}, {
+			"text": "I have bad books that I can't do math with.",
+			"id": [602, 603, 604, 605]
+		}, {
+			"text": "It was the last time I had someone teach with me.",
+			"id": [611, 612, 613, 614, 615]
+		}, {
+			"text": "The camp out in front of the library would have been better.",
+			"id": [617, 618]
+		}, {
+			"text": "I remember that from his interview, but I can't remember if it was real or not.",
+			"id": [622, 623, 624, 625, 626, 627, 628]
+		}, {
+			"text": "Everyone thinks double bed is gone because there is no publicity.",
+			"id": [635]
+		}, {
+			"text": "You could see that we did it after we got the cool domain.",
+			"id": [643, 644, 645, 646, 647, 648, 649, 650, 651]
+		}, {
+			"text": "I remember one but I don't remember what it was.",
+			"id": [677, 678, 679, 680, 681, 682, 688]
+		}, {
+			"text": "A third of the class was solid but not great.",
+			"id": [667, 668, 669]
+		}, {
+			"text": "He has a sense of humor but he doesn't act like he is german.",
+			"id": [699, 700, 701]
+		}, {
+			"text": "He has a small trinket on his desk, but he doesn't have five monitors.",
+			"id": [704]
+		}, {
+			"text": "From our schedule, you can see how quickly we went through certain things.",
+			"id": [716, 717, 718, 719, 720, 721, 722, 723]
+		}, {
+			"text": "I work with apis on an assignment after watching a lecture on programming tools.",
+			"id": [727]
+		}, {
+			"text": "I changed my class because I assumed it was based on clamors.",
+			"id": [739, 740, 741, 742, 743, 744]
+		}, {
+			"text": "I still do everything, even though that class at berkeley was terrible.",
+			"id": [745]
+		}, {
+			"text": "A lot of the class would have ended up in figma.",
+			"id": [748]
+		}, {
+			"text": "If I checked on what my other students were doing, it worked out.",
+			"id": [752]
+		}, {
+			"text": "I like to work at force, but I only know one person there.",
+			"id": [755, 756, 757, 758]
+		}, {
+			"text": "We spent a lot of time making our own slides so I like to look at the slides that we made to show the low level programmatic details in your own.",
+			"id": [768, 769, 771]
+		}, {
+			"text": "I think I need to have a lecture early on in the course where I force people to leave the classroom and talk to people outside of their comfort zone.",
+			"id": [772, 773, 774, 775]
+		}, {
+			"text": "If you already know the answer, you should be doing it.",
+			"id": [777]
+		}, {
+			"text": "You can't learn from books if you talk to people.",
+			"id": [783, 784, 785]
+		}, {
+			"text": "After paying my deadline, I went outside for the first time.",
+			"id": [787, 788]
+		}, {
+			"text": "He was given a week and a half to finish his project.",
+			"id": [797]
+		}, {
+			"text": "Since I wish I could do advanced programming, we should take classes that are useful.",
+			"id": [801]
+		}, {
+			"text": "I was able to get the count because I never took that in undergrad.",
+			"id": [803, 804, 805, 806, 807]
+		}, {
+			"text": "People who do well in cs drop out because they work too much.",
+			"id": [816]
+		}, {
+			"text": "We can do 25 things on Friday so you can check it out.",
+			"id": [817, 818, 819, 820, 821]
+		}]
+	}
+}
