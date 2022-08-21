@@ -125,41 +125,60 @@ function onSegmentClick(props, id, idx){
 }
 
 function MainSummary(props) {
-    // takes in segments prop
-    // takes in selectedIds prop
-    // takes in setSelected prop
-    const totalDisplayed = getTotalInfo(props.segments, props.lifetimeSelectedIds)
-    return (
-        <div className="Summary">
-            <div className="SummaryTitleContainer">
-                <h2 className="SummaryTitle">
-                    <span>{props.title} Summary</span>
-                </h2>
-                <h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
-                {totalDisplayed} %
-                </span></h2>
+  // takes in segments prop
+  // takes in selectedIds prop
+  // takes in setSelected prop
+  const totalDisplayed = getTotalInfo(props.segments, props.lifetimeSelectedIds)
+  const alternatingColors = ["#2E2E2E", "#3D3D3D"] // add more if you want
+  let colors = []
+  let br = 0
+  for (let i = 0; i < props.segments.length; i++) {
+    colors.push(alternatingColors[br % alternatingColors.length])
+    if (props.segments[i].ShouldBreak) { br++ }
+  }
+  // extra for end
+  colors.push(alternatingColors[(br + 1) % alternatingColors.length])
+  return (
+    <div className="Summary">
+      <div className="SummaryTitleContainer">
+        <h2 className="SummaryTitle">
+          <span>{props.title} Summary</span>
+        </h2>
+        <h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
+        {totalDisplayed} %
+        </span></h2>
+      </div>
+      <div className="MainDataSegments">
+        { props.segments
+          .map((segment, idx) =>
+            <div style={{
+              backgroundColor: colors[idx],
+              width: "100%",
+              fontSize: 20,
+            }}>
+              <span key={idx} 
+              onClick={() => {onSegmentClick(props, segment.id, idx)}} 
+              onMouseEnter={() => {onSegmentClick(props, segment.id, idx)}} 
+              className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
+              ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
+              <SimpleSegment 
+                text={segment.text} 
+                id={segment.id.join(", ")}
+                sequence={segment.sequence}
+                phrase={segment.phrase ? segment.phrase : null}
+                isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
+                speaker={segment.duration}/>
+              {segment.ShouldBreak && (<div>
+                <div style={{height: 12, backgroundColor: colors[idx]}}/>
+                <div style={{backgroundColor: "#616161", height: 1, width: "100%"}}/>
+                <div style={{height: 12, backgroundColor: colors[idx + 1]}}/>
+                </div>)}
+              </span>
             </div>
-            <div className="MainDataSegments">
-                { props.segments
-                    .map((segment, idx) =>
-                        <span key={idx} 
-                        onClick={() => {onSegmentClick(props, segment.id, idx)}} 
-                        onMouseEnter={() => {onSegmentClick(props, segment.id, idx)}} 
-                        className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
-                        ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
-                        <SimpleSegment 
-                            text={segment.text} 
-                            id={segment.id.join(", ")}
-                            sequence={segment.sequence}
-                            phrase={segment.phrase ? segment.phrase : null}
-                            isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
-                            speaker={segment.duration}/>
-                        {segment.ShouldBreak && (<div><div style={{marginTop: 12, marginBottom: 12, backgroundColor: "#616161", height: 1, width: "100%"}}/></div>)}
-                        </span>
-                    ) }
-            </div>
-        </div>
-    );
+          ) }
+      </div>
+    </div>
+  );
 }
 
 function getStartTime(array){
