@@ -199,6 +199,19 @@ function DetailSummary(props) {
   const expand = (innerProps) => {
     setExpanded(innerProps)
   }
+  const expandSelected = () => {
+    for (const segment of props.initialSegments) {
+      if (ifArrayIntersect(segment.id, props.selectedIds)) {
+        expand({...segment,
+          raw: props.segments,
+          id: segment.id.join(", "),
+          phrase: segment.phrase || null,
+          isSelected: true,
+        })
+        break;
+      }
+    }
+  }
 
   let full = (<div/>)
   if (expanded && props.selectedIds) {
@@ -209,7 +222,6 @@ function DetailSummary(props) {
         full = (<div>
           <br/>
           <br/>
-            <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>{"Original Transcript"}</h2>
           <div style={{fontSize: 20}}>
             <SimpleSegment
                 phrase={expanded.phrase}
@@ -262,7 +274,6 @@ function DetailSummary(props) {
                                         text={segment.text} id={segment.id.join(", ")}
                                         speaker={segment.speaker ? segment.speaker : null}
                                         phrase={segment.phrase ? segment.phrase : null}
-                                        onExpand={expand}
                                         isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                         label="Speaker"/>
                                 </span>
@@ -277,7 +288,6 @@ function DetailSummary(props) {
                                     text={segment.text} id={segment.id.join(", ")}
                                     speaker={segment.speaker ? segment.speaker : null}
                                     phrase={segment.phrase ? segment.phrase : null}
-                                    onExpand={expand}
                                     isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                                     label="Speaker"/>
                             </span>
@@ -285,6 +295,10 @@ function DetailSummary(props) {
                 }
             </div>
             <div className="DetailDataSegments">
+             <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>
+               <span>Original Transcript</span>
+               <span onClick={expandSelected}> +</span>
+              </h2>
              {full}
             </div>
         </div>
