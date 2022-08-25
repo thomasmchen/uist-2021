@@ -145,7 +145,7 @@ function MainSummary(props) {
           <span>{props.title} Summary</span>
         </h2>
         <h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
-        {totalDisplayed} %
+        {totalDisplayed}%
         </span></h2>
       </div>
       <div className="MainDataSegments">
@@ -155,6 +155,7 @@ function MainSummary(props) {
               backgroundColor: colors[idx],
               width: "100%",
               fontSize: 20,
+                paddingRight: 5,
             }}>
               <span key={idx} 
               onClick={() => {onSegmentClick(props, segment.id, idx)}} 
@@ -196,47 +197,56 @@ function getEndTime(array){
 function DetailSummary(props) {
   const [expanded, setExpanded] = React.useState(undefined)
 
-  const expand = (innerProps) => {
-    setExpanded(innerProps)
+  let showingFull = false
+  let full = (<div/>)
+  if (expanded && props.selectedIds) {
+    const expanded2 = expanded.filter(e => ifArrayIntersect(e.id, props.selectedIds))
+    const ids = []
+    for (const e of expanded2) {
+      for (const id of e.id) {
+        ids.push(id)
+      }
+    }
+    if (ids.length > 0) {
+      full = (<div>
+        <br/>
+        <br/>
+        <div style={{fontSize: 20}}>
+          {expanded2.map((e, i) => 
+            (<SimpleSegment
+                key={i}
+                phrase={e.phrase}
+                text={e.raw.filter((_, idx) => e.id.includes(idx)).map(r => r.text) + " "}
+                speaker={null}
+                isSelected={true}
+                label="Full"/>))}
+        </div>
+        </div>)
+      showingFull = true
+    }
   }
+
   const expandSelected = () => {
+    if (showingFull) {
+      setExpanded(undefined)
+      return
+    }
+    const l = []
     for (const segment of props.initialSegments) {
       if (ifArrayIntersect(segment.id, props.selectedIds)) {
-        expand({...segment,
+        l.push({...segment,
           raw: props.segments,
-          id: segment.id.join(", "),
+          id: segment.id,
           phrase: segment.phrase || null,
           isSelected: true,
         })
-        break;
       }
     }
-  }
-
-  let full = (<div/>)
-  if (expanded && props.selectedIds) {
-    const ids = expanded.id.split(", ").map(s => parseInt(s))
-    const raws = expanded.raw.filter((_, idx) => ids.includes(idx)).map(r => r.text)
-    for (const selected of ids) {
-      if (props.selectedIds.includes(selected)) {
-        full = (<div>
-          <br/>
-          <br/>
-          <div style={{fontSize: 20}}>
-            <SimpleSegment
-                phrase={expanded.phrase}
-                text={raws.join("\n\n")}
-                speaker={null}
-                isSelected={true}
-                label="Full"/>
-          </div>
-          </div>)
-          break;
-      }
-    }
+    setExpanded(l)
   }
 
     return (
+      <div>
         <div className={`DetailModal notclickable ${props.title}`}>
             <div className="ColumnHeader" style={{flex: 1}}>
                 <div className="ColumnTitleContainer">
@@ -294,14 +304,17 @@ function DetailSummary(props) {
                         ) 
                 }
             </div>
-            <div className="DetailDataSegments">
-             <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>
-               <span>Original Transcript</span>
-               <span onClick={expandSelected}> +</span>
-              </h2>
-             {full}
-            </div>
         </div>
+        <div className={`DetailModal notclickable ${props.title}`}>
+          <div className="DetailDataSegments">
+           <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>
+             <span>Original Transcript</span>
+             <span onClick={expandSelected} title={showingFull ? "Collapse original transcript" : "Expand original transcript"} style={{fontSize: 30}}>{showingFull ? " -" : " +"}</span>
+            </h2>
+           {full}
+          </div>
+        </div>
+      </div>
     );
 }
 
@@ -320,7 +333,7 @@ function DetailDataSummary(props) {
                 <h2 className="ColumnTitle">
                     {props.title}
                     {getTotalDelta(props) != 0 &&
-                    <span> | <span className="AdditionalInfoLabel">+{getTotalDelta(props)}% Info</span></span>}
+                    <span> | <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>+{getTotalDelta(props)}% Info</span></span>}
                 </h2>
             </div>
             {
