@@ -39,7 +39,7 @@ function DataContainer(props) {
         <div className="DataContainer">
             <Switch>
                 <Route path="/uist-2021/data/main">
-                    <UnifiedView audioName={props.audioName} audioData={audioData}/>
+                    <UnifiedView outer={props.outer} audioName={props.audioName} audioData={audioData}/>
                 </Route>
                 <Route path="/uist-2021/data/explore">
                     <SpansView audioName={props.audioName} audioData={audioData}/>

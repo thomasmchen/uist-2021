@@ -125,6 +125,7 @@ function onSegmentClick(props, id, idx){
 }
 
 function MainSummary(props) {
+  const settings = props.settings || {}
   // takes in segments prop
   // takes in selectedIds prop
   // takes in setSelected prop
@@ -144,9 +145,9 @@ function MainSummary(props) {
         <h2 className="SummaryTitle">
           <span>{props.title} Summary</span>
         </h2>
-        <h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
+        {!settings.noMeters && (<h2 className="InfoDisplayLabel">Total Information Displayed:  <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>
         {totalDisplayed}%
-        </span></h2>
+        </span></h2>)}
       </div>
       <div className="MainDataSegments">
         { props.segments
@@ -428,7 +429,7 @@ function UnifiedView(props) {
             <TitleView title={props.audioData.title} subtitle={props.audioData.subtitle} date={props.audioData.date} audioName={props.audioName} image={props.audioData.image}></TitleView>
             <div className="DataParent">
                 <div className="SummaryView">
-                    <MainSummary title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds} informationShown={informationShown} setInformationShown={setInformationShown}/>
+                    <MainSummary settings={props.outer.state.settings} title="" rawSegments={props.audioData["raw"]["segments"]} segments={props.audioData["high"]["segments"]} selectedIds={selectedIds} setSelected={setSelected} selectedRef={selectedRef} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds} informationShown={informationShown} setInformationShown={setInformationShown}/>
                     <TemporalView
                             raw={props.audioData["raw"]["segments"]}
                             high={props.audioData["high"]["segments"]}
@@ -437,9 +438,9 @@ function UnifiedView(props) {
                             selectedIds={selectedIds} setSelected={setSelectedIds} setHighSelected={setHighSelectedIdx} lifetimeSelectedIds={lifetimeSelectedIds} setLifetimeSelectedIds={setLifetimeSelectedIds}/>
                 </div>
                 <div className="DetailView" style={{flex: 1}} ref={detailRef}>
-                    <div style={{flex: 0.5}}>
+                    {!props.outer.state.settings.noMeters && (<div style={{flex: 0.5}}>
                     <DetailDataSummary title="Summary Data" segments={props.audioData["high"]["segments"]}  lifetimeSelectedIds={lifetimeSelectedIds} selectedIds={selectedIds} label="speaker"/>
-                    </div>
+                    </div>)}
                     {
                         /*
                             <DetailSummary title="Intermediate" segments={props.audioData["med"]["segments"]} selectedIds={selectedIds} label="speaker"/>

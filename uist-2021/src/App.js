@@ -11,7 +11,8 @@ class App extends React.Component {
     super(props);
     this.state = {
       audios: AudioIndexData,
-      selectedAudio: ""
+      selectedAudio: "",
+      settings: {noMeters: false},
     }
   }
 
@@ -30,8 +31,8 @@ class App extends React.Component {
       <div className="App">
         <Router>
           <Navbar/>
-          <AudioSelector audios={this.state.audios} selectedAudio={this.state.selectedAudio} onChange={this.handleChange} />
-          <DataContainer audioName={this.state.selectedAudio}/>
+          <AudioSelector outer={this} audios={this.state.audios} selectedAudio={this.state.selectedAudio} onChange={this.handleChange} />
+          <DataContainer outer={this} audioName={this.state.selectedAudio}/>
         </Router>
       </div>
     )
