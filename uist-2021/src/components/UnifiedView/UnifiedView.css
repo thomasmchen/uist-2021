@@ -358,11 +358,9 @@ mark {
 }
 
 *::-webkit-scrollbar-track {
-background: #2E2E2E;
 }
 
 *::-webkit-scrollbar-thumb {
-background-color: #404040;
 border-radius: 20px;
 border: 3px solid #404040;
 }
