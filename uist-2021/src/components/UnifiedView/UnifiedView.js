@@ -156,7 +156,7 @@ function MainSummary(props) {
               backgroundColor: colors[idx],
               width: "100%",
               fontSize: 20,
-                paddingRight: 5,
+              paddingRight: 5,
             }}>
               <span key={idx} 
               onClick={() => {onSegmentClick(props, segment.id, idx)}} 
@@ -334,7 +334,7 @@ function DetailDataSummary(props) {
                 <h2 className="ColumnTitle">
                     {props.title}
                     {getTotalDelta(props) != 0 &&
-                    <span> | <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>+{getTotalDelta(props)}% Info</span></span>}
+                    <span> | <span className="InfoDisplayValue" style={{fontFamily: "monospace"}}>+{getTotalDelta(props)}% Info Gain</span></span>}
                 </h2>
             </div>
             {
@@ -348,7 +348,7 @@ function DetailDataSummary(props) {
                     props.segments
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
-                            <span key={idx} className={classnames({'selected': true, "item": true})}>
+                            <span key={idx} className={classnames({'selected': true, "item": true})}>h
                                 <DataSegment
                                     segment={segment}
                                     totalInfo={getTotalInfo(props.segments, props.lifetimeSelectedIds)}

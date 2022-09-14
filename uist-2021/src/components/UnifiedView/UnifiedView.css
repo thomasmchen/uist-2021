@@ -57,7 +57,7 @@ mark {
 }
 
 .SummaryView {
-    background-color: #b9b9b9;
+    background-color: #c9c9c9;
     color: #1f1f1f;
     padding: 2em 3em 2em 3em;
     margin: 1em 1em 0em 1em;
@@ -179,7 +179,7 @@ mark {
 }
 
 .DetailDataModal {
-    background-color: #e5e5e5;
+    background-color: #c9c9c9;
     color: #1f1f1f;
     padding: 1em 2em 1em 2em;
     border-radius: 0.3em 0.3em 0.3em 0.3em;
@@ -213,7 +213,7 @@ mark {
 }
 
 .DetailModal {
-    background-color: #e3e3e3;
+    background-color: #c9c9c9;
     color: #121212;
     padding: 1em 2em 1em 2em;
     border-radius: 0.3em 0.3em 0.3em 0.3em;
