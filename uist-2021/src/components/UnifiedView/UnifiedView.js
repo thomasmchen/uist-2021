@@ -156,7 +156,7 @@ function MainSummary(props) {
               backgroundColor: colors[idx],
               width: "100%",
               fontSize: 20,
-              paddingRight: 5,
+              paddingRight: "0.5%",
             }}>
               <span key={idx} 
               onClick={() => {onSegmentClick(props, segment.id, idx)}} 
@@ -170,7 +170,7 @@ function MainSummary(props) {
                 phrase={segment.phrase ? segment.phrase : null}
                 isSelected={ifArrayIntersect(segment.id, props.selectedIds)}
                 speaker={segment.duration}/>
-              {segment.ShouldBreak && (<div>
+              {segment.ShouldBreak && (<div style={{width: "100.5%"}}>
                 <div style={{height: 12, backgroundColor: colors[idx]}}/>
                 <div style={{backgroundColor: "#ededed", height: 1, width: "100%"}}/>
                 <div style={{height: 12, backgroundColor: colors[idx + 1]}}/>
