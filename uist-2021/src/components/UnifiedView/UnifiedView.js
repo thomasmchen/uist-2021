@@ -130,7 +130,7 @@ function MainSummary(props) {
   // takes in selectedIds prop
   // takes in setSelected prop
   const totalDisplayed = getTotalInfo(props.segments, props.lifetimeSelectedIds)
-  const alternatingColors = ["#2E2E2E", "#3D3D3D"] // add more if you want
+  const alternatingColors = ["#e3e3e3", "#f5f2f2"] // add more if you want
   let colors = []
   let br = 0
   for (let i = 0; i < props.segments.length; i++) {
@@ -172,7 +172,7 @@ function MainSummary(props) {
                 speaker={segment.duration}/>
               {segment.ShouldBreak && (<div>
                 <div style={{height: 12, backgroundColor: colors[idx]}}/>
-                <div style={{backgroundColor: "#616161", height: 1, width: "100%"}}/>
+                <div style={{backgroundColor: "#ededed", height: 1, width: "100%"}}/>
                 <div style={{height: 12, backgroundColor: colors[idx + 1]}}/>
                 </div>)}
               </span>

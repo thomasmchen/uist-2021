@@ -1,17 +1,17 @@
 :root {
-    --raw-bg-color: 0, 0, 0;
-    --high-bg-color: 3, 218, 198;
-    --high-default-color: 132, 132, 132;
-    --high-default-outline-color: 132, 132, 132;
+    --raw-bg-color: 255, 255, 255;
+    --high-bg-color: 100, 120, 100;
+    --high-default-color: 240, 240, 240;
+    --high-default-outline-color: 220, 220, 220;
 }
 
 html {
-    background-color: #212121;
+    background-color: #ebebeb;
 }
 
 mark {
-    background-color: rgb(3, 218, 198, 0.4);
-    color: #E2E2E2;
+    background-color: rgb(10, 120, 255, 0.4);
+    color: #1a1a1a;
 }
 
 .Wrapper {
@@ -32,7 +32,7 @@ mark {
 }
 
 .DefaultMessage {
-    color: #8b8b8b78;
+    color: #1b1b1b78;
     width: 100%;
     text-align: center;
 }
@@ -57,8 +57,8 @@ mark {
 }
 
 .SummaryView {
-    background-color: #2E2E2E;
-    color: #E2E2E2;
+    background-color: #d9d9d9;
+    color: #1f1f1f;
     padding: 2em 3em 2em 3em;
     margin: 1em 1em 0em 1em;
     border-radius: 0.3em;
@@ -96,7 +96,7 @@ mark {
 }
 
 .InfoDisplayValue{
-    color: #BB86FC;
+    color: #9742ff;
 }
 
 .MainDataSegments {
@@ -161,8 +161,8 @@ mark {
 }
 
 .DetailView {
-    background-color: #212121;
-    color: #E2E2E2;
+    background-color: #e6e6e6;
+    color: #1f1f1f;
     margin: 1em 1em 1em 1em;
     border-radius: 0.3em;
     min-height: 75vh;
@@ -179,8 +179,8 @@ mark {
 }
 
 .DetailDataModal {
-    background-color: #2E2E2E;
-    color: #E2E2E2;
+    background-color: #e5e5e5;
+    color: #1f1f1f;
     padding: 1em 2em 1em 2em;
     border-radius: 0.3em 0.3em 0.3em 0.3em;
     position: relative;
@@ -213,8 +213,8 @@ mark {
 }
 
 .DetailModal {
-    background-color: #2E2E2E;
-    color: #E2E2E2;
+    background-color: #e3e3e3;
+    color: #121212;
     padding: 1em 2em 1em 2em;
     border-radius: 0.3em 0.3em 0.3em 0.3em;
     position: relative;
@@ -259,8 +259,8 @@ mark {
     grid-template-columns: 0.1fr 1fr 0.3fr;
     max-height: 10vh;
     min-height: 10vh;
-    background-color: #2E2E2E;
-    color: #E2E2E2;
+    background-color: #E2E2E2;
+    color: #2E2E2E;
     padding: 0rem;
     box-shadow: 3px 6px 6px rgb(0,0,0,.1);
 }
@@ -312,11 +312,13 @@ mark {
 }
 
 .temporal .startTimestamp {
+  color: black;
     width: auto;
     margin-right: 10px;
 }
 
 .temporal .endTimestamp {
+  color: black;
     width: auto;
     margin-left: 10px;
 }
