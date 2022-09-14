@@ -1,6 +1,6 @@
 :root {
     --raw-bg-color: 255, 255, 255;
-    --high-bg-color: 100, 120, 100;
+    --high-bg-color: 10, 120, 100;
     --high-default-color: 240, 240, 240;
     --high-default-outline-color: 220, 220, 220;
 }
@@ -299,10 +299,11 @@ mark {
 .SummaryView .selected { color: rgba(var(--high-bg-color), 1); }
 
 .temporal {
+  background-color: #D9D9D9;
     min-width: 95%;
     max-width: 95%;
     position: absolute;
-    bottom: 1vh;
+    bottom: 0vh;
     left: 2vh;
 }
 
