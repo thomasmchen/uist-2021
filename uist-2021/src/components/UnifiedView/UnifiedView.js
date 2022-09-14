@@ -130,7 +130,7 @@ function MainSummary(props) {
   // takes in selectedIds prop
   // takes in setSelected prop
   const totalDisplayed = getTotalInfo(props.segments, props.lifetimeSelectedIds)
-  const alternatingColors = ["#e3e3e3", "#f5f2f2"] // add more if you want
+  const alternatingColors = ["#d3d3d3", "#f5f2f2"] // add more if you want
   let colors = []
   let br = 0
   for (let i = 0; i < props.segments.length; i++) {

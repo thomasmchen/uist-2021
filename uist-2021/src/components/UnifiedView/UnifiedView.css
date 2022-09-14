@@ -299,7 +299,6 @@ mark {
 .SummaryView .selected { color: rgba(var(--high-bg-color), 1); }
 
 .temporal {
-  background-color: #D9D9D9;
     min-width: 95%;
     max-width: 95%;
     position: absolute;
