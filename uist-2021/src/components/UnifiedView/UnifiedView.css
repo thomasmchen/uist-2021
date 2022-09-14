@@ -57,7 +57,7 @@ mark {
 }
 
 .SummaryView {
-    background-color: #d9d9d9;
+    background-color: #b9b9b9;
     color: #1f1f1f;
     padding: 2em 3em 2em 3em;
     margin: 1em 1em 0em 1em;
@@ -83,7 +83,7 @@ mark {
     text-transform: uppercase;
     font-weight: normal;
     float: left;
-    color: #8B8B8B;  
+    color: #1B1B1B;
 }
 
 .InfoDisplayLabel{
@@ -91,7 +91,7 @@ mark {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: normal;
-    color: #8B8B8B;  
+    color: #1B1B1B;  
     float: right;
 }
 
@@ -200,7 +200,7 @@ mark {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: normal;
-    color: #8B8B8B;
+    color: #1B1B1B;
 }
 
 .AudioColumnTitle {
@@ -208,7 +208,7 @@ mark {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: normal;
-    color: #8B8B8B;
+    color: #1B1B1B;
     margin-right: 1rem;
 }
 
@@ -239,7 +239,7 @@ mark {
     text-transform: uppercase;
     font-weight: normal;
     float: left;
-    color: #8B8B8B;
+    color: #1B1B1B;
 }
 
 .DetailModal > .ColumnHeader > .AudioSegment > .AudioSegmentPlayerContainer{
@@ -302,7 +302,7 @@ mark {
     min-width: 95%;
     max-width: 95%;
     position: absolute;
-    bottom: 0vh;
+    bottom: 1vh;
     left: 2vh;
 }
 
