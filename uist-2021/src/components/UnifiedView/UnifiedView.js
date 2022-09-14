@@ -308,7 +308,7 @@ function DetailSummary(props) {
         </div>
         <div className={`DetailModal notclickable ${props.title}`}>
           <div className="DetailDataSegments">
-           <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#8B8B8B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>
+           <h2 className="ColumnTitle" style={{textTransform: "uppercase", color: "#1B1B1B", fontSize: "17px", letterSpacing: "0.5px", fontWeight: "normal"}}>
              <span>Original Transcript</span>
              <span onClick={expandSelected} title={showingFull ? "Collapse original transcript" : "Expand original transcript"} style={{fontSize: 30}}>{showingFull ? " -" : " +"}</span>
             </h2>
