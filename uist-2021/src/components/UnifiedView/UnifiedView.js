@@ -348,7 +348,7 @@ function DetailDataSummary(props) {
                     props.segments
                         .filter(segment => ifArrayIntersect(segment.id, props.selectedIds))
                         .map((segment, idx) =>
-                            <span key={idx} className={classnames({'selected': true, "item": true})}>h
+                            <span key={idx} className={classnames({'selected': true, "item": true})}>
                                 <DataSegment
                                     segment={segment}
                                     totalInfo={getTotalInfo(props.segments, props.lifetimeSelectedIds)}

@@ -59,13 +59,6 @@ function Segment(props) {
 
   return (
      <div className="DetailDataDataContainer">
-      {
-        /*
-        <p>Information Contained in this Summary: {(props.segment.information_contained*100).toFixed(2) }%</p>
-        <p>Summary Quality: {(props.segment.quality * 100).toFixed(2)}%</p>
-        <p>Total Info Displayed So Far: {props.totalInfo} our of {(100 - props.totalInfo).toFixed(2)}</p>
-        */
-      }
       <div style={{flex: 1}}>
         <span>Summary Quality</span>
         <div style={{height: 100}}>
