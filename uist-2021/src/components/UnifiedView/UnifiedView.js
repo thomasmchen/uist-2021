@@ -247,7 +247,9 @@ function DetailSummary(props) {
   }
 
     return (
-      <div>
+      <div style={{backgroundColor: "#c9c9c9", padding: "2em 3em 2em 3em",
+margin: "1em 1em 0em 1em",
+borderRadius: "0.3em"}}>
         <div className={`DetailModal notclickable ${props.title}`}>
             <div className="ColumnHeader" style={{flex: 1}}>
                 <div className="ColumnTitleContainer">
