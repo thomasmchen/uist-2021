@@ -135,6 +135,7 @@ mark {
 .SegmentText {
     transition-property: color 1s;
     line-height: 1.3em;
+    cursor: pointer;
 }
 
 .DetailDataSegments > span > .SegmentText {

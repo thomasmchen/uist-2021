@@ -160,7 +160,7 @@ function MainSummary(props) {
             }}>
               <span key={idx} 
               onClick={() => {onSegmentClick(props, segment.id, idx)}} 
-              onMouseEnter={() => {onSegmentClick(props, segment.id, idx)}} 
+              //onMouseEnter={() => {onSegmentClick(props, segment.id, idx)}} 
               className={classnames({'selected': ifArrayIntersect(segment.id, props.selectedIds), "item": true})}
               ref={ifArrayIntersect(segment.id, props.selectedIds) ? props.selectedRef : null}>
               <SimpleSegment 
